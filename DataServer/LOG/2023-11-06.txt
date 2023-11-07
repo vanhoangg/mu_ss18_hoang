@@ -1,0 +1,151 @@
+00:00:08 [ItemDropLimit] all limits of 10 were reset [DayOfWeek:2]
+00:00:09 [ServerManager][17] AddServer (127.0.0.1)
+00:00:09 [OK] Refresh connection successfully [IP:127.0.0.1][uID:2] [ServerIndex:17]
+00:00:09 [ServerManager][17] DelServer (127.0.0.1)
+00:00:19 [ServerManager][18] AddServer (127.0.0.1)
+00:00:19 [OK] Refresh connection successfully [IP:127.0.0.1][uID:1] [ServerIndex:18]
+00:00:19 [ServerManager][18] DelServer (127.0.0.1)
+00:00:21 EXEC ChaosCastleFinal_Renew 0
+00:00:21 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'dbo.ChaosCastleFinal_Ranking'.
+00:00:29 [ServerManager][19] AddServer (127.0.0.1)
+00:00:29 [OK] Refresh connection successfully [IP:127.0.0.1][uID:0] [ServerIndex:19]
+00:00:29 [ServerManager][19] DelServer (127.0.0.1)
+00:00:39 [ServerManager][0] AddServer (127.0.0.1)
+00:00:39 [OK] Refresh connection successfully [IP:127.0.0.1][uID:19] [ServerIndex:0]
+00:00:39 [ServerManager][0] DelServer (127.0.0.1)
+00:00:49 [ServerManager][3] AddServer (127.0.0.1)
+00:00:49 [OK] Refresh connection successfully [IP:127.0.0.1][uID:16] [ServerIndex:3]
+00:00:49 [ServerManager][3] DelServer (127.0.0.1)
+00:00:59 [ServerManager][4] AddServer (127.0.0.1)
+00:00:59 [OK] Refresh connection successfully [IP:127.0.0.1][uID:15] [ServerIndex:4]
+00:00:59 [ServerManager][4] DelServer (127.0.0.1)
+00:01:09 [ServerManager][5] AddServer (127.0.0.1)
+00:01:09 [OK] Refresh connection successfully [IP:127.0.0.1][uID:14] [ServerIndex:5]
+00:01:09 [ServerManager][5] DelServer (127.0.0.1)
+00:01:19 [ServerManager][6] AddServer (127.0.0.1)
+00:01:19 [OK] Refresh connection successfully [IP:127.0.0.1][uID:13] [ServerIndex:6]
+00:01:19 [ServerManager][6] DelServer (127.0.0.1)
+00:01:29 [ServerManager][7] AddServer (127.0.0.1)
+00:01:29 [OK] Refresh connection successfully [IP:127.0.0.1][uID:12] [ServerIndex:7]
+00:01:29 [ServerManager][7] DelServer (127.0.0.1)
+00:01:39 [ServerManager][8] AddServer (127.0.0.1)
+00:01:39 [OK] Refresh connection successfully [IP:127.0.0.1][uID:11] [ServerIndex:8]
+00:01:39 [ServerManager][8] DelServer (127.0.0.1)
+00:01:49 [ServerManager][9] AddServer (127.0.0.1)
+00:01:49 [OK] Refresh connection successfully [IP:127.0.0.1][uID:10] [ServerIndex:9]
+00:01:49 [ServerManager][9] DelServer (127.0.0.1)
+00:01:59 [ServerManager][10] AddServer (127.0.0.1)
+00:01:59 [OK] Refresh connection successfully [IP:127.0.0.1][uID:9] [ServerIndex:10]
+00:01:59 [ServerManager][10] DelServer (127.0.0.1)
+00:02:09 [ServerManager][11] AddServer (127.0.0.1)
+00:02:09 [OK] Refresh connection successfully [IP:127.0.0.1][uID:8] [ServerIndex:11]
+00:02:09 [ServerManager][11] DelServer (127.0.0.1)
+00:02:19 [ServerManager][12] AddServer (127.0.0.1)
+00:02:19 [OK] Refresh connection successfully [IP:127.0.0.1][uID:7] [ServerIndex:12]
+00:02:19 [ServerManager][12] DelServer (127.0.0.1)
+00:02:29 [ServerManager][13] AddServer (127.0.0.1)
+00:02:29 [OK] Refresh connection successfully [IP:127.0.0.1][uID:6] [ServerIndex:13]
+00:02:29 [ServerManager][13] DelServer (127.0.0.1)
+00:02:39 [ServerManager][14] AddServer (127.0.0.1)
+00:02:39 [OK] Refresh connection successfully [IP:127.0.0.1][uID:5] [ServerIndex:14]
+00:02:39 [ServerManager][14] DelServer (127.0.0.1)
+00:02:49 [ServerManager][15] AddServer (127.0.0.1)
+00:02:49 [OK] Refresh connection successfully [IP:127.0.0.1][uID:4] [ServerIndex:15]
+00:02:49 [ServerManager][15] DelServer (127.0.0.1)
+00:02:59 [ServerManager][16] AddServer (127.0.0.1)
+00:02:59 [OK] Refresh connection successfully [IP:127.0.0.1][uID:3] [ServerIndex:16]
+00:02:59 [ServerManager][16] DelServer (127.0.0.1)
+00:03:09 [ServerManager][17] AddServer (127.0.0.1)
+00:03:09 [OK] Refresh connection successfully [IP:127.0.0.1][uID:2] [ServerIndex:17]
+00:03:09 [ServerManager][17] DelServer (127.0.0.1)
+00:03:19 [ServerManager][18] AddServer (127.0.0.1)
+00:03:19 [OK] Refresh connection successfully [IP:127.0.0.1][uID:1] [ServerIndex:18]
+00:03:19 [ServerManager][18] DelServer (127.0.0.1)
+00:03:29 [ServerManager][19] AddServer (127.0.0.1)
+00:03:29 [OK] Refresh connection successfully [IP:127.0.0.1][uID:0] [ServerIndex:19]
+00:03:29 [ServerManager][19] DelServer (127.0.0.1)
+00:03:39 [ServerManager][0] AddServer (127.0.0.1)
+00:03:39 [OK] Refresh connection successfully [IP:127.0.0.1][uID:19] [ServerIndex:0]
+00:03:39 [ServerManager][0] DelServer (127.0.0.1)
+00:03:49 [ServerManager][3] AddServer (127.0.0.1)
+00:03:49 [OK] Refresh connection successfully [IP:127.0.0.1][uID:16] [ServerIndex:3]
+00:03:49 [ServerManager][3] DelServer (127.0.0.1)
+00:03:59 [ServerManager][4] AddServer (127.0.0.1)
+00:03:59 [OK] Refresh connection successfully [IP:127.0.0.1][uID:15] [ServerIndex:4]
+00:03:59 [ServerManager][4] DelServer (127.0.0.1)
+00:04:09 [ServerManager][5] AddServer (127.0.0.1)
+00:04:09 [OK] Refresh connection successfully [IP:127.0.0.1][uID:14] [ServerIndex:5]
+00:04:09 [ServerManager][5] DelServer (127.0.0.1)
+00:04:19 [ServerManager][6] AddServer (127.0.0.1)
+00:04:19 [OK] Refresh connection successfully [IP:127.0.0.1][uID:13] [ServerIndex:6]
+00:04:19 [ServerManager][6] DelServer (127.0.0.1)
+00:04:29 [ServerManager][7] AddServer (127.0.0.1)
+00:04:29 [OK] Refresh connection successfully [IP:127.0.0.1][uID:12] [ServerIndex:7]
+00:04:29 [ServerManager][7] DelServer (127.0.0.1)
+00:04:39 [ServerManager][8] AddServer (127.0.0.1)
+00:04:39 [OK] Refresh connection successfully [IP:127.0.0.1][uID:11] [ServerIndex:8]
+00:04:39 [ServerManager][8] DelServer (127.0.0.1)
+00:04:49 [ServerManager][9] AddServer (127.0.0.1)
+00:04:49 [OK] Refresh connection successfully [IP:127.0.0.1][uID:10] [ServerIndex:9]
+00:04:49 [ServerManager][9] DelServer (127.0.0.1)
+00:04:59 [ServerManager][10] AddServer (127.0.0.1)
+00:04:59 [OK] Refresh connection successfully [IP:127.0.0.1][uID:9] [ServerIndex:10]
+00:04:59 [ServerManager][10] DelServer (127.0.0.1)
+00:05:09 [ServerManager][11] AddServer (127.0.0.1)
+00:05:09 [OK] Refresh connection successfully [IP:127.0.0.1][uID:8] [ServerIndex:11]
+00:05:09 [ServerManager][11] DelServer (127.0.0.1)
+00:05:19 [ServerManager][12] AddServer (127.0.0.1)
+00:05:19 [OK] Refresh connection successfully [IP:127.0.0.1][uID:7] [ServerIndex:12]
+00:05:19 [ServerManager][12] DelServer (127.0.0.1)
+00:05:29 [ServerManager][13] AddServer (127.0.0.1)
+00:05:29 [OK] Refresh connection successfully [IP:127.0.0.1][uID:6] [ServerIndex:13]
+00:05:29 [ServerManager][13] DelServer (127.0.0.1)
+00:05:39 [ServerManager][14] AddServer (127.0.0.1)
+00:05:39 [OK] Refresh connection successfully [IP:127.0.0.1][uID:5] [ServerIndex:14]
+00:05:39 [ServerManager][14] DelServer (127.0.0.1)
+00:05:49 [ServerManager][15] AddServer (127.0.0.1)
+00:05:49 [OK] Refresh connection successfully [IP:127.0.0.1][uID:4] [ServerIndex:15]
+00:05:49 [ServerManager][15] DelServer (127.0.0.1)
+00:05:59 [ServerManager][16] AddServer (127.0.0.1)
+00:05:59 [OK] Refresh connection successfully [IP:127.0.0.1][uID:3] [ServerIndex:16]
+00:05:59 [ServerManager][16] DelServer (127.0.0.1)
+00:06:09 [ServerManager][17] AddServer (127.0.0.1)
+00:06:09 [OK] Refresh connection successfully [IP:127.0.0.1][uID:2] [ServerIndex:17]
+00:06:09 [ServerManager][17] DelServer (127.0.0.1)
+00:06:19 [ServerManager][18] AddServer (127.0.0.1)
+00:06:19 [OK] Refresh connection successfully [IP:127.0.0.1][uID:1] [ServerIndex:18]
+00:06:19 [ServerManager][18] DelServer (127.0.0.1)
+00:06:29 [ServerManager][19] AddServer (127.0.0.1)
+00:06:29 [OK] Refresh connection successfully [IP:127.0.0.1][uID:0] [ServerIndex:19]
+00:06:29 [ServerManager][19] DelServer (127.0.0.1)
+00:06:39 [ServerManager][0] AddServer (127.0.0.1)
+00:06:39 [OK] Refresh connection successfully [IP:127.0.0.1][uID:19] [ServerIndex:0]
+00:06:39 [ServerManager][0] DelServer (127.0.0.1)
+00:06:49 [ServerManager][3] AddServer (127.0.0.1)
+00:06:49 [OK] Refresh connection successfully [IP:127.0.0.1][uID:16] [ServerIndex:3]
+00:06:49 [ServerManager][3] DelServer (127.0.0.1)
+00:06:59 [ServerManager][4] AddServer (127.0.0.1)
+00:06:59 [OK] Refresh connection successfully [IP:127.0.0.1][uID:15] [ServerIndex:4]
+00:06:59 [ServerManager][4] DelServer (127.0.0.1)
+00:07:09 [ServerManager][5] AddServer (127.0.0.1)
+00:07:09 [OK] Refresh connection successfully [IP:127.0.0.1][uID:14] [ServerIndex:5]
+00:07:09 [ServerManager][5] DelServer (127.0.0.1)
+00:07:19 [ServerManager][6] AddServer (127.0.0.1)
+00:07:19 [OK] Refresh connection successfully [IP:127.0.0.1][uID:13] [ServerIndex:6]
+00:07:19 [ServerManager][6] DelServer (127.0.0.1)
+00:07:29 [ServerManager][7] AddServer (127.0.0.1)
+00:07:29 [OK] Refresh connection successfully [IP:127.0.0.1][uID:12] [ServerIndex:7]
+00:07:29 [ServerManager][7] DelServer (127.0.0.1)
+00:07:39 [ServerManager][8] AddServer (127.0.0.1)
+00:07:39 [OK] Refresh connection successfully [IP:127.0.0.1][uID:11] [ServerIndex:8]
+00:07:39 [ServerManager][8] DelServer (127.0.0.1)
+00:07:49 [ServerManager][9] AddServer (127.0.0.1)
+00:07:49 [OK] Refresh connection successfully [IP:127.0.0.1][uID:10] [ServerIndex:9]
+00:07:49 [ServerManager][9] DelServer (127.0.0.1)
+00:07:59 [ServerManager][10] AddServer (127.0.0.1)
+00:07:59 [OK] Refresh connection successfully [IP:127.0.0.1][uID:9] [ServerIndex:10]
+00:07:59 [ServerManager][10] DelServer (127.0.0.1)
+00:08:07 [ServerManager][1] DelServer (127.0.0.1)
+00:08:09 [ServerManager][11] AddServer (127.0.0.1)
+00:08:09 [OK] Refresh connection successfully [IP:127.0.0.1][uID:8] [ServerIndex:11]
+00:08:09 [ServerManager][11] DelServer (127.0.0.1)

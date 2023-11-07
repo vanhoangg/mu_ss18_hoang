@@ -1,0 +1,51 @@
+22:07:36 [SocketManager] Server started at port [55970]
+22:07:36 [SocketManager] Server started at port [55557]
+22:07:42 [ServerManager][0] AddServer (127.0.0.1)
+22:07:42 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+22:07:44 [ServerManager][1] AddServer (127.0.0.1)
+22:08:03 [ServerManager][2] AddServer (127.0.0.1)
+22:08:03 [ServerManager][2] ServerInfo (MuDevs) (55901) (20)
+22:08:31 [ServerManager][3] AddServer (127.0.0.1)
+22:08:31 [ServerManager][3] ServerInfo (GameServerCS) (55919) (19)
+22:34:38 [ServerManager][3] DelServer (127.0.0.1)
+22:34:42 [ServerManager][2] DelServer (127.0.0.1)
+22:45:49 [SocketManager] Server started at port [55970]
+22:45:49 [SocketManager] Server started at port [55557]
+22:45:50 [ServerManager][0] AddServer (127.0.0.1)
+22:45:50 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+22:45:52 [ServerManager][1] AddServer (127.0.0.1)
+22:45:55 [ServerManager][2] AddServer (127.0.0.1)
+22:45:55 [ServerManager][2] ServerInfo (MuDevs) (55901) (20)
+22:45:59 [ServerManager][3] AddServer (127.0.0.1)
+22:45:59 [ServerManager][3] ServerInfo (GameServerCS) (55919) (19)
+22:49:19 [AllowConectionManager][ADD][+][HWID:2EC2A659-B9B991A5-C418FC1B-B173E8B4-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:1][Account:kudoshjn]
+22:55:03 [ServerManager][0] DelServer (127.0.0.1)
+22:55:03 [ServerManager][1] DelServer (127.0.0.1)
+22:55:16 [SocketManager] Server started at port [55970]
+22:55:16 [SocketManager] Server started at port [55557]
+22:55:19 [ServerManager][0] AddServer (127.0.0.1)
+22:55:28 [ServerManager][0] DelServer (127.0.0.1)
+22:55:45 [SocketManager] Server started at port [55970]
+22:55:45 [SocketManager] Server started at port [55557]
+22:55:45 [ServerManager][0] AddServer (127.0.0.1)
+22:55:45 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+22:55:48 [ServerManager][1] AddServer (127.0.0.1)
+22:55:49 [ServerManager][2] AddServer (127.0.0.1)
+22:55:49 [ServerManager][2] ServerInfo (MuDevs) (55901) (20)
+22:55:52 [ServerManager][3] AddServer (127.0.0.1)
+22:55:52 [ServerManager][3] ServerInfo (GameServerCS) (55919) (19)
+22:58:42 [AllowConectionManager][ADD][+][HWID:2EC2A659-B9B991A5-C418FC1B-B173E8B4-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:1][Account:kudoshjn]
+23:01:19 [ServerManager][0] DelServer (127.0.0.1)
+23:01:19 [ServerManager][1] DelServer (127.0.0.1)
+23:02:13 [SocketManager] Server started at port [55970]
+23:02:13 [SocketManager] Server started at port [55557]
+23:02:13 [ServerManager][0] AddServer (127.0.0.1)
+23:02:13 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+23:02:16 [ServerManager][1] AddServer (127.0.0.1)
+23:02:17 [ServerManager][2] AddServer (127.0.0.1)
+23:02:17 [ServerManager][2] ServerInfo (MuDevs) (55901) (20)
+23:02:21 [ServerManager][3] AddServer (127.0.0.1)
+23:02:21 [ServerManager][3] ServerInfo (GameServerCS) (55919) (19)
+23:03:31 [AllowConectionManager][ADD][+][HWID:2EC2A659-B9B991A5-C418FC1B-B173E8B4-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:1][Account:kudoshjn]
+23:17:06 [AllowConectionManager][ADD][=][HWID:2EC2A659-B9B991A5-C418FC1B-B173E8B4-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:2][Account:test]
+23:18:50 [AllowConectionManager][ADD][=][HWID:2EC2A659-B9B991A5-C418FC1B-B173E8B4-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:3][Account:test1]

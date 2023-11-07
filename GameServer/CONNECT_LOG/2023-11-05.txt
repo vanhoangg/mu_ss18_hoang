@@ -1,0 +1,6 @@
+20:46:17 [SocketManager] WSARecv() failed with error: 10038
+20:47:44 [SocketManager] WSARecv() failed with error: 10038
+20:50:49 [SocketManager] WSARecv() failed with error: 10038
+21:30:34 [SocketManager] WSARecv() failed with error: 10038
+23:05:51 [SocketManager] WSARecv() failed with error: 10038
+23:06:00 [SocketManager] WSARecv() failed with error: 10038

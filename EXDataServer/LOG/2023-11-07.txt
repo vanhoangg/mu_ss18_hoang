@@ -1,0 +1,4 @@
+20:29:14 [SocketManager] Server started at port [55981]
+20:29:15 [PMATCHING][CreatePartyDirectly]Leader:ElfBuff TotalPartyCnt:1 - Success
+20:29:15 [PMATCHING][AddPartyMemberDirectly]Leader:ElfBuff, Member:IKBiv, MemberCnt:2
+20:29:15 [PMATCHING][AddPartyMemberDirectly]Leader:ElfBuff, Member:SumBiv, MemberCnt:3

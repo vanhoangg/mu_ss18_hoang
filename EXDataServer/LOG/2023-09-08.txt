@@ -1,0 +1,22 @@
+12:05:36 Could not connect to database
+12:05:52 Could not connect to database
+12:12:20 [SocketManager] Server started at port [55981]
+12:12:38 [ServerManager][0] AddServer (127.0.0.1)
+12:12:38 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)(0)
+12:12:46 [ServerManager][1] AddServer (127.0.0.1)
+12:12:46 [ServerManager][1] ServerInfo (GameServerCS) (55919) (19)(0)
+12:12:48 [ServerManager][1] DelServer (127.0.0.1)
+12:14:00 [ServerManager][1] AddServer (127.0.0.1)
+12:14:00 [ServerManager][1] ServerInfo (GameServerCS) (55919) (19)(0)
+12:14:07 [ServerManager][1] DelServer (127.0.0.1)
+12:14:54 [ServerManager][1] AddServer (127.0.0.1)
+12:14:54 [ServerManager][1] ServerInfo (GameServerCS) (55919) (19)(0)
+12:51:56 [ServerManager][1] DelServer (127.0.0.1)
+12:52:00 [ServerManager][0] DelServer (127.0.0.1)
+12:54:59 [SocketManager] Server started at port [55981]
+12:55:12 [ServerManager][0] AddServer (127.0.0.1)
+12:55:12 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)(0)
+12:55:18 [ServerManager][1] AddServer (127.0.0.1)
+12:55:18 [ServerManager][1] ServerInfo (GameServerCS) (55919) (19)(0)
+13:09:14 [ServerManager][1] DelServer (127.0.0.1)
+13:09:16 [ServerManager][0] DelServer (127.0.0.1)

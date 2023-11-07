@@ -1,0 +1,35 @@
+22:07:26 [SocketManager] Server started at port [55981]
+22:08:03 [ServerManager][0] AddServer (127.0.0.1)
+22:08:03 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)(0)
+22:08:31 [ServerManager][1] AddServer (127.0.0.1)
+22:08:31 [ServerManager][1] ServerInfo (GameServerCS) (55919) (19)(0)
+22:34:38 [ServerManager][1] DelServer (127.0.0.1)
+22:34:42 [ServerManager][0] DelServer (127.0.0.1)
+22:45:46 [SocketManager] Server started at port [55981]
+22:45:55 [ServerManager][0] AddServer (127.0.0.1)
+22:45:55 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)(0)
+22:45:59 [ServerManager][1] AddServer (127.0.0.1)
+22:45:59 [ServerManager][1] ServerInfo (GameServerCS) (55919) (19)(0)
+22:55:13 [SocketManager] Server started at port [55981]
+22:55:41 [SocketManager] Server started at port [55981]
+22:55:49 [ServerManager][0] AddServer (127.0.0.1)
+22:55:49 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)(0)
+22:55:52 [ServerManager][1] AddServer (127.0.0.1)
+22:55:52 [ServerManager][1] ServerInfo (GameServerCS) (55919) (19)(0)
+23:01:29 [SocketManager] Server started at port [55981]
+23:01:41 [ServerManager][0] AddServer (127.0.0.1)
+23:01:41 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)(0)
+23:01:49 [ServerManager][1] AddServer (127.0.0.1)
+23:01:49 [ServerManager][1] ServerInfo (GameServerCS) (55919) (19)(0)
+23:02:09 [SocketManager] Server started at port [55981]
+23:02:17 [ServerManager][0] AddServer (127.0.0.1)
+23:02:17 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)(0)
+23:02:21 [ServerManager][1] AddServer (127.0.0.1)
+23:02:21 [ServerManager][1] ServerInfo (GameServerCS) (55919) (19)(0)
+23:29:41 [PMATCHING][CreateParty]Leader:IKBiv TotalPartyCnt:1 - Success
+23:30:31 EXEC WZ_InsertWaitPartyMatching 'IKBiv','ElfBuff',2,63,1009,0
+23:30:31 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Procedure or function WZ_InsertWaitPartyMatching has too many arguments specified.
+23:30:51 [PMATCHING][DelParty]Leader:IKBiv, TotalPartyCnt:0
+23:30:58 [PMATCHING][CreateParty]Leader:IKBiv TotalPartyCnt:1 - Success
+23:31:03 [PMATCHING][AddPartyMember]Leader:IKBiv, Member:ElfBuff, MemberCnt:2
+23:40:29 [PMATCHING][AddPartyMember]Leader:IKBiv, Member:SumBiv, MemberCnt:3

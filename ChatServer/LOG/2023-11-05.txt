@@ -1,0 +1,2 @@
+04:16:59 [Connection] Protocol header error (Header: 38)
+23:02:45 [Connection] Protocol header error (Header: 38)

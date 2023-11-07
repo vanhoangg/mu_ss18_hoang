@@ -1,0 +1,8 @@
+01:00:01 [SocketManager] Server started at port [55980]
+01:00:03 [Connection] connect() failed with error: 10061
+01:00:05 [Connection] connect() failed with error: 10061
+01:00:17 [Connection] connect() failed with error: 10061
+01:00:19 [Connection] connect() failed with error: 10061
+01:00:27 [Connection] connect() failed with error: 10061
+04:02:17 [Connection] connect() failed with error: 10061
+04:02:19 [Connection] connect() failed with error: 10061

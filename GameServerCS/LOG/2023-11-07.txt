@@ -1,0 +1,12 @@
+20:29:30 [ServerInfo] CashShop loaded successfully
+20:29:30 [ServerInfo] ChaosMix loaded successfully
+20:29:30 [ServerInfo] Character loaded successfully
+20:29:30 [ServerInfo] Command loaded successfully
+20:29:30 [AntiDDoS] Status: 1
+20:29:30 [Language] Load English.xml language definition
+20:29:31 [ServerInfo] Common loaded successfully
+20:29:31 [ Crywolf ] State (0) -> NONE
+20:29:31 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+20:29:32 [ServerInfo] Event loaded successfully
+20:29:34 [ServerInfo] EventItemBag loaded successfully
+20:29:34 [ServerInfo] Hack loaded successfully

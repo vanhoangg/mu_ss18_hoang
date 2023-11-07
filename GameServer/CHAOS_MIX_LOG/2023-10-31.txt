@@ -1,0 +1,2 @@
+02:41:09 [ElementalItemRefinemenJewelMix][Failure][loukoala1][TEST] - (ElementalItemRefinemenSuccessRate: 50, ElementalItemRefinemenMoney: 100000)
+02:41:23 [ElementalItemRefinemenJewelMix][Failure][loukoala1][TEST] - (ElementalItemRefinemenSuccessRate: 50, ElementalItemRefinemenMoney: 100000)
