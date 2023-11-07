@@ -10,3 +10,403 @@
 20:29:32 [ServerInfo] Event loaded successfully
 20:29:34 [ServerInfo] EventItemBag loaded successfully
 20:29:34 [ServerInfo] Hack loaded successfully
+20:30:14 [OK] Connected to DataServer successfully
+20:30:14 [ServerInfo] CashShop loaded successfully
+20:30:14 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:0][MissionInx0:2]
+20:30:14 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:1][MissionInx0:0]
+20:30:14 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:1][MissionInx1:4]
+20:30:14 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:2][MissionInx0:3]
+20:30:14 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:3][MissionInx0:2]
+20:30:14 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:3][MissionInx1:4]
+20:30:14 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:4][MissionInx0:0]
+20:30:14 [DGMonsterSoulConverterWeeklyMissionInfoRecv][Expire Mission Info] 2023-10-26 AM09:30
+20:30:14 [DGImperialGuardianRenewalWeeklyInfoRecv][UpdateType:3] MainAttribute:2
+20:30:14 [BattlePass][BattlePassCurrectID][uType:0] [BattlePassID:11][StartDate:2023-11-01 AM08:30][EndDate:2023-12-01 AM08:30]
+20:30:14 [ServerInfo] ChaosMix loaded successfully
+20:30:14 [ServerInfo] Character loaded successfully
+20:30:14 [ServerInfo] Command loaded successfully
+20:30:14 [AntiDDoS] Status: 1
+20:30:14 [Language] Load English.xml language definition
+20:30:14 [ServerInfo] Common loaded successfully
+20:30:14 [ Crywolf ] State (0) -> NONE
+20:30:14 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+20:30:14 [ServerInfo] Event loaded successfully
+20:30:14 [ServerInfo] EventItemBag loaded successfully
+20:30:14 [ServerInfo] Hack loaded successfully
+20:30:14 [ServerInfo] Item loaded successfully
+20:30:15 [ServerInfo] Monster loaded successfully
+20:30:15 [ServerInfo] Custom loaded successfully
+20:30:15 [ServerInfo] Move loaded successfully
+20:30:15 [ServerInfo] Quest loaded successfully
+20:30:15 [ServerInfo] Shop loaded successfully
+20:30:16 [ServerInfo] Skill loaded successfully
+20:30:16 [ServerInfo] Util loaded successfully
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:90 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:11 - Y:45 - Dir :7 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:16 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:68 - Y:27 - Dir :5 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:17 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:70 - Y:40 - Dir :6 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:18 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:72 - Y:17 - Dir :5 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:19 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:76 - Y:33 - Dir :4 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:21 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:80 - Y:41 - Dir :3 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:22 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:83 - Y:8 - Dir :7 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:27 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:153 - Y:63 - Dir :3 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:32 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:175 - Y:29 - Dir :1 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:39 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:200 - Y:63 - Dir :3 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:44 - Type:2 - MonsterClass:311 - Map:34 - Dis:30 - X:22 - Y:103 - Dir :3 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:52 - Type:2 - MonsterClass:311 - Map:34 - Dis:30 - X:103 - Y:71 - Dir :4 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:59 - Type:2 - MonsterClass:311 - Map:34 - Dis:30 - X:154 - Y:71 - Dir :6 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:64 - Type:2 - MonsterClass:311 - Map:34 - Dis:30 - X:172 - Y:96 - Dir :0 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:74 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:21 - Y:91 - Dir :5 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:78 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:68 - Y:118 - Dir :1 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:80 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:80 - Y:115 - Dir :0 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:83 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:100 - Y:90 - Dir :4 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:91 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:158 - Y:87 - Dir :6 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:93 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:176 - Y:89 - Dir :1 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:104 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:71 - Y:109 - Dir :7 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:106 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:81 - Y:109 - Dir :0 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:110 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:123 - Y:128 - Dir :1 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:111 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:123 - Y:144 - Dir :5 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:115 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:163 - Y:141 - Dir :1 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:117 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:203 - Y:127 - Dir :3 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:125 - Type:2 - MonsterClass:314 - Map:34 - Dis:30 - X:15 - Y:156 - Dir :2 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:126 - Type:2 - MonsterClass:314 - Map:34 - Dis:30 - X:30 - Y:154 - Dir :5 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:135 - Type:2 - MonsterClass:315 - Map:34 - Dis:30 - X:30 - Y:172 - Dir :2 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:136 - Type:2 - MonsterClass:315 - Map:34 - Dis:30 - X:48 - Y:191 - Dir :6 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:144 - Type:2 - MonsterClass:315 - Map:34 - Dis:30 - X:99 - Y:184 - Dir :4 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:156 - Type:2 - MonsterClass:315 - Map:34 - Dis:30 - X:225 - Y:190 - Dir :4 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:158 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:81 - Y:203 - Dir :7 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:159 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:105 - Y:194 - Dir :2 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:160 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:115 - Y:184 - Dir :2 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:163 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:174 - Y:187 - Dir :1 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:165 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:229 - Y:177 - Dir :4 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:166 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:17 - Y:165 - Dir :7 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:167 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:25 - Y:164 - Dir :7 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:173 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:113 - Y:175 - Dir :6 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:175 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:143 - Y:177 - Dir :6 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:176 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:144 - Y:165 - Dir :6 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:177 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:171 - Y:227 - Dir :2 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:179 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:230 - Y:167 - Dir :0 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:180 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:54 - Y:220 - Dir :2 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:183 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:102 - Y:218 - Dir :4 - TX:0 - TY:0 - Element:0
+20:30:16 [gObjSetPosMonster][GetPosition] Location Error number:186 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:114 - Y:222 - Dir :6 - TX:0 - TY:0 - Element:0
+20:30:16 [Blood Castle] (1) Sync Start Time. [29] min remain
+20:30:16 [Blood Castle] (1) SetState EMPTY
+20:30:16 [Blood Castle] (2) Sync Start Time. [29] min remain
+20:30:16 [Blood Castle] (2) SetState EMPTY
+20:30:16 [Blood Castle] (3) Sync Start Time. [29] min remain
+20:30:16 [Blood Castle] (3) SetState EMPTY
+20:30:16 [Blood Castle] (4) Sync Start Time. [29] min remain
+20:30:16 [Blood Castle] (4) SetState EMPTY
+20:30:16 [Blood Castle] (5) Sync Start Time. [29] min remain
+20:30:16 [Blood Castle] (5) SetState EMPTY
+20:30:16 [Blood Castle] (6) Sync Start Time. [29] min remain
+20:30:16 [Blood Castle] (6) SetState EMPTY
+20:30:16 [Blood Castle] (7) Sync Start Time. [29] min remain
+20:30:16 [Blood Castle] (7) SetState EMPTY
+20:30:16 [Blood Castle] (8) Sync Start Time. [29] min remain
+20:30:16 [Blood Castle] (8) SetState EMPTY
+20:30:16 [Castle Deep] Sync Start Time. [449] min remain
+20:30:16 [Castle Deep] SetState EMPTY
+20:30:16 [Chaos Castle] (1) Sync Start Time. [14] min remain
+20:30:16 [Chaos Castle] (1) SetState EMPTY
+20:30:16 [Chaos Castle] (2) Sync Start Time. [14] min remain
+20:30:16 [Chaos Castle] (2) SetState EMPTY
+20:30:16 [Chaos Castle] (3) Sync Start Time. [14] min remain
+20:30:16 [Chaos Castle] (3) SetState EMPTY
+20:30:16 [Chaos Castle] (4) Sync Start Time. [14] min remain
+20:30:16 [Chaos Castle] (4) SetState EMPTY
+20:30:16 [Chaos Castle] (5) Sync Start Time. [14] min remain
+20:30:16 [Chaos Castle] (5) SetState EMPTY
+20:30:16 [Chaos Castle] (6) Sync Start Time. [14] min remain
+20:30:16 [Chaos Castle] (6) SetState EMPTY
+20:30:16 [Chaos Castle] (7) Sync Start Time. [14] min remain
+20:30:16 [Chaos Castle] (7) SetState EMPTY
+20:30:16 [Chaos Castle Survival] Sync Start Time. [33] min remain
+20:30:16 [Chaos Castle Survival][GDChaosCastleSurvivalRenewallRanking] [BattleType:0]
+20:30:16 [Chaos Castle Survival][GDChaosCastleSurvivalRankingInfoReq] RankingType is Invalid 
+20:30:16 [Chaos Castle Survival] SetState EMPTY
+20:30:16 [Devil Square] (1) Sync Start Time. [59] min remain
+20:30:16 [Devil Square] (1) SetState EMPTY
+20:30:16 [Devil Square] (2) Sync Start Time. [59] min remain
+20:30:16 [Devil Square] (2) SetState EMPTY
+20:30:16 [Devil Square] (3) Sync Start Time. [59] min remain
+20:30:16 [Devil Square] (3) SetState EMPTY
+20:30:16 [Devil Square] (4) Sync Start Time. [59] min remain
+20:30:16 [Devil Square] (4) SetState EMPTY
+20:30:16 [Devil Square] (5) Sync Start Time. [59] min remain
+20:30:16 [Devil Square] (5) SetState EMPTY
+20:30:16 [Devil Square] (6) Sync Start Time. [59] min remain
+20:30:16 [Devil Square] (6) SetState EMPTY
+20:30:16 [Devil Square] (7) Sync Start Time. [59] min remain
+20:30:16 [Devil Square] (7) SetState EMPTY
+20:30:16 [ ITR ] [IllusionTemple_EventInit] Illusion Temple Renewal match event initialization
+20:30:16 [ITR] TempleNumber Reset :[0]
+20:30:16 [ ITR ] (0) Sync Open Time. [210]min remain
+20:30:16 [ITR] TempleNumber Reset :[1]
+20:30:16 [ ITR ] (1) Sync Open Time. [210]min remain
+20:30:16 [ITR] TempleNumber Reset :[2]
+20:30:16 [ ITR ] (2) Sync Open Time. [210]min remain
+20:30:16 [ITR] TempleNumber Reset :[3]
+20:30:16 [ ITR ] (3) Sync Open Time. [210]min remain
+20:30:16 [ITR] TempleNumber Reset :[4]
+20:30:16 [ ITR ] (4) Sync Open Time. [210]min remain
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:658, Map:45, Dis:0, X:169, Y:85, Dir:2 ,byMapTagNpcIdentNo:0
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:659, Map:45, Dis:0, X:136, Y:101, Dir:0 ,byMapTagNpcIdentNo:1
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:660, Map:45, Dis:0, X:151, Y:119, Dir:0 ,byMapTagNpcIdentNo:2
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:661, Map:45, Dis:0, X:150, Y:88, Dir:0 ,byMapTagNpcIdentNo:3
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:662, Map:45, Dis:0, X:165, Y:102, Dir:0 ,byMapTagNpcIdentNo:4
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:663, Map:45, Dis:0, X:173, Y:67, Dir:0 ,byMapTagNpcIdentNo:5
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:664, Map:45, Dis:0, X:187, Y:81, Dir:0 ,byMapTagNpcIdentNo:6
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:665, Map:45, Dis:0, X:187, Y:51, Dir:0 ,byMapTagNpcIdentNo:7
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:666, Map:45, Dis:0, X:203, Y:67, Dir:0 ,byMapTagNpcIdentNo:8
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:667, Map:45, Dis:0, X:133, Y:121, Dir:0 ,byMapTagNpcIdentNo:9
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:668, Map:45, Dis:0, X:206, Y:48, Dir:0 ,byMapTagNpcIdentNo:10
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:658, Map:46, Dis:0, X:169, Y:85, Dir:2 ,byMapTagNpcIdentNo:0
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:659, Map:46, Dis:0, X:136, Y:101, Dir:0 ,byMapTagNpcIdentNo:1
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:660, Map:46, Dis:0, X:151, Y:119, Dir:0 ,byMapTagNpcIdentNo:2
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:661, Map:46, Dis:0, X:150, Y:88, Dir:0 ,byMapTagNpcIdentNo:3
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:662, Map:46, Dis:0, X:165, Y:102, Dir:0 ,byMapTagNpcIdentNo:4
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:663, Map:46, Dis:0, X:173, Y:67, Dir:0 ,byMapTagNpcIdentNo:5
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:664, Map:46, Dis:0, X:187, Y:81, Dir:0 ,byMapTagNpcIdentNo:6
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:665, Map:46, Dis:0, X:187, Y:51, Dir:0 ,byMapTagNpcIdentNo:7
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:666, Map:46, Dis:0, X:203, Y:67, Dir:0 ,byMapTagNpcIdentNo:8
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:667, Map:46, Dis:0, X:133, Y:121, Dir:0 ,byMapTagNpcIdentNo:9
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:668, Map:46, Dis:0, X:206, Y:48, Dir:0 ,byMapTagNpcIdentNo:10
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:658, Map:47, Dis:0, X:169, Y:85, Dir:2 ,byMapTagNpcIdentNo:0
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:659, Map:47, Dis:0, X:136, Y:101, Dir:0 ,byMapTagNpcIdentNo:1
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:660, Map:47, Dis:0, X:151, Y:119, Dir:0 ,byMapTagNpcIdentNo:2
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:661, Map:47, Dis:0, X:150, Y:88, Dir:0 ,byMapTagNpcIdentNo:3
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:662, Map:47, Dis:0, X:165, Y:102, Dir:0 ,byMapTagNpcIdentNo:4
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:663, Map:47, Dis:0, X:173, Y:67, Dir:0 ,byMapTagNpcIdentNo:5
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:664, Map:47, Dis:0, X:187, Y:81, Dir:0 ,byMapTagNpcIdentNo:6
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:665, Map:47, Dis:0, X:187, Y:51, Dir:0 ,byMapTagNpcIdentNo:7
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:666, Map:47, Dis:0, X:203, Y:67, Dir:0 ,byMapTagNpcIdentNo:8
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:667, Map:47, Dis:0, X:133, Y:121, Dir:0 ,byMapTagNpcIdentNo:9
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:668, Map:47, Dis:0, X:206, Y:48, Dir:0 ,byMapTagNpcIdentNo:10
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:658, Map:48, Dis:0, X:169, Y:85, Dir:2 ,byMapTagNpcIdentNo:0
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:659, Map:48, Dis:0, X:136, Y:101, Dir:0 ,byMapTagNpcIdentNo:1
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:660, Map:48, Dis:0, X:151, Y:119, Dir:0 ,byMapTagNpcIdentNo:2
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:661, Map:48, Dis:0, X:150, Y:88, Dir:0 ,byMapTagNpcIdentNo:3
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:662, Map:48, Dis:0, X:165, Y:102, Dir:0 ,byMapTagNpcIdentNo:4
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:663, Map:48, Dis:0, X:173, Y:67, Dir:0 ,byMapTagNpcIdentNo:5
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:664, Map:48, Dis:0, X:187, Y:81, Dir:0 ,byMapTagNpcIdentNo:6
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:665, Map:48, Dis:0, X:187, Y:51, Dir:0 ,byMapTagNpcIdentNo:7
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:666, Map:48, Dis:0, X:203, Y:67, Dir:0 ,byMapTagNpcIdentNo:8
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:667, Map:48, Dis:0, X:133, Y:121, Dir:0 ,byMapTagNpcIdentNo:9
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:668, Map:48, Dis:0, X:206, Y:48, Dir:0 ,byMapTagNpcIdentNo:10
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:658, Map:49, Dis:0, X:169, Y:85, Dir:2 ,byMapTagNpcIdentNo:0
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:659, Map:49, Dis:0, X:136, Y:101, Dir:0 ,byMapTagNpcIdentNo:1
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:660, Map:49, Dis:0, X:151, Y:119, Dir:0 ,byMapTagNpcIdentNo:2
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:661, Map:49, Dis:0, X:150, Y:88, Dir:0 ,byMapTagNpcIdentNo:3
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:662, Map:49, Dis:0, X:165, Y:102, Dir:0 ,byMapTagNpcIdentNo:4
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:663, Map:49, Dis:0, X:173, Y:67, Dir:0 ,byMapTagNpcIdentNo:5
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:664, Map:49, Dis:0, X:187, Y:81, Dir:0 ,byMapTagNpcIdentNo:6
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:665, Map:49, Dis:0, X:187, Y:51, Dir:0 ,byMapTagNpcIdentNo:7
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:666, Map:49, Dis:0, X:203, Y:67, Dir:0 ,byMapTagNpcIdentNo:8
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:667, Map:49, Dis:0, X:133, Y:121, Dir:0 ,byMapTagNpcIdentNo:9
+20:30:16 [ ITR ][AddITRNpcInfo] NpcID:668, Map:49, Dis:0, X:206, Y:48, Dir:0 ,byMapTagNpcIdentNo:10
+20:30:16 [ ITL ] [IllusionTempleLeague_EventInit] event reset
+20:30:16 [ ITL ][schedule][13 hours][33 minutes] type:[1]
+20:30:16 [ ITL ][schedule][13 hours][0 minutes] type:[1]
+20:30:16 [ ITL ][schedule][14 hours][0 minutes] type:[1]
+20:30:16 [ ITL ][schedule][15 hours][0 minutes] type:[1]
+20:30:16 [ ITL ][schedule][16 hours][0 minutes] type:[1]
+20:30:16 [ ITL ][schedule][17 hours][0 minutes] type:[1]
+20:30:16 [ ITL ][schedule][18 hours][0 minutes] type:[1]
+20:30:16 [ ITL ][schedule][19 hours][0 minutes] type:[1]
+20:30:16 [ ITL ][schedule][20 hours][0 minutes] type:[1]
+20:30:16 [ ITL ][schedule][21 hours][0 minutes] type:[1]
+20:30:16 [ ITL ][schedule][22 hours][0 minutes] type:[1]
+20:30:16 [ITL] TempleNumber Reset :[0]
+20:30:16 [ ITL ] TYPE:1 , (0) ITL Sync Open Time. [30]min remain, m_nRemainTimeMSec:[-1]
+20:30:16 [ITL] TempleNumber Reset :[1]
+20:30:16 [ ITL ] TYPE:1 , (1) ITL Sync Open Time. [30]min remain, m_nRemainTimeMSec:[-1]
+20:30:16 [ ITL ][AddITLNpcInfo] NpcID:658, Map:98, Dis:0, X:169, Y:84, Dir:2 ,byMapTagNpcIdentNo:0
+20:30:16 [ ITL ][AddITLNpcInfo] NpcID:659, Map:98, Dis:0, X:136, Y:101, Dir:0 ,byMapTagNpcIdentNo:1
+20:30:16 [ ITL ][AddITLNpcInfo] NpcID:660, Map:98, Dis:0, X:151, Y:118, Dir:0 ,byMapTagNpcIdentNo:2
+20:30:16 [ ITL ][AddITLNpcInfo] NpcID:661, Map:98, Dis:0, X:151, Y:87, Dir:0 ,byMapTagNpcIdentNo:3
+20:30:16 [ ITL ][AddITLNpcInfo] NpcID:662, Map:98, Dis:0, X:166, Y:102, Dir:0 ,byMapTagNpcIdentNo:4
+20:30:16 [ ITL ][AddITLNpcInfo] NpcID:663, Map:98, Dis:0, X:173, Y:66, Dir:0 ,byMapTagNpcIdentNo:5
+20:30:16 [ ITL ][AddITLNpcInfo] NpcID:664, Map:98, Dis:0, X:187, Y:81, Dir:0 ,byMapTagNpcIdentNo:6
+20:30:16 [ ITL ][AddITLNpcInfo] NpcID:665, Map:98, Dis:0, X:187, Y:51, Dir:0 ,byMapTagNpcIdentNo:7
+20:30:16 [ ITL ][AddITLNpcInfo] NpcID:666, Map:98, Dis:0, X:203, Y:67, Dir:0 ,byMapTagNpcIdentNo:8
+20:30:16 [ ITL ][AddITLNpcInfo] NpcID:667, Map:98, Dis:0, X:133, Y:121, Dir:0 ,byMapTagNpcIdentNo:9
+20:30:16 [ ITL ][AddITLNpcInfo] NpcID:668, Map:98, Dis:0, X:207, Y:47, Dir:0 ,byMapTagNpcIdentNo:10
+20:30:16 [ ITL ][AddITLNpcInfo] NpcID:658, Map:99, Dis:0, X:169, Y:84, Dir:2 ,byMapTagNpcIdentNo:0
+20:30:16 [ ITL ][AddITLNpcInfo] NpcID:659, Map:99, Dis:0, X:136, Y:101, Dir:0 ,byMapTagNpcIdentNo:1
+20:30:16 [ ITL ][AddITLNpcInfo] NpcID:660, Map:99, Dis:0, X:151, Y:118, Dir:0 ,byMapTagNpcIdentNo:2
+20:30:16 [ ITL ][AddITLNpcInfo] NpcID:661, Map:99, Dis:0, X:151, Y:87, Dir:0 ,byMapTagNpcIdentNo:3
+20:30:16 [ ITL ][AddITLNpcInfo] NpcID:662, Map:99, Dis:0, X:166, Y:102, Dir:0 ,byMapTagNpcIdentNo:4
+20:30:16 [ ITL ][AddITLNpcInfo] NpcID:663, Map:99, Dis:0, X:173, Y:66, Dir:0 ,byMapTagNpcIdentNo:5
+20:30:16 [ ITL ][AddITLNpcInfo] NpcID:664, Map:99, Dis:0, X:187, Y:81, Dir:0 ,byMapTagNpcIdentNo:6
+20:30:16 [ ITL ][AddITLNpcInfo] NpcID:665, Map:99, Dis:0, X:187, Y:51, Dir:0 ,byMapTagNpcIdentNo:7
+20:30:16 [ ITL ][AddITLNpcInfo] NpcID:666, Map:99, Dis:0, X:203, Y:67, Dir:0 ,byMapTagNpcIdentNo:8
+20:30:16 [ ITL ][AddITLNpcInfo] NpcID:667, Map:99, Dis:0, X:133, Y:121, Dir:0 ,byMapTagNpcIdentNo:9
+20:30:16 [ ITL ][AddITLNpcInfo] NpcID:668, Map:99, Dis:0, X:207, Y:47, Dir:0 ,byMapTagNpcIdentNo:10
+20:30:16 [AcheronGuardian] Sync Start Time. [155] min remain
+20:30:16 [ RAKLION ] State(0) -> END
+20:30:16 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+20:30:16 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+20:30:16 [ RAKLION ] [ BossEggRegen ] : BossEgg(0 ea)
+20:30:16 [Bot Hide][0] (BotHideDW) Sync Start Time. [929] min remain
+20:30:16 [Bot Hide][0] (BotHideDW) SetState EMPTY
+20:30:16 [Bot Hide][1] (BotHideBK) Sync Start Time. [989] min remain
+20:30:16 [Bot Hide][1] (BotHideBK) SetState EMPTY
+20:30:16 [Bot Hide][2] (BotHideFE) Sync Start Time. [1049] min remain
+20:30:16 [Bot Hide][2] (BotHideFE) SetState EMPTY
+20:30:16 [Bot Hide][3] (BotHideMG) Sync Start Time. [1109] min remain
+20:30:16 [Bot Hide][3] (BotHideMG) SetState EMPTY
+20:30:16 [Bot Hide][4] (BotHideDL) Sync Start Time. [1169] min remain
+20:30:16 [Bot Hide][4] (BotHideDL) SetState EMPTY
+20:30:16 [Bot Hide][5] (BotHideSU) Sync Start Time. [1229] min remain
+20:30:16 [Bot Hide][5] (BotHideSU) SetState EMPTY
+20:30:16 [Bot Hide][6] (BotHideRF) Sync Start Time. [1289] min remain
+20:30:16 [Bot Hide][6] (BotHideRF) SetState EMPTY
+20:30:16 [Bot Hide][7] (BotHideGL) Sync Start Time. [1349] min remain
+20:30:16 [Bot Hide][7] (BotHideGL) SetState EMPTY
+20:30:16 [Bot Hide][8] (BotHideRW) Sync Start Time. [1409] min remain
+20:30:16 [Bot Hide][8] (BotHideRW) SetState EMPTY
+20:30:16 [Bot Hide][9] (BotHideSL) Sync Start Time. [29] min remain
+20:30:16 [Bot Hide][9] (BotHideSL) SetState EMPTY
+20:30:16 [Bot Hide][10] (BotHideGC) Sync Start Time. [89] min remain
+20:30:16 [Bot Hide][10] (BotHideGC) SetState EMPTY
+20:30:16 [Bot Hide][11] (BotHideKM) Sync Start Time. [149] min remain
+20:30:16 [Bot Hide][11] (BotHideKM) SetState EMPTY
+20:30:16 [Bot Hide][12] (BotHideLM) Sync Start Time. [209] min remain
+20:30:16 [Bot Hide][12] (BotHideLM) SetState EMPTY
+20:30:16 [Bot Hide][13] (BotHideIK) Sync Start Time. [269] min remain
+20:30:16 [Bot Hide][13] (BotHideIK) SetState EMPTY
+20:30:16 [DSF][DSFEventInit] Event initialization
+20:30:16 [AcheronGuardian] Acheron Event Play [1]
+20:30:16 [Doppelganger] State NONE [ROOM_INDEX]:0
+20:30:16 [Doppelganger] State NONE [ROOM_INDEX]:1
+20:30:16 [Doppelganger] State NONE [ROOM_INDEX]:2
+20:30:16 [Doppelganger] State NONE [ROOM_INDEX]:3
+20:30:16 [Doppelganger] State NONE [ROOM_INDEX]:4
+20:30:16 [Doppelganger] State NONE [ROOM_INDEX]:5
+20:30:16 [Doppelganger] State NONE [ROOM_INDEX]:6
+20:30:16 [DSN][DSNEventInit] Event initialization
+20:30:16 [Boss Battle Event] Sync Start Time. [214] min remain
+20:30:16 [Boss Battle Event] SetState EMPTY
+20:30:17 +³++©«¦Î+°+º©ª +ºÃÐ ¦+¢+.+õ++
+20:30:17 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+20:30:17 [Chaos Castle Survival] SetState BLANK
+20:30:17 ITL Guild Ranking Information Received 0
+20:30:17 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+20:30:17 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule Start Date (2099-8-25)
+20:30:17 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule Date (7-0-0)
+20:30:17 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule End Date (2099-9-1(0:0:0))
+20:30:17 [CastleSiege] CCastleSiege::Init() - START
+20:30:17 SET SetState_IDLE_1()
+20:30:17 [DSF][Devil's Square Final] Bringing 0 advance parties (DSFType:2) 
+20:30:17 [DSF][Devil's Square Final] Bringing 0 advance parties (DSFType:3) 
+20:30:17 [DSF][Devil's Square Final] Bringing 0 advance parties (DSFType:4) 
+20:30:17 [DSF][Devil's Square Final] Bringing 0 advance parties (DSFType:2) 
+20:30:17 [DSF][Devil's Square Final] Bringing 0 advance parties (DSFType:3) 
+20:30:17 [DSF][Devil's Square Final] Bringing 0 advance parties (DSFType:4) 
+20:30:17 [DSF][Devil's Square Final] Bringing 0 advance parties (DSFType:2) 
+20:30:17 [DSF][Devil's Square Final] Bringing 0 advance parties (DSFType:3) 
+20:30:17 [DSF][Devil's Square Final] Bringing 0 advance parties (DSFType:4) 
+20:30:17 SET SetState_REGSIEGE()
+20:30:18 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+20:30:19 [FreeChannelSwitch] [Add Server] [ServerCode:20][cur:0/max:100]
+20:31:00  [ ITL ] m_nNextTimeMin 438937, nCurTime 438953
+20:31:00  [ ITL ] m_nNextTimeMin 438937, nCurTime 438953
+20:32:00  [ ITL ] m_nNextTimeMin 498953, nCurTime 498968
+20:32:00  [ ITL ] m_nNextTimeMin 498953, nCurTime 498968
+20:33:00  [ ITL ] m_nNextTimeMin 558968, nCurTime 559062
+20:33:00  [ ITL ] m_nNextTimeMin 558968, nCurTime 559062
+20:34:00  [ ITL ] m_nNextTimeMin 619062, nCurTime 619156
+20:34:00  [ ITL ] m_nNextTimeMin 619062, nCurTime 619156
+20:35:00  [ ITL ] m_nNextTimeMin 679156, nCurTime 679250
+20:35:00  [ ITL ] m_nNextTimeMin 679156, nCurTime 679250
+20:35:17 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+20:35:17 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(514), MAXHP:400000, HP:400000, DF:0, RG:0)
+20:35:17 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(515), MAXHP:400000, HP:400000, DF:0, RG:0)
+20:35:17 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(516), MAXHP:400000, HP:400000, DF:0, RG:0)
+20:35:17 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(517), MAXHP:400000, HP:400000, DF:0, RG:0)
+20:35:17 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(518), MAXHP:500000, HP:500000, DF:0, RG:0)
+20:35:17 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(519), MAXHP:500000, HP:500000, DF:0, RG:0)
+20:35:17 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(520), MAXHP:500000, HP:500000, DF:0, RG:0)
+20:35:17 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(521), MAXHP:500000, HP:500000, DF:0, RG:0)
+20:35:17 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(522), MAXHP:500000, HP:500000, DF:0, RG:0)
+20:35:17 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(523), MAXHP:500000, HP:500000, DF:0, RG:0)
+20:35:17 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+20:35:17 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+20:36:00  [ ITL ] m_nNextTimeMin 739250, nCurTime 739343
+20:36:00  [ ITL ] m_nNextTimeMin 739250, nCurTime 739343
+20:37:00  [ ITL ] m_nNextTimeMin 799343, nCurTime 799375
+20:37:00  [ ITL ] m_nNextTimeMin 799343, nCurTime 799375
+20:38:00  [ ITL ] m_nNextTimeMin 859375, nCurTime 859437
+20:38:00  [ ITL ] m_nNextTimeMin 859375, nCurTime 859437
+20:39:00  [ ITL ] m_nNextTimeMin 919437, nCurTime 919546
+20:39:00  [ ITL ] m_nNextTimeMin 919437, nCurTime 919546
+20:40:00  [ ITL ] m_nNextTimeMin 979546, nCurTime 979656
+20:40:00  [ ITL ] m_nNextTimeMin 979546, nCurTime 979656
+20:40:17 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+20:40:17 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(514), MAXHP:400000, HP:400000, DF:0, RG:0)
+20:40:17 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(515), MAXHP:400000, HP:400000, DF:0, RG:0)
+20:40:17 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(516), MAXHP:400000, HP:400000, DF:0, RG:0)
+20:40:17 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(517), MAXHP:400000, HP:400000, DF:0, RG:0)
+20:40:17 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(518), MAXHP:500000, HP:500000, DF:0, RG:0)
+20:40:17 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(519), MAXHP:500000, HP:500000, DF:0, RG:0)
+20:40:17 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(520), MAXHP:500000, HP:500000, DF:0, RG:0)
+20:40:17 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(521), MAXHP:500000, HP:500000, DF:0, RG:0)
+20:40:17 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(522), MAXHP:500000, HP:500000, DF:0, RG:0)
+20:40:17 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(523), MAXHP:500000, HP:500000, DF:0, RG:0)
+20:40:17 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+20:40:17 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+20:41:00  [ ITL ] m_nNextTimeMin 1039656, nCurTime 1039750
+20:41:00  [ ITL ] m_nNextTimeMin 1039656, nCurTime 1039750
+20:42:00  [ ITL ] m_nNextTimeMin 1099750, nCurTime 1099843
+20:42:00  [ ITL ] m_nNextTimeMin 1099750, nCurTime 1099843
+20:43:01  [ ITL ] m_nNextTimeMin 1159843, nCurTime 1159953
+20:43:01  [ ITL ] m_nNextTimeMin 1159843, nCurTime 1159953
+20:44:01  [ ITL ] m_nNextTimeMin 1219953, nCurTime 1220062
+20:44:01  [ ITL ] m_nNextTimeMin 1219953, nCurTime 1220062
+20:45:00 [Chaos Castle] (1) SetState STAND
+20:45:00 [Chaos Castle] (2) SetState STAND
+20:45:00 [Chaos Castle] (3) SetState STAND
+20:45:00 [Chaos Castle] (4) SetState STAND
+20:45:00 [Chaos Castle] (5) SetState STAND
+20:45:00 [Chaos Castle] (6) SetState STAND
+20:45:00 [Chaos Castle] (7) SetState STAND
+20:45:01  [ ITL ] m_nNextTimeMin 1280062, nCurTime 1280140
+20:45:01  [ ITL ] m_nNextTimeMin 1280062, nCurTime 1280140
+20:45:01 [Chaos Castle] (1) Not enough users
+20:45:01 [Chaos Castle] (1) Sync Start Time. [59] min remain
+20:45:01 [Chaos Castle] (1) SetState EMPTY
+20:45:01 [Chaos Castle] (2) Not enough users
+20:45:01 [Chaos Castle] (2) Sync Start Time. [59] min remain
+20:45:01 [Chaos Castle] (2) SetState EMPTY
+20:45:01 [Chaos Castle] (3) Not enough users
+20:45:01 [Chaos Castle] (3) Sync Start Time. [59] min remain
+20:45:01 [Chaos Castle] (3) SetState EMPTY
+20:45:01 [Chaos Castle] (4) Not enough users
+20:45:01 [Chaos Castle] (4) Sync Start Time. [59] min remain
+20:45:01 [Chaos Castle] (4) SetState EMPTY
+20:45:01 [Chaos Castle] (5) Not enough users
+20:45:01 [Chaos Castle] (5) Sync Start Time. [59] min remain
+20:45:01 [Chaos Castle] (5) SetState EMPTY
+20:45:01 [Chaos Castle] (6) Not enough users
+20:45:01 [Chaos Castle] (6) Sync Start Time. [59] min remain
+20:45:01 [Chaos Castle] (6) SetState EMPTY
+20:45:01 [Chaos Castle] (7) Not enough users
+20:45:01 [Chaos Castle] (7) Sync Start Time. [59] min remain
+20:45:01 [Chaos Castle] (7) SetState EMPTY
+20:45:17 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+20:45:17 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(514), MAXHP:400000, HP:400000, DF:0, RG:0)
+20:45:17 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(515), MAXHP:400000, HP:400000, DF:0, RG:0)
+20:45:17 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(516), MAXHP:400000, HP:400000, DF:0, RG:0)
+20:45:17 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(517), MAXHP:400000, HP:400000, DF:0, RG:0)
+20:45:17 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(518), MAXHP:500000, HP:500000, DF:0, RG:0)
+20:45:17 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(519), MAXHP:500000, HP:500000, DF:0, RG:0)
+20:45:17 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(520), MAXHP:500000, HP:500000, DF:0, RG:0)
+20:45:17 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(521), MAXHP:500000, HP:500000, DF:0, RG:0)
+20:45:17 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(522), MAXHP:500000, HP:500000, DF:0, RG:0)
+20:45:17 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(523), MAXHP:500000, HP:500000, DF:0, RG:0)
+20:45:17 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+20:45:17 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+20:46:01  [ ITL ] m_nNextTimeMin 1340140, nCurTime 1340250
+20:46:01  [ ITL ] m_nNextTimeMin 1340140, nCurTime 1340250
+20:47:01  [ ITL ] m_nNextTimeMin 1400250, nCurTime 1400265
+20:47:01  [ ITL ] m_nNextTimeMin 1400250, nCurTime 1400265
