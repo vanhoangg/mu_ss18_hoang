@@ -1,0 +1,131 @@
+		0
+        <Item Index="42" Name="Bloodangel Sword" /> 
+		<Item Index="44" Name="Bloodangel Magic Sword" /> 
+		<Item Index="46" Name="Bloodangel Claw" /> 
+		<Item Index="71" Name="Bloodangel Short Sword" /> 
+		<Item Index="89" Name="Bloodangel Magic Two-Handed Sword" /> 
+		<Item Index="105" Name="Bloodangel Blade" /> 
+        2
+		<Item Index="22" Name="Bloodangel Scepter" /> 
+		<Item Index="32" Name="Bloodangel Rune Mace" /> 
+        3
+		<Item Index="19" Name="Bloodangel Lance" /> 
+        4
+		<Item Index="28" Name="Bloodangel Bow" /> 
+		<Item Index="34" Name="Bloodangel Quiver" /> 
+		<Item Index="48" Name="Bloodangel Magic Gun" /> 
+        5
+		<Item Index="41" Name="Bloodangel Staff" /> 
+		<Item Index="43" Name="Bloodangel Stick" /> 
+		<Item Index="57" Name="Book of Bloodangel" /> 
+		<Item Index="73" Name="Bloodangel Magic Book" /> 
+		<Item Index="86" Name="Bloodangel Orb" /> 
+        6
+		<Item Index="34" Name="Bloodangel Fairy Shield" /> 
+		<Item Index="44" Name="Bloodangel Shield" /> 
+
+		<Item Index="161" Name="Bloodangel Magic Armor [E]" /> 
+		<Item Index="161" Name="Bloodangel Magic Pants [E]" /> 
+		<Item Index="161" Name="Bloodangel Magic Gloves [E]" /> 
+		<Item Index="161" Name="Bloodangel Magic Boots [E]" /> 
+        
+        <Item Index="102" Name="Bloodangel Magic Armor [S]" /> 
+		<Item Index="102" Name="Bloodangel Magic Pants [S]" /> 
+		<Item Index="102" Name="Bloodangel Magic Gloves [S]" /> 
+		<Item Index="102" Name="Bloodangel Magic Boots [S]" /> 
+
+
+
+		<Item Index="200" Name="Bloodangel Knight Helm [E]" /> 
+		<Item Index="200" Name="Bloodangel Knight Armor [E]" /> 
+		<Item Index="200" Name="Bloodangel Knight Pants [E]" /> 
+		<Item Index="200" Name="Bloodangel Knight Gloves [E]" /> 
+		<Item Index="200" Name="Bloodangel Knight Boots [E]" /> 
+
+        <Item Index="98" Name="Bloodangel Knight Helm [S]" /> 
+		<Item Index="98" Name="Bloodangel Knight Armor [S]" /> 
+		<Item Index="98" Name="Bloodangel Knight Pants [S]" /> 
+		<Item Index="98" Name="Bloodangel Knight Gloves [S]" /> 
+		<Item Index="98" Name="Bloodangel Knight Boots [S]" /> 
+
+
+
+		<Item Index="99" Name="Bloodangel Wizard Helm" /> 
+		<Item Index="99" Name="Bloodangel Wizard Armor" /> 
+		<Item Index="99" Name="Bloodangel Wizard Pants" /> 
+		<Item Index="99" Name="Bloodangel Wizard Gloves" /> 
+		<Item Index="99" Name="Bloodangel Wizard Boots" /> 
+
+
+		<Item Index="158" Name="Bloodangel Elf Helm [E]" /> 
+		<Item Index="158" Name="Bloodangel Elf Armor [E]" /> 
+		<Item Index="158" Name="Bloodangel Elf Pants [E]" /> 
+		<Item Index="158" Name="Bloodangel Elf Gloves [E]" /> 
+		<Item Index="158" Name="Bloodangel Elf Boots [E]" /> 
+
+        <Item Index="100" Name="Bloodangel Elf Helm [A]" /> 
+		<Item Index="100" Name="Bloodangel Elf Armor [A]" /> 
+		<Item Index="100" Name="Bloodangel Elf Pants [A]" /> 
+		<Item Index="100" Name="Bloodangel Elf Gloves [A]" /> 
+		<Item Index="100" Name="Bloodangel Elf Boots [A]" /> 
+
+
+		<Item Index="101" Name="Bloodangel Summoner Helm" /> 
+		<Item Index="101" Name="Bloodangel Summoner Armor" /> 
+		<Item Index="101" Name="Bloodangel Summoner Pants" /> 
+		<Item Index="101" Name="Bloodangel Summoner Gloves" /> 
+		<Item Index="101" Name="Bloodangel Summoner Boots" /> 
+
+		<Item Index="103" Name="Bloodangel Lord Helm" /> 
+		<Item Index="103" Name="Bloodangel Lord Armor" /> 
+		<Item Index="103" Name="Bloodangel Lord Pants" /> 
+		<Item Index="103" Name="Bloodangel Lord Gloves" /> 
+		<Item Index="103" Name="Bloodangel Lord Boots" /> 
+
+		<Item Index="104" Name="Bloodangel Fighter Helm" /> 
+		<Item Index="104" Name="Bloodangel Fighter Armor" /> 
+		<Item Index="104" Name="Bloodangel Fighter Pants" /> 
+		<Item Index="104" Name="Bloodangel Fighter Boots" /> 
+
+		<Item Index="105" Name="Bloodangel Lancer Helm" /> 
+		<Item Index="105" Name="Bloodangel Lancer Armor" /> 
+		<Item Index="105" Name="Bloodangel Lancer Pants" /> 
+		<Item Index="105" Name="Bloodangel Lancer Gloves" /> 
+		<Item Index="105" Name="Bloodangel Lancer Boots" /> 
+
+
+		<Item Index="122" Name="Bloodangel Rune Mage Helm" /> 
+		<Item Index="122" Name="Bloodangel Rune Mage Armor" /> 
+		<Item Index="122" Name="Bloodangel Rune Mage Pants" /> 
+		<Item Index="122" Name="Bloodangel Rune Mage Gloves" /> 
+		<Item Index="122" Name="Bloodangel Rune Mage Boots" /> 
+
+		<Item Index="180" Name="Bloodangel Slayer Helm" /> 
+		<Item Index="180" Name="Bloodangel Slayer Armor" /> 
+		<Item Index="180" Name="Bloodangel Slayer Pants" /> 
+		<Item Index="180" Name="Bloodangel Slayer Gloves" /> 
+		<Item Index="180" Name="Bloodangel Slayer Boots" /> 
+
+		<Item Index="212" Name="Bloodangel Gun Crusher Helm" /> 
+		<Item Index="212" Name="Bloodangel Gun Crusher Armor" /> 
+		<Item Index="212" Name="Bloodangel Gun Crusher Pants" /> 
+		<Item Index="212" Name="Bloodangel Gun Crusher Gloves" /> 
+		<Item Index="212" Name="Bloodangel Gun Crusher Boots" /> 
+
+		<Item Index="241" Name="Bloodangel White Wizard Helm" /> 
+		<Item Index="241" Name="Bloodangel White Wizard Armor" /> 
+		<Item Index="241" Name="Bloodangel White Wizard Pants" /> 
+		<Item Index="241" Name="Bloodangel White Wizard Gloves" /> 
+		<Item Index="241" Name="Bloodangel White Wizard Boots" /> 
+
+		<Item Index="259" Name="Bloodangel Mage Helm" /> 
+		<Item Index="259" Name="Bloodangel Mage Armor" /> 
+		<Item Index="259" Name="Bloodangel Mage Pants" /> 
+		<Item Index="259" Name="Bloodangel Mage Gloves" /> 
+		<Item Index="259" Name="Bloodangel Mage Boots" /> 
+
+		<Item Index="306" Name="Bloodangel Illusion Knight Helm" /> 
+		<Item Index="306" Name="Bloodangel Illusion Knight Armor" /> 
+		<Item Index="306" Name="Bloodangel Illusion Knight Pants" /> 
+		<Item Index="306" Name="Bloodangel Illusion Knight Gloves" /> 
+		<Item Index="306" Name="Bloodangel Illusion Knight Boots" /> 

@@ -1,0 +1,46 @@
+19:59:39 [Bot Hide][0] (BotHideDW) SetState STAND
+19:59:39 [Bot Hide][1] (BotHideBK) SetState STAND
+19:59:39 [Bot Hide][2] (BotHideFE) SetState STAND
+19:59:39 [Bot Hide][3] (BotHideMG) SetState STAND
+19:59:39 [Bot Hide][4] (BotHideDL) SetState STAND
+19:59:39 [Bot Hide][5] (BotHideSU) SetState STAND
+19:59:39 [Bot Hide][6] (BotHideRF) SetState STAND
+19:59:39 [Bot Hide][7] (BotHideGL) SetState STAND
+19:59:39 [Bot Hide][8] (BotHideRW) SetState STAND
+19:59:39 [Bot Hide][9] (BotHideSL) SetState STAND
+19:59:39 [Bot Hide][10] (BotHideGC) SetState STAND
+19:59:39 [Bot Hide][11] (BotHideKM) SetState STAND
+19:59:39 [Bot Hide][12] (BotHideLM) SetState STAND
+19:59:39 [Bot Hide][13] (BotHideIK) SetState STAND
+19:59:39 [Boss Battle Event] SetState STAND
+19:59:40 [Bot Hide] [BotHideDW] [Map:51] [X:190] [Y:173]
+19:59:40 [Bot Hide][0] (BotHideDW) SetState START
+19:59:40 [Bot Hide] [BotHideBK] [Map:1] [X:137] [Y:122]
+19:59:40 [Bot Hide][1] (BotHideBK) SetState START
+19:59:40 [Bot Hide] [BotHideFE] [Map:7] [X:243] [Y:25]
+19:59:40 [Bot Hide][2] (BotHideFE) SetState START
+19:59:40 [Bot Hide] [BotHideMG] [Map:4] [X:234] [Y:196]
+19:59:40 [Bot Hide][3] (BotHideMG) SetState START
+19:59:40 [Bot Hide] [BotHideDL] [Map:6] [X:32] [Y:59]
+19:59:40 [Bot Hide][4] (BotHideDL) SetState START
+19:59:40 [Bot Hide] [BotHideSU] [Map:37] [X:168] [Y:41]
+19:59:40 [Bot Hide][5] (BotHideSU) SetState START
+19:59:40 [Bot Hide] [BotHideRF] [Map:56] [X:88] [Y:214]
+19:59:40 [Bot Hide][6] (BotHideRF) SetState START
+19:59:40 [Bot Hide] [BotHideGL] [Map:57] [X:232] [Y:144]
+19:59:40 [Bot Hide][7] (BotHideGL) SetState START
+19:59:40 [Bot Hide] [BotHideRW] [Map:80] [X:91] [Y:80]
+19:59:40 [Bot Hide][8] (BotHideRW) SetState START
+19:59:40 [Bot Hide] [BotHideSL] [Map:100] [X:166] [Y:63]
+19:59:40 [Bot Hide][9] (BotHideSL) SetState START
+19:59:40 [Bot Hide] [BotHideGC] [Map:112] [X:191] [Y:30]
+19:59:40 [Bot Hide][10] (BotHideGC) SetState START
+19:59:40 [Bot Hide] [BotHideKM] [Map:122] [X:97] [Y:178]
+19:59:40 [Bot Hide][11] (BotHideKM) SetState START
+19:59:40 [Bot Hide] [BotHideLM] [Map:131] [X:49] [Y:24]
+19:59:40 [Bot Hide][12] (BotHideLM) SetState START
+19:59:40 [Bot Hide] [BotHideIK] [Map:138] [X:175] [Y:75]
+19:59:40 [Bot Hide][13] (BotHideIK) SetState START
+19:59:40 [Boss Battle Event] Not enough users
+19:59:40 [Boss Battle Event] Sync Start Time. [245] min remain
+19:59:40 [Boss Battle Event] SetState EMPTY

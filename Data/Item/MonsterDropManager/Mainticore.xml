@@ -1,0 +1,125 @@
+		<Item Index="85" Slot="0" Skill="22" Width="1" Height="4" Serial="1" Option="1" Drop="0" Name="Manticore Sword" />
+		<Item Index="86" Slot="0" Skill="56" Width="1" Height="4" Serial="1" Option="1" Drop="0" Name="Manticore Magic Sword" />
+		<Item Index="87" Slot="0" Skill="270" Width="1" Height="2" Serial="1" Option="1" Drop="0" Name="Manticore Claw" />
+		<Item Index="88" Slot="0" Skill="22" Width="1" Height="3" Serial="1" Option="1" Drop="0" Name="Manticore Short Sword" />
+		<Item Index="95" Slot="0" Skill="56" Width="2" Height="4" Serial="1" Option="1" Drop="0" Name="Manticore Magic Two-Handed Sword" />
+		<Item Index="111" Slot="0" Skill="0" Width="1" Height="4" Serial="1" Option="1" Drop="0" Name="Manticore Blade" />
+		<Item Index="44" Slot="0" Skill="66" Width="1" Height="4" Serial="1" Option="1" Drop="0" Name="Manticore Scepter" />
+		<Item Index="45" Slot="0" Skill="0" Width="1" Height="3" Serial="1" Option="1" Drop="0" Name="Manticore Rune Mace" />
+		<Item Index="31" Slot="0" Skill="20" Width="1" Height="4" Serial="1" Option="1" Drop="0" Name="Manticore Lance" />
+		<Item Index="54" Slot="0" Skill="0" Width="1" Height="3" Serial="1" Option="1" Drop="0" Name="Manticore Magic Gun" />
+		<Item Index="58" Slot="0" Skill="24" Width="1" Height="4" Serial="1" Option="1" Drop="0" Name="Manticore Bow" />
+		<Item Index="59" Slot="1" Skill="0" Width="1" Height="3" Serial="1" Option="1" Drop="0" Name="Manticore Quiver" />
+		<Item Index="79" Slot="1" Skill="0" Width="1" Height="2" Serial="1" Option="1" Drop="0" Name="Manticore Magic Book" />
+		<Item Index="92" Slot="0" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="0" Name="Manticore Orb" />
+		<Item Index="95" Slot="0" Skill="0" Width="1" Height="4" Serial="1" Option="1" Drop="0" Name="Manticore Staff" />
+		<Item Index="96" Slot="0" Skill="0" Width="1" Height="4" Serial="1" Option="1" Drop="0" Name="Manticore Stick" />
+		<Item Index="97" Slot="1" Skill="0" Width="1" Height="2" Serial="1" Option="1" Drop="0" Name="Manticore Book" />
+		<Item Index="50" Slot="1" Skill="0" Width="2" Height="3" Serial="1" Option="1" Drop="0" Name="Manticore Shield" />
+		<Item Index="56" Slot="1" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="0" Name="Manticore Fairy Shield" />
+		
+		<Item Index="224" Slot="2" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Summoner Helm" />
+		<Item Index="224" Slot="3" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Summoner Armor" />
+		<Item Index="224" Slot="4" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Summoner Pants" />
+		<Item Index="224" Slot="5" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Summoner Gloves" />
+		<Item Index="224" Slot="6" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Summoner Boots" />
+
+		<Item Index="230" Slot="3" Skill="0" Width="2" Height="3" Serial="1" Option="1" Drop="1" Name="Manticore Magic Armor [E]" />
+		<Item Index="230" Slot="4" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Magic Pants [E]" />
+		<Item Index="230" Slot="5" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Magic Gloves [E]" />
+		<Item Index="230" Slot="6" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Magic Boots [E]" />
+
+		<Item Index="228" Slot="2" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Lancer Helm" />
+		<Item Index="228" Slot="3" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Lancer Armor" />
+		<Item Index="228" Slot="4" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Lancer Pants" />
+		<Item Index="228" Slot="5" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Lancer Gloves" />
+		<Item Index="228" Slot="6" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Lancer Boots" />
+
+		<Item Index="227" Slot="2" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Fighter Helm" />
+		<Item Index="227" Slot="3" Skill="0" Width="2" Height="3" Serial="1" Option="1" Drop="1" Name="Manticore Fighter Armor" />
+		<Item Index="227" Slot="4" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Fighter Pants" />
+		<Item Index="227" Slot="6" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Fighter Boots" />
+
+		<Item Index="226" Slot="2" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Lord Helm" />
+		<Item Index="226" Slot="3" Skill="0" Width="2" Height="3" Serial="1" Option="1" Drop="1" Name="Manticore Lord Armor" />
+		<Item Index="226" Slot="4" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Lord Pants" />
+		<Item Index="226" Slot="5" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Lord Gloves" />
+		<Item Index="226" Slot="6" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Lord Boots" />
+
+
+		<Item Index="225" Slot="3" Skill="0" Width="2" Height="3" Serial="1" Option="1" Drop="1" Name="Manticore Magic Armor [S]" />
+		<Item Index="225" Slot="4" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Magic Pants [S]" />
+		<Item Index="225" Slot="5" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Magic Gloves [S]" />
+		<Item Index="225" Slot="6" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Magic Boots [S]" />
+
+
+
+
+		<Item Index="229" Slot="2" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Elf Helm [E]" />
+		<Item Index="229" Slot="3" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Elf Armor [E]" />
+		<Item Index="229" Slot="4" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Elf Pants [E]" />
+		<Item Index="229" Slot="5" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Elf Gloves [E]" />
+		<Item Index="229" Slot="6" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Elf Boots [E]" />
+
+		<Item Index="221" Slot="2" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Knight Helm [S]" />
+		<Item Index="221" Slot="3" Skill="0" Width="2" Height="3" Serial="1" Option="1" Drop="1" Name="Manticore Knight Armor [S]" />
+		<Item Index="221" Slot="4" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Knight Pants [S]" />
+		<Item Index="221" Slot="5" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Knight Gloves [S]" />
+		<Item Index="221" Slot="6" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Knight Boots [S]" />
+
+        
+
+		<Item Index="231" Slot="2" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Rune Mage Helm" />
+		<Item Index="231" Slot="3" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Rune Mage Armor" />
+		<Item Index="231" Slot="4" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Rune Mage Pants" />
+		<Item Index="231" Slot="5" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Rune Mage Gloves" />
+		<Item Index="231" Slot="6" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Rune Mage Boots" />
+
+		<Item Index="232" Slot="2" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Slayer Helm" />
+		<Item Index="232" Slot="3" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Slayer Armor" />
+		<Item Index="232" Slot="4" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Slayer Pants" />
+		<Item Index="232" Slot="5" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Slayer Gloves" />
+		<Item Index="232" Slot="6" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Slayer Boots" />
+
+        <Item Index="222" Slot="2" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Wizard Helm" />
+		<Item Index="222" Slot="3" Skill="0" Width="2" Height="3" Serial="1" Option="1" Drop="1" Name="Manticore Wizard Armor" />
+		<Item Index="222" Slot="4" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Wizard Pants" />
+		<Item Index="222" Slot="5" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Wizard Gloves" />
+		<Item Index="222" Slot="6" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Wizard Boots" />
+
+		<Item Index="312" Slot="2" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Illusion Knight Helm" />
+		<Item Index="312" Slot="3" Skill="0" Width="2" Height="3" Serial="1" Option="1" Drop="1" Name="Manticore Illusion Knight Armor" />
+		<Item Index="312" Slot="4" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Illusion Knight Pants" />
+		<Item Index="312" Slot="5" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Illusion Knight Gloves" />
+		<Item Index="312" Slot="6" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Illusion Knight Boots" />
+
+
+		<Item Index="265" Slot="2" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Mage Helm" />
+		<Item Index="265" Slot="3" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Mage Armor" />
+		<Item Index="265" Slot="4" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Mage Pants" />
+		<Item Index="265" Slot="5" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Mage Gloves" />
+		<Item Index="265" Slot="6" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Mage Boots" />
+
+		<Item Index="247" Slot="2" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore White Wizard Helm" />
+		<Item Index="247" Slot="3" Skill="0" Width="2" Height="3" Serial="1" Option="1" Drop="1" Name="Manticore White Wizard Armor" />
+		<Item Index="247" Slot="4" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore White Wizard Pants" />
+		<Item Index="247" Slot="5" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore White Wizard Gloves" />
+		<Item Index="247" Slot="6" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore White Wizard Boots" />
+
+		<Item Index="234" Slot="2" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Gun Crusher Helm" />
+		<Item Index="234" Slot="3" Skill="0" Width="2" Height="3" Serial="1" Option="1" Drop="1" Name="Manticore Gun Crusher Armor" />
+		<Item Index="234" Slot="4" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Gun Crusher Pants" />
+		<Item Index="234" Slot="5" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Gun Crusher Gloves" />
+		<Item Index="234" Slot="6" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Gun Crusher Boots" />
+
+		<Item Index="233" Slot="2" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Knight Helm [E]" />
+		<Item Index="233" Slot="3" Skill="0" Width="2" Height="3" Serial="1" Option="1" Drop="1" Name="Manticore Knight Armor [E]" />
+		<Item Index="233" Slot="4" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Knight Pants [E]" />
+		<Item Index="233" Slot="5" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Knight Gloves [E]" />
+		<Item Index="233" Slot="6" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Knight Boots [E]" />
+
+		<Item Index="223" Slot="2" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Elf Helm [A]" />
+		<Item Index="223" Slot="3" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Elf Armor [A]" />
+		<Item Index="223" Slot="4" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Elf Pants [A]" />
+		<Item Index="223" Slot="5" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Elf Gloves [A]" />
+		<Item Index="223" Slot="6" Skill="0" Width="2" Height="2" Serial="1" Option="1" Drop="1" Name="Manticore Elf Boots [A]" />

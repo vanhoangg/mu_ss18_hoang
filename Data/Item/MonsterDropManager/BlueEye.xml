@@ -1,0 +1,129 @@
+		0
+        <Item Index="75" Name="Blue Eye Short Sword" />
+		<Item Index="78" Name="Blue Eye Sword" />
+		<Item Index="79" Name="Blue Eye Magic Sword" />
+		<Item Index="80" Name="Blue Eye Claw" />
+		<Item Index="93" Name="Blue Eye Magic Two-Handed Sword" />
+		<Item Index="109" Name="Blue Eye Blade" />
+        2
+		<Item Index="40" Name="Blue Eye Scepter" />
+		<Item Index="41" Name="Blue Eye Rune Mace" />
+        3
+		<Item Index="29" Name="Blue Eye Lance" />
+        4
+		<Item Index="40" Name="Blue Eye Bow" />
+		<Item Index="41" Name="Blue Eye Quiver" />
+		<Item Index="52" Name="Blue Eye Magic Gun" />
+        5
+		<Item Index="61" Name="Blue Eye Staff" />
+		<Item Index="62" Name="Blue Eye Stick" />
+		<Item Index="63" Name="Blue Eye Book" />
+		<Item Index="77" Name="Blue Eye Magic Book" />
+		<Item Index="90" Name="Blue Eye Orb" />
+        6
+		<Item Index="48" Name="Blue Eye Shield" />
+		<Item Index="54" Name="Blue Eye Fairy Shield" />
+
+		<Item Index="129" Name="Blue Eye Rune Mage Helm" />
+		<Item Index="129" Name="Blue Eye Rune Mage Armor" />
+		<Item Index="129" Name="Blue Eye Rune Mage Pants" />
+		<Item Index="129" Name="Blue Eye Rune Mage Gloves" />
+		<Item Index="129" Name="Blue Eye Rune Mage Boots" />
+
+
+		<Item Index="164" Name="Blue Eye Knight Helm [S]" />
+		<Item Index="164" Name="Blue Eye Knight Armor [S]" />
+		<Item Index="164" Name="Blue Eye Knight Pants [S]" />
+		<Item Index="164" Name="Blue Eye Knight Gloves [S]" />
+		<Item Index="164" Name="Blue Eye Knight Boots [S]" />
+
+		<Item Index="165" Name="Blue Eye Wizard Helm" />
+		<Item Index="165" Name="Blue Eye Wizard Armor" />
+		<Item Index="165" Name="Blue Eye Wizard Pants" />
+		<Item Index="165" Name="Blue Eye Wizard Gloves" />
+		<Item Index="165" Name="Blue Eye Wizard Boots" />
+
+		<Item Index="166" Name="Blue Eye Elf Helm [A]" />
+		<Item Index="166" Name="Blue Eye Elf Armor [A]" />
+		<Item Index="166" Name="Blue Eye Elf Pants [A]" />
+		<Item Index="166" Name="Blue Eye Elf Gloves [A]" />
+		<Item Index="166" Name="Blue Eye Elf Boots [A]" />
+
+
+		<Item Index="167" Name="Blue Eye Summoner Helm" />
+		<Item Index="167" Name="Blue Eye Summoner Armor" />
+		<Item Index="167" Name="Blue Eye Summoner Pants" />
+		<Item Index="167" Name="Blue Eye Summoner Gloves" />
+		<Item Index="167" Name="Blue Eye Summoner Boots" />
+
+		<Item Index="169" Name="Blue Eye Lord Helm" />
+		<Item Index="169" Name="Blue Eye Lord Armor" />
+		<Item Index="169" Name="Blue Eye Lord Pants" />
+		<Item Index="169" Name="Blue Eye Lord Gloves" />
+		<Item Index="169" Name="Blue Eye Lord Boots" />
+
+
+		<Item Index="170" Name="Blue Eye Fighter Helm" />
+		<Item Index="170" Name="Blue Eye Fighter Armor" />
+		<Item Index="170" Name="Blue Eye Fighter Pants" />
+		<Item Index="170" Name="Blue Eye Fighter Boots" />
+
+		<Item Index="168" Name="Blue Eye Magic Armor [S]" />
+		<Item Index="168" Name="Blue Eye Magic Pants [S]" />
+		<Item Index="168" Name="Blue Eye Magic Gloves [S]" />
+		<Item Index="168" Name="Blue Eye Magic Boots [S]" />
+
+		<Item Index="171" Name="Blue Eye Lancer Helm" />
+		<Item Index="171" Name="Blue Eye Lancer Armor" />
+		<Item Index="171" Name="Blue Eye Lancer Pants" />
+		<Item Index="171" Name="Blue Eye Lancer Gloves" />
+		<Item Index="171" Name="Blue Eye Lancer Boots" />
+
+		<Item Index="172" Name="Blue Eye Elf Helm [E]" />
+		<Item Index="172" Name="Blue Eye Elf Armor [E]" />
+		<Item Index="172" Name="Blue Eye Elf Pants [E]" />
+		<Item Index="172" Name="Blue Eye Elf Gloves [E]" />
+		<Item Index="172" Name="Blue Eye Elf Boots [E]" />
+
+		<Item Index="184" Name="Blue Eye Slayer Helm" />
+		<Item Index="184" Name="Blue Eye Slayer Armor" />
+		<Item Index="184" Name="Blue Eye Slayer Pants" />
+		<Item Index="184" Name="Blue Eye Slayer Gloves" />
+		<Item Index="184" Name="Blue Eye Slayer Boots" />
+
+		<Item Index="204" Name="Blue Eye Knight Helm [E]" />
+		<Item Index="204" Name="Blue Eye Knight Armor [E]" />
+		<Item Index="204" Name="Blue Eye Knight Pants [E]" />
+		<Item Index="204" Name="Blue Eye Knight Gloves [E]" />
+		<Item Index="204" Name="Blue Eye Knight Boots [E]" />
+
+		<Item Index="216" Name="Blue Eye Gun Crusher Helm" />
+		<Item Index="216" Name="Blue Eye Gun Crusher Armor" />
+		<Item Index="216" Name="Blue Eye Gun Crusher Pants" />
+		<Item Index="216" Name="Blue Eye Gun Crusher Gloves" />
+		<Item Index="216" Name="Blue Eye Gun Crusher Boots" />
+
+		<Item Index="245" Name="Blue Eye White Wizard Helm" />
+		<Item Index="245" Name="Blue Eye White Wizard Armor" />
+		<Item Index="245" Name="Blue Eye White Wizard Pants" />
+		<Item Index="245" Name="Blue Eye White Wizard Gloves" />
+		<Item Index="245" Name="Blue Eye White Wizard Boots" />
+
+		<Item Index="263" Name="Blue Eye Mage Helm" />
+		<Item Index="263" Name="Blue Eye Mage Armor" />
+		<Item Index="263" Name="Blue Eye Mage Pants" />
+		<Item Index="263" Name="Blue Eye Mage Gloves" />
+		<Item Index="263" Name="Blue Eye Mage Boots" />
+
+		<Item Index="173" Name="Blue Eye Magic Armor [E]" />
+		<Item Index="173" Name="Blue Eye Magic Pants [E]" />
+		<Item Index="173" Name="Blue Eye Magic Gloves [E]" />
+		<Item Index="173" Name="Blue Eye Magic Boots [E]" />
+
+		<Item Index="310" Name="Blue Eye Illusion Knight Helm" />
+		<Item Index="310" Name="Blue Eye Illusion Knight Armor" />
+		<Item Index="310" Name="Blue Eye Illusion Knight Pants" />
+		<Item Index="310" Name="Blue Eye Illusion Knight Gloves" />
+		<Item Index="310" Name="Blue Eye Illusion Knight Boots" />
+
+

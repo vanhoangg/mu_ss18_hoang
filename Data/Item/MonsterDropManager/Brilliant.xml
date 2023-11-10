@@ -1,0 +1,118 @@
+		<Item Index="96" Name="Brilliant Sword" />
+		<Item Index="97" Name="Brilliant Magic Sword" />
+		<Item Index="98" Name="Brilliant Claw" />
+		<Item Index="99" Name="Brilliant Short Sword" />
+		<Item Index="100" Name="Brilliant Magic Two-Handed Sword" />
+		<Item Index="112" Name="Brilliant Blade" />
+		<Item Index="46" Name="Brilliant Scepter" />
+		<Item Index="47" Name="Brilliant Rune Mace" />
+		<Item Index="32" Name="Brilliant Lance" />
+		<Item Index="60" Name="Brilliant Magic Gun" />
+		<Item Index="61" Name="Brilliant Bow" />
+		<Item Index="62" Name="Brilliant Quiver" />
+		<Item Index="99" Name="Brilliant Staff" />
+		<Item Index="100" Name="Brilliant Stick" />
+		<Item Index="101" Name="Brilliant Book" />
+		<Item Index="102" Name="Brilliant Magic Book" />
+		<Item Index="103" Name="Brilliant Orb" />
+		<Item Index="57" Name="Brilliant Fairy Shield" />
+		<Item Index="59" Name="Brilliant Shield" />
+
+		<Item Index="248" Name="Brilliant White Wizard Helm" />
+		<Item Index="248" Name="Brilliant White Wizard Armor" />
+		<Item Index="248" Name="Brilliant White Wizard Pants" />
+		<Item Index="248" Name="Brilliant White Wizard Gloves" />
+		<Item Index="248" Name="Brilliant White Wizard Boots" />
+
+		<Item Index="266" Name="Brilliant Mage Helm" />
+		<Item Index="266" Name="Brilliant Mage Armor" />
+		<Item Index="266" Name="Brilliant Mage Pants" />
+		<Item Index="266" Name="Brilliant Mage Gloves" />
+		<Item Index="266" Name="Brilliant Mage Boots" />
+
+		<Item Index="270" Name="Brilliant Knight Helm [S]" />
+		<Item Index="270" Name="Brilliant Knight Armor [S]" />
+		<Item Index="270" Name="Brilliant Knight Pants [S]" />
+		<Item Index="270" Name="Brilliant Knight Gloves [S]" />
+		<Item Index="270" Name="Brilliant Knight Boots [S]" />
+
+		<Item Index="271" Name="Brilliant Wizard Helm" />
+		<Item Index="271" Name="Brilliant Wizard Armor" />
+		<Item Index="271" Name="Brilliant Wizard Pants" />
+		<Item Index="271" Name="Brilliant Wizard Gloves" />
+		<Item Index="271" Name="Brilliant Wizard Boots" />
+
+		<Item Index="272" Name="Brilliant Elf Helm [A]" />
+		<Item Index="272" Name="Brilliant Elf Armor [A]" />
+		<Item Index="272" Name="Brilliant Elf Pants [A]" />
+		<Item Index="272" Name="Brilliant Elf Gloves [A]" />
+		<Item Index="272" Name="Brilliant Elf Boots [A]" />
+
+		<Item Index="273" Name="Brilliant Summoner Helm" />
+		<Item Index="273" Name="Brilliant Summoner Armor" />
+		<Item Index="273" Name="Brilliant Summoner Pants" />
+		<Item Index="273" Name="Brilliant Summoner Gloves" />
+		<Item Index="273" Name="Brilliant Summoner Boots" />
+
+		<Item Index="275" Name="Brilliant Lord Helm" />
+		<Item Index="275" Name="Brilliant Lord Armor" />
+		<Item Index="275" Name="Brilliant Lord Pants" />
+		<Item Index="275" Name="Brilliant Lord Gloves" />
+		<Item Index="275" Name="Brilliant Lord Boots" />
+
+		<Item Index="276" Name="Brilliant Fighter Helm" />
+		<Item Index="276" Name="Brilliant Fighter Armor" />
+		<Item Index="276" Name="Brilliant Fighter Pants" />
+		<Item Index="276" Name="Brilliant Fighter Boots" />
+
+		<Item Index="277" Name="Brilliant Lancer Helm" />
+		<Item Index="277" Name="Brilliant Lancer Armor" />
+		<Item Index="277" Name="Brilliant Lancer Pants" />
+		<Item Index="277" Name="Brilliant Lancer Gloves" />
+		<Item Index="277" Name="Brilliant Lancer Boots" />
+
+		<Item Index="278" Name="Brilliant Elf Helm [E]" />
+		<Item Index="278" Name="Brilliant Elf Armor [E]" />
+		<Item Index="278" Name="Brilliant Elf Pants [E]" />
+		<Item Index="278" Name="Brilliant Elf Gloves [E]" />
+		<Item Index="278" Name="Brilliant Elf Boots [E]" />
+
+		<Item Index="280" Name="Brilliant Rune Mage Helm" />
+		<Item Index="280" Name="Brilliant Rune Mage Armor" />
+		<Item Index="280" Name="Brilliant Rune Mage Pants" />
+		<Item Index="280" Name="Brilliant Rune Mage Gloves" />
+		<Item Index="280" Name="Brilliant Rune Mage Boots" />
+
+		<Item Index="281" Name="Brilliant Slayer Helm" />
+		<Item Index="281" Name="Brilliant Slayer Armor" />
+		<Item Index="281" Name="Brilliant Slayer Pants" />
+		<Item Index="281" Name="Brilliant Slayer Gloves" />
+		<Item Index="281" Name="Brilliant Slayer Boots" />
+
+		<Item Index="282" Name="Brilliant Knight Helm [E]" />
+		<Item Index="282" Name="Brilliant Knight Armor [E]" />
+		<Item Index="282" Name="Brilliant Knight Pants [E]" />
+		<Item Index="282" Name="Brilliant Knight Gloves [E]" />
+		<Item Index="282" Name="Brilliant Knight Boots [E]" />
+
+		<Item Index="283" Name="Brilliant Gun Crusher Helm" />
+		<Item Index="283" Name="Brilliant Gun Crusher Armor" />
+		<Item Index="283" Name="Brilliant Gun Crusher Pants" />
+		<Item Index="283" Name="Brilliant Gun Crusher Gloves" />
+		<Item Index="283" Name="Brilliant Gun Crusher Boots" />
+
+		<Item Index="313" Name="Brilliant Illusion Knight Helm" />
+		<Item Index="313" Name="Brilliant Illusion Knight Armor" />
+		<Item Index="313" Name="Brilliant Illusion Knight Pants" />
+		<Item Index="313" Name="Brilliant Illusion Knight Gloves" />
+		<Item Index="313" Name="Brilliant Illusion Knight Boots" />
+
+		<Item Index="274" Name="Brilliant Magic Armor [S]" />
+		<Item Index="274" Name="Brilliant Magic Pants [S]" />
+		<Item Index="274" Name="Brilliant Magic Gloves [S]" />
+		<Item Index="274" Name="Brilliant Magic Boots [S]" />
+
+		<Item Index="279" Name="Brilliant Magic Armor [E]" />
+		<Item Index="279" Name="Brilliant Magic Pants [E]" />
+		<Item Index="279" Name="Brilliant Magic Gloves [E]" />
+		<Item Index="279" Name="Brilliant Magic Boots [E]" />

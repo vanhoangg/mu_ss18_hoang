@@ -1,0 +1,126 @@
+	    0
+    	<Item Index="62" Name="Soul Sword" /> 
+		<Item Index="63" Name="Soul Magic Sword" /> 
+		<Item Index="64" Name="Soul Claw" /> 
+		<Item Index="74" Name="Soul Short Sword" /> 
+		<Item Index="92" Name="Soul Magic Two-Handed Sword" /> 
+        2
+		<Item Index="36" Name="Soul Scepter" /> 
+		<Item Index="39" Name="Soul Rune Mace" /> 
+        3
+		<Item Index="28" Name="Soul Lance" /> 
+        4
+		<Item Index="38" Name="Soul Bow" /> 
+		<Item Index="39" Name="Soul Quiver" /> 
+		<Item Index="51" Name="Soul Magic Gun" />
+        5 
+		<Item Index="55" Name="Soul Staff" /> 
+		<Item Index="56" Name="Soul Stick" /> 
+		<Item Index="60" Name="Book of Soul" /> 
+		<Item Index="76" Name="Soul Magic Book" /> 
+		<Item Index="89" Name="Soul Orb" /> 
+        6
+		<Item Index="47" Name="Soul Shield" /> 
+		<Item Index="53" Name="Soul Fairy Shield" /> 
+        7
+ 		<Item Index="106" Name="Soul Knight Helm [S]" /> 
+		<Item Index="106" Name="Soul Knight Armor [S]" /> 
+		<Item Index="106" Name="Soul Knight Pants [S]" /> 
+		<Item Index="106" Name="Soul Knight Gloves [S]" /> 
+		<Item Index="106" Name="Soul Knight Boots [S]" /> 
+
+ 		<Item Index="107" Name="Soul Wizard Helm" /> 
+		<Item Index="107" Name="Soul Wizard Armor" /> 
+		<Item Index="107" Name="Soul Wizard Pants" /> 
+		<Item Index="107" Name="Soul Wizard Gloves" /> 
+		<Item Index="107" Name="Soul Wizard Boots" /> 
+
+ 		<Item Index="108" Name="Soul Blade" /> 
+		<Item Index="108" Name="Soul Elf Helm [A]" /> 
+		<Item Index="108" Name="Soul Elf Armor [A]" /> 
+		<Item Index="108" Name="Soul Elf Pants [A]" /> 
+		<Item Index="108" Name="Soul Elf Gloves [A]" /> 
+		<Item Index="108" Name="Soul Elf Boots [A]" /> 
+
+  		<Item Index="109" Name="Soul Summoner Helm" /> 
+		<Item Index="109" Name="Soul Summoner Armor" /> 
+		<Item Index="109" Name="Soul Summoner Pants" /> 
+		<Item Index="109" Name="Soul Summoner Gloves" /> 
+		<Item Index="109" Name="Soul Summoner Boots" /> 
+
+		<Item Index="111" Name="Soul Lord Helm" /> 
+		<Item Index="111" Name="Soul Lord Armor" /> 
+		<Item Index="111" Name="Soul Lord Pants" /> 
+		<Item Index="111" Name="Soul Lord Gloves" /> 
+		<Item Index="111" Name="Soul Lord Boots" /> 
+
+		<Item Index="112" Name="Soul Fighter Helm" /> 
+		<Item Index="112" Name="Soul Fighter Armor" /> 
+		<Item Index="112" Name="Soul Fighter Pants" /> 
+		<Item Index="112" Name="Soul Fighter Boots" /> 
+
+		<Item Index="113" Name="Soul Lancer Helm" /> 
+		<Item Index="113" Name="Soul Lancer Armor" /> 
+		<Item Index="113" Name="Soul Lancer Pants" /> 
+		<Item Index="113" Name="Soul Lancer Gloves" /> 
+		<Item Index="113" Name="Soul Lancer Boots" /> 
+
+		<Item Index="114" Name="Soul Elf Helm [E]" /> 
+		<Item Index="114" Name="Soul Elf Armor [E]" /> 
+		<Item Index="114" Name="Soul Elf Pants [E]" /> 
+		<Item Index="114" Name="Soul Elf Gloves [E]" /> 
+		<Item Index="114" Name="Soul Elf Boots [E]" /> 
+
+		<Item Index="128" Name="Soul Rune Mage Helm" /> 
+		<Item Index="128" Name="Soul Rune Mage Armor" /> 
+		<Item Index="128" Name="Soul Rune Mage Pants" /> 
+		<Item Index="128" Name="Soul Rune Mage Gloves" /> 
+		<Item Index="128" Name="Soul Rune Mage Boots" /> 
+
+		<Item Index="183" Name="Soul Slayer Helm" /> 
+		<Item Index="183" Name="Soul Slayer Armor" /> 
+		<Item Index="183" Name="Soul Slayer Pants" /> 
+		<Item Index="183" Name="Soul Slayer Gloves" /> 
+		<Item Index="183" Name="Soul Slayer Boots" /> 
+
+		<Item Index="203" Name="Soul Knight Helm [E]" /> 
+		<Item Index="203" Name="Soul Knight Armor [E]" /> 
+		<Item Index="203" Name="Soul Knight Pants [E]" /> 
+		<Item Index="203" Name="Soul Knight Gloves [E]" /> 
+		<Item Index="203" Name="Soul Knight Boots [E]" /> 
+
+		<Item Index="215" Name="Soul Gun Crusher Helm" /> 
+		<Item Index="215" Name="Soul Gun Crusher Armor" /> 
+		<Item Index="215" Name="Soul Gun Crusher Pants" /> 
+		<Item Index="215" Name="Soul Gun Crusher Gloves" /> 
+		<Item Index="215" Name="Soul Gun Crusher Boots" /> 
+
+		<Item Index="244" Name="Soul White Wizard Helm" /> 
+		<Item Index="244" Name="Soul White Wizard Armor" /> 
+		<Item Index="244" Name="Soul White Wizard Pants" /> 
+		<Item Index="244" Name="Soul White Wizard Gloves" /> 
+		<Item Index="244" Name="Soul White Wizard Boots" /> 
+
+		<Item Index="262" Name="Soul Mage Helm" /> 
+		<Item Index="262" Name="Soul Mage Armor" /> 
+		<Item Index="262" Name="Soul Mage Pants" /> 
+		<Item Index="262" Name="Soul Mage Gloves" /> 
+		<Item Index="262" Name="Soul Mage Boots" /> 
+
+		<Item Index="309" Name="Soul Illusion Knight Helm" /> 
+		<Item Index="309" Name="Soul Illusion Knight Armor" /> 
+		<Item Index="309" Name="Soul Illusion Knight Pants" /> 
+		<Item Index="309" Name="Soul Illusion Knight Gloves" /> 
+		<Item Index="309" Name="Soul Illusion Knight Boots" /> 
+
+		<Item Index="110" Name="Soul Magic Armor [S]" /> 
+		<Item Index="110" Name="Soul Magic Pants [S]" /> 
+		<Item Index="110" Name="Soul Magic Gloves [S]" /> 
+		<Item Index="110" Name="Soul Magic Boots [S]" /> 
+
+		<Item Index="115" Name="Soul Magic Armor [E]" /> 
+		<Item Index="115" Name="Soul Magic Pants [E]" /> 
+		<Item Index="115" Name="Soul Magic Gloves [E]" /> 
+		<Item Index="115" Name="Soul Magic Boots [E]" /> 
+
+	

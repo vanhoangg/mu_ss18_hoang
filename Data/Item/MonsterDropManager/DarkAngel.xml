@@ -1,0 +1,127 @@
+		0
+        <Item Index="54" Name="Darkangel Sword" /> 
+		<Item Index="55" Name="Darkangel Magic Sword" /> 
+		<Item Index="56" Name="Darkangel Claw" /> 
+		<Item Index="72" Name="Darkangel Short Sword" /> 
+		<Item Index="90" Name="Darkangel Magic Two-Handed Sword" /> 
+		<Item Index="106" Name="Darkangel Blade" /> 
+		2
+        <Item Index="26" Name="Darkangel Scepter" /> 
+		<Item Index="33" Name="Darkangel Rune Mace" /> 
+		3
+        <Item Index="24" Name="Darkangel Lance" /> 
+		4
+        <Item Index="31" Name="Darkangel Bow" /> 
+		<Item Index="35" Name="Darkangel Quiver" /> 
+		<Item Index="49" Name="Darkangel Magic Gun" /> 
+		5
+        <Item Index="51" Name="Darkangel Staff" /> 
+		<Item Index="52" Name="Darkangel Stick" /> 
+		<Item Index="58" Name="Book of Darkangel" /> 
+		<Item Index="74" Name="Darkangel Magic Book" /> 
+		<Item Index="87" Name="Darkangel Orb" /> 
+		6
+        <Item Index="45" Name="Darkangel Shield" /> 
+		<Item Index="51" Name="Darkangel Fairy Shield" /> 
+
+      
+
+        <Item Index="123" Name="Darkangel Rune Mage Helm" /> 
+		<Item Index="123" Name="Darkangel Rune Mage Armor" /> 
+		<Item Index="123" Name="Darkangel Rune Mage Pants" /> 
+		<Item Index="123" Name="Darkangel Rune Mage Gloves" /> 
+		<Item Index="123" Name="Darkangel Rune Mage Boots" /> 
+
+		<Item Index="138" Name="Darkangel Knight Helm [S]" /> 
+		<Item Index="138" Name="Darkangel Knight Armor [S]" /> 
+		<Item Index="138" Name="Darkangel Knight Pants [S]" /> 
+		<Item Index="138" Name="Darkangel Knight Gloves [S]" /> 
+		<Item Index="138" Name="Darkangel Knight Boots [S]" /> 
+
+		<Item Index="139" Name="Darkangel Wizard Helm" /> 
+		<Item Index="139" Name="Darkangel Wizard Armor" /> 
+		<Item Index="139" Name="Darkangel Wizard Pants" /> 
+		<Item Index="139" Name="Darkangel Wizard Gloves" /> 
+		<Item Index="139" Name="Darkangel Wizard Boots" /> 
+
+        <Item Index="140" Name="Darkangel Elf Helm [A]" /> 
+		<Item Index="140" Name="Darkangel Elf Armor [A]" /> 
+		<Item Index="140" Name="Darkangel Elf Pants [A]" /> 
+		<Item Index="140" Name="Darkangel Elf Gloves [A]" /> 
+		<Item Index="140" Name="Darkangel Elf Boots [A]" /> 
+
+
+		<Item Index="141" Name="Darkangel Summoner Helm" /> 
+		<Item Index="141" Name="Darkangel Summoner Armor" /> 
+		<Item Index="141" Name="Darkangel Summoner Pants" /> 
+		<Item Index="141" Name="Darkangel Summoner Gloves" /> 
+		<Item Index="141" Name="Darkangel Summoner Boots" /> 
+
+        <Item Index="142" Name="Darkangel Magic Armor [S]" /> 
+		<Item Index="142" Name="Darkangel Magic Pants [S]" /> 
+		<Item Index="142" Name="Darkangel Magic Gloves [S]" /> 
+		<Item Index="142" Name="Darkangel Magic Boots [S]" /> 
+
+		<Item Index="143" Name="Darkangel Lord Helm" /> 
+		<Item Index="143" Name="Darkangel Lord Armor" /> 
+		<Item Index="143" Name="Darkangel Lord Pants" /> 
+		<Item Index="143" Name="Darkangel Lord Gloves" /> 
+		<Item Index="143" Name="Darkangel Lord Boots" /> 
+
+		<Item Index="144" Name="Darkangel Fighter Helm" /> 
+		<Item Index="144" Name="Darkangel Fighter Armor" /> 
+		<Item Index="144" Name="Darkangel Fighter Pants" /> 
+		<Item Index="144" Name="Darkangel Fighter Boots" /> 
+
+		<Item Index="145" Name="Darkangel Lancer Helm" /> 
+		<Item Index="145" Name="Darkangel Lancer Armor" /> 
+		<Item Index="145" Name="Darkangel Lancer Pants" /> 
+		<Item Index="145" Name="Darkangel Lancer Gloves" /> 
+		<Item Index="145" Name="Darkangel Lancer Boots" /> 
+
+		<Item Index="159" Name="Darkangel Elf Helm [E]" /> 
+		<Item Index="159" Name="Darkangel Elf Armor [E]" /> 
+		<Item Index="159" Name="Darkangel Elf Pants [E]" /> 
+		<Item Index="159" Name="Darkangel Elf Gloves [E]" /> 
+		<Item Index="159" Name="Darkangel Elf Boots [E]" /> 
+
+		<Item Index="162" Name="Darkangel Magic Armor [E]" /> 
+		<Item Index="162" Name="Darkangel Magic Pants [E]" /> 
+		<Item Index="162" Name="Darkangel Magic Gloves [E]" /> 
+		<Item Index="162" Name="Darkangel Magic Boots [E]" /> 
+
+		<Item Index="181" Name="Darkangel Slayer Helm" /> 
+		<Item Index="181" Name="Darkangel Slayer Armor" /> 
+		<Item Index="181" Name="Darkangel Slayer Pants" /> 
+		<Item Index="181" Name="Darkangel Slayer Gloves" /> 
+		<Item Index="181" Name="Darkangel Slayer Boots" /> 
+
+		<Item Index="201" Name="Darkangel Knight Helm [E]" /> 
+		<Item Index="201" Name="Darkangel Knight Armor [E]" /> 
+		<Item Index="201" Name="Darkangel Knight Pants [E]" /> 
+		<Item Index="201" Name="Darkangel Knight Gloves [E]" /> 
+		<Item Index="201" Name="Darkangel Knight Boots [E]" /> 
+
+		<Item Index="213" Name="Darkangel Gun Crusher Helm" /> 
+		<Item Index="213" Name="Darkangel Gun Crusher Armor" /> 
+		<Item Index="213" Name="Darkangel Gun Crusher Pants" /> 
+		<Item Index="213" Name="Darkangel Gun Crusher Gloves" /> 
+		<Item Index="213" Name="Darkangel Gun Crusher Boots" /> 
+
+		<Item Index="242" Name="Darkangel White Wizard Helm" /> 
+		<Item Index="242" Name="Darkangel White Wizard Armor" /> 
+		<Item Index="242" Name="Darkangel White Wizard Pants" /> 
+		<Item Index="242" Name="Darkangel White Wizard Gloves" /> 
+		<Item Index="242" Name="Darkangel White Wizard Boots" /> 
+
+		<Item Index="260" Name="Darkangel Mage Helm" /> 
+		<Item Index="260" Name="Darkangel Mage Armor" /> 
+		<Item Index="260" Name="Darkangel Mage Pants" /> 
+		<Item Index="260" Name="Darkangel Mage Gloves" /> 
+		<Item Index="260" Name="Darkangel Mage Boots" /> 
+
+		<Item Index="307" Name="Darkangel Illusion Knight Helm" /> 
+		<Item Index="307" Name="Darkangel Illusion Knight Armor" /> 
+		<Item Index="307" Name="Darkangel Illusion Knight Pants" /> 
+		<Item Index="307" Name="Darkangel Illusion Knight Gloves" /> 
+		<Item Index="307" Name="Darkangel Illusion Knight Boots" /> 

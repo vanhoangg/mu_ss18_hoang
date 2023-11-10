@@ -90,7 +90,7 @@ UserAnnouncementSwitch = 1
 ;==================================================
 ; Monster Settings
 ;==================================================
-MonsterLifeRate = 100
+MonsterLifeRate = 200
 MonsterHealthBarSwitch = 1
 MonsterReturnTime = 2
 
@@ -199,19 +199,19 @@ AddQuestExperienceRate_AL3 = 1
 ; Item Drop Settings
 ;==================================================
 ItemDropTime = 30
-ItemDropRate_AL0 = 2000
-ItemDropRate_AL1 = 2000
-ItemDropRate_AL2 = 2000
-ItemDropRate_AL3 = 2000
+ItemDropRate_AL0 = 300
+ItemDropRate_AL1 = 300
+ItemDropRate_AL2 = 300
+ItemDropRate_AL3 = 300
 
 ;==================================================
 ; Money Drop Settings
 ;==================================================
 MoneyDropTime = 30
-MoneyAmountDropRate_AL0 = 200
-MoneyAmountDropRate_AL1 = 200
-MoneyAmountDropRate_AL2 = 200
-MoneyAmountDropRate_AL3 = 200
+MoneyAmountDropRate_AL0 = 400
+MoneyAmountDropRate_AL1 = 400
+MoneyAmountDropRate_AL2 = 400
+MoneyAmountDropRate_AL3 = 400
 
 ;==================================================
 ; Item Durability Settings

@@ -15,3 +15,13 @@
 20:36:56 [PMATCHING][ConnectMember]LeaderName:ElfBuff, ConnectMemberName:IKBiv
 20:37:16 [PMATCHING][ChangeLeader]Leader: ElfBuff -> IKBiv
 20:37:18 [PMATCHING][DelPartyMember]Leader:IKBiv, Member:ElfBuff, MemberCnt:2
+21:43:06 [PMATCHING][DisConnectMember]LeaderName:IKBiv, ConnectMemberName:IKBiv
+21:43:09 [PMATCHING][ConnectMember]LeaderName:IKBiv, ConnectMemberName:IKBiv
+21:43:37 [PMATCHING][DisConnectMember]LeaderName:IKBiv, ConnectMemberName:SumBiv
+21:43:40 [PMATCHING][ConnectMember]LeaderName:IKBiv, ConnectMemberName:SumBiv
+21:47:59 [PMATCHING][DelPartyMember]Leader:IKBiv, Member:SumBiv, MemberCnt:1
+21:48:04 [PMATCHING][DelParty]Leader:IKBiv, TotalPartyCnt:0
+21:48:13 [PMATCHING][CreateParty]Leader:ElfBuff TotalPartyCnt:1 - Success
+21:48:19 [PMATCHING][AddPartyMember]Leader:ElfBuff, Member:IKBiv, MemberCnt:2
+21:59:58 [PMATCHING][AddPartyMember]Leader:ElfBuff, Member:SumBiv, MemberCnt:3
+22:52:48 [PMATCHING][DisConnectMember]LeaderName:ElfBuff, ConnectMemberName:ElfBuff

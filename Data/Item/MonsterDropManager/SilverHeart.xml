@@ -1,0 +1,131 @@
+		0
+        <Item Index="81" Name="Silver Heart Sword" />
+		<Item Index="82" Name="Silver Heart Magic Sword" />
+		<Item Index="83" Name="Silver Heart Claw" />
+		<Item Index="84" Name="Silver Heart Shortsword" />
+		<Item Index="94" Name="Silver Heart Magic Two-Handed Sword" />
+		<Item Index="110" Name="Silver Heart Blade" />
+        2
+		<Item Index="42" Name="Silver Heart Scepter" />
+		<Item Index="43" Name="Silver Heart Rune Mace" />
+        3
+		<Item Index="30" Name="Silver Heart Lance" />
+        4
+		<Item Index="53" Name="Silver Heart Magic Gun" />
+		<Item Index="56" Name="Silver Heart Bow" />
+		<Item Index="57" Name="Silver Heart Quiver" />
+        5
+		<Item Index="64" Name="Silver Heart Staff" />
+		<Item Index="65" Name="Silver Heart Stick" />
+		<Item Index="66" Name="Silver Heart Book" />
+		<Item Index="78" Name="Silver Heart Magic Book" />
+		<Item Index="91" Name="Silver Heart Orb" />
+        6
+		<Item Index="49" Name="Silver Heart Shield" />
+		<Item Index="55" Name="Silver Heart Fairy Shield" />
+
+		<Item Index="190" Name="Silver Heart Wizard Helm" />
+		<Item Index="190" Name="Silver Heart Wizard Armor" />
+		<Item Index="190" Name="Silver Heart Wizard Pants" />
+		<Item Index="190" Name="Silver Heart Wizard Gloves" />
+		<Item Index="190" Name="Silver Heart Wizard Boots" />
+
+		<Item Index="191" Name="Silver Heart Elf Helm [A]" />
+		<Item Index="191" Name="Silver Heart Elf Armor [A]" />
+		<Item Index="191" Name="Silver Heart Elf Pants [A]" />
+		<Item Index="191" Name="Silver Heart Elf Gloves [A]" />
+		<Item Index="191" Name="Silver Heart Elf Boots [A]" />
+
+		<Item Index="192" Name="Silver Heart Summoner Helm" />
+		<Item Index="192" Name="Silver Heart Summoner Armor" />
+		<Item Index="192" Name="Silver Heart Summoner Pants" />
+		<Item Index="192" Name="Silver Heart Summoner Gloves" />
+		<Item Index="192" Name="Silver Heart Summoner Boots" />
+
+		<Item Index="193" Name="Silver Heart Magic Armor [S]" />
+		<Item Index="193" Name="Silver Heart Magic Pants [S]" />
+		<Item Index="193" Name="Silver Heart Magic Gloves [S]" />
+		<Item Index="193" Name="Silver Heart Magic Boots [S]" />
+
+
+		<Item Index="194" Name="Silver Heart Lord Helm" />
+		<Item Index="194" Name="Silver Heart Lord Armor" />
+		<Item Index="194" Name="Silver Heart Lord Pants" />
+		<Item Index="194" Name="Silver Heart Lord Gloves" />
+		<Item Index="194" Name="Silver Heart Lord Boots" />
+
+
+		<Item Index="196" Name="Silver Heart Lancer Helm" />
+		<Item Index="196" Name="Silver Heart Lancer Armor" />
+		<Item Index="196" Name="Silver Heart Lancer Pants" />
+		<Item Index="196" Name="Silver Heart Lancer Gloves" />
+		<Item Index="196" Name="Silver Heart Lancer Boots" />
+
+
+		<Item Index="197" Name="Silver Heart Elf Helm [E]" />
+		<Item Index="197" Name="Silver Heart Elf Armor [E]" />
+		<Item Index="197" Name="Silver Heart Elf Pants [E]" />
+		<Item Index="197" Name="Silver Heart Elf Gloves [E]" />
+		<Item Index="197" Name="Silver Heart Elf Boots [E]" />
+
+
+		<Item Index="198" Name="Silver Heart Magic Armor [E]" />
+		<Item Index="198" Name="Silver Heart Magic Pants [E]" />
+		<Item Index="198" Name="Silver Heart Magic Gloves [E]" />
+		<Item Index="198" Name="Silver Heart Magic Boots [E]" />
+
+		<Item Index="199" Name="Silver Heart Rune Mage Helm" />
+		<Item Index="199" Name="Silver Heart Rune Mage Armor" />
+		<Item Index="199" Name="Silver Heart Rune Mage Pants" />
+		<Item Index="199" Name="Silver Heart Rune Mage Gloves" />
+		<Item Index="199" Name="Silver Heart Rune Mage Boots" />
+
+		<Item Index="205" Name="Silver Heart Knight Helm [E]" />
+		<Item Index="205" Name="Silver Heart Knight Armor [E]" />
+		<Item Index="205" Name="Silver Heart Knight Pants [E]" />
+		<Item Index="205" Name="Silver Heart Knight Gloves [E]" />
+		<Item Index="205" Name="Silver Heart Knight Boots [E]" />
+
+		<Item Index="217" Name="Silver Heart Gun Crusher Helm" />
+		<Item Index="217" Name="Silver Heart Gun Crusher Armor" />
+		<Item Index="217" Name="Silver Heart Gun Crusher Pants" />
+		<Item Index="217" Name="Silver Heart Gun Crusher Gloves" />
+		<Item Index="217" Name="Silver Heart Gun Crusher Boots" />
+
+		<Item Index="246" Name="Silver Heart White Wizard Helm" />
+		<Item Index="246" Name="Silver Heart White Wizard Armor" />
+		<Item Index="246" Name="Silver Heart White Wizard Pants" />
+		<Item Index="246" Name="Silver Heart White Wizard Gloves" />
+		<Item Index="246" Name="Silver Heart White Wizard Boots" />
+
+		<Item Index="264" Name="Silver Heart Mage Helm" />
+		<Item Index="264" Name="Silver Heart Mage Armor" />
+		<Item Index="264" Name="Silver Heart Mage Pants" />
+		<Item Index="264" Name="Silver Heart Mage Gloves" />
+		<Item Index="264" Name="Silver Heart Mage Boots" />
+
+		<Item Index="311" Name="Silver Heart Illusion Knight Helm" />
+		<Item Index="311" Name="Silver Heart Illusion Knight Armor" />
+		<Item Index="311" Name="Silver Heart Illusion Knight Pants" />
+		<Item Index="311" Name="Silver Heart Illusion Knight Gloves" />
+		<Item Index="311" Name="Silver Heart Illusion Knight Boots" />
+
+		<Item Index="195" Name="Silver Heart Fighter Helm" />
+		<Item Index="195" Name="Silver Heart Fighter Armor" />
+		<Item Index="195" Name="Silver Heart Fighter Pants" />
+		<Item Index="195" Name="Silver Heart Fighter Boots" />
+
+
+		<Item Index="185" Name="Silver Heart Slayer Helm" />
+		<Item Index="185" Name="Silver Heart Slayer Armor" />
+		<Item Index="185" Name="Silver Heart Slayer Pants" />
+		<Item Index="185" Name="Silver Heart Slayer Gloves" />
+		<Item Index="185" Name="Silver Heart Slayer Boots" />
+        
+		<Item Index="189" Name="Silver Heart Knight Helm [S]" />
+		<Item Index="189" Name="Silver Heart Knight Armor [S]" />
+		<Item Index="189" Name="Silver Heart Knight Pants [S]" />
+		<Item Index="189" Name="Silver Heart Knight Gloves [S]" />
+		<Item Index="189" Name="Silver Heart Knight Boots [S]" />
+        
+

@@ -1,0 +1,3 @@
+21:43:06 [Offattack LOG][Disconnect Character] Name:IKBiv | type:4
+21:43:37 [Offattack LOG][Disconnect Character] Name:SumBiv | type:4
+22:52:48 [Offattack LOG][Disconnect Character] Name:IKBiv | type:6

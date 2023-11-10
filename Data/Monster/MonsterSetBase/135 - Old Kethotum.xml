@@ -19,37 +19,37 @@
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<SPOT>
 	<!-- Esquerda Inferior-->
-	<Config Class="894" Range="5" BeginPosX="066" BeginPosY="060" EndPosX="071" EndPosY="064" Direction="-1" Quantity="2" Element="6" /> <!-- "Old Crimson Harpy" -->
-	<Config Class="892" Range="5" BeginPosX="066" BeginPosY="060" EndPosX="071" EndPosY="064" Direction="-1" Quantity="1" Element="6" /> <!-- "Old Crimson Harpy" -->
+	<Config Class="894" Range="5" BeginPosX="066" BeginPosY="060" EndPosX="071" EndPosY="064" Direction="-1" Quantity="6" Element="6" /> <!-- "Old Crimson Harpy" -->
+	<Config Class="892" Range="5" BeginPosX="066" BeginPosY="060" EndPosX="071" EndPosY="064" Direction="-1" Quantity="6" Element="6" /> <!-- "Old Crimson Harpy" -->
 	
-	<Config Class="894" Range="5" BeginPosX="039" BeginPosY="055" EndPosX="044" EndPosY="061" Direction="-1" Quantity="2" Element="6" /> <!-- "Old Crimson Harpy" -->
-	<Config Class="892" Range="5" BeginPosX="039" BeginPosY="055" EndPosX="044" EndPosY="061" Direction="-1" Quantity="1" Element="6" /> <!-- "Old Crimson Harpy" -->
+	<Config Class="894" Range="5" BeginPosX="039" BeginPosY="055" EndPosX="044" EndPosY="061" Direction="-1" Quantity="6" Element="6" /> <!-- "Old Crimson Harpy" -->
+	<Config Class="892" Range="5" BeginPosX="039" BeginPosY="055" EndPosX="044" EndPosY="061" Direction="-1" Quantity="6" Element="6" /> <!-- "Old Crimson Harpy" -->
 	
-	<Config Class="892" Range="5" BeginPosX="077" BeginPosY="031" EndPosX="081" EndPosY="036" Direction="-1" Quantity="3" Element="6" /> <!-- "Old Crimson Minus" -->
-	<Config Class="892" Range="5" BeginPosX="077" BeginPosY="031" EndPosX="081" EndPosY="036" Direction="-1" Quantity="3" Element="6" /> <!-- "Old Crimson Minus" -->
+	<Config Class="892" Range="5" BeginPosX="077" BeginPosY="031" EndPosX="081" EndPosY="036" Direction="-1" Quantity="6" Element="6" /> <!-- "Old Crimson Minus" -->
+	<Config Class="892" Range="5" BeginPosX="077" BeginPosY="031" EndPosX="081" EndPosY="036" Direction="-1" Quantity="6" Element="6" /> <!-- "Old Crimson Minus" -->
 	
-	<Config Class="894" Range="5" BeginPosX="098" BeginPosY="006" EndPosX="100" EndPosY="013" Direction="-1" Quantity="3" Element="6" /> <!-- "Old Crimson Minus" -->
-	<Config Class="894" Range="5" BeginPosX="098" BeginPosY="006" EndPosX="100" EndPosY="013" Direction="-1" Quantity="3" Element="6" /> <!-- "Old Crimson Minus" -->
+	<Config Class="894" Range="5" BeginPosX="098" BeginPosY="006" EndPosX="100" EndPosY="013" Direction="-1" Quantity="6" Element="6" /> <!-- "Old Crimson Minus" -->
+	<Config Class="894" Range="5" BeginPosX="098" BeginPosY="006" EndPosX="100" EndPosY="013" Direction="-1" Quantity="6" Element="6" /> <!-- "Old Crimson Minus" -->
 	
-	<Config Class="892" Range="5" BeginPosX="059" BeginPosY="013" EndPosX="064" EndPosY="020" Direction="-1" Quantity="3" Element="6" /> <!-- "Old Crimson Minus" -->
-	<Config Class="892" Range="5" BeginPosX="059" BeginPosY="013" EndPosX="064" EndPosY="020" Direction="-1" Quantity="3" Element="6" /> <!-- "Old Crimson Minus" -->
+	<Config Class="892" Range="5" BeginPosX="059" BeginPosY="013" EndPosX="064" EndPosY="020" Direction="-1" Quantity="6" Element="6" /> <!-- "Old Crimson Minus" -->
+	<Config Class="892" Range="5" BeginPosX="059" BeginPosY="013" EndPosX="064" EndPosY="020" Direction="-1" Quantity="6" Element="6" /> <!-- "Old Crimson Minus" -->
 	
-	<Config Class="893" Range="5" BeginPosX="035" BeginPosY="008" EndPosX="041" EndPosY="013" Direction="-1" Quantity="3" Element="6" /> <!-- "Old Crimson Minus" -->
+	<Config Class="893" Range="5" BeginPosX="035" BeginPosY="008" EndPosX="041" EndPosY="013" Direction="-1" Quantity="6" Element="6" /> <!-- "Old Crimson Minus" -->
 	<!-- Centro -->
-	<Config Class="894" Range="5" BeginPosX="105" BeginPosY="095" EndPosX="110" EndPosY="097" Direction="-1" Quantity="2" Element="6" /> <!-- "Old Crimson Harpy" -->
-	<Config Class="892" Range="5" BeginPosX="105" BeginPosY="095" EndPosX="110" EndPosY="097" Direction="-1" Quantity="1" Element="6" /> <!-- "Old Crimson Harpy" -->
+	<Config Class="894" Range="5" BeginPosX="105" BeginPosY="095" EndPosX="110" EndPosY="097" Direction="-1" Quantity="6" Element="6" /> <!-- "Old Crimson Harpy" -->
+	<Config Class="892" Range="5" BeginPosX="105" BeginPosY="095" EndPosX="110" EndPosY="097" Direction="-1" Quantity="6" Element="6" /> <!-- "Old Crimson Harpy" -->
 	
-	<Config Class="894" Range="5" BeginPosX="145" BeginPosY="093" EndPosX="150" EndPosY="097" Direction="-1" Quantity="2" Element="6" /> <!-- "Old Crimson Harpy" -->
-	<Config Class="892" Range="5" BeginPosX="145" BeginPosY="093" EndPosX="150" EndPosY="097" Direction="-1" Quantity="1" Element="6" /> <!-- "Old Crimson Harpy" -->
+	<Config Class="894" Range="5" BeginPosX="145" BeginPosY="093" EndPosX="150" EndPosY="097" Direction="-1" Quantity="6" Element="6" /> <!-- "Old Crimson Harpy" -->
+	<Config Class="892" Range="5" BeginPosX="145" BeginPosY="093" EndPosX="150" EndPosY="097" Direction="-1" Quantity="6" Element="6" /> <!-- "Old Crimson Harpy" -->
 
-	<Config Class="894" Range="5" BeginPosX="139" BeginPosY="130" EndPosX="144" EndPosY="134" Direction="-1" Quantity="2" Element="6" /> <!-- "Old Crimson Harpy" -->
-	<Config Class="892" Range="5" BeginPosX="139" BeginPosY="130" EndPosX="144" EndPosY="134" Direction="-1" Quantity="1" Element="6" /> <!-- "Old Crimson Harpy" -->
+	<Config Class="894" Range="5" BeginPosX="139" BeginPosY="130" EndPosX="144" EndPosY="134" Direction="-1" Quantity="6" Element="6" /> <!-- "Old Crimson Harpy" -->
+	<Config Class="892" Range="5" BeginPosX="139" BeginPosY="130" EndPosX="144" EndPosY="134" Direction="-1" Quantity="6" Element="6" /> <!-- "Old Crimson Harpy" -->
 	<!-- Direita Inferior -->
-	<Config Class="892" Range="5" BeginPosX="163" BeginPosY="011" EndPosX="167" EndPosY="017" Direction="-1" Quantity="2" Element="6" /> <!-- "Old Crimson Lycan" -->
-	<Config Class="894" Range="5" BeginPosX="163" BeginPosY="011" EndPosX="167" EndPosY="017" Direction="-1" Quantity="1" Element="6" /> <!-- "Old Crimson Harpy" -->
+	<Config Class="892" Range="5" BeginPosX="163" BeginPosY="011" EndPosX="167" EndPosY="017" Direction="-1" Quantity="6" Element="6" /> <!-- "Old Crimson Lycan" -->
+	<Config Class="894" Range="5" BeginPosX="163" BeginPosY="011" EndPosX="167" EndPosY="017" Direction="-1" Quantity="6" Element="6" /> <!-- "Old Crimson Harpy" -->
 	
-	<Config Class="892" Range="5" BeginPosX="186" BeginPosY="017" EndPosX="194" EndPosY="013" Direction="-1" Quantity="2" Element="6" /> <!-- "Old Crimson Lycan" -->
-	<Config Class="894" Range="5" BeginPosX="186" BeginPosY="017" EndPosX="194" EndPosY="013" Direction="-1" Quantity="2" Element="6" /> <!-- "Old Crimson Harpy" -->
+	<Config Class="892" Range="5" BeginPosX="186" BeginPosY="017" EndPosX="194" EndPosY="013" Direction="-1" Quantity="6" Element="6" /> <!-- "Old Crimson Lycan" -->
+	<Config Class="894" Range="5" BeginPosX="186" BeginPosY="017" EndPosX="194" EndPosY="013" Direction="-1" Quantity="6" Element="6" /> <!-- "Old Crimson Harpy" -->
 	
 	</SPOT>
 <!-- ================================================================================================================================================================================================================================================================================= -->
