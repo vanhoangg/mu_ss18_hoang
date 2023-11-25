@@ -4,44 +4,24 @@
 
 	<InvasionInfo ID="0" RespawnMessage="0" DespawnMessage="-1" BossIndex="55" BossMessage="11" InvasionTime="600" ShowRecount="1" ShowKillInfo="1" SendMsgMapGroup="1" Name="Underworld" >
 		<Schedule>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="1" Second="0"/>
 			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="5" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="10" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="15" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="20" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="25" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="30" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="35" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="40" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="45" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="50" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="55" Second="0"/>
+			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="32" Second="0"/>
 		</Schedule>
 		<Respawn>
 			<Info Group="0" Value="0"/>
 			<Info Group="0" Value="1"/>
 		</Respawn>
 		<Monster>
-			<Info Group="0" Value="0" MonsterClass="55" Count="20" Map="0" MapSX="125" MapSY="190" MapTX="140" MapTY="203" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Death King"/>
-			<Info Group="0" Value="0" MonsterClass="56" Count="50" Map="0" MapSX="125" MapSY="190" MapTX="140" MapTY="203" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Death Bone"/>
-			<Info Group="0" Value="1" MonsterClass="55" Count="20" Map="3" MapSX="195" MapSY="70" MapTX="205" MapTY="86" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Death King"/>
-			<Info Group="0" Value="1" MonsterClass="56" Count="50" Map="3" MapSX="195" MapSY="70" MapTX="205" MapTY="86" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Death Bone"/>
+			<Info Group="0" Value="0" MonsterClass="55" Count="10" Map="0" MapSX="125" MapSY="190" MapTX="140" MapTY="203" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Death King"/>
+			<Info Group="0" Value="0" MonsterClass="56" Count="20" Map="0" MapSX="125" MapSY="190" MapTX="140" MapTY="203" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Death Bone"/>
+			<Info Group="0" Value="1" MonsterClass="55" Count="10" Map="3" MapSX="195" MapSY="70" MapTX="205" MapTY="86" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Death King"/>
+			<Info Group="0" Value="1" MonsterClass="56" Count="20" Map="3" MapSX="195" MapSY="70" MapTX="205" MapTY="86" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Death Bone"/>
 		</Monster>
 	</InvasionInfo>
 	<InvasionInfo ID="1" RespawnMessage="1" DespawnMessage="-1" BossIndex="42" BossMessage="12" InvasionTime="600" ShowRecount="1" ShowKillInfo="1" SendMsgMapGroup="1" Name="Red Dragon" >
 		<Schedule>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="2" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="6" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="11" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="16" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="21" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="26" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="31" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="36" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="41" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="46" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="51" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="56" Second="0"/>
+			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="15" Second="0"/>
+			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="33" Second="0"/>
 		</Schedule>
 		<Respawn>
 			<Info Group="0" Value="0"/>
@@ -56,18 +36,7 @@
 	</InvasionInfo>
 	<InvasionInfo ID="2" RespawnMessage="2" DespawnMessage="-1" BossIndex="501" BossMessage="13" InvasionTime="600" ShowRecount="1" ShowKillInfo="1" SendMsgMapGroup="1" Name="Golden" >
 		<Schedule>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="3" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="7" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="12" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="17" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="22" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="27" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="32" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="37" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="42" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="47" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="52" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="57" Second="0"/>
+			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="25" Second="0"/>
 		</Schedule>
 		<Respawn>
 			<Info Group="0" Value="0"/>
@@ -95,45 +64,35 @@
 			<Info Group="18" Value="0"/>
 		</Respawn>
 		<Monster>
-			<Info Group="0" Value="0" MonsterClass="43" Count="25" Map="0" MapSX="10" MapSY="10" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Budge Dragon"/>
-			<Info Group="1" Value="0" MonsterClass="53" Count="25" Map="2" MapSX="10" MapSY="10" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Titan"/>
-			<Info Group="2" Value="0" MonsterClass="54" Count="25" Map="2" MapSX="10" MapSY="10" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Soldier"/>
-			<Info Group="3" Value="0" MonsterClass="78" Count="25" Map="3" MapSX="10" MapSY="10" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Goblin"/>
+			<Info Group="0" Value="0" MonsterClass="43" Count="30" Map="0" MapSX="10" MapSY="10" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Budge Dragon"/>
+			<Info Group="1" Value="0" MonsterClass="53" Count="30" Map="2" MapSX="10" MapSY="10" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Titan"/>
+			<Info Group="2" Value="0" MonsterClass="54" Count="30" Map="2" MapSX="10" MapSY="10" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Soldier"/>
+			<Info Group="3" Value="0" MonsterClass="78" Count="30" Map="3" MapSX="10" MapSY="10" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Goblin"/>
 			<Info Group="4" Value="0" MonsterClass="79" Count="20" Map="0" MapSX="10" MapSY="10" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Derkon"/>
 			<Info Group="4" Value="1" MonsterClass="79" Count="20" Map="2" MapSX="10" MapSY="10" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Derkon"/>
 			<Info Group="4" Value="2" MonsterClass="79" Count="20" Map="3" MapSX="10" MapSY="10" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Derkon"/>
 			<Info Group="4" Value="3" MonsterClass="79" Count="20" Map="51" MapSX="10" MapSY="10" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Derkon"/>
-			<Info Group="5" Value="0" MonsterClass="80" Count="23" Map="7" MapSX="10" MapSY="10" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Lizard King"/>
-			<Info Group="6" Value="0" MonsterClass="81" Count="25" Map="7" MapSX="10" MapSY="10" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Vepar"/>
-			<Info Group="7" Value="0" MonsterClass="82" Count="23" Map="8" MapSX="10" MapSY="10" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Tantalos"/>
-			<Info Group="8" Value="0" MonsterClass="83" Count="25" Map="8" MapSX="10" MapSY="10" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Wheel"/>
-			<Info Group="9" Value="0" MonsterClass="493" Count="23" Map="1" MapSX="2" MapSY="52" MapTX="43" MapTY="125" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Dark Knight"/>
-			<Info Group="10" Value="0" MonsterClass="494" Count="23" Map="4" MapSX="10" MapSY="52" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Devil"/>
-			<Info Group="11" Value="0" MonsterClass="495" Count="23" Map="33" MapSX="10" MapSY="52" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Stone Golem"/>
-			<Info Group="12" Value="0" MonsterClass="496" Count="23" Map="10" MapSX="10" MapSY="52" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Crust"/>
-			<Info Group="13" Value="0" MonsterClass="497" Count="23" Map="37" MapSX="10" MapSY="52" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Satyros"/>
-			<Info Group="14" Value="0" MonsterClass="498" Count="23" Map="38" MapSX="10" MapSY="52" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Twin Tail"/>
-			<Info Group="15" Value="0" MonsterClass="499" Count="23" Map="57" MapSX="10" MapSY="52" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Iron Knight"/>
-			<Info Group="16" Value="0" MonsterClass="500" Count="23" Map="56" MapSX="10" MapSY="52" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Napin"/>
+			<Info Group="5" Value="0" MonsterClass="80" Count="26" Map="7" MapSX="10" MapSY="10" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Lizard King"/>
+			<Info Group="6" Value="0" MonsterClass="81" Count="30" Map="7" MapSX="10" MapSY="10" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Vepar"/>
+			<Info Group="7" Value="0" MonsterClass="82" Count="26" Map="8" MapSX="10" MapSY="10" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Tantalos"/>
+			<Info Group="8" Value="0" MonsterClass="83" Count="30" Map="8" MapSX="10" MapSY="10" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Wheel"/>
+			<Info Group="9" Value="0" MonsterClass="493" Count="26" Map="1" MapSX="2" MapSY="52" MapTX="43" MapTY="125" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Dark Knight"/>
+			<Info Group="10" Value="0" MonsterClass="494" Count="26" Map="4" MapSX="10" MapSY="52" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Devil"/>
+			<Info Group="11" Value="0" MonsterClass="495" Count="26" Map="33" MapSX="10" MapSY="52" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Stone Golem"/>
+			<Info Group="12" Value="0" MonsterClass="496" Count="26" Map="10" MapSX="10" MapSY="52" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Crust"/>
+			<Info Group="13" Value="0" MonsterClass="497" Count="26" Map="37" MapSX="10" MapSY="52" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Satyros"/>
+			<Info Group="14" Value="0" MonsterClass="498" Count="26" Map="38" MapSX="10" MapSY="52" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Twin Tail"/>
+			<Info Group="15" Value="0" MonsterClass="499" Count="26" Map="57" MapSX="10" MapSY="52" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Iron Knight"/>
+			<Info Group="16" Value="0" MonsterClass="500" Count="26" Map="56" MapSX="10" MapSY="52" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Napin"/>
 			<Info Group="17" Value="0" MonsterClass="501" Count="20" Map="37" MapSX="10" MapSY="52" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Great Golden Dragon"/>
 			<Info Group="17" Value="1" MonsterClass="501" Count="20" Map="57" MapSX="10" MapSY="52" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Great Golden Dragon"/>
-			<Info Group="18" Value="0" MonsterClass="502" Count="25" Map="51" MapSX="10" MapSY="52" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Rabbit"/>
+			<Info Group="18" Value="0" MonsterClass="502" Count="30" Map="51" MapSX="10" MapSY="52" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Rabbit"/>
 		</Monster>
 	</InvasionInfo>
 	<InvasionInfo ID="3" RespawnMessage="3" DespawnMessage="-1" BossIndex="135" BossMessage="14" InvasionTime="600" ShowRecount="1" ShowKillInfo="1" SendMsgMapGroup="1" Name="White Wizard" >
 		<Schedule>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="4" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="8" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="13" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="18" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="23" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="28" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="33" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="38" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="43" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="48" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="53" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="58" Second="0"/>
+			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="50" Second="0"/>
+			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="35" Second="0"/>
 		</Schedule>
 		<Respawn>
 			<Info Group="0" Value="0"/>
@@ -141,31 +100,21 @@
 			<Info Group="0" Value="2"/>
 		</Respawn>
 		<Monster>
-			<Info Group="0" Value="0" MonsterClass="135" Count="5"  Map="0" MapSX="148" MapSY="47" MapTX="164" MapTY="65" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="White wizard"/>
-			<Info Group="0" Value="0" MonsterClass="136" Count="10" Map="0" MapSX="148" MapSY="47" MapTX="164" MapTY="65" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Destructive ogre soldier"/>
-			<Info Group="0" Value="0" MonsterClass="137" Count="10" Map="0" MapSX="148" MapSY="47" MapTX="164" MapTY="65" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Destructive ogre archer"/>
-			<Info Group="0" Value="1" MonsterClass="135" Count="5"  Map="2" MapSX="158" MapSY="12" MapTX="167" MapTY="24" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="White wizard"/>
-			<Info Group="0" Value="1" MonsterClass="136" Count="10" Map="2" MapSX="158" MapSY="12" MapTX="167" MapTY="24" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Destructive ogre soldier"/>
-			<Info Group="0" Value="1" MonsterClass="137" Count="10" Map="2" MapSX="158" MapSY="12" MapTX="167" MapTY="24" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Destructive ogre archer"/>
-			<Info Group="0" Value="2" MonsterClass="135" Count="5"  Map="3" MapSX="197" MapSY="70" MapTX="204" MapTY="86" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="White wizard"/>
-			<Info Group="0" Value="2" MonsterClass="136" Count="10" Map="3" MapSX="197" MapSY="70" MapTX="204" MapTY="86" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Destructive ogre soldier"/>
-			<Info Group="0" Value="2" MonsterClass="137" Count="10" Map="3" MapSX="197" MapSY="70" MapTX="204" MapTY="86" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Destructive ogre archer"/>
+			<Info Group="0" Value="0" MonsterClass="135" Count="3"  Map="0" MapSX="148" MapSY="47" MapTX="164" MapTY="65" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="White wizard"/>
+			<Info Group="0" Value="0" MonsterClass="136" Count="20" Map="0" MapSX="148" MapSY="47" MapTX="164" MapTY="65" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Destructive ogre soldier"/>
+			<Info Group="0" Value="0" MonsterClass="137" Count="20" Map="0" MapSX="148" MapSY="47" MapTX="164" MapTY="65" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Destructive ogre archer"/>
+			<Info Group="0" Value="1" MonsterClass="135" Count="3"  Map="2" MapSX="158" MapSY="12" MapTX="167" MapTY="24" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="White wizard"/>
+			<Info Group="0" Value="1" MonsterClass="136" Count="20" Map="2" MapSX="158" MapSY="12" MapTX="167" MapTY="24" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Destructive ogre soldier"/>
+			<Info Group="0" Value="1" MonsterClass="137" Count="20" Map="2" MapSX="158" MapSY="12" MapTX="167" MapTY="24" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Destructive ogre archer"/>
+			<Info Group="0" Value="2" MonsterClass="135" Count="3"  Map="3" MapSX="197" MapSY="70" MapTX="204" MapTY="86" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="White wizard"/>
+			<Info Group="0" Value="2" MonsterClass="136" Count="20" Map="3" MapSX="197" MapSY="70" MapTX="204" MapTY="86" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Destructive ogre soldier"/>
+			<Info Group="0" Value="2" MonsterClass="137" Count="20" Map="3" MapSX="197" MapSY="70" MapTX="204" MapTY="86" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Destructive ogre archer"/>
 		</Monster>
 	</InvasionInfo>
 	<InvasionInfo ID="4" RespawnMessage="4" DespawnMessage="-1" BossIndex="-1" BossMessage="-1" InvasionTime="600" ShowRecount="1" ShowKillInfo="1" SendMsgMapGroup="1" Name="New Year" >
 		<Schedule>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="1" Second="0"/>
 			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="5" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="10" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="15" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="20" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="25" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="30" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="35" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="40" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="45" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="50" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="55" Second="0"/>
+			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="37" Second="0"/>
 		</Schedule>
 		<Respawn>
 			<Info Group="0" Value="0"/>
@@ -186,18 +135,8 @@
 	</InvasionInfo>
 	<InvasionInfo ID="5" RespawnMessage="5" DespawnMessage="-1" BossIndex="-1" BossMessage="-1" InvasionTime="600" ShowRecount="1" ShowKillInfo="1" SendMsgMapGroup="1" Name="Easter" >
 		<Schedule>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="1" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="5" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="10" Second="0"/>
 			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="15" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="20" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="25" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="30" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="35" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="40" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="45" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="50" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="55" Second="0"/>
+			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="39" Second="0"/>
 		</Schedule>
 		<Respawn>
 			<Info Group="0" Value="0"/>
@@ -218,18 +157,8 @@
 	</InvasionInfo>
 	<InvasionInfo ID="6" RespawnMessage="6" DespawnMessage="-1" BossIndex="-1" BossMessage="-1" InvasionTime="600" ShowRecount="1" ShowKillInfo="1" SendMsgMapGroup="1" Name="Summer" >
 		<Schedule>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="1" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="5" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="10" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="15" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="20" Second="0"/>
 			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="25" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="30" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="35" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="40" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="45" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="50" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="55" Second="0"/>
+			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="41" Second="0"/>
 		</Schedule>
 		<Respawn>
 			<Info Group="0" Value="0"/>
@@ -250,18 +179,8 @@
 	</InvasionInfo>
 	<InvasionInfo ID="7" RespawnMessage="7" DespawnMessage="-1" BossIndex="476" BossMessage="15" InvasionTime="600" ShowRecount="1" ShowKillInfo="1" SendMsgMapGroup="1" Name="Christmas" >
 		<Schedule>
-				<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="1" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="5" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="10" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="15" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="20" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="25" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="30" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="35" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="40" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="45" Second="0"/>
 			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="50" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="55" Second="0"/>
+			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="43" Second="0"/>
 		</Schedule>
 		<Respawn>
 			<Info Group="0" Value="0"/>
@@ -270,27 +189,17 @@
 		</Respawn>
 		<Monster>
 			<Info Group="0" Value="0" MonsterClass="466" Count="20" Map="0"  MapSX="148" MapSY="47" MapTX="164" MapTY="65" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Cursed Goblin"/>
-			<Info Group="0" Value="0" MonsterClass="476" Count="5"  Map="0"  MapSX="148" MapSY="47" MapTX="164" MapTY="65" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Cursed Santa"/>
+			<Info Group="0" Value="0" MonsterClass="476" Count="1"  Map="0"  MapSX="148" MapSY="47" MapTX="164" MapTY="65" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Cursed Santa"/>
 			<Info Group="0" Value="1" MonsterClass="466" Count="20" Map="2"  MapSX="158" MapSY="12" MapTX="167" MapTY="24" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Cursed Goblin"/>
-			<Info Group="0" Value="1" MonsterClass="476" Count="5"  Map="2"  MapSX="158" MapSY="12" MapTX="167" MapTY="24" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Cursed Santa"/>
+			<Info Group="0" Value="1" MonsterClass="476" Count="1"  Map="2"  MapSX="158" MapSY="12" MapTX="167" MapTY="24" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Cursed Santa"/>
 			<Info Group="0" Value="2" MonsterClass="466" Count="20" Map="3"  MapSX="194" MapSY="70" MapTX="204" MapTY="86" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Cursed Goblin"/>
-			<Info Group="0" Value="2" MonsterClass="476" Count="5"  Map="3"  MapSX="194" MapSY="70" MapTX="204" MapTY="86" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Cursed Santa"/>
+			<Info Group="0" Value="2" MonsterClass="476" Count="1"  Map="3"  MapSX="194" MapSY="70" MapTX="204" MapTY="86" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Cursed Santa"/>
 		</Monster>
 	</InvasionInfo>
 	<InvasionInfo ID="8" RespawnMessage="8" DespawnMessage="-1" BossIndex="561" BossMessage="16" InvasionTime="600" ShowRecount="1" ShowKillInfo="1" SendMsgMapGroup="1" Name="Medusa" >
 		<Schedule>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="1" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="5" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="10" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="15" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="20" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="25" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="30" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="35" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="40" Second="0"/>
+			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="0" Second="0"/>
 			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="45" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="50" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="55" Second="0"/>
 		</Schedule>
 		<Respawn>
 			<Info Group="0" Value="0"/>
@@ -300,29 +209,19 @@
 		</Respawn>
 		<Monster>
 			<Info Group="0" Value="0" MonsterClass="560" Count="7" Map="56"  MapSX="50" MapSY="103" MapTX="57" MapTY="114" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Sapi Queen"/>
-			<Info Group="0" Value="0" MonsterClass="561" Count="5" Map="56"  MapSX="50" MapSY="103" MapTX="57" MapTY="114" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Medusa"/>
+			<Info Group="0" Value="0" MonsterClass="561" Count="1" Map="56"  MapSX="50" MapSY="103" MapTX="57" MapTY="114" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Medusa"/>
 			<Info Group="0" Value="1" MonsterClass="560" Count="7" Map="56"  MapSX="127" MapSY="162" MapTX="136" MapTY="171" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Sapi Queen"/>
-			<Info Group="0" Value="1" MonsterClass="561" Count="5" Map="56"  MapSX="127" MapSY="162" MapTX="136" MapTY="171" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Medusa"/>
+			<Info Group="0" Value="1" MonsterClass="561" Count="1" Map="56"  MapSX="127" MapSY="162" MapTX="136" MapTY="171" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Medusa"/>
 			<Info Group="0" Value="2" MonsterClass="560" Count="7" Map="56"  MapSX="149" MapSY="10" MapTX="162" MapTY="19" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Sapi Queen"/>
-			<Info Group="0" Value="2" MonsterClass="561" Count="5" Map="56"  MapSX="149" MapSY="10" MapTX="162" MapTY="19" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Medusa"/>
+			<Info Group="0" Value="2" MonsterClass="561" Count="1" Map="56"  MapSX="149" MapSY="10" MapTX="162" MapTY="19" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Medusa"/>
 			<Info Group="0" Value="3" MonsterClass="560" Count="7" Map="56"  MapSX="178" MapSY="114" MapTX="184" MapTY="129" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Sapi Queen"/>
-			<Info Group="0" Value="3" MonsterClass="561" Count="5" Map="56"  MapSX="178" MapSY="114" MapTX="184" MapTY="129" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Medusa"/>
+			<Info Group="0" Value="3" MonsterClass="561" Count="1" Map="56"  MapSX="178" MapSY="114" MapTX="184" MapTY="129" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Medusa"/>
 		</Monster>
 	</InvasionInfo>
 	<InvasionInfo ID="9" RespawnMessage="9" DespawnMessage="-1" BossIndex="-1" BossMessage="-1" InvasionTime="600" ShowRecount="1" ShowKillInfo="1" SendMsgMapGroup="1" Name="Summon" >
 		<Schedule>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="1" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="5" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="10" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="15" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="20" Second="0"/>
 			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="25" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="30" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="35" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="40" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="45" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="50" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="55" Second="0"/>
+			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="47" Second="0"/>
 		</Schedule>
 		<Respawn>
 			<Info Group="0" Value="0"/>
@@ -333,28 +232,18 @@
 			<Info Group="0" Value="5"/>
 		</Respawn>
 		<Monster>
-			<Info Group="0" Value="0" MonsterClass="652" Count="25" Map="8"   MapSX="10" MapSY="10" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Goblin"/>
-			<Info Group="0" Value="1" MonsterClass="652" Count="25" Map="33"  MapSX="10" MapSY="10" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Goblin"/>
-			<Info Group="0" Value="2" MonsterClass="652" Count="25" Map="37"  MapSX="10" MapSY="10" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Goblin"/>
-			<Info Group="0" Value="3" MonsterClass="652" Count="25"  Map="80"  MapSX="10" MapSY="10" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Goblin"/>
-			<Info Group="0" Value="4" MonsterClass="652" Count="25"  Map="81"  MapSX="10" MapSY="10" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Goblin"/>
-			<Info Group="0" Value="5" MonsterClass="652" Count="25" Map="91"  MapSX="10" MapSY="10" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Goblin"/>
+			<Info Group="0" Value="0" MonsterClass="652" Count="50" Map="8"   MapSX="10" MapSY="10" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Goblin"/>
+			<Info Group="0" Value="1" MonsterClass="652" Count="50" Map="33"  MapSX="10" MapSY="10" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Goblin"/>
+			<Info Group="0" Value="2" MonsterClass="652" Count="50" Map="37"  MapSX="10" MapSY="10" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Goblin"/>
+			<Info Group="0" Value="3" MonsterClass="652" Count="50"  Map="80"  MapSX="10" MapSY="10" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Goblin"/>
+			<Info Group="0" Value="4" MonsterClass="652" Count="50"  Map="81"  MapSX="10" MapSY="10" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Goblin"/>
+			<Info Group="0" Value="5" MonsterClass="652" Count="50" Map="91"  MapSX="10" MapSY="10" MapTX="240" MapTY="240" Distance="6" Element="-1" RegenType="0" RegenTime="0" Name="Golden Goblin"/>
 		</Monster>
 	</InvasionInfo>
 	<InvasionInfo ID="10" RespawnMessage="10" DespawnMessage="-1" BossIndex="-1" BossMessage="-1" InvasionTime="600" ShowRecount="1" ShowKillInfo="1" SendMsgMapGroup="1" Name="Egg" >
 		<Schedule>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="1" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="5" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="10" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="15" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="20" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="25" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="30" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="35" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="40" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="45" Second="0"/>
 			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="50" Second="0"/>
-			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="55" Second="0"/>
+			<Info Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="49" Second="0"/>
 		</Schedule>
 		<Respawn>
 			<Info Group="0" Value="0"/>

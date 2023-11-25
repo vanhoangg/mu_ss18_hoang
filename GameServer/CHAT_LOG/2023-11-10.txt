@@ -1,1 +1,7 @@
 22:53:29 [General][test][ElfBuff] - (Message: /clearextinv)
+05:18:36 [General][loukoala1][TEST] - (Message: /clearinv)
+05:21:03 [General][loukoala1][TEST] - (Message: /clearinv)
+05:23:21 [General][loukoala1][TEST] - (Message: /clearinv)
+05:33:05 [General][loukoala1][TEST] - (Message: /clearinv)
+05:38:09 [General][loukoala1][TEST] - (Message: /clearinv)
+08:06:52 [General][loukoala1][TEST] - (Message: /clearinv)

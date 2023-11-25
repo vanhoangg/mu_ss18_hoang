@@ -21,7 +21,7 @@
 	</BagDropInfoEx>
 
 	<BagRuudInfoEx>
-		<RuudInfo Section="5" RuudMin="10000" RuudMax="10000"/>
+		<RuudInfo Section="5" RuudMin="10000" RuudMax="100000"/>
 	</BagRuudInfoEx>
 	<BagItemsEx>
 		

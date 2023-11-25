@@ -127,7 +127,7 @@ end
 
 4
 //Index   Rate0   Rate1   Rate2   Rate3   Rate4   Rate5   Rate6   Comment
-0         9750    100     50      40      30      20      10       //Exc Option (Common)
+0         8400    1000    500     100     0       0       0       //Exc Option (Common)
 1         0       7700    1500    1000    500     200     100       //Exc Option (Exc)
 2         6650    1500    1000    500     200     100     50       //Exc Option (Set)
 3         6650    1500    1000    500     200     100     50       //Exc Option (DinorantMix)

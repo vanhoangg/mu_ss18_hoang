@@ -90,7 +90,7 @@ UserAnnouncementSwitch = 1
 ;==================================================
 ; Monster Settings
 ;==================================================
-MonsterLifeRate = 200
+MonsterLifeRate = 100
 MonsterHealthBarSwitch = 1
 MonsterReturnTime = 2
 
@@ -171,10 +171,10 @@ AddExperienceRate_AL1 = 100
 AddExperienceRate_AL2 = 100
 AddExperienceRate_AL3 = 100
 ; Level Master 400+										   
-AddMasterExperienceRate_AL0 = 100
-AddMasterExperienceRate_AL1 = 100
-AddMasterExperienceRate_AL2 = 100
-AddMasterExperienceRate_AL3 = 100
+AddMasterExperienceRate_AL0 = 200
+AddMasterExperienceRate_AL1 = 200
+AddMasterExperienceRate_AL2 = 200
+AddMasterExperienceRate_AL3 = 200
 ; Monster EXP Master 400+	
 MinMasterExperienceMonsterLevel_AL0 = 95
 MinMasterExperienceMonsterLevel_AL1 = 95
@@ -199,10 +199,10 @@ AddQuestExperienceRate_AL3 = 1
 ; Item Drop Settings
 ;==================================================
 ItemDropTime = 30
-ItemDropRate_AL0 = 300
-ItemDropRate_AL1 = 300
-ItemDropRate_AL2 = 300
-ItemDropRate_AL3 = 300
+ItemDropRate_AL0 = 50
+ItemDropRate_AL1 = 50
+ItemDropRate_AL2 = 50
+ItemDropRate_AL3 = 50
 
 ;==================================================
 ; Money Drop Settings
@@ -397,8 +397,8 @@ MasterSkillTreeMaxLevel = 400
 ;==================================================
 ; Enhance Skill Tree Settings
 ;==================================================
-EnhanceSkillTree = 10
-EnhanceSkillTreePoint = 1
+EnhanceSkillTree = 1
+EnhanceSkillTreePoint = 10
 ; 400 Normal + 400 Master +750 Enhanced = 1550 Maxlevel
 EnhanceSkillTreeMaxLevel = 750
 
@@ -608,8 +608,8 @@ FruitAddPointSuccessRate_AL0 = -1
 FruitAddPointSuccessRate_AL1 = -1
 FruitAddPointSuccessRate_AL2 = -1
 FruitAddPointSuccessRate_AL3 = -1
-FruitSubPointMin = 10
-FruitSubPointMax = 90
+FruitSubPointMin = 1
+FruitSubPointMax = 3
 FruitSubPointSuccessRate_AL0 = -1
 FruitSubPointSuccessRate_AL1 = -1
 FruitSubPointSuccessRate_AL2 = -1

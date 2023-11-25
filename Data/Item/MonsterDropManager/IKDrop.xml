@@ -1,114 +1,63 @@
 	
-	
-	
-	
-
-	
-	
-<MonsterDrop MonsterClass="Biv" MonsterElement="-1" Index="101"  Level="0" Grade="0" Option0="-1" Option1="-1" Option2="-1" Option3="-1" Option4="-1" Option5="-1" Option6="-1" Attribute="-1" Duration="0" DropRate="1000000" Name="Silver Blade" RequiereMinLevel="-1" RequireMaxLevel="-1" RequiereClassType="0" DW="1" DK="1" FE="1" MG="1" DL="1" SU="1" RF="1" GL="1" RW="1" SL="1" GC="1" KM="1" LM="1" IK="1"  />
-	<MonsterDrop MonsterClass="Biv" MonsterElement="-1" Index="102"  Level="0" Grade="0" Option0="-1" Option1="-1" Option2="-1" Option3="-1" Option4="-1" Option5="-1" Option6="-1" Attribute="-1" Duration="0" DropRate="1000000" Name="Xenoblade" RequiereMinLevel="-1" RequireMaxLevel="-1" RequiereClassType="0" DW="1" DK="1" FE="1" MG="1" DL="1" SU="1" RF="1" GL="1" RW="1" SL="1" GC="1" KM="1" LM="1" IK="1"  /> 
-	<MonsterDrop MonsterClass="Biv" MonsterElement="-1" Index="103"  Level="0" Grade="0" Option0="-1" Option1="-1" Option2="-1" Option3="-1" Option4="-1" Option5="-1" Option6="-1" Attribute="-1" Duration="0" DropRate="1000000" Name="Dragon Blade" RequiereMinLevel="-1" RequireMaxLevel="-1" RequiereClassType="0" DW="1" DK="1" FE="1" MG="1" DL="1" SU="1" RF="1" GL="1" RW="1" SL="1" GC="1" KM="1" LM="1" IK="1"  /> 
-	<MonsterDrop MonsterClass="Biv" MonsterElement="-1" Index="104"  Level="0" Grade="0" Option0="-1" Option1="-1" Option2="-1" Option3="-1" Option4="-1" Option5="-1" Option6="-1" Attribute="-1" Duration="0" DropRate="1000000" Name="Blood Blade" RequiereMinLevel="-1" RequireMaxLevel="-1" RequiereClassType="0" DW="1" DK="1" FE="1" MG="1" DL="1" SU="1" RF="1" GL="1" RW="1" SL="1" GC="1" KM="1" LM="1" IK="1"  />
-	<MonsterDrop MonsterClass="Biv" MonsterElement="-1" Index="105"  Level="0" Grade="0" Option0="-1" Option1="-1" Option2="-1" Option3="-1" Option4="-1" Option5="-1" Option6="-1" Attribute="-1" Duration="0" DropRate="1000000" Name="Bloodangel Blade" RequiereMinLevel="-1" RequireMaxLevel="-1" RequiereClassType="0" DW="1" DK="1" FE="1" MG="1" DL="1" SU="1" RF="1" GL="1" RW="1" SL="1" GC="1" KM="1" LM="1" IK="1"  />
-	<MonsterDrop MonsterClass="Biv" MonsterElement="-1" Index="106"  Level="0" Grade="0" Option0="-1" Option1="-1" Option2="-1" Option3="-1" Option4="-1" Option5="-1" Option6="-1" Attribute="-1" Duration="0" DropRate="1000000" Name="Darkangel Blade" RequiereMinLevel="-1" RequireMaxLevel="-1" RequiereClassType="0" DW="1" DK="1" FE="1" MG="1" DL="1" SU="1" RF="1" GL="1" RW="1" SL="1" GC="1" KM="1" LM="1" IK="1"  />
-	<MonsterDrop MonsterClass="Biv" MonsterElement="-1" Index="107"  Level="0" Grade="0" Option0="-1" Option1="-1" Option2="-1" Option3="-1" Option4="-1" Option5="-1" Option6="-1" Attribute="-1" Duration="0" DropRate="1000000" Name="Holyangel Blade" RequiereMinLevel="-1" RequireMaxLevel="-1" RequiereClassType="0" DW="1" DK="1" FE="1" MG="1" DL="1" SU="1" RF="1" GL="1" RW="1" SL="1" GC="1" KM="1" LM="1" IK="1"  />
-	<MonsterDrop MonsterClass="Biv" MonsterElement="-1" Index="108"  Level="0" Grade="0" Option0="-1" Option1="-1" Option2="-1" Option3="-1" Option4="-1" Option5="-1" Option6="-1" Attribute="-1" Duration="0" DropRate="1000000" Name="Soul Blade" RequiereMinLevel="-1" RequireMaxLevel="-1" RequiereClassType="0" DW="1" DK="1" FE="1" MG="1" DL="1" SU="1" RF="1" GL="1" RW="1" SL="1" GC="1" KM="1" LM="1" IK="1"  />
-	<MonsterDrop MonsterClass="Biv" MonsterElement="-1" Index="109"  Level="0" Grade="0" Option0="-1" Option1="-1" Option2="-1" Option3="-1" Option4="-1" Option5="-1" Option6="-1" Attribute="-1" Duration="0" DropRate="1000000" Name="Blue Eye Blade" RequiereMinLevel="-1" RequireMaxLevel="-1" RequiereClassType="0" DW="1" DK="1" FE="1" MG="1" DL="1" SU="1" RF="1" GL="1" RW="1" SL="1" GC="1" KM="1" LM="1" IK="1"  />
-	<MonsterDrop MonsterClass="Biv" MonsterElement="-1" Index="110"  Level="0" Grade="0" Option0="-1" Option1="-1" Option2="-1" Option3="-1" Option4="-1" Option5="-1" Option6="-1" Attribute="-1" Duration="0" DropRate="1000000" Name="Silver Heart Blade" RequiereMinLevel="-1" RequireMaxLevel="-1" RequiereClassType="0" DW="1" DK="1" FE="1" MG="1" DL="1" SU="1" RF="1" GL="1" RW="1" SL="1" GC="1" KM="1" LM="1" IK="1"  />
-	<MonsterDrop MonsterClass="Biv" MonsterElement="-1" Index="111"  Level="0" Grade="0" Option0="-1" Option1="-1" Option2="-1" Option3="-1" Option4="-1" Option5="-1" Option6="-1" Attribute="-1" Duration="0" DropRate="1000000" Name="Manticore Blade" RequiereMinLevel="-1" RequireMaxLevel="-1" RequiereClassType="0" DW="1" DK="1" FE="1" MG="1" DL="1" SU="1" RF="1" GL="1" RW="1" SL="1" GC="1" KM="1" LM="1" IK="1"  /> 
-	<MonsterDrop MonsterClass="Biv" MonsterElement="-1" Index="112"  Level="0" Grade="0" Option0="-1" Option1="-1" Option2="-1" Option3="-1" Option4="-1" Option5="-1" Option6="-1" Attribute="-1" Duration="0" DropRate="1000000" Name="Brilliant Blade" RequiereMinLevel="-1" RequireMaxLevel="-1" RequiereClassType="0" DW="1" DK="1" FE="1" MG="1" DL="1" SU="1" RF="1" GL="1" RW="1" SL="1" GC="1" KM="1" LM="1" IK="1" /> 
-	<MonsterDrop MonsterClass="Biv" MonsterElement="-1" Index="113"  Level="0" Grade="0" Option0="-1" Option1="-1" Option2="-1" Option3="-1" Option4="-1" Option5="-1" Option6="-1" Attribute="-1" Duration="0" DropRate="1000000" Name="Archangel's Absolute Blade" RequiereMinLevel="-1" RequireMaxLevel="-1" RequiereClassType="0" DW="1" DK="1" FE="1" MG="1" DL="1" SU="1" RF="1" GL="1" RW="1" SL="1" GC="1" KM="1" LM="1" IK="1"  />
-	<MonsterDrop MonsterClass="Biv" MonsterElement="-1" Index="114"  Level="0" Grade="0" Option0="-1" Option1="-1" Option2="-1" Option3="-1" Option4="-1" Option5="-1" Option6="-1" Attribute="-1" Duration="0" DropRate="1000000" Name="Blessed Archangel's Absolute Blade" RequiereMinLevel="-1" RequireMaxLevel="-1" RequiereClassType="0" DW="1" DK="1" FE="1" MG="1" DL="1" SU="1" RF="1" GL="1" RW="1" SL="1" GC="1" KM="1" LM="1" IK="1"  />
-
-
-
-    <MonsterDrop Index="3884" Name="Illusion Knight Scale Helm" />
-    <MonsterDrop Index="3885" Name="Illusion Knight Iron Plate Helm" />
-	<MonsterDrop Index="3886" Name="Steel Plate Helm" />
-	<MonsterDrop Index="3887" Name="Black Origin Helm" />
-	<MonsterDrop Index="3888" Name="Primal Helm" />
-	<MonsterDrop Index="3889" Name="Apex Helm" />
-    <MonsterDrop Index="3890" Name="Bloodangel Illusion Knight Helm" />
-	<MonsterDrop Index="3891" Name="Darkangel Illusion Knight Helm" />
-	<MonsterDrop Index="3892" Name="Holyangel Illusion Knight Helm" />
-	<MonsterDrop Index="3893" Name="Soul Illusion Knight Helm" />
-	<MonsterDrop Index="3894" Name="Blue Eye Illusion Knight Helm" />
-    <MonsterDrop Index="3895" Name="Silver Heart Illusion Knight Helm" />
-	<MonsterDrop Index="3896" Name="Manticore Illusion Knight Helm" />
-	<MonsterDrop Index="3897" Name="Brilliant Illusion Knight Helm" />
-	<MonsterDrop Index="3898" Name="Apocalypse Illusion Knight Helm" />
-
-    <MonsterDrop Index="4396" Name="Illusion Knight Scale Armor" />
-	<MonsterDrop Index="4397" Name="Illusion Knight Iron Plate Armor" />
-	<MonsterDrop Index="4398" Name="Steel Plate Armor" />
-	<MonsterDrop Index="4399" Name="Black Origin Armor" />
-	<MonsterDrop Index="4400" Name="Primal Armor" />
-	<MonsterDrop Index="4401" Name="Apex Armor" />
-    <MonsterDrop Index="4402" Name="Bloodangel Illusion Knight Armor" />
-	<MonsterDrop Index="4403" Name="Darkangel Illusion Knight Armor" />
-	<MonsterDrop Index="4404" Name="Holyangel Illusion Knight Armor" />
-	<MonsterDrop Index="4405" Name="Soul Illusion Knight Armor" />
-	<MonsterDrop Index="4406" Name="Blue Eye Illusion Knight Armor" />
-    <MonsterDrop Index="4407" Name="Silver Heart Illusion Knight Armor" />
-	<MonsterDrop Index="4408" Name="Manticore Illusion Knight Armor" />
-	<MonsterDrop Index="4409" Name="Brilliant Illusion Knight Armor" />
-	<MonsterDrop Index="4410" Name="Apocalypse Illusion Knight Armor" />
-
-
-    <MonsterDrop Index="4908" Name="Illusion Knight Scale Pants" />
-    <MonsterDrop Index="4909" Name="Illusion Knight Iron Plate Pants" />
-	<MonsterDrop Index="4910" Name="Steel Plate Pants" />
-	<MonsterDrop Index="4911" Name="Black Origin Pants" />
-	<MonsterDrop Index="4912" Name="Primal Pants" />
-	<MonsterDrop Index="4913" Name="Apex Pants" />
-    <MonsterDrop Index="4914" Name="Bloodangel Illusion Knight Pants" />
-	<MonsterDrop Index="4915" Name="Darkangel Illusion Knight Pants" />
-	<MonsterDrop Index="4916" Name="Holyangel Illusion Knight Pants" />
-	<MonsterDrop Index="4917" Name="Soul Illusion Knight Pants" />
-	<MonsterDrop Index="4918" Name="Blue Eye Illusion Knight Pants" />
-    <MonsterDrop Index="4919" Name="Silver Heart Illusion Knight Pants" />
-	<MonsterDrop Index="4920" Name="Manticore Illusion Knight Pants" />
-	<MonsterDrop Index="4921" Name="Brilliant Illusion Knight Pants" />
-	<MonsterDrop Index="4922" Name="Apocalypse Illusion Knight Pants" />
-
-    <MonsterDrop Index="5420" Name="Illusion Knight Scale Gloves" />
-    <MonsterDrop Index="5421" Name="Illusion Knight Iron Plate Gloves" />
-	<MonsterDrop Index="5422" Name="Steel Plate Gloves" />
-	<MonsterDrop Index="5423" Name="Black Origin Gloves" />
-	<MonsterDrop Index="5424" Name="Primal Gloves" />
-	<MonsterDrop Index="5425" Name="Apex Gloves" />
-    <MonsterDrop Index="5426" Name="Bloodangel Illusion Knight Gloves" />
-	<MonsterDrop Index="5427" Name="Darkangel Illusion Knight Gloves" />
-	<MonsterDrop Index="5428" Name="Holyangel Illusion Knight Gloves" />
-	<MonsterDrop Index="5429" Name="Soul Illusion Knight Gloves" />
-	<MonsterDrop Index="5430" Name="Blue Eye Illusion Knight Gloves" />
-    <MonsterDrop Index="5431" Name="Silver Heart Illusion Knight Gloves" />
-	<MonsterDrop Index="5432" Name="Manticore Illusion Knight Gloves" />
-	<MonsterDrop Index="5433" Name="Brilliant Illusion Knight Gloves" />
-	<MonsterDrop Index="5434" Name="Apocalypse Illusion Knight Gloves" />
-
-    <MonsterDrop Index="5932" Name="Illusion Knight Scale Boots" />
-    <MonsterDrop Index="5933" Name="Illusion Knight Iron Plate Gloves" />
-	<MonsterDrop Index="5934" Name="Steel Plate Gloves" />
-	<MonsterDrop Index="5935" Name="Black Origin Gloves" />
-	<MonsterDrop Index="5936" Name="Primal Gloves" />
-	<MonsterDrop Index="5937" Name="Apex Gloves" />
-    <MonsterDrop Index="5938" Name="Bloodangel Illusion Knight Gloves" />
-	<MonsterDrop Index="5939" Name="Darkangel Illusion Knight Gloves" />
-	<MonsterDrop Index="5940" Name="Holyangel Illusion Knight Gloves" />
-	<MonsterDrop Index="5941" Name="Soul Illusion Knight Gloves" />
-	<MonsterDrop Index="5942" Name="Blue Eye Illusion Knight Gloves" />
-    <MonsterDrop Index="5943" Name="Silver Heart Illusion Knight Gloves" />
-	<MonsterDrop Index="5944" Name="Manticore Illusion Knight Gloves" />
-	<MonsterDrop Index="5945" Name="Brilliant Illusion Knight Gloves" />
-	<MonsterDrop Index="5946" Name="Apocalypse Illusion Knight Gloves" />
-
-
-
 		<Item Index="101"  Name="Silver Blade" />
+		<Item Index="300" Name="Illusion Knight Scale Helm" /> 
+		<Item Index="300" Name="Illusion Knight Scale Armor" /> 
+		<Item Index="300" Name="Illusion Knight Scale Pants" /> 
+		<Item Index="300" Name="Illusion Knight Scale Gloves" /> 
+		<Item Index="300" Name="Illusion Knight Scale Boots" /> 
+
 		<Item Index="102"  Name="Xenoblade" /> 
+		<Item Index="301" Name="Illusion Knight Iron Plate Helm" /> 
+		<Item Index="315" Name="[Lucky] Illusion Knight Iron Plate Helm" /> 
+		<Item Index="301" Name="Illusion Knight Iron Plate Armor" /> 
+		<Item Index="315" Name="[Lucky] Illusion Knight Iron Plate Armor" /> 
+		<Item Index="301" Name="Illusion Knight Iron Plate Pants" /> 
+		<Item Index="315" Name="[Lucky] Illusion Knight Iron Plate Pants" /> 
+		<Item Index="301" Name="Illusion Knight Iron Plate Gloves" /> 
+		<Item Index="315" Name="[Lucky] Illusion Knight Iron Plate Gloves" /> 
+		<Item Index="301" Name="Illusion Knight Iron Plate Boots" /> 
+		<Item Index="315" Name="[Lucky] Illusion Knight Iron Plate Boots" /> 
+
 		<Item Index="103"  Name="Dragon Blade" /> 
+		<Item Index="302" Name="Steel Plate Helm" /> 
+		<Item Index="316" Name="[Lucky] Steel Plate Helm" /> 
+		<Item Index="317" Name="[Bound] Steel Plate Helm" /> 
+		<Item Index="302" Name="Steel Plate Armor" /> 
+		<Item Index="316" Name="[Lucky] Steel Plate Armor" /> 
+		<Item Index="317" Name="[Bound] Steel Plate Armor" /> 
+		<Item Index="302" Name="Steel Plate Pants" /> 
+		<Item Index="316" Name="[Lucky] Steel Plate Pants" /> 
+		<Item Index="317" Name="[Bound] Steel Plate Pants" /> 
+		<Item Index="302" Name="Steel Plate Gloves" /> 
+		<Item Index="316" Name="[Lucky] Steel Plate Gloves" /> 
+		<Item Index="317" Name="[Bound] Steel Plate Gloves" /> 
+		<Item Index="302" Name="Steel Plate Boots" /> 
+		<Item Index="316" Name="[Lucky] Steel Plate Boots" /> 
+		<Item Index="317" Name="[Bound] Steel Plate Boots" /> 
+
+
+		<Item Index="103"  Name="Dragon Blade" /> 
+		<Item Index="303" Name="Black Origin Helm" /> 
+		<Item Index="303" Name="Black Origin Armor" /> 
+		<Item Index="303" Name="Black Origin Pants" /> 
+		<Item Index="303" Name="Black Origin Gloves" /> 
+		<Item Index="303" Name="Black Origin Boots" /> 
+
 		<Item Index="104"  Name="Blood Blade" />
+		<Item Index="304" Name="Primal Helm" /> 
+		<Item Index="304" Name="Primal Armor" /> 
+		<Item Index="304" Name="Primal Pants" /> 
+		<Item Index="304" Name="Primal Gloves" /> 
+		<Item Index="304" Name="Primal Boots" /> 
+
+		<Item Index="104"  Name="Blood Blade" />
+		<Item Index="305" Name="Apex Helm" /> 
+		<Item Index="305" Name="Apex Armor" /> 
+		<Item Index="305" Name="Apex Pants" /> 
+		<Item Index="305" Name="Apex Gloves" /> 
+		<Item Index="305" Name="Apex Boots" /> 
+
+
 		<Item Index="105"  Name="Bloodangel Blade" />
 		<Item Index="106"  Name="Darkangel Blade" />
 		<Item Index="107"  Name="Holyangel Blade"/>

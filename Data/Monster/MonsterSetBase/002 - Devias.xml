@@ -26,6 +26,9 @@
 	</NPC>
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<SPOT>
+	<Config Class="43" Range="5" BeginPosX="73" BeginPosY="176" EndPosX="73" EndPosY="176" Direction="-1" Quantity="3" Element="0" /> 
+	
+	
 	<!--	<Config Class="24" Range="30" BeginPosX="170" BeginPosY="80" EndPosX="245" EndPosY="200" Direction="-1" Quantity="30" Element="0" /> <!-- "Worm" -->
 		<Config Class="23" Range="5" BeginPosX="47" BeginPosY="208" EndPosX="47" EndPosY="208" Direction="-1" Quantity="10" Element="0" /> <!-- "Hommerd" -->
 	<!--	<Config Class="22" Range="30" BeginPosX="50" BeginPosY="6" EndPosX="166" EndPosY="244" Direction="-1" Quantity="40" Element="0" /> <!-- "Ice Monster" -->
@@ -116,6 +119,10 @@
 		<Config Class="24" Range="30" PositionX="244" PositionY="80" Direction="-1" Element="0" /> <!-- "Worm" -->
 		<Config Class="24" Range="30" PositionX="238" PositionY="88" Direction="-1" Element="0" /> <!-- "Worm" -->
 		<Config Class="24" Range="30" PositionX="229" PositionY="83" Direction="-1" Element="0" /> <!-- "Worm" -->
+		
+		
+		
+
 	</MONSTER>
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<EVENT>

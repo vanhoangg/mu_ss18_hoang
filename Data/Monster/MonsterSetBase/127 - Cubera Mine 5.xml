@@ -7,7 +7,7 @@
 	<SPOT>
 
 			<!--(810) Mine Digger [Lv.380]-->
-			<Config Class="810" Range="7" BeginPosX="234" BeginPosY="9" EndPosX="241" EndPosY="15" Direction="-1" Quantity="7" Element="5" />
+			<Config Class="810" Range="7" BeginPosX="234" BeginPosY="9" EndPosX="241" EndPosY="15" Direction="-1" Quantity="10" Element="5" />
 			<!--(811) Mine Carrier [Lv.380]-->
 			<Config Class="811" Range="7" BeginPosX="232" BeginPosY="13" EndPosX="239" EndPosY="21" Direction="-1" Quantity="9" Element="5" />
 			<!--(810) Mine Digger [Lv.380]-->
@@ -19,7 +19,7 @@
 			<!--(810) Mine Digger [Lv.380]-->
 			<Config Class="810" Range="7" BeginPosX="121" BeginPosY="90" EndPosX="132" EndPosY="98" Direction="-1" Quantity="10" Element="5" />
 			<!--(812) Mine Porter [Lv.380]-->
-			<Config Class="812" Range="7" BeginPosX="121" BeginPosY="90" EndPosX="132" EndPosY="98" Direction="-1" Quantity="7" Element="5" />
+			<Config Class="812" Range="7" BeginPosX="121" BeginPosY="90" EndPosX="132" EndPosY="98" Direction="-1" Quantity="10" Element="5" />
 			<!--(812) Mine Porter [Lv.380]-->
 			<Config Class="812" Range="6" BeginPosX="137" BeginPosY="31" EndPosX="145" EndPosY="40" Direction="-1" Quantity="10" Element="5" />
 			<!--(812) Mine Porter [Lv.380]-->

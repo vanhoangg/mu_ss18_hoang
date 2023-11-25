@@ -1,0 +1,18 @@
+00:31:47 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:2EC2A659-B9B991A5-C418FC1B-B173E8B4-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:0][Account:loukoala1]
+00:33:35 [AllowConectionManager][ADD][+][HWID:2EC2A659-B9B991A5-C418FC1B-B173E8B4-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:1][Account:loukoala1]
+00:33:45 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:2EC2A659-B9B991A5-C418FC1B-B173E8B4-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:0][Account:loukoala1]
+00:34:36 [AllowConectionManager][ADD][+][HWID:2EC2A659-B9B991A5-C418FC1B-B173E8B4-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:1][Account:loukoala1]
+00:34:38 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:2EC2A659-B9B991A5-C418FC1B-B173E8B4-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:0][Account:loukoala1]
+00:35:01 [AllowConectionManager][ADD][+][HWID:2EC2A659-B9B991A5-C418FC1B-B173E8B4-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:1][Account:kudoshjn]
+01:59:48 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:2EC2A659-B9B991A5-C418FC1B-B173E8B4-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:0][Account:kudoshjn]
+01:59:59 [ServerManager][0] DelServer (127.0.0.1)
+01:59:59 [ServerManager][1] DelServer (127.0.0.1)
+02:00:44 [SocketManager] Server started at port [55970]
+02:00:44 [SocketManager] Server started at port [55557]
+02:00:44 [ServerManager][0] AddServer (127.0.0.1)
+02:00:44 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+02:00:47 [ServerManager][1] AddServer (127.0.0.1)
+02:00:51 [ServerManager][2] AddServer (127.0.0.1)
+02:00:51 [ServerManager][2] ServerInfo (MuDevs) (55901) (20)
+02:00:56 [ServerManager][3] AddServer (127.0.0.1)
+02:00:56 [ServerManager][3] ServerInfo (GameServerCS) (55919) (19)

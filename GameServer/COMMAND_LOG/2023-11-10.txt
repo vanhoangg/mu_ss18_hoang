@@ -1,1 +1,7 @@
 22:53:29 [CommandClearExtInvent][ElfBuff] - (ClearExtInvent)
+05:18:36 [CommandClearInvent][TEST] - (ClearInvent)
+05:21:03 [CommandClearInvent][TEST] - (ClearInvent)
+05:23:21 [CommandClearInvent][TEST] - (ClearInvent)
+05:33:05 [CommandClearInvent][TEST] - (ClearInvent)
+05:38:09 [CommandClearInvent][TEST] - (ClearInvent)
+08:06:52 [CommandClearInvent][TEST] - (ClearInvent)
