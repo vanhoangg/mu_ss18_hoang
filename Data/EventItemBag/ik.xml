@@ -1,0 +1,113 @@
+		{ "Index":300 , "Name":"Illusion Knight Scale Helm"},
+		{ "Index":300 , "Name":"Illusion Knight Scale Armor"},
+		{ "Index":300 , "Name":"Illusion Knight Scale Pants"},
+		{ "Index":300 , "Name":"Illusion Knight Scale Gloves"},
+		{ "Index":300 , "Name":"Illusion Knight Scale Boots"},
+        
+        { "Index":301 , "Name":"Illusion Knight Iron Plate Helm"},
+		{ "Index":315 , "Name":"[Lucky] Illusion Knight Iron Plate Helm"},
+		{ "Index":301 , "Name":"Illusion Knight Iron Plate Armor"},
+		{ "Index":315 , "Name":"[Lucky] Illusion Knight Iron Plate Armor"},
+		{ "Index":301 , "Name":"Illusion Knight Iron Plate Pants"},
+		{ "Index":315 , "Name":"[Lucky] Illusion Knight Iron Plate Pants"},
+		{ "Index":301 , "Name":"Illusion Knight Iron Plate Gloves"},
+		{ "Index":315 , "Name":"[Lucky] Illusion Knight Iron Plate Gloves"},
+		{ "Index":301 , "Name":"Illusion Knight Iron Plate Boots"},
+		{ "Index":315 , "Name":"[Lucky] Illusion Knight Iron Plate Boots"},
+
+
+
+		{ "Index":302 , "Name":"Steel Plate Helm"},
+		{ "Index":316 , "Name":"[Lucky] Steel Plate Helm"},
+		{ "Index":317 , "Name":"[Bound] Steel Plate Helm"},
+		{ "Index":302 , "Name":"Steel Plate Armor"},
+		{ "Index":316 , "Name":"[Lucky] Steel Plate Armor"},
+		{ "Index":317 , "Name":"[Bound] Steel Plate Armor"},
+		{ "Index":302 , "Name":"Steel Plate Pants"},
+		{ "Index":316 , "Name":"[Lucky] Steel Plate Pants"},
+		{ "Index":317 , "Name":"[Bound] Steel Plate Pants"},
+		{ "Index":302 , "Name":"Steel Plate Gloves"},
+		{ "Index":316 , "Name":"[Lucky] Steel Plate Gloves"},
+		{ "Index":317 , "Name":"[Bound] Steel Plate Gloves"},
+		{ "Index":302 , "Name":"Steel Plate Boots"},
+		{ "Index":316 , "Name":"[Lucky] Steel Plate Boots"},
+		{ "Index":317 , "Name":"[Bound] Steel Plate Boots"},
+
+		{ "Index":303 , "Name":"Black Origin Helm"},
+		{ "Index":303 , "Name":"Black Origin Armor"},
+		{ "Index":303 , "Name":"Black Origin Pants"},
+		{ "Index":303 , "Name":"Black Origin Gloves"},
+		{ "Index":303 , "Name":"Black Origin Boots"},
+
+		{ "Index":304 , "Name":"Primal Helm"},
+		{ "Index":304 , "Name":"Primal Armor"},
+		{ "Index":304 , "Name":"Primal Pants"},
+		{ "Index":304 , "Name":"Primal Gloves"},
+		{ "Index":304 , "Name":"Primal Boots"},
+		{ "Index":305 , "Name":"Apex Helm"},
+		{ "Index":305 , "Name":"Apex Armor"},
+		{ "Index":305 , "Name":"Apex Pants"},
+		{ "Index":305 , "Name":"Apex Gloves"},
+		{ "Index":305 , "Name":"Apex Boots"},
+
+	<Item Section="0" Type="101"  Name="Silver Blade" />
+    <Item Section="7" Type="300" Name="Illusion Knight Scale Helm" /> 
+    <Item Section="8" Type="300" Name="Illusion Knight Scale Armor" /> 
+    <Item Section="9" Type="300" Name="Illusion Knight Scale Pants" /> 
+    <Item Section="10" Type="300" Name="Illusion Knight Scale Gloves" /> 
+    <Item Section="11" Type="300" Name="Illusion Knight Scale Boots" /> 
+
+	<Item Section="0" Type="102"  Name="Xenoblade" /> 
+    <Item Section="7" Type="301" Name="Illusion Knight Iron Plate Helm" /> 
+    <Item Section="7" Type="315" Name="[Lucky] Illusion Knight Iron Plate Helm" /> 
+    <Item Section="8" Type="301" Name="Illusion Knight Iron Plate Armor" /> 
+    <Item Section="8" Type="315" Name="[Lucky] Illusion Knight Iron Plate Armor" /> 
+    <Item Section="9" Type="301" Name="Illusion Knight Iron Plate Pants" /> 
+    <Item Section="9" Type="315" Name="[Lucky] Illusion Knight Iron Plate Pants" /> 
+    <Item Section="10" Type="301" Name="Illusion Knight Iron Plate Gloves" /> 
+    <Item Section="10" Type="315" Name="[Lucky] Illusion Knight Iron Plate Gloves" /> 
+    <Item Section="11" Type="301" Name="Illusion Knight Iron Plate Boots" /> 
+    <Item Section="11" Type="315" Name="[Lucky] Illusion Knight Iron Plate Boots" /> 
+
+	<Item Section="0" Type="102"  Name="Xenoblade" /> 
+    <Item Section="7" Type="302" Name="Steel Plate Helm" /> 
+    <Item Section="7" Type="316" Name="[Lucky] Steel Plate Helm" /> 
+    <Item Section="7" Type="317" Name="[Bound] Steel Plate Helm" /> 
+    <Item Section="8" Type="302" Name="Steel Plate Armor" /> 
+    <Item Section="8" Type="316" Name="[Lucky] Steel Plate Armor" /> 
+    <Item Section="8" Type="317" Name="[Bound] Steel Plate Armor" /> 
+    <Item Section="9" Type="302" Name="Steel Plate Pants" /> 
+    <Item Section="9" Type="316" Name="[Lucky] Steel Plate Pants" /> 
+    <Item Section="9" Type="317" Name="[Bound] Steel Plate Pants" /> 
+    <Item Section="10" Type="302" Name="Steel Plate Gloves" /> 
+    <Item Section="10" Type="316" Name="[Lucky] Steel Plate Gloves" /> 
+    <Item Section="10" Type="317" Name="[Bound] Steel Plate Gloves" /> 
+    <Item Section="11" Type="302" Name="Steel Plate Boots" /> 
+    <Item Section="11" Type="316" Name="[Lucky] Steel Plate Boots" /> 
+    <Item Section="11" Type="317" Name="[Bound] Steel Plate Boots" /> 
+
+	<Item Section="0" Type="103"  Name="Dragon Blade" /> 
+    <Item Section="7" Type="303" Name="Black Origin Helm" /> 
+    <Item Section="8" Type="303" Name="Black Origin Armor" /> 
+    <Item Section="9" Type="303" Name="Black Origin Pants" /> 
+    <Item Section="10" Type="303" Name="Black Origin Gloves" /> 
+    <Item Section="11" Type="303" Name="Black Origin Boots" /> 
+
+	<Item Section="0" Type="104"  Name="Blood Blade" />
+    <Item Section="7" Type="304" Name="Primal Helm" /> 
+    <Item Section="8" Type="304" Name="Primal Armor" /> 
+    <Item Section="9" Type="304" Name="Primal Pants" /> 
+    <Item Section="10" Type="304" Name="Primal Gloves" /> 
+    <Item Section="11" Type="304" Name="Primal Boots" /> 
+
+	<Item Section="0" Type="104"  Name="Blood Blade" />
+    <Item Section="7" Type="305" Name="Apex Helm" /> 
+    <Item Section="8" Type="305" Name="Apex Armor" /> 
+    <Item Section="9" Type="305" Name="Apex Pants" /> 
+    <Item Section="10" Type="305" Name="Apex Gloves" /> 
+    <Item Section="11" Type="305" Name="Apex Boots" /> 
+
+	<Item Section="0" Type="101"  Name="Silver Blade" />
+	<Item Section="0" Type="102"  Name="Xenoblade" /> 
+	<Item Section="0" Type="103"  Name="Dragon Blade" /> 
+	<Item Section="0" Type="104"  Name="Blood Blade" />
