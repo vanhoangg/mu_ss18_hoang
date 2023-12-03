@@ -1,0 +1,158 @@
+       <!-- Sword -->
+        <Item Index="35" Name="Phoenix Soul Star" />
+		<Item Index="22" Name="Bone Blade" />
+		<Item Index="23" Name="Explosion Blade" />
+		<Item Index="27" Name="Sword Breaker" />
+		<Item Index="69" Name="Pairing Short Sword" />
+
+        <!-- Maces and Scepters -->
+    	<!-- Spears  -->
+        <!-- Bows and Crossbows -->
+		<Item Index="21" Name="Sylph Wind Bow" />
+
+        <!-- Staffs and Books -->
+        <Item Index="19" Name="Storm Blitz Stick" />
+		<Item Index="12" Name="Grand Viper Staff" />
+
+        <!-- Shields -->
+      	<!-- Ring & Pedant -->
+        <!-- SET -->
+        <!-- DW -->
+
+        <Item Index="30" Name="Venom Mist Helm" />
+		<Item Index="30" Name="Venom Mist Armor" />
+		<Item Index="30" Name="Venom Mist Pants" />
+		<Item Index="30" Name="Venom Mist Gloves" />
+		<Item Index="30" Name="Venom Mist Boots" />
+
+        <!-- DK -->
+        <Item Index="29" Name="Dragon Knight Helm" />
+		<Item Index="29" Name="Dragon Knight Armor" />
+		<Item Index="29" Name="Dragon Knight Pants" />
+		<Item Index="29" Name="Dragon Knight Gloves" />
+		<Item Index="29" Name="Dragon Knight Boots" />
+
+        <!-- ELF -->
+        <Item Index="31" Name="Sylphid Ray Helm" />
+		<Item Index="31" Name="Sylphid Ray Armor" />
+		<Item Index="31" Name="Sylphid Ray Pants" />
+		<Item Index="31" Name="Sylphid Ray Gloves" />
+		<Item Index="31" Name="Sylphid Ray Boots" />
+
+        <!-- SUM -->
+		<Item Index="43" Name="Storm Blitz Helm" />
+		<Item Index="43" Name="Storm Blitz Armor" />
+		<Item Index="43" Name="Storm Blitz Pants" />
+		<Item Index="43" Name="Storm Blitz Gloves" />
+		<Item Index="43" Name="Storm Blitz Boots" />
+
+        <!-- RF -->
+		<Item Index="73" Name="Phoenix Soul Helm" />
+		<Item Index="73" Name="Phoenix Soul Armor" />
+		<Item Index="73" Name="Phoenix Soul Pants" />
+		<Item Index="73" Name="Phoenix Soul Boots" />
+
+        <!-- MG -->
+
+        <Item Index="32" Name="Volcano Armor" />
+		<Item Index="32" Name="Volcano Pants" />
+		<Item Index="32" Name="Volcano Gloves" />
+		<Item Index="32" Name="Volcano Boots" />
+
+        <!-- DL -->
+        <Item Index="33" Name="Sunlight Mask" />
+		<Item Index="33" Name="Sunlight Armor" />
+		<Item Index="33" Name="Sunlight Pants" />
+		<Item Index="33" Name="Sunlight Gloves" />
+		<Item Index="33" Name="Sunlight Boots" />
+
+        <!-- GL -->
+        <!-- RW -->
+        <!-- SL -->
+        <!-- Gun -->
+        <!-- Kundun -->
+        <!-- Mage -->
+        <!-- IK -->
+
+    <Item Index="22" Name="Bone Blade" /> 
+    <Item Index="23" Name="Explosion Blade" /> 
+    <Item Index="27" Name="Sword Breaker" /> 
+    <Item Index="69" Name="Pairing Short Sword" /> 
+    <Item Index="2069" Name="Sylph Wind Bow" /> 
+    <Item Index="2579" Name="Storm Blitz Stick" /> 
+    <Item Index="2572" Name="Grand Viper Staff" /> 
+    <Item Index="3614" Name="Venom Mist Helm" /> 
+    <Item Index="4126" Name="Venom Mist Armor" /> 
+    <Item Index="4638" Name="Venom Mist Pants" /> 
+    <Item Index="5150" Name="Venom Mist Gloves" /> 
+    <Item Index="5662" Name="Venom Mist Boots" /> 
+    <Item Index="3613" Name="Dragon Knight Helm" /> 
+    <Item Index="4125" Name="Dragon Knight Armor" /> 
+    <Item Index="4637" Name="Dragon Knight Pants" /> 
+    <Item Index="5149" Name="Dragon Knight Gloves" /> 
+    <Item Index="5661" Name="Dragon Knight Boots" /> 
+    <Item Index="3615" Name="Sylphid Ray Helm" /> 
+    <Item Index="4127" Name="Sylphid Ray Armor" /> 
+    <Item Index="4639" Name="Sylphid Ray Pants" /> 
+    <Item Index="5151" Name="Sylphid Ray Gloves" /> 
+    <Item Index="5663" Name="Sylphid Ray Boots" /> 
+    <Item Index="3627" Name="Storm Blitz Helm" /> 
+    <Item Index="4139" Name="Storm Blitz Armor" /> 
+    <Item Index="4651" Name="Storm Blitz Pants" /> 
+    <Item Index="5163" Name="Storm Blitz Gloves" /> 
+    <Item Index="5675" Name="Storm Blitz Boots" /> 
+    <Item Index="3657" Name="Phoenix Soul Helm" /> 
+    <Item Index="4169" Name="Phoenix Soul Armor" /> 
+    <Item Index="4681" Name="Phoenix Soul Pants" /> 
+    <Item Index="5705" Name="Phoenix Soul Boots" /> 
+    <Item Index="4128" Name="Volcano Armor" /> 
+    <Item Index="4640" Name="Volcano Pants" /> 
+    <Item Index="5152" Name="Volcano Gloves" /> 
+    <Item Index="5664" Name="Volcano Boots" /> 
+    <Item Index="3617" Name="Sunlight Mask" /> 
+    <Item Index="4129" Name="Sunlight Armor" /> 
+    <Item Index="4641" Name="Sunlight Pants" /> 
+    <Item Index="5153" Name="Sunlight Gloves" /> 
+    <Item Index="5665" Name="Sunlight Boots" /> 
+
+
+        <ItemEx Section="5"  Index="22"   Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="12" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bone Blade" /> 
+        <ItemEx Section="5"  Index="23"   Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="12" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Explosion Blade" /> 
+        <ItemEx Section="5"  Index="27"   Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="12" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Sword Breaker" /> 
+        <ItemEx Section="5"  Index="69"   Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="12" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Pairing Short Sword" /> 
+        <ItemEx Section="5"  Index="2069" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="12" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Sylph Wind Bow" /> 
+        <ItemEx Section="5"  Index="2579" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="12" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Storm Blitz Stick" /> 
+        <ItemEx Section="5"  Index="2572" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="12" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Grand Viper Staff" /> 
+        <ItemEx Section="5"  Index="3614" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="12" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Venom Mist Helm" /> 
+        <ItemEx Section="5"  Index="4126" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="12" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Venom Mist Armor" /> 
+        <ItemEx Section="5"  Index="4638" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="12" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Venom Mist Pants" /> 
+        <ItemEx Section="5"  Index="5150" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="12" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Venom Mist Gloves" /> 
+        <ItemEx Section="5"  Index="5662" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="12" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Venom Mist Boots" /> 
+        <ItemEx Section="5"  Index="3613" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="12" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Dragon Knight Helm" /> 
+        <ItemEx Section="5"  Index="4125" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="12" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Dragon Knight Armor" /> 
+        <ItemEx Section="5"  Index="4637" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="12" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Dragon Knight Pants" /> 
+        <ItemEx Section="5"  Index="5149" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="12" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Dragon Knight Gloves" /> 
+        <ItemEx Section="5"  Index="5661" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="12" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Dragon Knight Boots" /> 
+        <ItemEx Section="5"  Index="3615" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="12" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Sylphid Ray Helm" /> 
+        <ItemEx Section="5"  Index="4127" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="12" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Sylphid Ray Armor" /> 
+        <ItemEx Section="5"  Index="4639" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="12" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Sylphid Ray Pants" /> 
+        <ItemEx Section="5"  Index="5151" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="12" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Sylphid Ray Gloves" /> 
+        <ItemEx Section="5"  Index="5663" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="12" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Sylphid Ray Boots" /> 
+        <ItemEx Section="5"  Index="3627" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="12" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Storm Blitz Helm" /> 
+        <ItemEx Section="5"  Index="4139" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="12" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Storm Blitz Armor" /> 
+        <ItemEx Section="5"  Index="4651" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="12" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Storm Blitz Pants" /> 
+        <ItemEx Section="5"  Index="5163" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="12" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Storm Blitz Gloves" /> 
+        <ItemEx Section="5"  Index="5675" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="12" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Storm Blitz Boots" /> 
+        <ItemEx Section="5"  Index="3657" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="12" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Phoenix Soul Helm" /> 
+        <ItemEx Section="5"  Index="4169" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="12" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Phoenix Soul Armor" /> 
+        <ItemEx Section="5"  Index="4681" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="12" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Phoenix Soul Pants" /> 
+        <ItemEx Section="5"  Index="5705" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="12" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Phoenix Soul Boots" /> 
+        <ItemEx Section="5"  Index="4128" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="12" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Volcano Armor" /> 
+        <ItemEx Section="5"  Index="4640" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="12" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Volcano Pants" /> 
+        <ItemEx Section="5"  Index="5152" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="12" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Volcano Gloves" /> 
+        <ItemEx Section="5"  Index="5664" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="12" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Volcano Boots" /> 
+        <ItemEx Section="5"  Index="3617" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="12" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Sunlight Mask" /> 
+        <ItemEx Section="5"  Index="4129" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="12" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Sunlight Armor" /> 
+        <ItemEx Section="5"  Index="4641" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="12" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Sunlight Pants" /> 
+        <ItemEx Section="5"  Index="5153" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="12" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Sunlight Gloves" /> 
+        <ItemEx Section="5"  Index="5665" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="12" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Sunlight Boots" /> 

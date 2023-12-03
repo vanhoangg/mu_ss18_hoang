@@ -46,17 +46,25 @@
 	</BagRuudInfoEx>
 	<BagItemsEx>
 		<!-- Bloodangel Weapons -->
-		<ItemEx Section="06" Index="2601" Level="0" Grade="0" Durability="0" Option0="1" Option1="12" Option2="13" Option3="20" Option4="20" Option5="11" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Staff SM"/>
-		<ItemEx Section="07" Index="0042" Level="0" Grade="0" Durability="0" Option0="1" Option1="12" Option2="13" Option3="20" Option4="20" Option5="11" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Sword BK"/>
-		<ItemEx Section="08" Index="2076" Level="0" Grade="0" Durability="0" Option0="1" Option1="12" Option2="13" Option3="20" Option4="20" Option5="11" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Bow ELF"/>
-		<ItemEx Section="09" Index="0044" Level="0" Grade="0" Durability="0" Option0="1" Option1="12" Option2="13" Option3="20" Option4="20" Option5="11" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Magic Sword MG"/>
-		<ItemEx Section="10" Index="1046" Level="0" Grade="0" Durability="0" Option0="1" Option1="12" Option2="13" Option3="20" Option4="20" Option5="11" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Scepter DL"/>
-		<ItemEx Section="11" Index="2602" Level="0" Grade="0" Durability="0" Option0="1" Option1="12" Option2="13" Option3="20" Option4="20" Option5="11" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Stick SU"/>
-		<ItemEx Section="12" Index="0046" Level="0" Grade="0" Durability="0" Option0="1" Option1="12" Option2="13" Option3="20" Option4="20" Option5="11" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Claws RF"/>
-		<ItemEx Section="13" Index="1555" Level="0" Grade="0" Durability="0" Option0="1" Option1="12" Option2="13" Option3="20" Option4="20" Option5="11" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Lance GL"/>
-		<ItemEx Section="14" Index="1056" Level="0" Grade="0" Durability="0" Option0="1" Option1="12" Option2="13" Option3="20" Option4="20" Option5="11" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Runic Mace RW"/>
-		<ItemEx Section="15" Index="0071" Level="0" Grade="0" Durability="0" Option0="1" Option1="12" Option2="13" Option3="20" Option4="20" Option5="11" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Short Sword SL"/>
-		<ItemEx Section="16" Index="2096" Level="0" Grade="0" Durability="0" Option0="1" Option1="12" Option2="13" Option3="20" Option4="20" Option5="11" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Magic Gun GC"/>
+		<ItemEx Section="16" Index="42" Level="0" Grade="0" Durability="0" Option0="1" Option1="12" Option2="13" Option3="20" Option4="20" Option5="11" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Sword" />
+		<ItemEx Section="16" Index="44" Level="0" Grade="0" Durability="0" Option0="1" Option1="12" Option2="13" Option3="20" Option4="20" Option5="11" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Magic Sword" />
+		<ItemEx Section="16" Index="46" Level="0" Grade="0" Durability="0" Option0="1" Option1="12" Option2="13" Option3="20" Option4="20" Option5="11" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Claw" />
+		<ItemEx Section="16" Index="71" Level="0" Grade="0" Durability="0" Option0="1" Option1="12" Option2="13" Option3="20" Option4="20" Option5="11" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Short Sword" />
+		<ItemEx Section="16" Index="89" Level="0" Grade="0" Durability="0" Option0="1" Option1="12" Option2="13" Option3="20" Option4="20" Option5="11" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Magic Two-Handed Sword" />
+		<ItemEx Section="16" Index="105" Level="0" Grade="0" Durability="0" Option0="1" Option1="12" Option2="13" Option3="20" Option4="20" Option5="11" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Blade" />
+		<ItemEx Section="16" Index="1046" Level="0" Grade="0" Durability="0" Option0="1" Option1="12" Option2="13" Option3="20" Option4="20" Option5="11" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Scepter" />
+		<ItemEx Section="16" Index="1056" Level="0" Grade="0" Durability="0" Option0="1" Option1="12" Option2="13" Option3="20" Option4="20" Option5="11" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Rune Mace" />
+		<ItemEx Section="16" Index="1555" Level="0" Grade="0" Durability="0" Option0="1" Option1="12" Option2="13" Option3="20" Option4="20" Option5="11" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Lance" />
+		<ItemEx Section="16" Index="2076" Level="0" Grade="0" Durability="0" Option0="1" Option1="12" Option2="13" Option3="20" Option4="20" Option5="11" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Bow" />
+		<ItemEx Section="16" Index="2082" Level="0" Grade="0" Durability="0" Option0="1" Option1="12" Option2="13" Option3="20" Option4="20" Option5="11" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Quiver" />
+		<ItemEx Section="16" Index="2096" Level="0" Grade="0" Durability="0" Option0="1" Option1="12" Option2="13" Option3="20" Option4="20" Option5="11" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Magic Gun" />
+		<ItemEx Section="16" Index="2601" Level="0" Grade="0" Durability="0" Option0="1" Option1="12" Option2="13" Option3="20" Option4="20" Option5="11" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Staff" />
+		<ItemEx Section="16" Index="2603" Level="0" Grade="0" Durability="0" Option0="1" Option1="12" Option2="13" Option3="20" Option4="20" Option5="11" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Stick" />
+		<ItemEx Section="16" Index="2617" Level="0" Grade="0" Durability="0" Option0="1" Option1="12" Option2="13" Option3="20" Option4="20" Option5="11" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Book of Bloodangel" />
+		<ItemEx Section="16" Index="2633" Level="0" Grade="0" Durability="0" Option0="1" Option1="12" Option2="13" Option3="20" Option4="20" Option5="11" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Magic Book" />
+		<ItemEx Section="16" Index="2646" Level="0" Grade="0" Durability="0" Option0="1" Option1="12" Option2="13" Option3="20" Option4="20" Option5="11" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Orb" />
+		<ItemEx Section="16" Index="3106" Level="0" Grade="0" Durability="0" Option0="1" Option1="12" Option2="13" Option3="20" Option4="20" Option5="11" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Fairy Shield" />
+		<ItemEx Section="16" Index="3116" Level="0" Grade="0" Durability="0" Option0="1" Option1="12" Option2="13" Option3="20" Option4="20" Option5="11" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Shield" />
 			
 	</BagItemsEx>
 </ItemBag>

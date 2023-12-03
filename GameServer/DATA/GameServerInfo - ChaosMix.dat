@@ -51,29 +51,29 @@ DevilSquareMixRate7_AL3 = 70
 ; Plus Item Mix Settings
 ;==================================================
 PlusItemLevelMixRate1_AL0 = 60
-PlusItemLevelMixRate1_AL1 = 60
-PlusItemLevelMixRate1_AL2 = 60
-PlusItemLevelMixRate1_AL3 = 60
+PlusItemLevelMixRate1_AL1 = 70
+PlusItemLevelMixRate1_AL2 = 80
+PlusItemLevelMixRate1_AL3 = 90
 PlusItemLevelMixRate2_AL0 = 60
-PlusItemLevelMixRate2_AL1 = 60
-PlusItemLevelMixRate2_AL2 = 60
-PlusItemLevelMixRate2_AL3 = 60
+PlusItemLevelMixRate2_AL1 = 70
+PlusItemLevelMixRate2_AL2 = 80
+PlusItemLevelMixRate2_AL3 = 90
 PlusItemLevelMixRate3_AL0 = 50
-PlusItemLevelMixRate3_AL1 = 50
-PlusItemLevelMixRate3_AL2 = 50
-PlusItemLevelMixRate3_AL3 = 50
+PlusItemLevelMixRate3_AL1 = 60
+PlusItemLevelMixRate3_AL2 = 70
+PlusItemLevelMixRate3_AL3 = 80
 PlusItemLevelMixRate4_AL0 = 50
-PlusItemLevelMixRate4_AL1 = 50
-PlusItemLevelMixRate4_AL2 = 50
-PlusItemLevelMixRate4_AL3 = 50
+PlusItemLevelMixRate4_AL1 = 60
+PlusItemLevelMixRate4_AL2 = 70
+PlusItemLevelMixRate4_AL3 = 80
 PlusItemLevelMixRate5_AL0 = 40
-PlusItemLevelMixRate5_AL1 = 40
-PlusItemLevelMixRate5_AL2 = 40
-PlusItemLevelMixRate5_AL3 = 40
+PlusItemLevelMixRate5_AL1 = 50
+PlusItemLevelMixRate5_AL2 = 60
+PlusItemLevelMixRate5_AL3 = 70
 PlusItemLevelMixRate6_AL0 = 40
-PlusItemLevelMixRate6_AL1 = 40
-PlusItemLevelMixRate6_AL2 = 40
-PlusItemLevelMixRate6_AL3 = 40
+PlusItemLevelMixRate6_AL1 = 50
+PlusItemLevelMixRate6_AL2 = 60
+PlusItemLevelMixRate6_AL3 = 70
 
 ;==================================================
 ; Dinorant Mix Settings

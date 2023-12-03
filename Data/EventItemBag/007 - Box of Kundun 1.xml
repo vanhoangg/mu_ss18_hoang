@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ItemBag>
-	<BagConfig Name="Box Of Kundun 1" DropZen="0" ItemDropRate="10000" ItemDropCount="5" SetItemDropRate="0" ItemDropType="0" Fireworks="1"/>
+	<BagConfig Name="Box Of Kundun 1" DropZen="0" ItemDropRate="10000" ItemDropCount="1" SetItemDropRate="0" ItemDropType="0" Fireworks="1"/>
 	<BagItems>
-
-
 		<Item Section="0" Type="0" MinLevel="0" MaxLevel="9" Durability="0" Skill="1" Luck="1" Option="10" Excellent="1" SetOption="0" SocketOption="0" SocketProbalty1="0" SocketProbalty2="0" SocketProbalty3="0" SocketProbalty4="0" SocketProbalty5="0" Name="Kris"/>
 		<Item Section="0" Type="3" MinLevel="0" MaxLevel="9" Durability="0" Skill="1" Luck="1" Option="10" Excellent="1" SetOption="0" SocketOption="0" SocketProbalty1="0" SocketProbalty2="0" SocketProbalty3="0" SocketProbalty4="0" SocketProbalty5="0" Name="Katana"/>
 		<Item Section="0" Type="13" MinLevel="0" MaxLevel="9" Durability="0" Skill="1" Luck="1" Option="10" Excellent="1" SetOption="0" SocketOption="0" SocketProbalty1="0" SocketProbalty2="0" SocketProbalty3="0" SocketProbalty4="0" SocketProbalty5="0" Name="Double Blade"/>

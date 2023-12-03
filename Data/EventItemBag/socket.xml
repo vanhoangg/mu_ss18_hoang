@@ -1,0 +1,277 @@
+        {
+            "Index": 25,
+            "Name": "Magic Knight Shield"
+        },
+        {
+            "Index": 76,
+            "Name": "Magic Knight Armor"
+        },
+        {
+            "Index": 76,
+            "Name": "Magic Knight Pants"
+        },
+        {
+            "Index": 76,
+            "Name": "Magic Knight Gloves"
+        },
+        {
+            "Index": 76,
+            "Name": "Magic Knight Boots"
+        },
+        {
+            "Index": 211,
+            "Name": "Stormwing Gun Crusher Helm"
+        },
+        {
+            "Index": 211,
+            "Name": "Stormwing Gun Crusher Armor"
+        },
+        {
+            "Index": 211,
+            "Name": "Stormwing Gun Crusher Pants"
+        },
+        {
+            "Index": 211,
+            "Name": "Stormwing Gun Crusher Gloves"
+        },
+        {
+            "Index": 211,
+            "Name": "Stormwing Gun Crusher Boots"
+        },
+        {
+            "Index": 179,
+            "Name": "Trace Helm"
+        },
+        {
+            "Index": 179,
+            "Name": "Trace Armor"
+        },
+        {
+            "Index": 179,
+            "Name": "Trace Pants"
+        },
+        {
+            "Index": 179,
+            "Name": "Trace Gloves"
+        },
+        {
+            "Index": 179,
+            "Name": "Trace Boots"
+        },
+        {
+            "Index": 31,
+            "Name": "Light Lord Rune Mace"
+        },
+        {
+            "Index": 121,
+            "Name": "Light Lord Rune Helm"
+        },
+        {
+            "Index": 121,
+            "Name": "Light Lord Rune Armor"
+        },
+        {
+            "Index": 121,
+            "Name": "Light Lord Rune Pants"
+        },
+        {
+            "Index": 121,
+            "Name": "Light Lord Rune Gloves"
+        },
+        {
+            "Index": 121,
+            "Name": "Light Lord Rune Boots"
+        },
+        {
+            "Index": 41,
+            "Name": "Constant Shield"
+        },
+        {
+            "Index": 149,
+            "Name": "Constant Helm"
+        },
+        {
+            "Index": 149,
+            "Name": "Constant Armor"
+        },
+        {
+            "Index": 149,
+            "Name": "Constant Pants"
+        },
+        {
+            "Index": 149,
+            "Name": "Constant Gloves"
+        },
+        {
+            "Index": 149,
+            "Name": "Constant Boots"
+        },
+        {
+            "Index": 24,
+            "Name": "Dark Devil Shield"
+        },
+        {
+            "Index": 22,
+            "Name": "Lazy Wind Shield"
+        },
+        {
+            "Index": 16,
+            "Name": "Frost Mace"
+        },
+        {
+            "Index": 33,
+            "Name": "Devilwood Quiver"
+        },
+        {
+            "Index": 23,
+            "Name": "Light Lord Shield"
+        },
+        {
+            "Index": 37,
+            "Name": "Blast Break"
+        },
+        {
+            "Index": 30,
+            "Name": "Asura"
+        },
+        {
+            "Index": 29,
+            "Name": "Sonic Blade"
+        },
+        {
+            "Index": 36,
+            "Name": "Cyclone Sword"
+        },
+        {
+            "Index": 12,
+            "Name": "Magmu Spear"
+        },
+        {
+            "Index": 20,
+            "Name": "Horn of Steal"
+        },
+        {
+            "Index": 25,
+            "Name": "Angelic Bow"
+        },
+        {
+            "Index": 26,
+            "Name": "Devil Crossbow"
+        },
+        {
+            "Index": 26,
+            "Name": "Ambition Shield"
+        },
+        {
+            "Index": 53,
+            "Name": "Devast Claw"
+        },
+        {
+            "Index": 70,
+            "Name": "Novacula Short Sword"
+        },
+        {
+            "Index": 45,
+            "Name": "Cannon Magic Gun"
+        },
+        {
+            "Index": 23,
+            "Name": "Russell Light Lance"
+        },
+        {
+            "Index": 57,
+            "Name": "Hell Knight Armor"
+        },
+        {
+            "Index": 57,
+            "Name": "Hell Knight Pants"
+        },
+        {
+            "Index": 57,
+            "Name": "Hell Knight Gloves"
+        },
+        {
+            "Index": 57,
+            "Name": "Hell Knight Boots"
+        },
+        {
+            "Index": 37,
+            "Name": "Spite Staff"
+        },
+        {
+            "Index": 35,
+            "Name": "Miracle Staff"
+        },
+        {
+            "Index": 19,
+            "Name": "Thunderbolt"
+        },
+        {
+            "Index": 32,
+            "Name": "Summon Spirit Stick"
+        },
+        <Item Index="25" Name="Magic Knight Shield" />
+		<Item Index="76" Name="Magic Knight Armor" />
+		<Item Index="76" Name="Magic Knight Pants" />
+		<Item Index="76" Name="Magic Knight Gloves" />
+		<Item Index="76" Name="Magic Knight Boots" />
+
+
+		<Item Index="211" Name="Stormwing Gun Crusher Helm" />
+		<Item Index="211" Name="Stormwing Gun Crusher Armor" />
+		<Item Index="211" Name="Stormwing Gun Crusher Pants" />
+		<Item Index="211" Name="Stormwing Gun Crusher Gloves" />
+		<Item Index="211" Name="Stormwing Gun Crusher Boots" />
+
+		<Item Index="179" Name="Trace Helm" />
+		<Item Index="179" Name="Trace Armor" />
+		<Item Index="179" Name="Trace Pants" />
+		<Item Index="179" Name="Trace Gloves" />
+		<Item Index="179" Name="Trace Boots" />
+
+		<Item Index="31" Name="Light Lord Rune Mace" />
+		<Item Index="121" Name="Light Lord Rune Helm" />
+		<Item Index="121" Name="Light Lord Rune Armor" />
+		<Item Index="121" Name="Light Lord Rune Pants" />
+		<Item Index="121" Name="Light Lord Rune Gloves" />
+		<Item Index="121" Name="Light Lord Rune Boots" />
+
+		<Item Index="41" Name="Constant Shield" />
+		<Item Index="149" Name="Constant Helm" />
+		<Item Index="149" Name="Constant Armor" />
+		<Item Index="149" Name="Constant Pants" />
+		<Item Index="149" Name="Constant Gloves" />
+		<Item Index="149" Name="Constant Boots" />
+
+		<Item Index="24" Name="Dark Devil Shield" />
+		<Item Index="22" Name="Lazy Wind Shield" />
+		<Item Index="16" Name="Frost Mace" />
+		<Item Index="33" Name="Devilwood Quiver" />
+		<Item Index="23" Name="Light Lord Shield" />
+		<Item Index="37" Name="Blast Break" />
+		<Item Index="30" Name="Asura" />
+		<Item Index="29" Name="Sonic Blade" />
+		<Item Index="36" Name="Cyclone Sword" />
+		<Item Index="12" Name="Magmu Spear" />
+		<Item Index="20" Name="Horn of Steal" />
+		<Item Index="25" Name="Angelic Bow" />
+		<Item Index="26" Name="Devil Crossbow" />
+		<Item Index="26" Name="Ambition Shield" />
+		<Item Index="53" Name="Devast Claw" />
+		<Item Index="70" Name="Novacula Short Sword" />
+		<Item Index="45" Name="Cannon Magic Gun" />
+
+		<Item Index="23" Name="Russell Light Lance" />
+    
+
+        <Item Index="57" Name="Hell Knight Armor" />
+		<Item Index="57" Name="Hell Knight Pants" />
+		<Item Index="57" Name="Hell Knight Gloves" />
+		<Item Index="57" Name="Hell Knight Boots" />
+
+		<Item Index="37" Name="Spite Staff" />
+		<Item Index="35" Name="Miracle Staff" />
+		
+        <Item Index="19" Name="Thunderbolt" />
+
+		<Item Index="32" Name="Summon Spirit Stick" />

@@ -208,10 +208,10 @@ ItemDropRate_AL3 = 50
 ; Money Drop Settings
 ;==================================================
 MoneyDropTime = 30
-MoneyAmountDropRate_AL0 = 400
-MoneyAmountDropRate_AL1 = 400
-MoneyAmountDropRate_AL2 = 400
-MoneyAmountDropRate_AL3 = 400
+MoneyAmountDropRate_AL0 = 800
+MoneyAmountDropRate_AL1 = 800
+MoneyAmountDropRate_AL2 = 800
+MoneyAmountDropRate_AL3 = 800
 
 ;==================================================
 ; Item Durability Settings
@@ -571,13 +571,13 @@ TransformationRing6 = 41
 ; Jewel Settings
 ;==================================================
 SoulSuccessRate_AL0 = 80
-SoulSuccessRate_AL1 = 80
-SoulSuccessRate_AL2 = 80
-SoulSuccessRate_AL3 = 80
-LifeSuccessRate_AL0 = 70
-LifeSuccessRate_AL1 = 70
-LifeSuccessRate_AL2 = 70
-LifeSuccessRate_AL3 = 70
+SoulSuccessRate_AL1 = 90
+SoulSuccessRate_AL2 = 100
+SoulSuccessRate_AL3 = 100
+LifeSuccessRate_AL0 = 80
+LifeSuccessRate_AL1 = 90
+LifeSuccessRate_AL2 = 100
+LifeSuccessRate_AL3 = 100
 HarmonySuccessRate_AL0 = 50
 HarmonySuccessRate_AL1 = 50
 HarmonySuccessRate_AL2 = 50

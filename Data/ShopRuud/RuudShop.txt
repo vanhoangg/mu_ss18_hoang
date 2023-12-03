@@ -256,5 +256,6 @@ end
 20		90		0		0       0         	0         	0			50000	// Bloodangel Helmet of Sealed Longing
 20		91		0		0       0         	0         	0			50000	// Bloodangel Pants of Sealed Longing 
 20		92		0		0       0         	0        	0			50000	// Bloodangel Gloves of Sealed Longing 
+00		105		0		0	    35		    30		    2			100000	// Bloodangel Blade
 12		91		0		0       0           0          	0			1000    // Bladestorm Orb
 end

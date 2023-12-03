@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Processes>
-  <Process Run="True" Delay="2000" Path="D:\MuServer\ChatServer\ChatServer.exe" Parameters="" />
-  <Process Run="True" Delay="2000" Path="D:\MuServer\ConnectServer\ConnectServer.exe" Parameters="" />
-  <Process Run="True" Delay="2000" Path="D:\MuServer\DataServer\DataServer.exe" Parameters="" />
-  <Process Run="True" Delay="2000" Path="D:\MuServer\EXDataServer\EXDataServer.exe" Parameters="" />
-  <Process Run="True" Delay="2000" Path="D:\MuServer\JoinServer\JoinServer.exe" Parameters="" />
-  <Process Run="True" Delay="2000" Path="D:\MuServer\GameServer\GameServer.exe" Parameters="" />
-  <Process Run="True" Delay="2000" Path="D:\MuServer\GameServerCS\GameServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="D:\MuServer\ChatServer\ChatServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="D:\MuServer\ConnectServer\ConnectServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="D:\MuServer\DataServer\DataServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="D:\MuServer\EXDataServer\EXDataServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="D:\MuServer\JoinServer\JoinServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="D:\MuServer\GameServer\GameServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="D:\MuServer\GameServerCS\GameServer.exe" Parameters="" />
 </Processes>

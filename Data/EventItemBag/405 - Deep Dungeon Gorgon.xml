@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ItemBag>
 	<BagConfigEx>
-		<Config Index="0" DropRate="100" EqualAttributes="0"/>
-		<Config Index="1" DropRate="100" EqualAttributes="0"/>
+		<Config Index="0" DropRate="10000" EqualAttributes="0"/>
+		<Config Index="1" DropRate="10000" EqualAttributes="0"/>
 	</BagConfigEx>
 	<BagDropInfoEx>
 		<DropInfo Index="0" Section="6" SectionRate="10000" MoneyAmount="0" OptionValue="0" AccountLevel0="1" AccountLevel1="1" AccountLevel2="1" AccountLevel3="1" DW="1" DK="1" FE="1" MG="1" DL="1" SU="1" RF="1" GL="1" RW="1" SL="1" GC="1" KM="1" LM="1" IK="1"/>
@@ -68,6 +68,20 @@
 		<ItemEx Section="6" Index="7060" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Armor of Sealed Ritual"/>
 		<ItemEx Section="6" Index="7061" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Pants of Sealed Ritual"/>
 		<ItemEx Section="6" Index="7062" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Boots of Sealed Ritual"/>
+
+		<ItemEx Section="6" Index="10298" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Sealed Twilight Bloodangel Armor" />
+		<ItemEx Section="6" Index="10299" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Sealed Twilight Bloodangel Helm" />
+		<ItemEx Section="6" Index="10300" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Sealed Twilight Bloodangel Pants" />
+		<ItemEx Section="6" Index="10301" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Sealed Twilight Bloodangel Gloves" />
+		<ItemEx Section="6" Index="10302" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Sealed Liberation Bloodangel Armor" />
+		<ItemEx Section="6" Index="10303" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Sealed Liberation Bloodangel Helm" />
+		<ItemEx Section="6" Index="10304" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Sealed Liberation Bloodangel Pants" />
+		<ItemEx Section="6" Index="10305" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Sealed Liberation Bloodangel Gloves" />
+		<ItemEx Section="6" Index="10329" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Sealed Bloodangel Armor of Longing" />
+		<ItemEx Section="6" Index="10330" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Sealed Bloodangel Helm of Longing" />
+		<ItemEx Section="6" Index="10321" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Sealed Bloodangel Pants of Longing" />
+		<ItemEx Section="6" Index="10322" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Sealed Bloodangel Gloves of Longing" />
+		
 		<ItemEx Section="6" Index="7513" Level="0" Grade="0" Durability="1" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Mysterious Stone"/>
 		<ItemEx Section="6" Index="7181" Level="0" Grade="0" Durability="50" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Jewel of Bless"/>
 		<ItemEx Section="6" Index="7616" Level="0" Grade="0" Durability="1" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Ruud Box (3000)"/>

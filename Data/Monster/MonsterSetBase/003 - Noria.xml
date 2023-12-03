@@ -17,6 +17,7 @@
 		<Config Class="584" Range="0" PositionX="183" PositionY="126" Direction="2" Element="0" /> <!-- "Sir Lesnar" -->
 		<Config Class="873" Range="0" PositionX="179" PositionY="126" Direction="1" Element="0" /> <!-- "Maple Spirit" -->
 		<Config Class="874" Range="0" PositionX="179" PositionY="129" Direction="3" Element="0" /> <!-- "Maple Tree" -->
+		<Config Class="255" Range="0" PositionX="177" PositionY="102" Direction="1" Element="0" /> <!-- "Lumen the Barmaid" -->
 	</NPC>
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<SPOT>

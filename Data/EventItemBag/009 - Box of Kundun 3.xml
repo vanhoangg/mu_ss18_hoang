@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ItemBag>
-	<BagConfig Name="Box of Kundun 3" DropZen="0" ItemDropRate="10000" ItemDropCount="5" SetItemDropRate="0" ItemDropType="0" Fireworks="1"/>
+	<BagConfig Name="Box of Kundun 3" DropZen="0" ItemDropRate="10000" ItemDropCount="1" SetItemDropRate="0" ItemDropType="0" Fireworks="1"/>
 	<BagItems>
 
 	

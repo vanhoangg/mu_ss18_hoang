@@ -405,4 +405,5 @@
 453       *           *           *              *             //Double Goer Silver Chest 6
 454       *           *           *              *             //Double Goer Golden Chest 5
 455       *           *           *              *             //Double Goer Golden Chest 6
+466       *           *           919            *              //Kundun 919
 end

@@ -1,0 +1,30 @@
+		<Item Index="19" Name="Divine Sword of the Archangel" />
+		<Item Index="60" Name="Divine Claw of Archangel" />
+		<Item Index="76" Name="Divine Short Sword of Archangel" />
+		<Item Index="13" Name="Divine Scepter of the Archangel" />
+		<Item Index="34" Name="Divine Rune Mace of Archangel" />
+		<Item Index="26" Name="Divine Lance of Archangel" />
+		<Item Index="18" Name="Divine Crossbow of Archangel" />
+		<Item Index="46" Name="Divine Magic Gun of Archangel" />
+		<Item Index="10" Name="Divine Staff of Archangel" />
+		<Item Index="36" Name="Divine Stick of Archangel" />
+		<Item Index="93" Name="Divine Orb of the Archangel" />
+		<Item Index="113" Name="Archangel's Absolute Blade" />
+        
+
+
+        <ItemEx Section="8" Index="19" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="19" Option4="1" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Divine Sword of the Archangel" /> 
+        <ItemEx Section="8" Index="60" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="19" Option4="1" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Divine Claw of Archangel" /> 
+        <ItemEx Section="8" Index="76" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="19" Option4="1" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Divine Short Sword of Archangel" /> 
+        <ItemEx Section="8" Index="1037" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="19" Option4="1" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Divine Scepter of the Archangel" /> 
+        <ItemEx Section="8" Index="1058" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="19" Option4="1" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Divine Rune Mace of Archangel" /> 
+        <ItemEx Section="8" Index="1562" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="19" Option4="1" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Divine Lance of Archangel" /> 
+        <ItemEx Section="8" Index="2066" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="19" Option4="1" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Divine Crossbow of Archangel" /> 
+        <ItemEx Section="8" Index="2094" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="19" Option4="1" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Divine Magic Gun of Archangel" /> 
+        <ItemEx Section="8" Index="2570" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="19" Option4="1" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Divine Staff of Archangel" /> 
+        <ItemEx Section="8" Index="2596" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="19" Option4="1" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Divine Stick of Archangel" /> 
+        <ItemEx Section="8" Index="2653" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="19" Option4="1" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Divine Orb of the Archangel" /> 
+        <ItemEx Section="8" Index="113" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="19" Option4="1" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Archangel's Absolute Blade" /> 
+		<ItemEx Section="8" Index="7510" Level="0" Grade="0" Durability="1" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Steel of Heaven" />
+
+

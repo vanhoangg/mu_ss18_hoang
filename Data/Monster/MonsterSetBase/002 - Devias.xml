@@ -26,18 +26,16 @@
 	</NPC>
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<SPOT>
-	<Config Class="43" Range="5" BeginPosX="73" BeginPosY="176" EndPosX="73" EndPosY="176" Direction="-1" Quantity="3" Element="0" /> 
 	
-	
-	<!--	<Config Class="24" Range="30" BeginPosX="170" BeginPosY="80" EndPosX="245" EndPosY="200" Direction="-1" Quantity="30" Element="0" /> <!-- "Worm" -->
+		<Config Class="24" Range="30" BeginPosX="170" BeginPosY="80" EndPosX="245" EndPosY="200" Direction="-1" Quantity="30" Element="0" /> <!-- "Worm" -->
 		<Config Class="23" Range="5" BeginPosX="47" BeginPosY="208" EndPosX="47" EndPosY="208" Direction="-1" Quantity="10" Element="0" /> <!-- "Hommerd" -->
-	<!--	<Config Class="22" Range="30" BeginPosX="50" BeginPosY="6" EndPosX="166" EndPosY="244" Direction="-1" Quantity="40" Element="0" /> <!-- "Ice Monster" -->
+		<Config Class="22" Range="30" BeginPosX="50" BeginPosY="6" EndPosX="166" EndPosY="244" Direction="-1" Quantity="40" Element="0" /> <!-- "Ice Monster" -->
 		<Config Class="23" Range="30" BeginPosX="50" BeginPosY="6" EndPosX="166" EndPosY="244" Direction="-1" Quantity="30" Element="0" /> <!-- "Hommerd" -->
-	<!--	<Config Class="19" Range="30" BeginPosX="50" BeginPosY="6" EndPosX="166" EndPosY="244" Direction="-1" Quantity="40" Element="0" /> <!-- "Yeti" -->
+		<Config Class="19" Range="30" BeginPosX="50" BeginPosY="6" EndPosX="166" EndPosY="244" Direction="-1" Quantity="40" Element="0" /> <!-- "Yeti" -->
 		<Config Class="21" Range="30" BeginPosX="50" BeginPosY="6" EndPosX="166" EndPosY="244" Direction="-1" Quantity="30" Element="0" /> <!-- "Assassin" -->
-	<!--	<Config Class="20" Range="30" BeginPosX="50" BeginPosY="6" EndPosX="166" EndPosY="244" Direction="-1" Quantity="20" Element="0" /> <!-- "Elite Yeti" -->
-	<!--	<Config Class="20" Range="30" BeginPosX="5" BeginPosY="50" EndPosX="50" EndPosY="155" Direction="-1" Quantity="20" Element="0" /> <!-- "Elite Yeti" -->
-	<!--	<Config Class="20" Range="30" BeginPosX="6" BeginPosY="184" EndPosX="80" EndPosY="244" Direction="-1" Quantity="10" Element="0" /> <!-- "Elite Yeti" -->
+		<Config Class="20" Range="30" BeginPosX="50" BeginPosY="6" EndPosX="166" EndPosY="244" Direction="-1" Quantity="20" Element="0" /> <!-- "Elite Yeti" -->
+		<Config Class="20" Range="30" BeginPosX="5" BeginPosY="50" EndPosX="50" EndPosY="155" Direction="-1" Quantity="20" Element="0" /> <!-- "Elite Yeti" -->
+		<Config Class="20" Range="30" BeginPosX="6" BeginPosY="184" EndPosX="80" EndPosY="244" Direction="-1" Quantity="10" Element="0" /> <!-- "Elite Yeti" -->
 		<Config Class="25" Range="30" BeginPosX="6" BeginPosY="184" EndPosX="80" EndPosY="244" Direction="-1" Quantity="3" Element="0" /> <!-- "Ice Queen" -->
 <!-- ======================================================================================== OMEGA ========================================================================================================================================================================================= -->
 		<Config Class="20" Range="5" BeginPosX="190" BeginPosY="155" EndPosX="211" EndPosY="118" Direction="-1" Quantity="5" Element="0" /> <!-- "Elite Yeti" -->

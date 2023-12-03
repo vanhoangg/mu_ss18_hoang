@@ -45,16 +45,23 @@
 		<RuudInfo Section="5" RuudMin="0" RuudMax="0"/>
 	</BagRuudInfoEx>
 	<BagItemsEx>
-		<ItemEx Section="6" Index="4195" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="13" Option3="20" Option4="11" Option5="12" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Wizard Armor SM"/>
-		<ItemEx Section="7" Index="4194" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="13" Option3="20" Option4="11" Option5="12" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Knight Armor BK"/>
-		<ItemEx Section="8" Index="4196" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="13" Option3="20" Option4="11" Option5="12" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Elf Armor ELF"/>
-		<ItemEx Section="9" Index="4198" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="13" Option3="20" Option4="11" Option5="12" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Magic Armor MG"/>
-		<ItemEx Section="10" Index="4199" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="13" Option3="20" Option4="11" Option5="12" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Lord Armor DL"/>
-		<ItemEx Section="11" Index="4197" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="13" Option3="20" Option4="11" Option5="12" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Summoner Armor SU"/>
-		<ItemEx Section="12" Index="4200" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="13" Option3="20" Option4="11" Option5="12" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Fighter Armor RF"/>
-		<ItemEx Section="13" Index="4201" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="13" Option3="20" Option4="11" Option5="12" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Lancer Armor GL"/>
-		<ItemEx Section="14" Index="4218" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="13" Option3="20" Option4="11" Option5="12" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Runist Armor RW"/>
-		<ItemEx Section="15" Index="4276" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="13" Option3="20" Option4="11" Option5="12" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Slayer Armor SL"/>
+		<ItemEx Section="16" Index="4201" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="13" Option3="20" Option4="11" Option5="12" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Lancer Armor GL"/>
 		<ItemEx Section="16" Index="4308" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="13" Option3="20" Option4="11" Option5="12" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Gunner Armor GC"/>
+		<ItemEx Section="16" Index="4257" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="13" Option3="20" Option4="11" Option5="12" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Magic Armor [E]" />
+		<ItemEx Section="16" Index="4198" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="13" Option3="20" Option4="11" Option5="12" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Magic Armor [S]" />
+		<ItemEx Section="16" Index="4296" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="13" Option3="20" Option4="11" Option5="12" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Knight Armor [E]" />
+		<ItemEx Section="16" Index="4194" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="13" Option3="20" Option4="11" Option5="12" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Knight Armor [S]" />
+		<ItemEx Section="16" Index="4195" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="13" Option3="20" Option4="11" Option5="12" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Wizard Armor" />
+		<ItemEx Section="16" Index="4254" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="13" Option3="20" Option4="11" Option5="12" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Elf Armor [E]" />
+		<ItemEx Section="16" Index="4196" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="13" Option3="20" Option4="11" Option5="12" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Elf Armor [A]" />
+		<ItemEx Section="16" Index="4197" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="13" Option3="20" Option4="11" Option5="12" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Summoner Armor" />
+		<ItemEx Section="16" Index="4199" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="13" Option3="20" Option4="11" Option5="12" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Lord Armor" />
+		<ItemEx Section="16" Index="4200" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="13" Option3="20" Option4="11" Option5="12" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Fighter Armor" />
+		<ItemEx Section="16" Index="4218" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="13" Option3="20" Option4="11" Option5="12" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Rune Mage Armor" />
+		<ItemEx Section="16" Index="4276" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="13" Option3="20" Option4="11" Option5="12" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Slayer Armor" />
+		<ItemEx Section="16" Index="4337" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="13" Option3="20" Option4="11" Option5="12" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel White Wizard Armor" />
+		<ItemEx Section="16" Index="4355" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="13" Option3="20" Option4="11" Option5="12" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Mage Armor" />
+		<ItemEx Section="16" Index="4402" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="13" Option3="20" Option4="11" Option5="12" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Illusion Knight Armor" />
+
 	</BagItemsEx>
 </ItemBag>

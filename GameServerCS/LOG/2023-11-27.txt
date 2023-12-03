@@ -1,0 +1,849 @@
+00:00:00 m_iAB_REMAIN_MSEC 645
+00:00:00 [ArcaBattle] Sync Start Time. [645] min remain (START HOUR:10, MIN:45)
+00:00:00 [Blood Castle] (1) SetState STAND
+00:00:00 [Blood Castle] (2) SetState STAND
+00:00:00 [Blood Castle] (3) SetState STAND
+00:00:00 [Blood Castle] (4) SetState STAND
+00:00:00 [Blood Castle] (5) SetState STAND
+00:00:00 [Blood Castle] (6) SetState STAND
+00:00:00 [Blood Castle] (7) SetState STAND
+00:00:00 [Blood Castle] (8) SetState STAND
+00:00:00 [Bot Hide][12] (BotHideLM) SetState STAND
+00:00:01 [Blood Castle] (1) Not enough users
+00:00:01 [Blood Castle] (1) Sync Start Time. [59] min remain
+00:00:01 [Blood Castle] (1) SetState EMPTY
+00:00:01 [Blood Castle] (2) Not enough users
+00:00:01 [Blood Castle] (2) Sync Start Time. [59] min remain
+00:00:01 [Blood Castle] (2) SetState EMPTY
+00:00:01 [Blood Castle] (3) Not enough users
+00:00:01 [Blood Castle] (3) Sync Start Time. [59] min remain
+00:00:01 [Blood Castle] (3) SetState EMPTY
+00:00:01 [Blood Castle] (4) Not enough users
+00:00:01 [Blood Castle] (4) Sync Start Time. [59] min remain
+00:00:01 [Blood Castle] (4) SetState EMPTY
+00:00:01 [Blood Castle] (5) Not enough users
+00:00:01 [Blood Castle] (5) Sync Start Time. [59] min remain
+00:00:01 [Blood Castle] (5) SetState EMPTY
+00:00:01 [Blood Castle] (6) Not enough users
+00:00:01 [Blood Castle] (6) Sync Start Time. [59] min remain
+00:00:01 [Blood Castle] (6) SetState EMPTY
+00:00:01 [Blood Castle] (7) Not enough users
+00:00:01 [Blood Castle] (7) Sync Start Time. [59] min remain
+00:00:01 [Blood Castle] (7) SetState EMPTY
+00:00:01 [Blood Castle] (8) Not enough users
+00:00:01 [Blood Castle] (8) Sync Start Time. [59] min remain
+00:00:01 [Blood Castle] (8) SetState EMPTY
+00:00:01 [Bot Hide] [BotHideLM] [Map:131] [X:68] [Y:61]
+00:00:01 [Bot Hide][12] (BotHideLM) SetState START
+00:00:20 [Chaos Castle Survival][GDChaosCastleSurvivalRenewallRanking] [BattleType:0]
+00:00:20 [Chaos Castle Survival][End of Day] Preparing for reset...
+00:00:30 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:00:30 [ITR] TempleNumber Reset :[0]
+00:00:30 [ ITR ] (0) Sync Open Time. [0]min remain
+00:00:30 [ ITR ] MAP :0 match NONE.
+00:00:30 0 Welcome Closing Round 1 
+00:00:30 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:00:30 [ITR] TempleNumber Reset :[1]
+00:00:30 [ ITR ] (1) Sync Open Time. [0]min remain
+00:00:30 [ ITR ] MAP :1 match NONE.
+00:00:30 1 Welcome Closing Round 1 
+00:00:30 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:00:30 [ITR] TempleNumber Reset :[2]
+00:00:30 [ ITR ] (2) Sync Open Time. [0]min remain
+00:00:30 [ ITR ] MAP :2 match NONE.
+00:00:30 2 Welcome Closing Round 1 
+00:00:30 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:00:30 [ITR] TempleNumber Reset :[3]
+00:00:30 [ ITR ] (3) Sync Open Time. [0]min remain
+00:00:30 [ ITR ] MAP :3 match NONE.
+00:00:30 3 Welcome Closing Round 1 
+00:00:30 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:00:30 [ITR] TempleNumber Reset :[4]
+00:00:30 [ ITR ] (4) Sync Open Time. [0]min remain
+00:00:30 [ ITR ] MAP :4 match NONE.
+00:00:30 4 Welcome Closing Round 1 
+00:00:30 [ ITR ] MAP : 0[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:00:30 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:00:30 [ ITR ] (0) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:0)(m_nRemainTimeMSec:-1)
+00:00:30 MAP:[0] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:00:30 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:00:30 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:00:30 [ ITR ] (0) Remove All Object
+00:00:30 [ ITR ] Map:0 match ended.
+00:00:30 [ ITR ] MAP : 1[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:00:30 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:00:30 [ ITR ] (1) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:0)(m_nRemainTimeMSec:-1)
+00:00:30 MAP:[1] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:00:30 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:00:30 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:00:30 [ ITR ] (1) Remove All Object
+00:00:30 [ ITR ] Map:1 match ended.
+00:00:30 [ ITR ] MAP : 2[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:00:30 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:00:30 [ ITR ] (2) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:0)(m_nRemainTimeMSec:-1)
+00:00:30 MAP:[2] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:00:30 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:00:30 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:00:30 [ ITR ] (2) Remove All Object
+00:00:30 [ ITR ] Map:2 match ended.
+00:00:30 [ ITR ] MAP : 3[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:00:30 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:00:30 [ ITR ] (3) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:0)(m_nRemainTimeMSec:-1)
+00:00:30 MAP:[3] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:00:30 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:00:30 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:00:30 [ ITR ] (3) Remove All Object
+00:00:30 [ ITR ] Map:3 match ended.
+00:00:30 [ ITR ] MAP : 4[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:00:30 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:00:30 [ ITR ] (4) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:0)(m_nRemainTimeMSec:-1)
+00:00:30 MAP:[4] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:00:30 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:00:30 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:00:30 [ ITR ] (4) Remove All Object
+00:00:30 [ ITR ] Map:4 match ended.
+00:01:31 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:01:31 [ITR] TempleNumber Reset :[0]
+00:01:31 [ ITR ] (0) Sync Open Time. [-1]min remain
+00:01:31 [ ITR ] MAP :0 match NONE.
+00:01:31 0 Welcome Closing Round 1 
+00:01:31 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:01:31 [ITR] TempleNumber Reset :[1]
+00:01:31 [ ITR ] (1) Sync Open Time. [-1]min remain
+00:01:31 [ ITR ] MAP :1 match NONE.
+00:01:31 1 Welcome Closing Round 1 
+00:01:31 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:01:31 [ITR] TempleNumber Reset :[2]
+00:01:31 [ ITR ] (2) Sync Open Time. [-1]min remain
+00:01:31 [ ITR ] MAP :2 match NONE.
+00:01:31 2 Welcome Closing Round 1 
+00:01:31 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:01:31 [ITR] TempleNumber Reset :[3]
+00:01:31 [ ITR ] (3) Sync Open Time. [-1]min remain
+00:01:31 [ ITR ] MAP :3 match NONE.
+00:01:31 3 Welcome Closing Round 1 
+00:01:31 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:01:31 [ITR] TempleNumber Reset :[4]
+00:01:31 [ ITR ] (4) Sync Open Time. [-1]min remain
+00:01:31 [ ITR ] MAP :4 match NONE.
+00:01:31 4 Welcome Closing Round 1 
+00:01:31 [ ITR ] MAP : 0[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:01:31 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:01:31 [ ITR ] (0) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-1)(m_nRemainTimeMSec:-1)
+00:01:31 MAP:[0] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:01:31 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:01:31 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:01:31 [ ITR ] (0) Remove All Object
+00:01:31 [ ITR ] Map:0 match ended.
+00:01:31 [ ITR ] MAP : 1[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:01:31 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:01:31 [ ITR ] (1) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-1)(m_nRemainTimeMSec:-1)
+00:01:31 MAP:[1] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:01:31 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:01:31 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:01:31 [ ITR ] (1) Remove All Object
+00:01:31 [ ITR ] Map:1 match ended.
+00:01:31 [ ITR ] MAP : 2[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:01:31 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:01:31 [ ITR ] (2) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-1)(m_nRemainTimeMSec:-1)
+00:01:31 MAP:[2] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:01:31 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:01:31 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:01:31 [ ITR ] (2) Remove All Object
+00:01:31 [ ITR ] Map:2 match ended.
+00:01:31 [ ITR ] MAP : 3[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:01:31 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:01:31 [ ITR ] (3) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-1)(m_nRemainTimeMSec:-1)
+00:01:31 MAP:[3] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:01:31 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:01:31 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:01:31 [ ITR ] (3) Remove All Object
+00:01:31 [ ITR ] Map:3 match ended.
+00:01:31 [ ITR ] MAP : 4[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:01:31 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:01:31 [ ITR ] (4) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-1)(m_nRemainTimeMSec:-1)
+00:01:31 MAP:[4] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:01:31 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:01:31 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:01:31 [ ITR ] (4) Remove All Object
+00:01:31 [ ITR ] Map:4 match ended.
+00:02:31 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:02:31 [ITR] TempleNumber Reset :[0]
+00:02:31 [ ITR ] (0) Sync Open Time. [-2]min remain
+00:02:31 [ ITR ] MAP :0 match NONE.
+00:02:31 0 Welcome Closing Round 1 
+00:02:31 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:02:31 [ITR] TempleNumber Reset :[1]
+00:02:31 [ ITR ] (1) Sync Open Time. [-2]min remain
+00:02:31 [ ITR ] MAP :1 match NONE.
+00:02:31 1 Welcome Closing Round 1 
+00:02:31 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:02:31 [ITR] TempleNumber Reset :[2]
+00:02:31 [ ITR ] (2) Sync Open Time. [-2]min remain
+00:02:31 [ ITR ] MAP :2 match NONE.
+00:02:31 2 Welcome Closing Round 1 
+00:02:31 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:02:31 [ITR] TempleNumber Reset :[3]
+00:02:31 [ ITR ] (3) Sync Open Time. [-2]min remain
+00:02:31 [ ITR ] MAP :3 match NONE.
+00:02:31 3 Welcome Closing Round 1 
+00:02:31 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:02:31 [ITR] TempleNumber Reset :[4]
+00:02:31 [ ITR ] (4) Sync Open Time. [-2]min remain
+00:02:31 [ ITR ] MAP :4 match NONE.
+00:02:31 4 Welcome Closing Round 1 
+00:02:31 [ ITR ] MAP : 0[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:02:31 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:02:31 [ ITR ] (0) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-2)(m_nRemainTimeMSec:-1)
+00:02:31 MAP:[0] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:02:31 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:02:31 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:02:31 [ ITR ] (0) Remove All Object
+00:02:31 [ ITR ] Map:0 match ended.
+00:02:31 [ ITR ] MAP : 1[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:02:31 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:02:31 [ ITR ] (1) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-2)(m_nRemainTimeMSec:-1)
+00:02:31 MAP:[1] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:02:31 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:02:31 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:02:31 [ ITR ] (1) Remove All Object
+00:02:31 [ ITR ] Map:1 match ended.
+00:02:31 [ ITR ] MAP : 2[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:02:31 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:02:31 [ ITR ] (2) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-2)(m_nRemainTimeMSec:-1)
+00:02:31 MAP:[2] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:02:31 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:02:31 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:02:31 [ ITR ] (2) Remove All Object
+00:02:31 [ ITR ] Map:2 match ended.
+00:02:31 [ ITR ] MAP : 3[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:02:31 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:02:31 [ ITR ] (3) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-2)(m_nRemainTimeMSec:-1)
+00:02:31 MAP:[3] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:02:31 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:02:31 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:02:31 [ ITR ] (3) Remove All Object
+00:02:31 [ ITR ] Map:3 match ended.
+00:02:31 [ ITR ] MAP : 4[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:02:31 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:02:31 [ ITR ] (4) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-2)(m_nRemainTimeMSec:-1)
+00:02:31 MAP:[4] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:02:31 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:02:31 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:02:31 [ ITR ] (4) Remove All Object
+00:02:31 [ ITR ] Map:4 match ended.
+00:03:25 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+00:03:25 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(514), MAXHP:400000, HP:400000, DF:0, RG:0)
+00:03:25 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(515), MAXHP:400000, HP:400000, DF:0, RG:0)
+00:03:25 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(516), MAXHP:400000, HP:400000, DF:0, RG:0)
+00:03:25 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(517), MAXHP:400000, HP:400000, DF:0, RG:0)
+00:03:25 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(518), MAXHP:500000, HP:500000, DF:0, RG:0)
+00:03:25 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(519), MAXHP:500000, HP:500000, DF:0, RG:0)
+00:03:25 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(520), MAXHP:500000, HP:500000, DF:0, RG:0)
+00:03:25 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(521), MAXHP:500000, HP:500000, DF:0, RG:0)
+00:03:25 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(522), MAXHP:500000, HP:500000, DF:0, RG:0)
+00:03:25 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(523), MAXHP:500000, HP:500000, DF:0, RG:0)
+00:03:25 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+00:03:25 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+00:03:32 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:03:32 [ITR] TempleNumber Reset :[0]
+00:03:32 [ ITR ] (0) Sync Open Time. [-3]min remain
+00:03:32 [ ITR ] MAP :0 match NONE.
+00:03:32 0 Welcome Closing Round 1 
+00:03:32 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:03:32 [ITR] TempleNumber Reset :[1]
+00:03:32 [ ITR ] (1) Sync Open Time. [-3]min remain
+00:03:32 [ ITR ] MAP :1 match NONE.
+00:03:32 1 Welcome Closing Round 1 
+00:03:32 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:03:32 [ITR] TempleNumber Reset :[2]
+00:03:32 [ ITR ] (2) Sync Open Time. [-3]min remain
+00:03:32 [ ITR ] MAP :2 match NONE.
+00:03:32 2 Welcome Closing Round 1 
+00:03:32 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:03:32 [ITR] TempleNumber Reset :[3]
+00:03:32 [ ITR ] (3) Sync Open Time. [-3]min remain
+00:03:32 [ ITR ] MAP :3 match NONE.
+00:03:32 3 Welcome Closing Round 1 
+00:03:32 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:03:32 [ITR] TempleNumber Reset :[4]
+00:03:32 [ ITR ] (4) Sync Open Time. [-3]min remain
+00:03:32 [ ITR ] MAP :4 match NONE.
+00:03:32 4 Welcome Closing Round 1 
+00:03:32 [ ITR ] MAP : 0[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:03:32 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:03:32 [ ITR ] (0) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-3)(m_nRemainTimeMSec:-1)
+00:03:32 MAP:[0] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:03:32 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:03:32 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:03:32 [ ITR ] (0) Remove All Object
+00:03:32 [ ITR ] Map:0 match ended.
+00:03:32 [ ITR ] MAP : 1[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:03:32 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:03:32 [ ITR ] (1) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-3)(m_nRemainTimeMSec:-1)
+00:03:32 MAP:[1] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:03:32 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:03:32 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:03:32 [ ITR ] (1) Remove All Object
+00:03:32 [ ITR ] Map:1 match ended.
+00:03:32 [ ITR ] MAP : 2[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:03:32 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:03:32 [ ITR ] (2) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-3)(m_nRemainTimeMSec:-1)
+00:03:32 MAP:[2] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:03:32 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:03:32 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:03:32 [ ITR ] (2) Remove All Object
+00:03:32 [ ITR ] Map:2 match ended.
+00:03:32 [ ITR ] MAP : 3[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:03:32 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:03:32 [ ITR ] (3) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-3)(m_nRemainTimeMSec:-1)
+00:03:32 MAP:[3] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:03:32 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:03:32 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:03:32 [ ITR ] (3) Remove All Object
+00:03:32 [ ITR ] Map:3 match ended.
+00:03:32 [ ITR ] MAP : 4[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:03:32 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:03:32 [ ITR ] (4) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-3)(m_nRemainTimeMSec:-1)
+00:03:32 MAP:[4] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:03:32 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:03:32 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:03:32 [ ITR ] (4) Remove All Object
+00:03:32 [ ITR ] Map:4 match ended.
+00:04:32 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:04:32 [ITR] TempleNumber Reset :[0]
+00:04:32 [ ITR ] (0) Sync Open Time. [-4]min remain
+00:04:32 [ ITR ] MAP :0 match NONE.
+00:04:32 0 Welcome Closing Round 1 
+00:04:32 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:04:32 [ITR] TempleNumber Reset :[1]
+00:04:32 [ ITR ] (1) Sync Open Time. [-4]min remain
+00:04:32 [ ITR ] MAP :1 match NONE.
+00:04:32 1 Welcome Closing Round 1 
+00:04:32 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:04:32 [ITR] TempleNumber Reset :[2]
+00:04:32 [ ITR ] (2) Sync Open Time. [-4]min remain
+00:04:32 [ ITR ] MAP :2 match NONE.
+00:04:32 2 Welcome Closing Round 1 
+00:04:32 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:04:32 [ITR] TempleNumber Reset :[3]
+00:04:32 [ ITR ] (3) Sync Open Time. [-4]min remain
+00:04:32 [ ITR ] MAP :3 match NONE.
+00:04:32 3 Welcome Closing Round 1 
+00:04:32 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:04:32 [ITR] TempleNumber Reset :[4]
+00:04:32 [ ITR ] (4) Sync Open Time. [-4]min remain
+00:04:32 [ ITR ] MAP :4 match NONE.
+00:04:32 4 Welcome Closing Round 1 
+00:04:32 [ ITR ] MAP : 0[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:04:32 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:04:32 [ ITR ] (0) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-4)(m_nRemainTimeMSec:-1)
+00:04:32 MAP:[0] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:04:32 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:04:32 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:04:32 [ ITR ] (0) Remove All Object
+00:04:32 [ ITR ] Map:0 match ended.
+00:04:32 [ ITR ] MAP : 1[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:04:32 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:04:32 [ ITR ] (1) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-4)(m_nRemainTimeMSec:-1)
+00:04:32 MAP:[1] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:04:32 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:04:32 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:04:32 [ ITR ] (1) Remove All Object
+00:04:32 [ ITR ] Map:1 match ended.
+00:04:32 [ ITR ] MAP : 2[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:04:32 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:04:32 [ ITR ] (2) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-4)(m_nRemainTimeMSec:-1)
+00:04:32 MAP:[2] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:04:32 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:04:32 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:04:32 [ ITR ] (2) Remove All Object
+00:04:32 [ ITR ] Map:2 match ended.
+00:04:32 [ ITR ] MAP : 3[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:04:32 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:04:32 [ ITR ] (3) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-4)(m_nRemainTimeMSec:-1)
+00:04:32 MAP:[3] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:04:32 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:04:32 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:04:32 [ ITR ] (3) Remove All Object
+00:04:32 [ ITR ] Map:3 match ended.
+00:04:32 [ ITR ] MAP : 4[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:04:32 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:04:32 [ ITR ] (4) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-4)(m_nRemainTimeMSec:-1)
+00:04:32 MAP:[4] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:04:32 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:04:32 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:04:32 [ ITR ] (4) Remove All Object
+00:04:32 [ ITR ] Map:4 match ended.
+00:05:00 [Boss Battle Event] SetState STAND
+00:05:01 [Boss Battle Event] Not enough users
+00:05:01 [Boss Battle Event] Sync Start Time. [1439] min remain
+00:05:01 [Boss Battle Event] SetState EMPTY
+00:05:32 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:05:32 [ITR] TempleNumber Reset :[0]
+00:05:32 [ ITR ] (0) Sync Open Time. [-5]min remain
+00:05:32 [ ITR ] MAP :0 match NONE.
+00:05:32 0 Welcome Closing Round 1 
+00:05:32 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:05:32 [ITR] TempleNumber Reset :[1]
+00:05:32 [ ITR ] (1) Sync Open Time. [-5]min remain
+00:05:32 [ ITR ] MAP :1 match NONE.
+00:05:32 1 Welcome Closing Round 1 
+00:05:32 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:05:32 [ITR] TempleNumber Reset :[2]
+00:05:32 [ ITR ] (2) Sync Open Time. [-5]min remain
+00:05:32 [ ITR ] MAP :2 match NONE.
+00:05:32 2 Welcome Closing Round 1 
+00:05:32 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:05:32 [ITR] TempleNumber Reset :[3]
+00:05:32 [ ITR ] (3) Sync Open Time. [-5]min remain
+00:05:32 [ ITR ] MAP :3 match NONE.
+00:05:32 3 Welcome Closing Round 1 
+00:05:32 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:05:32 [ITR] TempleNumber Reset :[4]
+00:05:32 [ ITR ] (4) Sync Open Time. [-5]min remain
+00:05:32 [ ITR ] MAP :4 match NONE.
+00:05:32 4 Welcome Closing Round 1 
+00:05:33 [ ITR ] MAP : 0[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:05:33 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:05:33 [ ITR ] (0) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-5)(m_nRemainTimeMSec:-1)
+00:05:33 MAP:[0] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:05:33 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:05:33 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:05:33 [ ITR ] (0) Remove All Object
+00:05:33 [ ITR ] Map:0 match ended.
+00:05:33 [ ITR ] MAP : 1[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:05:33 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:05:33 [ ITR ] (1) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-5)(m_nRemainTimeMSec:-1)
+00:05:33 MAP:[1] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:05:33 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:05:33 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:05:33 [ ITR ] (1) Remove All Object
+00:05:33 [ ITR ] Map:1 match ended.
+00:05:33 [ ITR ] MAP : 2[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:05:33 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:05:33 [ ITR ] (2) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-5)(m_nRemainTimeMSec:-1)
+00:05:33 MAP:[2] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:05:33 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:05:33 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:05:33 [ ITR ] (2) Remove All Object
+00:05:33 [ ITR ] Map:2 match ended.
+00:05:33 [ ITR ] MAP : 3[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:05:33 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:05:33 [ ITR ] (3) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-5)(m_nRemainTimeMSec:-1)
+00:05:33 MAP:[3] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:05:33 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:05:33 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:05:33 [ ITR ] (3) Remove All Object
+00:05:33 [ ITR ] Map:3 match ended.
+00:05:33 [ ITR ] MAP : 4[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:05:33 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:05:33 [ ITR ] (4) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-5)(m_nRemainTimeMSec:-1)
+00:05:33 MAP:[4] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:05:33 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:05:33 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:05:33 [ ITR ] (4) Remove All Object
+00:05:33 [ ITR ] Map:4 match ended.
+00:06:33 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:06:33 [ITR] TempleNumber Reset :[0]
+00:06:33 [ ITR ] (0) Sync Open Time. [-6]min remain
+00:06:33 [ ITR ] MAP :0 match NONE.
+00:06:33 0 Welcome Closing Round 1 
+00:06:33 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:06:33 [ITR] TempleNumber Reset :[1]
+00:06:33 [ ITR ] (1) Sync Open Time. [-6]min remain
+00:06:33 [ ITR ] MAP :1 match NONE.
+00:06:33 1 Welcome Closing Round 1 
+00:06:33 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:06:33 [ITR] TempleNumber Reset :[2]
+00:06:33 [ ITR ] (2) Sync Open Time. [-6]min remain
+00:06:33 [ ITR ] MAP :2 match NONE.
+00:06:33 2 Welcome Closing Round 1 
+00:06:33 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:06:33 [ITR] TempleNumber Reset :[3]
+00:06:33 [ ITR ] (3) Sync Open Time. [-6]min remain
+00:06:33 [ ITR ] MAP :3 match NONE.
+00:06:33 3 Welcome Closing Round 1 
+00:06:33 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:06:33 [ITR] TempleNumber Reset :[4]
+00:06:33 [ ITR ] (4) Sync Open Time. [-6]min remain
+00:06:33 [ ITR ] MAP :4 match NONE.
+00:06:33 4 Welcome Closing Round 1 
+00:06:33 [ ITR ] MAP : 0[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:06:33 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:06:33 [ ITR ] (0) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-6)(m_nRemainTimeMSec:-1)
+00:06:33 MAP:[0] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:06:33 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:06:33 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:06:33 [ ITR ] (0) Remove All Object
+00:06:33 [ ITR ] Map:0 match ended.
+00:06:33 [ ITR ] MAP : 1[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:06:33 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:06:33 [ ITR ] (1) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-6)(m_nRemainTimeMSec:-1)
+00:06:33 MAP:[1] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:06:33 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:06:33 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:06:33 [ ITR ] (1) Remove All Object
+00:06:33 [ ITR ] Map:1 match ended.
+00:06:33 [ ITR ] MAP : 2[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:06:33 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:06:33 [ ITR ] (2) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-6)(m_nRemainTimeMSec:-1)
+00:06:33 MAP:[2] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:06:33 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:06:33 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:06:33 [ ITR ] (2) Remove All Object
+00:06:33 [ ITR ] Map:2 match ended.
+00:06:33 [ ITR ] MAP : 3[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:06:33 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:06:33 [ ITR ] (3) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-6)(m_nRemainTimeMSec:-1)
+00:06:33 MAP:[3] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:06:33 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:06:33 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:06:33 [ ITR ] (3) Remove All Object
+00:06:33 [ ITR ] Map:3 match ended.
+00:06:33 [ ITR ] MAP : 4[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:06:33 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:06:33 [ ITR ] (4) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-6)(m_nRemainTimeMSec:-1)
+00:06:33 MAP:[4] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:06:33 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:06:33 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:06:33 [ ITR ] (4) Remove All Object
+00:06:33 [ ITR ] Map:4 match ended.
+00:07:34 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:07:34 [ITR] TempleNumber Reset :[0]
+00:07:34 [ ITR ] (0) Sync Open Time. [-7]min remain
+00:07:34 [ ITR ] MAP :0 match NONE.
+00:07:34 0 Welcome Closing Round 1 
+00:07:34 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:07:34 [ITR] TempleNumber Reset :[1]
+00:07:34 [ ITR ] (1) Sync Open Time. [-7]min remain
+00:07:34 [ ITR ] MAP :1 match NONE.
+00:07:34 1 Welcome Closing Round 1 
+00:07:34 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:07:34 [ITR] TempleNumber Reset :[2]
+00:07:34 [ ITR ] (2) Sync Open Time. [-7]min remain
+00:07:34 [ ITR ] MAP :2 match NONE.
+00:07:34 2 Welcome Closing Round 1 
+00:07:34 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:07:34 [ITR] TempleNumber Reset :[3]
+00:07:34 [ ITR ] (3) Sync Open Time. [-7]min remain
+00:07:34 [ ITR ] MAP :3 match NONE.
+00:07:34 3 Welcome Closing Round 1 
+00:07:34 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:07:34 [ITR] TempleNumber Reset :[4]
+00:07:34 [ ITR ] (4) Sync Open Time. [-7]min remain
+00:07:34 [ ITR ] MAP :4 match NONE.
+00:07:34 4 Welcome Closing Round 1 
+00:07:34 [ ITR ] MAP : 0[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:07:34 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:07:34 [ ITR ] (0) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-7)(m_nRemainTimeMSec:-1)
+00:07:34 MAP:[0] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:07:34 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:07:34 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:07:34 [ ITR ] (0) Remove All Object
+00:07:34 [ ITR ] Map:0 match ended.
+00:07:34 [ ITR ] MAP : 1[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:07:34 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:07:34 [ ITR ] (1) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-7)(m_nRemainTimeMSec:-1)
+00:07:34 MAP:[1] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:07:34 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:07:34 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:07:34 [ ITR ] (1) Remove All Object
+00:07:34 [ ITR ] Map:1 match ended.
+00:07:34 [ ITR ] MAP : 2[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:07:34 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:07:34 [ ITR ] (2) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-7)(m_nRemainTimeMSec:-1)
+00:07:34 MAP:[2] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:07:34 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:07:34 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:07:34 [ ITR ] (2) Remove All Object
+00:07:34 [ ITR ] Map:2 match ended.
+00:07:34 [ ITR ] MAP : 3[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:07:34 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:07:34 [ ITR ] (3) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-7)(m_nRemainTimeMSec:-1)
+00:07:34 MAP:[3] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:07:34 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:07:34 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:07:34 [ ITR ] (3) Remove All Object
+00:07:34 [ ITR ] Map:3 match ended.
+00:07:34 [ ITR ] MAP : 4[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:07:34 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:07:34 [ ITR ] (4) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-7)(m_nRemainTimeMSec:-1)
+00:07:34 MAP:[4] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:07:34 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:07:34 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:07:34 [ ITR ] (4) Remove All Object
+00:07:34 [ ITR ] Map:4 match ended.
+00:08:25 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+00:08:25 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(514), MAXHP:400000, HP:400000, DF:0, RG:0)
+00:08:25 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(515), MAXHP:400000, HP:400000, DF:0, RG:0)
+00:08:25 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(516), MAXHP:400000, HP:400000, DF:0, RG:0)
+00:08:25 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(517), MAXHP:400000, HP:400000, DF:0, RG:0)
+00:08:25 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(518), MAXHP:500000, HP:500000, DF:0, RG:0)
+00:08:25 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(519), MAXHP:500000, HP:500000, DF:0, RG:0)
+00:08:25 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(520), MAXHP:500000, HP:500000, DF:0, RG:0)
+00:08:25 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(521), MAXHP:500000, HP:500000, DF:0, RG:0)
+00:08:25 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(522), MAXHP:500000, HP:500000, DF:0, RG:0)
+00:08:25 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(523), MAXHP:500000, HP:500000, DF:0, RG:0)
+00:08:25 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+00:08:25 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+00:08:34 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:08:34 [ITR] TempleNumber Reset :[0]
+00:08:34 [ ITR ] (0) Sync Open Time. [-8]min remain
+00:08:34 [ ITR ] MAP :0 match NONE.
+00:08:34 0 Welcome Closing Round 1 
+00:08:34 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:08:34 [ITR] TempleNumber Reset :[1]
+00:08:34 [ ITR ] (1) Sync Open Time. [-8]min remain
+00:08:34 [ ITR ] MAP :1 match NONE.
+00:08:34 1 Welcome Closing Round 1 
+00:08:34 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:08:34 [ITR] TempleNumber Reset :[2]
+00:08:34 [ ITR ] (2) Sync Open Time. [-8]min remain
+00:08:34 [ ITR ] MAP :2 match NONE.
+00:08:34 2 Welcome Closing Round 1 
+00:08:34 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:08:34 [ITR] TempleNumber Reset :[3]
+00:08:34 [ ITR ] (3) Sync Open Time. [-8]min remain
+00:08:34 [ ITR ] MAP :3 match NONE.
+00:08:34 3 Welcome Closing Round 1 
+00:08:34 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:08:34 [ITR] TempleNumber Reset :[4]
+00:08:34 [ ITR ] (4) Sync Open Time. [-8]min remain
+00:08:34 [ ITR ] MAP :4 match NONE.
+00:08:34 4 Welcome Closing Round 1 
+00:08:34 [ ITR ] MAP : 0[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:08:34 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:08:34 [ ITR ] (0) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-8)(m_nRemainTimeMSec:-1)
+00:08:34 MAP:[0] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:08:34 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:08:34 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:08:34 [ ITR ] (0) Remove All Object
+00:08:34 [ ITR ] Map:0 match ended.
+00:08:34 [ ITR ] MAP : 1[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:08:34 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:08:34 [ ITR ] (1) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-8)(m_nRemainTimeMSec:-1)
+00:08:34 MAP:[1] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:08:34 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:08:34 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:08:34 [ ITR ] (1) Remove All Object
+00:08:34 [ ITR ] Map:1 match ended.
+00:08:34 [ ITR ] MAP : 2[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:08:34 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:08:34 [ ITR ] (2) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-8)(m_nRemainTimeMSec:-1)
+00:08:34 MAP:[2] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:08:34 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:08:34 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:08:34 [ ITR ] (2) Remove All Object
+00:08:34 [ ITR ] Map:2 match ended.
+00:08:34 [ ITR ] MAP : 3[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:08:34 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:08:34 [ ITR ] (3) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-8)(m_nRemainTimeMSec:-1)
+00:08:34 MAP:[3] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:08:34 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:08:34 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:08:34 [ ITR ] (3) Remove All Object
+00:08:34 [ ITR ] Map:3 match ended.
+00:08:34 [ ITR ] MAP : 4[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:08:34 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:08:34 [ ITR ] (4) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-8)(m_nRemainTimeMSec:-1)
+00:08:34 MAP:[4] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:08:34 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:08:34 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:08:34 [ ITR ] (4) Remove All Object
+00:08:34 [ ITR ] Map:4 match ended.
+00:09:34 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:09:34 [ITR] TempleNumber Reset :[0]
+00:09:34 [ ITR ] (0) Sync Open Time. [-9]min remain
+00:09:34 [ ITR ] MAP :0 match NONE.
+00:09:34 0 Welcome Closing Round 1 
+00:09:34 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:09:34 [ITR] TempleNumber Reset :[1]
+00:09:34 [ ITR ] (1) Sync Open Time. [-9]min remain
+00:09:34 [ ITR ] MAP :1 match NONE.
+00:09:34 1 Welcome Closing Round 1 
+00:09:34 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:09:34 [ITR] TempleNumber Reset :[2]
+00:09:34 [ ITR ] (2) Sync Open Time. [-9]min remain
+00:09:34 [ ITR ] MAP :2 match NONE.
+00:09:34 2 Welcome Closing Round 1 
+00:09:34 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:09:34 [ITR] TempleNumber Reset :[3]
+00:09:34 [ ITR ] (3) Sync Open Time. [-9]min remain
+00:09:34 [ ITR ] MAP :3 match NONE.
+00:09:34 3 Welcome Closing Round 1 
+00:09:34 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:09:34 [ITR] TempleNumber Reset :[4]
+00:09:34 [ ITR ] (4) Sync Open Time. [-9]min remain
+00:09:34 [ ITR ] MAP :4 match NONE.
+00:09:34 4 Welcome Closing Round 1 
+00:09:34 [ ITR ] MAP : 0[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:09:34 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:09:34 [ ITR ] (0) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-9)(m_nRemainTimeMSec:-1)
+00:09:34 MAP:[0] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:09:34 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:09:34 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:09:34 [ ITR ] (0) Remove All Object
+00:09:34 [ ITR ] Map:0 match ended.
+00:09:34 [ ITR ] MAP : 1[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:09:34 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:09:34 [ ITR ] (1) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-9)(m_nRemainTimeMSec:-1)
+00:09:34 MAP:[1] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:09:34 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:09:34 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:09:34 [ ITR ] (1) Remove All Object
+00:09:34 [ ITR ] Map:1 match ended.
+00:09:34 [ ITR ] MAP : 2[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:09:34 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:09:34 [ ITR ] (2) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-9)(m_nRemainTimeMSec:-1)
+00:09:34 MAP:[2] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:09:34 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:09:34 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:09:34 [ ITR ] (2) Remove All Object
+00:09:34 [ ITR ] Map:2 match ended.
+00:09:34 [ ITR ] MAP : 3[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:09:34 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:09:34 [ ITR ] (3) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-9)(m_nRemainTimeMSec:-1)
+00:09:34 MAP:[3] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:09:34 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:09:34 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:09:34 [ ITR ] (3) Remove All Object
+00:09:34 [ ITR ] Map:3 match ended.
+00:09:34 [ ITR ] MAP : 4[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:09:34 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:09:34 [ ITR ] (4) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-9)(m_nRemainTimeMSec:-1)
+00:09:34 MAP:[4] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:09:34 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:09:34 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:09:34 [ ITR ] (4) Remove All Object
+00:09:34 [ ITR ] Map:4 match ended.
+00:10:35 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:10:35 [ITR] TempleNumber Reset :[0]
+00:10:35 [ ITR ] (0) Sync Open Time. [-10]min remain
+00:10:35 [ ITR ] MAP :0 match NONE.
+00:10:35 0 Welcome Closing Round 1 
+00:10:35 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:10:35 [ITR] TempleNumber Reset :[1]
+00:10:35 [ ITR ] (1) Sync Open Time. [-10]min remain
+00:10:35 [ ITR ] MAP :1 match NONE.
+00:10:35 1 Welcome Closing Round 1 
+00:10:35 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:10:35 [ITR] TempleNumber Reset :[2]
+00:10:35 [ ITR ] (2) Sync Open Time. [-10]min remain
+00:10:35 [ ITR ] MAP :2 match NONE.
+00:10:35 2 Welcome Closing Round 1 
+00:10:35 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:10:35 [ITR] TempleNumber Reset :[3]
+00:10:35 [ ITR ] (3) Sync Open Time. [-10]min remain
+00:10:35 [ ITR ] MAP :3 match NONE.
+00:10:35 3 Welcome Closing Round 1 
+00:10:35 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:10:35 [ITR] TempleNumber Reset :[4]
+00:10:35 [ ITR ] (4) Sync Open Time. [-10]min remain
+00:10:35 [ ITR ] MAP :4 match NONE.
+00:10:35 4 Welcome Closing Round 1 
+00:10:35 [ ITR ] MAP : 0[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:10:35 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:10:35 [ ITR ] (0) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-10)(m_nRemainTimeMSec:-1)
+00:10:35 MAP:[0] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:10:35 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:10:35 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:10:35 [ ITR ] (0) Remove All Object
+00:10:35 [ ITR ] Map:0 match ended.
+00:10:35 [ ITR ] MAP : 1[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:10:35 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:10:35 [ ITR ] (1) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-10)(m_nRemainTimeMSec:-1)
+00:10:35 MAP:[1] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:10:35 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:10:35 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:10:35 [ ITR ] (1) Remove All Object
+00:10:35 [ ITR ] Map:1 match ended.
+00:10:35 [ ITR ] MAP : 2[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:10:35 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:10:35 [ ITR ] (2) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-10)(m_nRemainTimeMSec:-1)
+00:10:35 MAP:[2] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:10:35 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:10:35 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:10:35 [ ITR ] (2) Remove All Object
+00:10:35 [ ITR ] Map:2 match ended.
+00:10:35 [ ITR ] MAP : 3[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:10:35 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:10:35 [ ITR ] (3) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-10)(m_nRemainTimeMSec:-1)
+00:10:35 MAP:[3] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:10:35 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:10:35 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:10:35 [ ITR ] (3) Remove All Object
+00:10:35 [ ITR ] Map:3 match ended.
+00:10:35 [ ITR ] MAP : 4[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:10:35 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:10:35 [ ITR ] (4) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-10)(m_nRemainTimeMSec:-1)
+00:10:35 MAP:[4] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:10:35 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:10:35 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:10:35 [ ITR ] (4) Remove All Object
+00:10:35 [ ITR ] Map:4 match ended.
+00:11:35 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:11:35 [ITR] TempleNumber Reset :[0]
+00:11:35 [ ITR ] (0) Sync Open Time. [-11]min remain
+00:11:35 [ ITR ] MAP :0 match NONE.
+00:11:35 0 Welcome Closing Round 1 
+00:11:35 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:11:35 [ITR] TempleNumber Reset :[1]
+00:11:35 [ ITR ] (1) Sync Open Time. [-11]min remain
+00:11:35 [ ITR ] MAP :1 match NONE.
+00:11:35 1 Welcome Closing Round 1 
+00:11:35 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:11:35 [ITR] TempleNumber Reset :[2]
+00:11:35 [ ITR ] (2) Sync Open Time. [-11]min remain
+00:11:35 [ ITR ] MAP :2 match NONE.
+00:11:35 2 Welcome Closing Round 1 
+00:11:35 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:11:35 [ITR] TempleNumber Reset :[3]
+00:11:35 [ ITR ] (3) Sync Open Time. [-11]min remain
+00:11:35 [ ITR ] MAP :3 match NONE.
+00:11:35 3 Welcome Closing Round 1 
+00:11:35 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:11:35 [ITR] TempleNumber Reset :[4]
+00:11:35 [ ITR ] (4) Sync Open Time. [-11]min remain
+00:11:35 [ ITR ] MAP :4 match NONE.
+00:11:35 4 Welcome Closing Round 1 
+00:11:35 [ ITR ] MAP : 0[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:11:35 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:11:35 [ ITR ] (0) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-11)(m_nRemainTimeMSec:-1)
+00:11:35 MAP:[0] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:11:35 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:11:35 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:11:35 [ ITR ] (0) Remove All Object
+00:11:35 [ ITR ] Map:0 match ended.
+00:11:35 [ ITR ] MAP : 1[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:11:35 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:11:35 [ ITR ] (1) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-11)(m_nRemainTimeMSec:-1)
+00:11:35 MAP:[1] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:11:35 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:11:35 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:11:35 [ ITR ] (1) Remove All Object
+00:11:35 [ ITR ] Map:1 match ended.
+00:11:35 [ ITR ] MAP : 2[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:11:35 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:11:35 [ ITR ] (2) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-11)(m_nRemainTimeMSec:-1)
+00:11:35 MAP:[2] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:11:35 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:11:35 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:11:35 [ ITR ] (2) Remove All Object
+00:11:35 [ ITR ] Map:2 match ended.
+00:11:35 [ ITR ] MAP : 3[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:11:35 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:11:35 [ ITR ] (3) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-11)(m_nRemainTimeMSec:-1)
+00:11:35 MAP:[3] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:11:35 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:11:35 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:11:35 [ ITR ] (3) Remove All Object
+00:11:35 [ ITR ] Map:3 match ended.
+00:11:35 [ ITR ] MAP : 4[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:11:35 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:11:35 [ ITR ] (4) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-11)(m_nRemainTimeMSec:-1)
+00:11:35 MAP:[4] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:11:35 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:11:35 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:11:35 [ ITR ] (4) Remove All Object
+00:11:35 [ ITR ] Map:4 match ended.

@@ -103,5 +103,18 @@
 		<ItemEx Section="8" Index="7060" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Armor of Sealed Ritual"/>
 		<ItemEx Section="8" Index="7061" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Pants of Sealed Ritual"/>
 		<ItemEx Section="8" Index="7062" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Boots of Sealed Ritual"/>
+		<ItemEx Section="8" Index="10298" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Sealed Twilight Bloodangel Armor" />
+		<ItemEx Section="8" Index="10299" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Sealed Twilight Bloodangel Helm" />
+		<ItemEx Section="8" Index="10300" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Sealed Twilight Bloodangel Pants" />
+		<ItemEx Section="8" Index="10301" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Sealed Twilight Bloodangel Gloves" />
+		<ItemEx Section="8" Index="10302" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Sealed Liberation Bloodangel Armor" />
+		<ItemEx Section="8" Index="10303" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Sealed Liberation Bloodangel Helm" />
+		<ItemEx Section="8" Index="10304" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Sealed Liberation Bloodangel Pants" />
+		<ItemEx Section="8" Index="10305" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Sealed Liberation Bloodangel Gloves" />
+		<ItemEx Section="8" Index="10329" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Sealed Bloodangel Armor of Longing" />
+		<ItemEx Section="8" Index="10330" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Sealed Bloodangel Helm of Longing" />
+		<ItemEx Section="8" Index="10321" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Sealed Bloodangel Pants of Longing" />
+		<ItemEx Section="8" Index="10322" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Sealed Bloodangel Gloves of Longing" />
+
 	</BagItemsEx>
 </ItemBag>

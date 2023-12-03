@@ -127,7 +127,7 @@ end
 
 4
 //Index   Rate0   Rate1   Rate2   Rate3   Rate4   Rate5   Rate6   Comment
-0         8400    1000    500     100     0       0       0       //Exc Option (Common)
+0         9900    100     0       0        0       0       0     //Exc Option (Common)
 1         0       7700    1500    1000    500     200     100       //Exc Option (Exc)
 2         6650    1500    1000    500     200     100     50       //Exc Option (Set)
 3         6650    1500    1000    500     200     100     50       //Exc Option (DinorantMix)
@@ -171,11 +171,12 @@ end
 12        0       10000   0       //Set Option (EventItemBag) (1)
 13        0       0       10000   //Set Option (EventItemBag) (2)
 14        0       3000    7000    //Set Option (EventItemBag) (1~2)
+
 end
 
 6
 //Index   Rate0   Rate1   Rate2   Rate3   Rate4   Rate5   Comment
-0         10000   0       0       0       0       0       //Socket Option (Common)
+0         9650   200     100     50       0       0       //Socket Option (Common)
 1         10000   0       0       0       0       0       //Socket Option (Exc)
 2         10000   0       0       0       0       0       //Socket Option (Set)
 3         0       8400    1550    50      0       0       //Socket Option (OneHand)
@@ -200,4 +201,5 @@ end
 23        0       0       0       0       5000    5000    //Socket Option (EventItemBag) (4~5)
 24        0       6000    3000    1000    0       0       //Socket Option (Wing4Mix)
 25        0   	  0       0       0       10000   0       //Socket Option (PentagramBox)
+99         0      3000    2500    2000    1500    1000    //Random Socket Option 
 end

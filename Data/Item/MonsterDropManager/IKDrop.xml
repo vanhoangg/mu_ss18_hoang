@@ -8,32 +8,17 @@
 
 		<Item Index="102"  Name="Xenoblade" /> 
 		<Item Index="301" Name="Illusion Knight Iron Plate Helm" /> 
-		<Item Index="315" Name="[Lucky] Illusion Knight Iron Plate Helm" /> 
 		<Item Index="301" Name="Illusion Knight Iron Plate Armor" /> 
-		<Item Index="315" Name="[Lucky] Illusion Knight Iron Plate Armor" /> 
 		<Item Index="301" Name="Illusion Knight Iron Plate Pants" /> 
-		<Item Index="315" Name="[Lucky] Illusion Knight Iron Plate Pants" /> 
 		<Item Index="301" Name="Illusion Knight Iron Plate Gloves" /> 
-		<Item Index="315" Name="[Lucky] Illusion Knight Iron Plate Gloves" /> 
 		<Item Index="301" Name="Illusion Knight Iron Plate Boots" /> 
-		<Item Index="315" Name="[Lucky] Illusion Knight Iron Plate Boots" /> 
 
 		<Item Index="103"  Name="Dragon Blade" /> 
 		<Item Index="302" Name="Steel Plate Helm" /> 
-		<Item Index="316" Name="[Lucky] Steel Plate Helm" /> 
-		<Item Index="317" Name="[Bound] Steel Plate Helm" /> 
 		<Item Index="302" Name="Steel Plate Armor" /> 
-		<Item Index="316" Name="[Lucky] Steel Plate Armor" /> 
-		<Item Index="317" Name="[Bound] Steel Plate Armor" /> 
 		<Item Index="302" Name="Steel Plate Pants" /> 
-		<Item Index="316" Name="[Lucky] Steel Plate Pants" /> 
-		<Item Index="317" Name="[Bound] Steel Plate Pants" /> 
 		<Item Index="302" Name="Steel Plate Gloves" /> 
-		<Item Index="316" Name="[Lucky] Steel Plate Gloves" /> 
-		<Item Index="317" Name="[Bound] Steel Plate Gloves" /> 
 		<Item Index="302" Name="Steel Plate Boots" /> 
-		<Item Index="316" Name="[Lucky] Steel Plate Boots" /> 
-		<Item Index="317" Name="[Bound] Steel Plate Boots" /> 
 
 
 		<Item Index="103"  Name="Dragon Blade" /> 
@@ -43,7 +28,7 @@
 		<Item Index="303" Name="Black Origin Gloves" /> 
 		<Item Index="303" Name="Black Origin Boots" /> 
 
-		<Item Index="104"  Name="Blood Blade" />
+		<Item Index="103"  Name="Dragon Blade" /> 
 		<Item Index="304" Name="Primal Helm" /> 
 		<Item Index="304" Name="Primal Armor" /> 
 		<Item Index="304" Name="Primal Pants" /> 
@@ -57,7 +42,10 @@
 		<Item Index="305" Name="Apex Gloves" /> 
 		<Item Index="305" Name="Apex Boots" /> 
 
-
+		<Item Index="101"  Name="Silver Blade" />
+		<Item Index="102"  Name="Xenoblade" /> 
+		<Item Index="103"  Name="Dragon Blade" /> 
+		<Item Index="104"  Name="Blood Blade" />
 		<Item Index="105"  Name="Bloodangel Blade" />
 		<Item Index="106"  Name="Darkangel Blade" />
 		<Item Index="107"  Name="Holyangel Blade"/>

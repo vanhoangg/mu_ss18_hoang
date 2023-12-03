@@ -13,126 +13,98 @@ void main() {
     {"Index": 11, "Name": "Boots"}
   ];
 
-List<Map<String, dynamic>> items = [
-   
-	 
-	
-	
-		{ "Index":285, "Name":"Apocalypse Wizard Helm" },
-		{ "Index":285, "Name":"Apocalypse Wizard Armor" },
-		{ "Index":285, "Name":"Apocalypse Wizard Pants" },
-		{ "Index":285, "Name":"Apocalypse Wizard Gloves" },
-		{ "Index":285, "Name":"Apocalypse Wizard Boots" },
+  List<Map<String, dynamic>> items = [
+  		{ "Index":0 , "Name":"Bronze Helm" },
+		{ "Index":0 , "Name":"Bronze Gloves" },
+		{ "Index":1 , "Name":"Dragon Armor" },
+		{ "Index":1 , "Name":"Dragon Pants" },
+		{ "Index":10 , "Name":"Large Round Shield" },
+		{ "Index":9 , "Name":"Plate Shield" },
+		{ "Index":9 , "Name":"Ring of Poison" },
+		{ "Index":22 , "Name":"Ring of Earth" },
+		{ "Index":2 , "Name":"Rapier" },
+		{ "Index":13 , "Name":"Spirit Boots" },
+        { "Index":13 , "Name":"Spirit Helm" },
+		{ "Index":5 , "Name":"Silver Bow" },
+		{ "Index":28 , "Name":"Pendant of Ability" },
+		{ "Index":15 , "Name":"Storm Crow Gloves" },
+		{ "Index":24 , "Name":"Ring of Magic"},
+		{ "Index":59 , "Name":"Sacred Fire Boots" },
+		{ "Index":42 , "Name":"El Hazard Shield" }, 
+		{ "Index":119 , "Name":"Kenaz Helm" }, 
+		{ "Index":177 , "Name":"Nightwing Helm" },
+		{ "Index":2 , "Name":"Pad Helm" },
+		{ "Index":2 , "Name":"Pad Armor" },
+		{ "Index":2 , "Name":"Pad Pants" },
+		{ "Index":2 , "Name":"Pad Gloves" },
+		{ "Index":2 , "Name":"Pad Boots" },
+		{ "Index":0 , "Name":"Skull Staff" }, 
+	  { "Index":25 , "Name":"Pendant of Ice" }, 
+		{ "Index":24 , "Name":"Ring of Magic" }, 
+		{ "Index":26 , "Name":"Adamantine Mask" },
+		{ "Index":26 , "Name":"Adamantine Armor" },
+		{ "Index":26 , "Name":"Adamantine Pants" },
+		{ "Index":26 , "Name":"Adamantine Gloves" },
+		{ "Index":26 , "Name":"Adamantine Boots" },
+		{ "Index":25 , "Name":"Pendant of Ice" },
+		{ "Index":9 , "Name":"Ring of Poison" },
+		{ "Index":95 , "Name":"Sate Helm" },
+		{ "Index":95 , "Name":"Sate Armor" },
+		{ "Index":95 , "Name":"Sate Pants" },
+		{ "Index":95 , "Name":"Sate Gloves" },
+		{ "Index":95 , "Name":"Sate Boots" },
+		{ "Index":30 , "Name":"Pluma Shield" },
+		{ "Index":9 , "Name":"Ring of Poison" },
+		{ "Index":94 , "Name":"Hirat Helm" },
+		{ "Index":94 , "Name":"Hirat Armor" },
+		{ "Index":94 , "Name":"Hirat Pants" },
+		{ "Index":94 , "Name":"Hirat Gloves" },
+		{ "Index":94 , "Name":"Hirat Boots" },
+		{ "Index":32 , "Name":"Vis Shield" },
+		{ "Index":238 , "Name":"Magic Flare Helm" },
+		{ "Index":238 , "Name":"Magic Flare Armor" },
+		{ "Index":238 , "Name":"Magic Flare Pants" },
+		{ "Index":238 , "Name":"Magic Flare Gloves" },
+		{ "Index":238 , "Name":"Magic Flare Boots" },
+		{ "Index":256 , "Name":"Noble Pixie Helm" },
+		{ "Index":256 , "Name":"Noble Pixie Armor" },
+		{ "Index":256 , "Name":"Noble Pixie Pants" },
+		{ "Index":256 , "Name":"Noble Pixie Gloves" },
+		{ "Index":256 , "Name":"Noble Pixie Boots" },
+		{ "Index":303 , "Name":"Black Origin Helm" },
+		{ "Index":303 , "Name":"Black Origin Armor" },
+		{ "Index":303 , "Name":"Black Origin Pants" },
+		{ "Index":303 , "Name":"Black Origin Gloves" },
+		{ "Index":303 , "Name":"Black Origin Boots" },
+  ];
 
-
-
-
-		{ "Index":287, "Name":"Apocalypse Summoner Helm" },
-		{ "Index":287, "Name":"Apocalypse Summoner Armor" },
-		{ "Index":287, "Name":"Apocalypse Summoner Pants" },
-		{ "Index":287, "Name":"Apocalypse Summoner Gloves" },
-		{ "Index":287, "Name":"Apocalypse Summoner Boots" },
-
-		{ "Index":289, "Name":"Apocalypse Lord Helm" },
-		{ "Index":289, "Name":"Apocalypse Lord Armor" },
-		{ "Index":289, "Name":"Apocalypse Lord Pants" },
-		{ "Index":289, "Name":"Apocalypse Lord Gloves" },
-		{ "Index":289, "Name":"Apocalypse Lord Boots" },
-
-		{ "Index":290, "Name":"Apocalypse Fighter Helm" },
-		{ "Index":290, "Name":"Apocalypse Fighter Armor" },
-		{ "Index":290, "Name":"Apocalypse Fighter Pants" },
-		{ "Index":290, "Name":"Apocalypse Fighter Boots" },
-
-		{ "Index":291, "Name":"Apocalypse Lancer Helm" },
-		{ "Index":291, "Name":"Apocalypse Lancer Armor" },
-		{ "Index":291, "Name":"Apocalypse Lancer Pants" },
-		{ "Index":291, "Name":"Apocalypse Lancer Gloves" },
-		{ "Index":291, "Name":"Apocalypse Lancer Boots" },
-
-		{ "Index":292, "Name":"Apocalypse Elf Helm [E]" },
-		{ "Index":292, "Name":"Apocalypse Elf Armor [E]" },
-		{ "Index":292, "Name":"Apocalypse Elf Pants [E]" },
-		{ "Index":292, "Name":"Apocalypse Elf Gloves [E]" },
-		{ "Index":292, "Name":"Apocalypse Elf Boots [E]" },
-
-		{ "Index":294, "Name":"Apocalypse Rune Mage Helm" },
-		{ "Index":294, "Name":"Apocalypse Rune Mage Armor" },
-		{ "Index":294, "Name":"Apocalypse Rune Mage Pants" },
-		{ "Index":294, "Name":"Apocalypse Rune Mage Gloves" },
-		{ "Index":294, "Name":"Apocalypse Rune Mage Boots" },
-
-		{ "Index":295, "Name":"Apocalypse Slayer Helm" },
-		{ "Index":295, "Name":"Apocalypse Slayer Armor" },
-		{ "Index":295, "Name":"Apocalypse Slayer Pants" },
-		{ "Index":295, "Name":"Apocalypse Slayer Gloves" },
-		{ "Index":295, "Name":"Apocalypse Slayer Boots" },
-
-		{ "Index":296, "Name":"Apocalypse Knight Helm [E]" },
-		{ "Index":296, "Name":"Apocalypse Knight Armor [E]" },
-		{ "Index":296, "Name":"Apocalypse Knight Pants [E]" },
-		{ "Index":296, "Name":"Apocalypse Knight Gloves [E]" },
-		{ "Index":296, "Name":"Apocalypse Knight Boots [E]" },
-
-		{ "Index":297, "Name":"Apocalypse Gun Crusher Helm" },
-		{ "Index":297, "Name":"Apocalypse Gun Crusher Armor" },
-		{ "Index":297, "Name":"Apocalypse Gun Crusher Pants" },
-		{ "Index":297, "Name":"Apocalypse Gun Crusher Gloves" },
-		{ "Index":297, "Name":"Apocalypse Gun Crusher Boots" },
-
-		{ "Index":298, "Name":"Apocalypse White Wizard Helm" },
-		{ "Index":298, "Name":"Apocalypse White Wizard Armor" },
-		{ "Index":298, "Name":"Apocalypse White Wizard Pants" },
-		{ "Index":298, "Name":"Apocalypse White Wizard Gloves" },
-		{ "Index":298, "Name":"Apocalypse White Wizard Boots" },
-
-		{ "Index":299, "Name":"Apocalypse Mage Helm" },
-		{ "Index":299, "Name":"Apocalypse Mage Armor" },
-		{ "Index":299, "Name":"Apocalypse Mage Pants" },
-		{ "Index":299, "Name":"Apocalypse Mage Gloves" },
-		{ "Index":299, "Name":"Apocalypse Mage Boots" },
-
-		{ "Index":314, "Name":"Apocalypse Illusion Knight Helm" },
-		{ "Index":314, "Name":"Apocalypse Illusion Knight Armor" },
-		{ "Index":314, "Name":"Apocalypse Illusion Knight Pants" },
-		{ "Index":314, "Name":"Apocalypse Illusion Knight Gloves" },
-		{ "Index":314, "Name":"Apocalypse Illusion Knight Boots" },
-
-		{ "Index":284, "Name":"Apocalypse Knight Helm [S]" },
-		{ "Index":284, "Name":"Apocalypse Knight Armor [S]" },
-		{ "Index":284, "Name":"Apocalypse Knight Pants [S]" },
-		{ "Index":284, "Name":"Apocalypse Knight Gloves [S]" },
-		{ "Index":284, "Name":"Apocalypse Knight Boots [S]" },
-
-		{ "Index":288, "Name":"Apocalypse Magic Armor [S]" },
-		{ "Index":288, "Name":"Apocalypse Magic Pants [S]" },
-		{ "Index":288, "Name":"Apocalypse Magic Gloves [S]" },
-		{ "Index":288, "Name":"Apocalypse Magic Boots [S]" },
-
-		{ "Index":293, "Name":"Apocalypse Magic Armor [E]" },
-		{ "Index":293, "Name":"Apocalypse Magic Pants [E]" },
-		{ "Index":293, "Name":"Apocalypse Magic Gloves [E]" },
-		{ "Index":293, "Name":"Apocalypse Magic Boots [E]" },
-
-
-
-
-];
-
-  getSectionIndexesByItemNames(sections, items);
+  getItemDrop(sections, items);
 }
 
-void getSectionIndexesByItemNames(List<Map<String, dynamic>> sections, List<Map<String, dynamic>> items) {
-  List<int> indexes = [];
-
+void getSectionIndexesByItemNames(
+    List<Map<String, dynamic>> sections, List<Map<String, dynamic>> items) {
   for (var item in items) {
     for (var section in sections) {
-      
       List<String> sectionNames = section["Name"].split(" ");
-      if (sectionNames.any((name) => item["Name"].toLowerCase().contains(name.toLowerCase()))) {
-        indexes.add(section["Index"]);
-          int newIndex = (section["Index"] * 512) +  item["Index"] ;
-          print("""<Item Index="$newIndex" Name="${item["Name"]}" /> """);
+      if (sectionNames.any(
+          (name) => item["Name"].toLowerCase().contains(name.toLowerCase()))) {
+        int newIndex = (section["Index"] * 512) + item["Index"];
+        print("""<Item Index="$newIndex" Name="${item["Name"]}" /> """);
+        break; // Stop searching once a match is found for the current item
+      }
+    }
+  }
+}
+
+void getItemDrop(
+    List<Map<String, dynamic>> sections, List<Map<String, dynamic>> items) {
+  for (var item in items) {
+    for (var section in sections) {
+      List<String> sectionNames = section["Name"].split(" ");
+      if (sectionNames.any(
+          (name) => item["Name"].toLowerCase().contains(name.toLowerCase()))) {
+        print(
+            """<Item Section="${section["Index"]}" Type="${item["Index"]}" Name="${item["Name"]}" /> """);
         break; // Stop searching once a match is found for the current item
       }
     }

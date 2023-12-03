@@ -1,0 +1,1 @@
+00:11:44 [AccountInfo] Account disconnected (Account: loukoala1, IpAddress: 192.168.1.1, GameServerCode: 20)
