@@ -1,0 +1,2 @@
+00:03:49 [General][kudoshjn][IKBiv] - (Message: /money 0)
+00:03:59 [General][kudoshjn][IKBiv] - (Message: /money 999999999)

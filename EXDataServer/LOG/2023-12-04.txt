@@ -1,0 +1,18 @@
+00:04:00 [PMATCHING][DisConnectMember]LeaderName:IKBiv, ConnectMemberName:IKBiv
+00:04:00 [PMATCHING][ConnectMember]LeaderName:IKBiv, ConnectMemberName:IKBiv
+00:04:02 [PMATCHING][DisConnectMember]LeaderName:IKBiv, ConnectMemberName:ElfBuff
+00:04:02 [PMATCHING][ConnectMember]LeaderName:IKBiv, ConnectMemberName:ElfBuff
+00:04:04 [PMATCHING][DisConnectMember]LeaderName:IKBiv, ConnectMemberName:SumBiv
+00:04:05 [PMATCHING][ConnectMember]LeaderName:IKBiv, ConnectMemberName:SumBiv
+00:04:37 [PMATCHING][DisConnectMember]LeaderName:IKBiv, ConnectMemberName:IKBiv
+00:04:37 [PMATCHING][DisConnectMember]LeaderName:IKBiv, ConnectMemberName:ElfBuff
+00:04:38 [PMATCHING][DisConnectMember]LeaderName:IKBiv, ConnectMemberName:SumBiv
+00:05:45 [SocketManager] Server started at port [55981]
+00:05:45 [PMATCHING][CreatePartyDirectly]Leader:IKBiv TotalPartyCnt:1 - Success
+00:05:45 [PMATCHING][CreatePartyDirectly]Leader:TEST TotalPartyCnt:2 - Success
+00:05:45 [PMATCHING][AddPartyMemberDirectly]Leader:IKBiv, Member:ElfBuff, MemberCnt:2
+00:05:45 [PMATCHING][AddPartyMemberDirectly]Leader:IKBiv, Member:SumBiv, MemberCnt:3
+00:05:53 [ServerManager][0] AddServer (127.0.0.1)
+00:05:53 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)(0)
+00:05:57 [ServerManager][1] AddServer (127.0.0.1)
+00:05:57 [ServerManager][1] ServerInfo (GameServerCS) (55919) (19)(0)

@@ -76,8 +76,8 @@ end
 7         3000    7000    //Luck Option (MonsterWingMix)
 8         3000    7000    //Luck Option (SocketWeaponMix)
 9         3000    7000     //Luck Option (MossMerchant)
-10        10000   0       //Luck Option (Lucky)
-11        10000   0       //Luck Option (EventItemBag) (0)
+10        3000    7000       //Luck Option (Lucky)
+11        3000    7000       //Luck Option (EventItemBag) (0)
 12        0       10000   //Luck Option (EventItemBag) (1)
 13        3000    7000    //Luck Option (EventItemBag) (0~1)
 14        3000    7000    //Luck Option (WingOfConquerorMix)
@@ -127,7 +127,7 @@ end
 
 4
 //Index   Rate0   Rate1   Rate2   Rate3   Rate4   Rate5   Rate6   Comment
-0         9900    100     0       0        0       0       0     //Exc Option (Common)
+0         9924    25      20      15      10       5       1     //Exc Option (Common)
 1         0       7700    1500    1000    500     200     100       //Exc Option (Exc)
 2         6650    1500    1000    500     200     100     50       //Exc Option (Set)
 3         6650    1500    1000    500     200     100     50       //Exc Option (DinorantMix)

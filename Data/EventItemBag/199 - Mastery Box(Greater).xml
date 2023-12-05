@@ -138,6 +138,9 @@
 		<ItemEx Section="6" Index="3676" Level="0" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="13" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Gru hill Helmet"/>
 		<ItemEx Section="6" Index="4188" Level="0" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="13" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Gru Hill Armor"/>
 		<ItemEx Section="6" Index="4700" Level="0" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="13" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Gru Hill Pants"/>
+		<ItemEx Section="6" Index="5212" Level="0" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="13" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Gru Hill Gloves" />
+		<ItemEx Section="6" Index="5724" Level="0" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="13" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Gru Hill Boots" />
+
 		<ItemEx Section="6" Index="6679" Level="0" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="12" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Ring of Wind"/>
 		<!-- Set Arcadin`s Kanaz 2 - RW- Helm,Armor,Pants,Rinf of WInd -->	
 		<ItemEx Section="6" Index="4215" Level="0" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="13" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Kanaz Armor"/>
@@ -155,8 +158,8 @@
 		<ItemEx Section="6" Index="4817" Level="0" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="13" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Frere Pants"/>
 		<ItemEx Section="6" Index="5329" Level="0" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="13" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Frere Gloves"/>
 		<ItemEx Section="6" Index="5841" Level="0" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="13" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Frere Boots"/>
-		<ItemEx Section="6" Index="6159" Level="0" Grade="0" Durability="2" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Jewel of Chaos"/>
-		<ItemEx Section="6" Index="7181" Level="0" Grade="0" Durability="2" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Jewel of Bless"/>
+		<ItemEx Section="6" Index="6159" Level="0" Grade="0" Durability="50" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Jewel of Chaos"/>
+		<ItemEx Section="6" Index="7181" Level="0" Grade="0" Durability="50" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Jewel of Bless"/>
 		<ItemEx Section="6" Index="7581" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Coin of Miracle"/>
 		
 		<ItemEx Section="6" Index="19" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="19" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Divine Sword of the Archangel"/>
@@ -180,8 +183,8 @@
 		<ItemEx Section="7" Index="7549" Level="0" Grade="0" Durability="1" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Seed Capsule (Wind)"/>
 		<ItemEx Section="7" Index="7550" Level="0" Grade="0" Durability="1" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Seed Capsule (Lightning)"/>
 		<ItemEx Section="7" Index="7551" Level="0" Grade="0" Durability="1" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Seed Capsule (Earth)"/>
-		<ItemEx Section="7" Index="7124" Level="0" Grade="0" Durability="1" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Golden Crest"/>	
-		<ItemEx Section="7" Index="7181" Level="0" Grade="0" Durability="5" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Jewel of Bless"/>
+		<ItemEx Section="7" Index="7124" Level="0" Grade="0" Durability="10" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Golden Crest"/>	
+		<ItemEx Section="7" Index="7181" Level="0" Grade="0" Durability="50" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Jewel of Bless"/>
 		<ItemEx Section="7" Index="7392" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bless of Light (Greater)"/>
 		<ItemEx Section="7" Index="7431" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bless of Light (Low Grade)"/>
 		<ItemEx Section="7" Index="7432" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bless of Light (Middle Grade)"/>

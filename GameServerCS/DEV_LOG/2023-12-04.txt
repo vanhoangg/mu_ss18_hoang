@@ -1,0 +1,3 @@
+00:03:08 [Blood Castle 4 reward - winners] AddRuudBox Account:test | Name:ElfBuff | PartyWinner:1
+00:03:08 [Blood Castle 4 reward - winners] AddRuudBox Account:test1 | Name:SumBiv | PartyWinner:1
+00:03:08 [Blood Castle 4 reward - winners] AddRuudBox Account:kudoshjn | Name:IKBiv | PartyWinner:1

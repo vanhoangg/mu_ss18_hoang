@@ -265,12 +265,12 @@
 		<ItemEx Section="12" Index="5297" Level="0" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="13" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Nightwing Gloves"/>
 		<ItemEx Section="12" Index="5809" Level="0" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="13" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Nightwing Boots"/>
 		
-		<ItemEx Section="13" Index="7210" Level="0" Grade="0" Durability="30" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Jewel of Harmony"/>
-		<ItemEx Section="13" Index="7181" Level="0" Grade="0" Durability="20" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Jewel of Bless"/>
-		<ItemEx Section="13" Index="7182" Level="0" Grade="0" Durability="30" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Jewel of Soul"/>
-		<ItemEx Section="13" Index="7184" Level="0" Grade="0" Durability="30" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Jewel of Life"/>
-		<ItemEx Section="13" Index="7190" Level="0" Grade="0" Durability="30" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Jewel of Creation"/>
-		<ItemEx Section="13" Index="7210" Level="0" Grade="0" Durability="30" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Jewel of Harmony"/>
+		<ItemEx Section="13" Index="7210" Level="0" Grade="0" Durability="50" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Jewel of Harmony"/>
+		<ItemEx Section="13" Index="7181" Level="0" Grade="0" Durability="50" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Jewel of Bless"/>
+		<ItemEx Section="13" Index="7182" Level="0" Grade="0" Durability="50" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Jewel of Soul"/>
+		<ItemEx Section="13" Index="7184" Level="0" Grade="0" Durability="50" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Jewel of Life"/>
+		<ItemEx Section="13" Index="7190" Level="0" Grade="0" Durability="50" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Jewel of Creation"/>
+		<ItemEx Section="13" Index="7210" Level="0" Grade="0" Durability="50" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Jewel of Harmony"/>
 		
 		<ItemEx Section="14" Index="7520" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Ruud Box(1000)"/>
 		<ItemEx Section="14" Index="7615" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Ruud Box (2000)"/>
@@ -283,19 +283,5 @@
 		<ItemEx Section="15" Index="6834" Level="0" Grade="0" Durability="1" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="86400" Name="Talisman of Ascension II"/>
 		
 		<ItemEx Section="15" Index="7581" Level="0" Grade="0" Durability="1" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Miracle Coin"/>
-
-		
-		<ItemEx Section="0" Type="104"  Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="0" Option5="0" Option6="18" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Blood Blade" />
-		<ItemEx Section="7" Type="304" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="0" Option5="0" Option6="18" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Primal Helm" /> 
-		<ItemEx Section="8" Type="304" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="0" Option5="0" Option6="18" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Primal Armor" /> 
-		<ItemEx Section="9" Type="304" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="0" Option5="0" Option6="18" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Primal Pants" /> 
-		<ItemEx Section="10" Type="304" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="0" Option5="0" Option6="18" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Primal Gloves" /> 
-		<ItemEx Section="11" Type="304" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="0" Option5="0" Option6="18" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Primal Boots" /> 
-
-		<ItemEx Section="7" Type="305" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="0" Option5="0" Option6="18" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Apex Helm" /> 
-		<ItemEx Section="8" Type="305" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="0" Option5="0" Option6="18" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Apex Armor" /> 
-		<ItemEx Section="9" Type="305" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="0" Option5="0" Option6="18" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Apex Pants" /> 
-		<ItemEx Section="10" Type="305" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="0" Option5="0" Option6="18" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Apex Gloves" /> 
-		<ItemEx Section="11" Type="305" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="0" Option5="0" Option6="18" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Apex Boots" /> 
 	</BagItemsEx>
 </ItemBag>

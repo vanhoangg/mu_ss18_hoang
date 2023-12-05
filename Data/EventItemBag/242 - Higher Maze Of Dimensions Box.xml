@@ -23,11 +23,11 @@
 		<RuudInfo Section="5" RuudMin="0" RuudMax="0"/>
 	</BagRuudInfoEx>
 	<BagItemsEx>
-		<ItemEx Section="6" Index="7181" Level="0" Grade="0" Durability="20" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Jewel of Bless"/>
+		<ItemEx Section="6" Index="7181" Level="0" Grade="0" Durability="50" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Jewel of Bless"/>
 		<ItemEx Section="6" Index="7539" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="[Bound] Bless of Light (Great Grade)"/>
 		<ItemEx Section="6" Index="7540" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="[Bound] Bless of Light (Middle)"/>
 		<ItemEx Section="6" Index="7541" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="[Bound] Bless of Light (Low Grade)"/>
 		<ItemEx Section="6" Index="7063" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Soul"/>
-		<ItemEx Section="6" Index="7182" Level="0" Grade="0" Durability="20" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Jewel of Soul"/>
+		<ItemEx Section="6" Index="7182" Level="0" Grade="0" Durability="50" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Jewel of Soul"/>
 	</BagItemsEx>
 </ItemBag>

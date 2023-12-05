@@ -1,0 +1,2 @@
+00:03:49 [CommandMoney][kudoshjn][IKBiv] - (Money: 0)
+00:03:59 [CommandMoney][kudoshjn][IKBiv] - (Money: 999999999)

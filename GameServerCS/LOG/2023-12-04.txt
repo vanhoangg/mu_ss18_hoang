@@ -1,0 +1,1865 @@
+00:00:00 m_iAB_REMAIN_MSEC 645
+00:00:00 [ArcaBattle] Sync Start Time. [645] min remain (START HOUR:10, MIN:45)
+00:00:00 [Blood Castle] (1) SetState STAND
+00:00:00 [Blood Castle] (2) SetState STAND
+00:00:00 [Blood Castle] (3) SetState STAND
+00:00:00 [Blood Castle] (4) SetState STAND
+00:00:00 [Blood Castle] (5) SetState STAND
+00:00:00 [Blood Castle] (6) SetState STAND
+00:00:00 [Blood Castle] (7) SetState STAND
+00:00:00 [Blood Castle] (8) SetState STAND
+00:00:00 [Bot Hide][12] (BotHideLM) SetState STAND
+00:00:02 [Blood Castle] (1) Not enough users
+00:00:02 [Blood Castle] (1) Sync Start Time. [59] min remain
+00:00:02 [Blood Castle] (1) SetState EMPTY
+00:00:02 [Blood Castle] (2) Not enough users
+00:00:02 [Blood Castle] (2) Sync Start Time. [59] min remain
+00:00:02 [Blood Castle] (2) SetState EMPTY
+00:00:02 [Blood Castle] (3) Not enough users
+00:00:02 [Blood Castle] (3) Sync Start Time. [59] min remain
+00:00:02 [Blood Castle] (3) SetState EMPTY
+00:00:02 [Blood Castle] (4) Not enough users
+00:00:02 [Blood Castle] (4) Sync Start Time. [59] min remain
+00:00:02 [Blood Castle] (4) SetState EMPTY
+00:00:02 [Blood Castle] (6) Not enough users
+00:00:02 [Blood Castle] (6) Sync Start Time. [59] min remain
+00:00:02 [Blood Castle] (6) SetState EMPTY
+00:00:02 [Blood Castle] (7) Not enough users
+00:00:02 [Blood Castle] (7) Sync Start Time. [59] min remain
+00:00:02 [Blood Castle] (7) SetState EMPTY
+00:00:02 [Blood Castle] (8) Not enough users
+00:00:02 [Blood Castle] (8) Sync Start Time. [59] min remain
+00:00:02 [Blood Castle] (8) SetState EMPTY
+00:00:02 [ ITR ] MAP : 0[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:00:02 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:00:02 [ ITR ] (0) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:0)(m_nRemainTimeMSec:0)
+00:00:02 MAP:[0] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:00:02 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:00:02 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:00:02 [ ITR ] (0) Remove All Object
+00:00:02 [ ITR ] Map:0 match ended.
+00:00:02 [ ITR ] MAP : 1[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:00:02 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:00:02 [ ITR ] (1) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:0)(m_nRemainTimeMSec:0)
+00:00:02 MAP:[1] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:00:02 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:00:02 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:00:02 [ ITR ] (1) Remove All Object
+00:00:02 [ ITR ] Map:1 match ended.
+00:00:02 [ ITR ] MAP : 2[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:00:02 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:00:02 [ ITR ] (2) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:0)(m_nRemainTimeMSec:0)
+00:00:02 MAP:[2] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:00:02 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:00:02 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:00:02 [ ITR ] (2) Remove All Object
+00:00:02 [ ITR ] Map:2 match ended.
+00:00:02 [ ITR ] MAP : 3[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:00:02 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:00:02 [ ITR ] (3) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:0)(m_nRemainTimeMSec:0)
+00:00:02 MAP:[3] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:00:02 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:00:02 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:00:02 [ ITR ] (3) Remove All Object
+00:00:02 [ ITR ] Map:3 match ended.
+00:00:02 [ ITR ] MAP : 4[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:00:02 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:00:02 [ ITR ] (4) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:0)(m_nRemainTimeMSec:0)
+00:00:02 MAP:[4] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:00:02 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:00:02 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:00:02 [ ITR ] (4) Remove All Object
+00:00:02 [ ITR ] Map:4 match ended.
+00:00:02 [Bot Hide] [BotHideLM] [Map:131] [X:84] [Y:205]
+00:00:02 [Bot Hide][12] (BotHideLM) SetState START
+00:00:07  [ ITL ] m_nNextTimeMin 58216453, nCurTime 58216531
+00:00:07  [ ITL ] m_nNextTimeMin 58216453, nCurTime 58216531
+00:00:43 [Chaos Castle Survival][GDChaosCastleSurvivalRenewallRanking] [BattleType:0]
+00:00:43 [Chaos Castle Survival][End of Day] Preparing for reset...
+00:01:00 [Blood Castle] (5) SetState START
+00:01:02 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:01:02 [ITR] TempleNumber Reset :[0]
+00:01:02 [ ITR ] (0) Sync Open Time. [-1]min remain
+00:01:02 [ ITR ] MAP :0 match NONE.
+00:01:02 0 Welcome Closing Round 1 
+00:01:02 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:01:02 [ITR] TempleNumber Reset :[1]
+00:01:02 [ ITR ] (1) Sync Open Time. [-1]min remain
+00:01:02 [ ITR ] MAP :1 match NONE.
+00:01:02 1 Welcome Closing Round 1 
+00:01:02 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:01:02 [ITR] TempleNumber Reset :[2]
+00:01:02 [ ITR ] (2) Sync Open Time. [-1]min remain
+00:01:02 [ ITR ] MAP :2 match NONE.
+00:01:02 2 Welcome Closing Round 1 
+00:01:02 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:01:02 [ITR] TempleNumber Reset :[3]
+00:01:02 [ ITR ] (3) Sync Open Time. [-1]min remain
+00:01:02 [ ITR ] MAP :3 match NONE.
+00:01:02 3 Welcome Closing Round 1 
+00:01:02 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:01:02 [ITR] TempleNumber Reset :[4]
+00:01:02 [ ITR ] (4) Sync Open Time. [-1]min remain
+00:01:02 [ ITR ] MAP :4 match NONE.
+00:01:02 4 Welcome Closing Round 1 
+00:01:02 [ ITR ] MAP : 0[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:01:02 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:01:02 [ ITR ] (0) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-1)(m_nRemainTimeMSec:-1)
+00:01:02 MAP:[0] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:01:02 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:01:02 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:01:02 [ ITR ] (0) Remove All Object
+00:01:02 [ ITR ] Map:0 match ended.
+00:01:02 [ ITR ] MAP : 1[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:01:02 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:01:02 [ ITR ] (1) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-1)(m_nRemainTimeMSec:-1)
+00:01:02 MAP:[1] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:01:02 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:01:02 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:01:02 [ ITR ] (1) Remove All Object
+00:01:02 [ ITR ] Map:1 match ended.
+00:01:02 [ ITR ] MAP : 2[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:01:02 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:01:02 [ ITR ] (2) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-1)(m_nRemainTimeMSec:-1)
+00:01:02 MAP:[2] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:01:02 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:01:02 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:01:02 [ ITR ] (2) Remove All Object
+00:01:02 [ ITR ] Map:2 match ended.
+00:01:02 [ ITR ] MAP : 3[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:01:02 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:01:02 [ ITR ] (3) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-1)(m_nRemainTimeMSec:-1)
+00:01:02 MAP:[3] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:01:02 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:01:02 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:01:02 [ ITR ] (3) Remove All Object
+00:01:02 [ ITR ] Map:3 match ended.
+00:01:02 [ ITR ] MAP : 4[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:01:02 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:01:02 [ ITR ] (4) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-1)(m_nRemainTimeMSec:-1)
+00:01:02 MAP:[4] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:01:02 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:01:02 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:01:02 [ ITR ] (4) Remove All Object
+00:01:02 [ ITR ] Map:4 match ended.
+00:01:07  [ ITL ] m_nNextTimeMin 58276531, nCurTime 58276671
+00:01:07  [ ITL ] m_nNextTimeMin 58276531, nCurTime 58276671
+00:02:02 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:02:02 [ITR] TempleNumber Reset :[0]
+00:02:02 [ ITR ] (0) Sync Open Time. [-2]min remain
+00:02:02 [ ITR ] MAP :0 match NONE.
+00:02:02 0 Welcome Closing Round 1 
+00:02:02 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:02:02 [ITR] TempleNumber Reset :[1]
+00:02:02 [ ITR ] (1) Sync Open Time. [-2]min remain
+00:02:02 [ ITR ] MAP :1 match NONE.
+00:02:02 1 Welcome Closing Round 1 
+00:02:02 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:02:02 [ITR] TempleNumber Reset :[2]
+00:02:02 [ ITR ] (2) Sync Open Time. [-2]min remain
+00:02:02 [ ITR ] MAP :2 match NONE.
+00:02:02 2 Welcome Closing Round 1 
+00:02:02 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:02:02 [ITR] TempleNumber Reset :[3]
+00:02:02 [ ITR ] (3) Sync Open Time. [-2]min remain
+00:02:02 [ ITR ] MAP :3 match NONE.
+00:02:02 3 Welcome Closing Round 1 
+00:02:02 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:02:02 [ITR] TempleNumber Reset :[4]
+00:02:02 [ ITR ] (4) Sync Open Time. [-2]min remain
+00:02:02 [ ITR ] MAP :4 match NONE.
+00:02:02 4 Welcome Closing Round 1 
+00:02:02 [ ITR ] MAP : 0[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:02:02 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:02:02 [ ITR ] (0) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-2)(m_nRemainTimeMSec:-1)
+00:02:02 MAP:[0] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:02:02 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:02:02 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:02:02 [ ITR ] (0) Remove All Object
+00:02:02 [ ITR ] Map:0 match ended.
+00:02:02 [ ITR ] MAP : 1[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:02:02 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:02:02 [ ITR ] (1) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-2)(m_nRemainTimeMSec:-1)
+00:02:02 MAP:[1] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:02:02 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:02:02 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:02:02 [ ITR ] (1) Remove All Object
+00:02:02 [ ITR ] Map:1 match ended.
+00:02:02 [ ITR ] MAP : 2[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:02:02 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:02:02 [ ITR ] (2) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-2)(m_nRemainTimeMSec:-1)
+00:02:02 MAP:[2] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:02:02 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:02:02 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:02:02 [ ITR ] (2) Remove All Object
+00:02:02 [ ITR ] Map:2 match ended.
+00:02:02 [ ITR ] MAP : 3[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:02:02 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:02:02 [ ITR ] (3) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-2)(m_nRemainTimeMSec:-1)
+00:02:02 MAP:[3] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:02:02 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:02:02 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:02:02 [ ITR ] (3) Remove All Object
+00:02:02 [ ITR ] Map:3 match ended.
+00:02:02 [ ITR ] MAP : 4[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:02:02 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:02:02 [ ITR ] (4) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-2)(m_nRemainTimeMSec:-1)
+00:02:02 MAP:[4] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:02:02 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:02:02 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:02:02 [ ITR ] (4) Remove All Object
+00:02:02 [ ITR ] Map:4 match ended.
+00:02:07  [ ITL ] m_nNextTimeMin 58336671, nCurTime 58336734
+00:02:07  [ ITL ] m_nNextTimeMin 58336671, nCurTime 58336734
+00:02:56 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+00:02:56 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(512), MAXHP:400000, HP:400000, DF:0, RG:0)
+00:02:56 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(513), MAXHP:400000, HP:400000, DF:0, RG:0)
+00:02:56 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(514), MAXHP:400000, HP:400000, DF:0, RG:0)
+00:02:56 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(515), MAXHP:400000, HP:400000, DF:0, RG:0)
+00:02:56 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(516), MAXHP:500000, HP:500000, DF:0, RG:0)
+00:02:56 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(517), MAXHP:500000, HP:500000, DF:0, RG:0)
+00:02:56 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(518), MAXHP:500000, HP:500000, DF:0, RG:0)
+00:02:56 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(519), MAXHP:500000, HP:500000, DF:0, RG:0)
+00:02:56 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(520), MAXHP:500000, HP:500000, DF:0, RG:0)
+00:02:56 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(521), MAXHP:500000, HP:500000, DF:0, RG:0)
+00:02:56 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+00:02:56 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+00:03:02 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:03:02 [ITR] TempleNumber Reset :[0]
+00:03:02 [ ITR ] (0) Sync Open Time. [-3]min remain
+00:03:02 [ ITR ] MAP :0 match NONE.
+00:03:02 0 Welcome Closing Round 1 
+00:03:02 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:03:02 [ITR] TempleNumber Reset :[1]
+00:03:02 [ ITR ] (1) Sync Open Time. [-3]min remain
+00:03:02 [ ITR ] MAP :1 match NONE.
+00:03:02 1 Welcome Closing Round 1 
+00:03:02 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:03:02 [ITR] TempleNumber Reset :[2]
+00:03:02 [ ITR ] (2) Sync Open Time. [-3]min remain
+00:03:02 [ ITR ] MAP :2 match NONE.
+00:03:02 2 Welcome Closing Round 1 
+00:03:02 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:03:02 [ITR] TempleNumber Reset :[3]
+00:03:02 [ ITR ] (3) Sync Open Time. [-3]min remain
+00:03:02 [ ITR ] MAP :3 match NONE.
+00:03:02 3 Welcome Closing Round 1 
+00:03:02 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:03:02 [ITR] TempleNumber Reset :[4]
+00:03:02 [ ITR ] (4) Sync Open Time. [-3]min remain
+00:03:02 [ ITR ] MAP :4 match NONE.
+00:03:02 4 Welcome Closing Round 1 
+00:03:02 [ ITR ] MAP : 0[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:03:02 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:03:02 [ ITR ] (0) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-3)(m_nRemainTimeMSec:-1)
+00:03:02 MAP:[0] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:03:02 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:03:02 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:03:02 [ ITR ] (0) Remove All Object
+00:03:02 [ ITR ] Map:0 match ended.
+00:03:02 [ ITR ] MAP : 1[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:03:02 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:03:02 [ ITR ] (1) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-3)(m_nRemainTimeMSec:-1)
+00:03:02 MAP:[1] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:03:02 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:03:02 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:03:02 [ ITR ] (1) Remove All Object
+00:03:02 [ ITR ] Map:1 match ended.
+00:03:02 [ ITR ] MAP : 2[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:03:02 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:03:02 [ ITR ] (2) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-3)(m_nRemainTimeMSec:-1)
+00:03:02 MAP:[2] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:03:02 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:03:02 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:03:02 [ ITR ] (2) Remove All Object
+00:03:02 [ ITR ] Map:2 match ended.
+00:03:02 [ ITR ] MAP : 3[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:03:02 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:03:02 [ ITR ] (3) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-3)(m_nRemainTimeMSec:-1)
+00:03:02 MAP:[3] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:03:02 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:03:02 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:03:02 [ ITR ] (3) Remove All Object
+00:03:02 [ ITR ] Map:3 match ended.
+00:03:02 [ ITR ] MAP : 4[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:03:02 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:03:02 [ ITR ] (4) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-3)(m_nRemainTimeMSec:-1)
+00:03:02 MAP:[4] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:03:02 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:03:02 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:03:02 [ ITR ] (4) Remove All Object
+00:03:02 [ ITR ] Map:4 match ended.
+00:03:07  [ ITL ] m_nNextTimeMin 58396734, nCurTime 58396750
+00:03:07  [ ITL ] m_nNextTimeMin 58396734, nCurTime 58396750
+00:03:08 [RuudShop] Saving Ruud Money Account[test] Name[ElfBuff] RuudMoney[21425]
+00:03:08 [Gremory Case][GDGremoryCaseReqAddItem][Account:test][Name:ElfBuff] Request to Add item to Storage [Storage Type:2]-[Reward Source:2]-[ItemID:7452]-[ExpireDays:7][RecvDate:2023-12-04 AM12:03][ExpireDate:2023-12-11 AM12:03]
+00:03:08 [RuudShop] Saving Ruud Money Account[test1] Name[SumBiv] RuudMoney[117294]
+00:03:08 [Gremory Case][GDGremoryCaseReqAddItem][Account:test1][Name:SumBiv] Request to Add item to Storage [Storage Type:2]-[Reward Source:2]-[ItemID:7452]-[ExpireDays:7][RecvDate:2023-12-04 AM12:03][ExpireDate:2023-12-11 AM12:03]
+00:03:08 [RuudShop] Saving Ruud Money Account[kudoshjn] Name[IKBiv] RuudMoney[76551]
+00:03:08 [Gremory Case][GDGremoryCaseReqAddItem][Account:kudoshjn][Name:IKBiv] Request to Add item to Storage [Storage Type:2]-[Reward Source:2]-[ItemID:7452]-[ExpireDays:7][RecvDate:2023-12-04 AM12:03][ExpireDate:2023-12-11 AM12:03]
+00:03:08 [Blood Castle] (5) SetState CLEAN
+00:03:08 [Gremory Case][DGGremoryCaseReqAddItemRecv][Account:test][Name:ElfBuff] Success to Add Item to Storage [Storage:2]-[Source:2]-[ItemGUID:0]-[AuthCode:68245883][RecvDate:2023-12-04 AM12:03][ExpireDate:2023-12-11 AM12:03]
+00:03:08 [Gremory Case][DGGremoryCaseReqAddItemRecv][Account:test1][Name:SumBiv] Success to Add Item to Storage [Storage:2]-[Source:2]-[ItemGUID:1]-[AuthCode:394471535][RecvDate:2023-12-04 AM12:03][ExpireDate:2023-12-11 AM12:03]
+00:03:08 [Gremory Case][DGGremoryCaseReqAddItemRecv][Account:kudoshjn][Name:IKBiv] Success to Add Item to Storage [Storage:2]-[Source:2]-[ItemGUID:0]-[AuthCode:1735726221][RecvDate:2023-12-04 AM12:03][ExpireDate:2023-12-11 AM12:03]
+00:03:23 [BattleCore][GDBattleCoreReqGetReward][Index:7052][Acount:test1][Name:SumBiv] is asking WinnerItem.
+00:03:24 [Gremory Case][GDGremoryCaseReqGetItemSend][Account:test1][Name:SumBiv] Request to Use Item [ItemID: 7452]-[ItemGuid:1]-[AuthCode:394471535]
+00:03:24 [Gremory Case][GDGremoryCaseReqDeleteItemSend][Account:test1][Name:SumBiv] Request to Delete Item [ItemID: 7452]-[ItemGuid:1]-[AuthCode:394471535]
+00:03:24 [Gremory Case][DGGremoryCaseReqGetItemRecv][Account:test1][Name:SumBiv] Success to Add Item to Inventory [ItemID:7452]-[OldSerial:0]-[ItemGUID:1]-[AuthCode:394471535][RecvDate:2023-12-04 AM12:03][ExpireDate:2023-12-11 AM12:03]
+00:03:29 [RuudShop] Saving Ruud Money Account[test1] Name[SumBiv] RuudMoney[118148]
+00:03:29 [CGOpenBoxRecv] [Success] Box Open [Index:7452] [Account:test1] [Name:SumBiv] [InventoryType:0]
+00:03:35 [BattleCore][GDBattleCoreReqGetReward][Index:7051][Acount:test][Name:ElfBuff] is asking WinnerItem.
+00:03:36 [Gremory Case][GDGremoryCaseReqGetItemSend][Account:test][Name:ElfBuff] Request to Use Item [ItemID: 7452]-[ItemGuid:0]-[AuthCode:68245883]
+00:03:36 [Gremory Case][GDGremoryCaseReqDeleteItemSend][Account:test][Name:ElfBuff] Request to Delete Item [ItemID: 7452]-[ItemGuid:0]-[AuthCode:68245883]
+00:03:36 [Gremory Case][DGGremoryCaseReqGetItemRecv][Account:test][Name:ElfBuff] Success to Add Item to Inventory [ItemID:7452]-[OldSerial:0]-[ItemGUID:0]-[AuthCode:68245883][RecvDate:2023-12-04 AM12:03][ExpireDate:2023-12-11 AM12:03]
+00:03:38 [RuudShop] Saving Ruud Money Account[test] Name[ElfBuff] RuudMoney[22397]
+00:03:38 [CGOpenBoxRecv] [Success] Box Open [Index:7452] [Account:test] [Name:ElfBuff] [InventoryType:0]
+00:03:42 [BattleCore][GDBattleCoreReqGetReward][Index:7050][Acount:kudoshjn][Name:IKBiv] is asking WinnerItem.
+00:03:43 [Gremory Case][GDGremoryCaseReqGetItemSend][Account:kudoshjn][Name:IKBiv] Request to Use Item [ItemID: 7452]-[ItemGuid:0]-[AuthCode:1735726221]
+00:03:43 [Gremory Case][GDGremoryCaseReqDeleteItemSend][Account:kudoshjn][Name:IKBiv] Request to Delete Item [ItemID: 7452]-[ItemGuid:0]-[AuthCode:1735726221]
+00:03:43 [Gremory Case][DGGremoryCaseReqGetItemRecv][Account:kudoshjn][Name:IKBiv] Success to Add Item to Inventory [ItemID:7452]-[OldSerial:0]-[ItemGUID:0]-[AuthCode:1735726221][RecvDate:2023-12-04 AM12:03][ExpireDate:2023-12-11 AM12:03]
+00:03:46 [CGOpenBoxRecv] [Error] User exceeds the open limit Account[kudoshjn] Name[IKBiv] InventoryType[0]
+00:03:47 [CGOpenBoxRecv] [Error] User exceeds the open limit Account[kudoshjn] Name[IKBiv] InventoryType[0]
+00:03:50 [RuudShop] Saving Ruud Money Account[kudoshjn] Name[IKBiv] RuudMoney[77369]
+00:03:50 [CGOpenBoxRecv] [Success] Box Open [Index:7452] [Account:kudoshjn] [Name:IKBiv] [InventoryType:0]
+00:04:00 [PMATCHING_R][DelPartyMember] PNum:0, Slot:1, MemberIdx:7051, MemberName:ElfBuff
+00:04:00 [PMATCHING_R][DelPartyMember] PNum:0, Slot:2, MemberIdx:7052, MemberName:SumBiv
+00:04:00 [PMATCHING_R][DestroyParty] PNum:0
+00:04:00 [ObjectManager][7050] DelCharacterInfo (IKBiv)
+00:04:00 [ObjectManager][7050] DelAccountInfo (kudoshjn)
+00:04:00 [ObjectManager][7050] DelClient (192.168.1.1) [DelType:182]
+00:04:02 [ObjectManager][7051] DelCharacterInfo (ElfBuff)
+00:04:02 [ObjectManager][7051] DelAccountInfo (test)
+00:04:02 [ObjectManager][7051] DelClient (192.168.1.1) [DelType:182]
+00:04:03 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:04:03 [ITR] TempleNumber Reset :[0]
+00:04:03 [ ITR ] (0) Sync Open Time. [-4]min remain
+00:04:03 [ ITR ] MAP :0 match NONE.
+00:04:03 0 Welcome Closing Round 1 
+00:04:03 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:04:03 [ITR] TempleNumber Reset :[1]
+00:04:03 [ ITR ] (1) Sync Open Time. [-4]min remain
+00:04:03 [ ITR ] MAP :1 match NONE.
+00:04:03 1 Welcome Closing Round 1 
+00:04:03 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:04:03 [ITR] TempleNumber Reset :[2]
+00:04:03 [ ITR ] (2) Sync Open Time. [-4]min remain
+00:04:03 [ ITR ] MAP :2 match NONE.
+00:04:03 2 Welcome Closing Round 1 
+00:04:03 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:04:03 [ITR] TempleNumber Reset :[3]
+00:04:03 [ ITR ] (3) Sync Open Time. [-4]min remain
+00:04:03 [ ITR ] MAP :3 match NONE.
+00:04:03 3 Welcome Closing Round 1 
+00:04:03 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:04:03 [ITR] TempleNumber Reset :[4]
+00:04:03 [ ITR ] (4) Sync Open Time. [-4]min remain
+00:04:03 [ ITR ] MAP :4 match NONE.
+00:04:03 4 Welcome Closing Round 1 
+00:04:03 [ ITR ] MAP : 0[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:04:03 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:04:03 [ ITR ] (0) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-4)(m_nRemainTimeMSec:-1)
+00:04:03 MAP:[0] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:04:03 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:04:03 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:04:03 [ ITR ] (0) Remove All Object
+00:04:03 [ ITR ] Map:0 match ended.
+00:04:03 [ ITR ] MAP : 1[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:04:03 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:04:03 [ ITR ] (1) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-4)(m_nRemainTimeMSec:-1)
+00:04:03 MAP:[1] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:04:03 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:04:03 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:04:03 [ ITR ] (1) Remove All Object
+00:04:03 [ ITR ] Map:1 match ended.
+00:04:03 [ ITR ] MAP : 2[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:04:03 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:04:03 [ ITR ] (2) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-4)(m_nRemainTimeMSec:-1)
+00:04:03 MAP:[2] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:04:03 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:04:03 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:04:03 [ ITR ] (2) Remove All Object
+00:04:03 [ ITR ] Map:2 match ended.
+00:04:03 [ ITR ] MAP : 3[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:04:03 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:04:03 [ ITR ] (3) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-4)(m_nRemainTimeMSec:-1)
+00:04:03 MAP:[3] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:04:03 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:04:03 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:04:03 [ ITR ] (3) Remove All Object
+00:04:03 [ ITR ] Map:3 match ended.
+00:04:03 [ ITR ] MAP : 4[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:04:03 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:04:03 [ ITR ] (4) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-4)(m_nRemainTimeMSec:-1)
+00:04:03 MAP:[4] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:04:03 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:04:03 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:04:03 [ ITR ] (4) Remove All Object
+00:04:03 [ ITR ] Map:4 match ended.
+00:04:04 [ObjectManager][7052] DelCharacterInfo (SumBiv)
+00:04:04 [ObjectManager][7052] DelAccountInfo (test1)
+00:04:04 [ObjectManager][7052] DelClient (192.168.1.1) [DelType:182]
+00:04:07  [ ITL ] m_nNextTimeMin 58456750, nCurTime 58456843
+00:04:07  [ ITL ] m_nNextTimeMin 58456750, nCurTime 58456843
+00:04:46 [OK] Disconnected from DataServer
+00:05:56 [OK] Connected to DataServer successfully
+00:05:56 [ServerInfo] CashShop loaded successfully
+00:05:56 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:0][MissionInx0:2]
+00:05:56 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:1][MissionInx0:0]
+00:05:56 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:1][MissionInx1:4]
+00:05:56 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:2][MissionInx0:3]
+00:05:56 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:3][MissionInx0:2]
+00:05:56 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:3][MissionInx1:4]
+00:05:56 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:4][MissionInx0:0]
+00:05:56 [DGMonsterSoulConverterWeeklyMissionInfoRecv][Expire Mission Info] 2023-10-26 AM09:30
+00:05:56 [DGImperialGuardianRenewalWeeklyInfoRecv][UpdateType:3] MainAttribute:2
+00:05:56 [BattlePass][BattlePassCurrectID][uType:0] [BattlePassID:12][StartDate:2023-12-01 AM08:30][EndDate:2024-01-01 AM08:30]
+00:05:56 [ServerInfo] ChaosMix loaded successfully
+00:05:56 [ServerInfo] Character loaded successfully
+00:05:56 [ServerInfo] Command loaded successfully
+00:05:56 [AntiDDoS] Status: 1
+00:05:56 [Language] Load English.xml language definition
+00:05:56 [ServerInfo] Common loaded successfully
+00:05:56 [ Crywolf ] State (0) -> NONE
+00:05:56 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+00:05:56 [ServerInfo] Event loaded successfully
+00:05:56 [ServerInfo] EventItemBag loaded successfully
+00:05:56 [ServerInfo] Hack loaded successfully
+00:05:56 [ServerInfo] Item loaded successfully
+00:05:56 [ServerInfo] Monster loaded successfully
+00:05:56 [ServerInfo] Custom loaded successfully
+00:05:56 [ServerInfo] Move loaded successfully
+00:05:57 [ServerInfo] Quest loaded successfully
+00:05:57 [ServerInfo] Shop loaded successfully
+00:05:57 [ServerInfo] Skill loaded successfully
+00:05:57 [ServerInfo] Util loaded successfully
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:90 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:13 - Y:40 - Dir :2 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:14 - Type:1 - MonsterClass:310 - Map:34 - Dis:5 - X:203 - Y:43 - Dir :1 - TX:203 - TY:43 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:15 - Type:1 - MonsterClass:310 - Map:34 - Dis:5 - X:203 - Y:43 - Dir :3 - TX:203 - TY:43 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:16 - Type:1 - MonsterClass:310 - Map:34 - Dis:5 - X:203 - Y:43 - Dir :1 - TX:203 - TY:43 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:17 - Type:1 - MonsterClass:310 - Map:34 - Dis:5 - X:203 - Y:43 - Dir :5 - TX:203 - TY:43 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:18 - Type:1 - MonsterClass:310 - Map:34 - Dis:5 - X:203 - Y:43 - Dir :7 - TX:203 - TY:43 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:19 - Type:1 - MonsterClass:312 - Map:34 - Dis:5 - X:206 - Y:43 - Dir :7 - TX:203 - TY:43 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:20 - Type:1 - MonsterClass:312 - Map:34 - Dis:5 - X:206 - Y:43 - Dir :2 - TX:203 - TY:43 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:21 - Type:1 - MonsterClass:312 - Map:34 - Dis:5 - X:206 - Y:43 - Dir :0 - TX:203 - TY:43 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:22 - Type:1 - MonsterClass:312 - Map:34 - Dis:5 - X:206 - Y:43 - Dir :6 - TX:203 - TY:43 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:23 - Type:1 - MonsterClass:312 - Map:34 - Dis:5 - X:206 - Y:43 - Dir :0 - TX:203 - TY:43 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:24 - Type:1 - MonsterClass:313 - Map:34 - Dis:5 - X:208 - Y:43 - Dir :3 - TX:203 - TY:43 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:25 - Type:1 - MonsterClass:313 - Map:34 - Dis:5 - X:208 - Y:43 - Dir :3 - TX:203 - TY:43 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:26 - Type:1 - MonsterClass:313 - Map:34 - Dis:5 - X:208 - Y:43 - Dir :1 - TX:203 - TY:43 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:27 - Type:1 - MonsterClass:313 - Map:34 - Dis:5 - X:208 - Y:43 - Dir :7 - TX:203 - TY:43 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:28 - Type:1 - MonsterClass:313 - Map:34 - Dis:5 - X:208 - Y:43 - Dir :6 - TX:203 - TY:43 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:39 - Type:1 - MonsterClass:316 - Map:34 - Dis:5 - X:210 - Y:43 - Dir :7 - TX:203 - TY:43 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:40 - Type:1 - MonsterClass:316 - Map:34 - Dis:5 - X:210 - Y:43 - Dir :7 - TX:203 - TY:43 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:41 - Type:1 - MonsterClass:316 - Map:34 - Dis:5 - X:210 - Y:43 - Dir :3 - TX:203 - TY:43 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:42 - Type:1 - MonsterClass:316 - Map:34 - Dis:5 - X:210 - Y:43 - Dir :4 - TX:203 - TY:43 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:43 - Type:1 - MonsterClass:316 - Map:34 - Dis:5 - X:210 - Y:43 - Dir :5 - TX:203 - TY:43 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:44 - Type:1 - MonsterClass:317 - Map:34 - Dis:5 - X:212 - Y:43 - Dir :7 - TX:203 - TY:43 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:45 - Type:1 - MonsterClass:317 - Map:34 - Dis:5 - X:212 - Y:43 - Dir :4 - TX:203 - TY:43 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:46 - Type:1 - MonsterClass:317 - Map:34 - Dis:5 - X:212 - Y:43 - Dir :6 - TX:203 - TY:43 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:47 - Type:1 - MonsterClass:317 - Map:34 - Dis:5 - X:212 - Y:43 - Dir :5 - TX:203 - TY:43 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:48 - Type:1 - MonsterClass:317 - Map:34 - Dis:5 - X:212 - Y:43 - Dir :6 - TX:203 - TY:43 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:50 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:62 - Y:37 - Dir :0 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:51 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:68 - Y:24 - Dir :5 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:52 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:68 - Y:39 - Dir :4 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:53 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:73 - Y:21 - Dir :5 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:54 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:74 - Y:32 - Dir :0 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:55 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:77 - Y:54 - Dir :3 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:56 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:80 - Y:46 - Dir :5 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:57 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:80 - Y:8 - Dir :7 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:62 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:148 - Y:62 - Dir :1 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:69 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:182 - Y:50 - Dir :1 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:74 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:201 - Y:59 - Dir :5 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:79 - Type:2 - MonsterClass:311 - Map:34 - Dis:30 - X:20 - Y:100 - Dir :6 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:87 - Type:2 - MonsterClass:311 - Map:34 - Dis:30 - X:103 - Y:70 - Dir :0 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:94 - Type:2 - MonsterClass:311 - Map:34 - Dis:30 - X:153 - Y:70 - Dir :5 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:95 - Type:2 - MonsterClass:311 - Map:34 - Dis:30 - X:155 - Y:76 - Dir :4 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:99 - Type:2 - MonsterClass:311 - Map:34 - Dis:30 - X:170 - Y:98 - Dir :0 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:109 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:19 - Y:87 - Dir :6 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:111 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:27 - Y:88 - Dir :4 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:113 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:70 - Y:117 - Dir :5 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:115 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:78 - Y:114 - Dir :4 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:118 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:102 - Y:86 - Dir :5 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:126 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:155 - Y:82 - Dir :2 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:139 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:74 - Y:109 - Dir :3 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:142 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:79 - Y:129 - Dir :4 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:145 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:120 - Y:133 - Dir :6 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:146 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:126 - Y:144 - Dir :5 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:152 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:204 - Y:133 - Dir :5 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:153 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:203 - Y:129 - Dir :2 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:155 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:216 - Y:107 - Dir :7 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:159 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:243 - Y:129 - Dir :5 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:160 - Type:2 - MonsterClass:314 - Map:34 - Dis:30 - X:17 - Y:153 - Dir :2 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:161 - Type:2 - MonsterClass:314 - Map:34 - Dis:30 - X:26 - Y:155 - Dir :4 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:170 - Type:2 - MonsterClass:315 - Map:34 - Dis:30 - X:28 - Y:173 - Dir :1 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:171 - Type:2 - MonsterClass:315 - Map:34 - Dis:30 - X:52 - Y:195 - Dir :2 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:187 - Type:2 - MonsterClass:315 - Map:34 - Dis:30 - X:162 - Y:206 - Dir :4 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:191 - Type:2 - MonsterClass:315 - Map:34 - Dis:30 - X:221 - Y:192 - Dir :4 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:193 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:82 - Y:202 - Dir :4 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:194 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:106 - Y:191 - Dir :3 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:195 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:114 - Y:185 - Dir :5 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:198 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:173 - Y:181 - Dir :2 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:200 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:229 - Y:177 - Dir :3 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:201 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:13 - Y:164 - Dir :4 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:202 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:27 - Y:166 - Dir :1 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:208 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:117 - Y:171 - Dir :6 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:210 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:144 - Y:177 - Dir :3 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:211 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:149 - Y:165 - Dir :0 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:218 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:103 - Y:214 - Dir :2 - TX:0 - TY:0 - Element:0
+00:05:57 [gObjSetPosMonster][GetPosition] Location Error number:221 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:117 - Y:224 - Dir :5 - TX:0 - TY:0 - Element:0
+00:05:57 [Blood Castle] (1) Sync Start Time. [54] min remain
+00:05:57 [Blood Castle] (1) SetState EMPTY
+00:05:57 [Blood Castle] (2) Sync Start Time. [54] min remain
+00:05:57 [Blood Castle] (2) SetState EMPTY
+00:05:57 [Blood Castle] (3) Sync Start Time. [54] min remain
+00:05:57 [Blood Castle] (3) SetState EMPTY
+00:05:57 [Blood Castle] (4) Sync Start Time. [54] min remain
+00:05:57 [Blood Castle] (4) SetState EMPTY
+00:05:57 [Blood Castle] (5) Sync Start Time. [54] min remain
+00:05:57 [Blood Castle] (5) SetState EMPTY
+00:05:57 [Blood Castle] (6) Sync Start Time. [54] min remain
+00:05:57 [Blood Castle] (6) SetState EMPTY
+00:05:57 [Blood Castle] (7) Sync Start Time. [54] min remain
+00:05:57 [Blood Castle] (7) SetState EMPTY
+00:05:57 [Blood Castle] (8) Sync Start Time. [54] min remain
+00:05:57 [Blood Castle] (8) SetState EMPTY
+00:05:57 [Castle Deep] Sync Start Time. [234] min remain
+00:05:57 [Castle Deep] SetState EMPTY
+00:05:57 [Chaos Castle] (1) Sync Start Time. [39] min remain
+00:05:57 [Chaos Castle] (1) SetState EMPTY
+00:05:57 [Chaos Castle] (2) Sync Start Time. [39] min remain
+00:05:57 [Chaos Castle] (2) SetState EMPTY
+00:05:57 [Chaos Castle] (3) Sync Start Time. [39] min remain
+00:05:57 [Chaos Castle] (3) SetState EMPTY
+00:05:57 [Chaos Castle] (4) Sync Start Time. [39] min remain
+00:05:57 [Chaos Castle] (4) SetState EMPTY
+00:05:57 [Chaos Castle] (5) Sync Start Time. [39] min remain
+00:05:57 [Chaos Castle] (5) SetState EMPTY
+00:05:57 [Chaos Castle] (6) Sync Start Time. [39] min remain
+00:05:57 [Chaos Castle] (6) SetState EMPTY
+00:05:57 [Chaos Castle] (7) Sync Start Time. [39] min remain
+00:05:57 [Chaos Castle] (7) SetState EMPTY
+00:05:57 [Chaos Castle Survival] Sync Start Time. [79] min remain
+00:05:57 [Chaos Castle Survival][GDChaosCastleSurvivalRenewallRanking] [BattleType:0]
+00:05:57 [Chaos Castle Survival][GDChaosCastleSurvivalRankingInfoReq] RankingType is Invalid 
+00:05:57 [Chaos Castle Survival] SetState EMPTY
+00:05:57 [Devil Square] (1) Sync Start Time. [24] min remain
+00:05:57 [Devil Square] (1) SetState EMPTY
+00:05:57 [Devil Square] (2) Sync Start Time. [24] min remain
+00:05:57 [Devil Square] (2) SetState EMPTY
+00:05:57 [Devil Square] (3) Sync Start Time. [24] min remain
+00:05:57 [Devil Square] (3) SetState EMPTY
+00:05:57 [Devil Square] (4) Sync Start Time. [24] min remain
+00:05:57 [Devil Square] (4) SetState EMPTY
+00:05:57 [Devil Square] (5) Sync Start Time. [24] min remain
+00:05:57 [Devil Square] (5) SetState EMPTY
+00:05:57 [Devil Square] (6) Sync Start Time. [24] min remain
+00:05:57 [Devil Square] (6) SetState EMPTY
+00:05:57 [Devil Square] (7) Sync Start Time. [24] min remain
+00:05:57 [Devil Square] (7) SetState EMPTY
+00:05:57 [ ITR ] [IllusionTemple_EventInit] Illusion Temple Renewal match event initialization
+00:05:57 [ITR] TempleNumber Reset :[0]
+00:05:57 [ ITR ] (0) Sync Open Time. [-5]min remain
+00:05:57 [ITR] TempleNumber Reset :[1]
+00:05:57 [ ITR ] (1) Sync Open Time. [-5]min remain
+00:05:57 [ITR] TempleNumber Reset :[2]
+00:05:57 [ ITR ] (2) Sync Open Time. [-5]min remain
+00:05:57 [ITR] TempleNumber Reset :[3]
+00:05:57 [ ITR ] (3) Sync Open Time. [-5]min remain
+00:05:57 [ITR] TempleNumber Reset :[4]
+00:05:57 [ ITR ] (4) Sync Open Time. [-5]min remain
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:658, Map:45, Dis:0, X:169, Y:85, Dir:2 ,byMapTagNpcIdentNo:0
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:659, Map:45, Dis:0, X:136, Y:101, Dir:0 ,byMapTagNpcIdentNo:1
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:660, Map:45, Dis:0, X:151, Y:119, Dir:0 ,byMapTagNpcIdentNo:2
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:661, Map:45, Dis:0, X:150, Y:88, Dir:0 ,byMapTagNpcIdentNo:3
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:662, Map:45, Dis:0, X:165, Y:102, Dir:0 ,byMapTagNpcIdentNo:4
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:663, Map:45, Dis:0, X:173, Y:67, Dir:0 ,byMapTagNpcIdentNo:5
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:664, Map:45, Dis:0, X:187, Y:81, Dir:0 ,byMapTagNpcIdentNo:6
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:665, Map:45, Dis:0, X:187, Y:51, Dir:0 ,byMapTagNpcIdentNo:7
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:666, Map:45, Dis:0, X:203, Y:67, Dir:0 ,byMapTagNpcIdentNo:8
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:667, Map:45, Dis:0, X:133, Y:121, Dir:0 ,byMapTagNpcIdentNo:9
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:668, Map:45, Dis:0, X:206, Y:48, Dir:0 ,byMapTagNpcIdentNo:10
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:658, Map:46, Dis:0, X:169, Y:85, Dir:2 ,byMapTagNpcIdentNo:0
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:659, Map:46, Dis:0, X:136, Y:101, Dir:0 ,byMapTagNpcIdentNo:1
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:660, Map:46, Dis:0, X:151, Y:119, Dir:0 ,byMapTagNpcIdentNo:2
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:661, Map:46, Dis:0, X:150, Y:88, Dir:0 ,byMapTagNpcIdentNo:3
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:662, Map:46, Dis:0, X:165, Y:102, Dir:0 ,byMapTagNpcIdentNo:4
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:663, Map:46, Dis:0, X:173, Y:67, Dir:0 ,byMapTagNpcIdentNo:5
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:664, Map:46, Dis:0, X:187, Y:81, Dir:0 ,byMapTagNpcIdentNo:6
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:665, Map:46, Dis:0, X:187, Y:51, Dir:0 ,byMapTagNpcIdentNo:7
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:666, Map:46, Dis:0, X:203, Y:67, Dir:0 ,byMapTagNpcIdentNo:8
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:667, Map:46, Dis:0, X:133, Y:121, Dir:0 ,byMapTagNpcIdentNo:9
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:668, Map:46, Dis:0, X:206, Y:48, Dir:0 ,byMapTagNpcIdentNo:10
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:658, Map:47, Dis:0, X:169, Y:85, Dir:2 ,byMapTagNpcIdentNo:0
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:659, Map:47, Dis:0, X:136, Y:101, Dir:0 ,byMapTagNpcIdentNo:1
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:660, Map:47, Dis:0, X:151, Y:119, Dir:0 ,byMapTagNpcIdentNo:2
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:661, Map:47, Dis:0, X:150, Y:88, Dir:0 ,byMapTagNpcIdentNo:3
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:662, Map:47, Dis:0, X:165, Y:102, Dir:0 ,byMapTagNpcIdentNo:4
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:663, Map:47, Dis:0, X:173, Y:67, Dir:0 ,byMapTagNpcIdentNo:5
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:664, Map:47, Dis:0, X:187, Y:81, Dir:0 ,byMapTagNpcIdentNo:6
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:665, Map:47, Dis:0, X:187, Y:51, Dir:0 ,byMapTagNpcIdentNo:7
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:666, Map:47, Dis:0, X:203, Y:67, Dir:0 ,byMapTagNpcIdentNo:8
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:667, Map:47, Dis:0, X:133, Y:121, Dir:0 ,byMapTagNpcIdentNo:9
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:668, Map:47, Dis:0, X:206, Y:48, Dir:0 ,byMapTagNpcIdentNo:10
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:658, Map:48, Dis:0, X:169, Y:85, Dir:2 ,byMapTagNpcIdentNo:0
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:659, Map:48, Dis:0, X:136, Y:101, Dir:0 ,byMapTagNpcIdentNo:1
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:660, Map:48, Dis:0, X:151, Y:119, Dir:0 ,byMapTagNpcIdentNo:2
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:661, Map:48, Dis:0, X:150, Y:88, Dir:0 ,byMapTagNpcIdentNo:3
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:662, Map:48, Dis:0, X:165, Y:102, Dir:0 ,byMapTagNpcIdentNo:4
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:663, Map:48, Dis:0, X:173, Y:67, Dir:0 ,byMapTagNpcIdentNo:5
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:664, Map:48, Dis:0, X:187, Y:81, Dir:0 ,byMapTagNpcIdentNo:6
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:665, Map:48, Dis:0, X:187, Y:51, Dir:0 ,byMapTagNpcIdentNo:7
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:666, Map:48, Dis:0, X:203, Y:67, Dir:0 ,byMapTagNpcIdentNo:8
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:667, Map:48, Dis:0, X:133, Y:121, Dir:0 ,byMapTagNpcIdentNo:9
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:668, Map:48, Dis:0, X:206, Y:48, Dir:0 ,byMapTagNpcIdentNo:10
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:658, Map:49, Dis:0, X:169, Y:85, Dir:2 ,byMapTagNpcIdentNo:0
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:659, Map:49, Dis:0, X:136, Y:101, Dir:0 ,byMapTagNpcIdentNo:1
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:660, Map:49, Dis:0, X:151, Y:119, Dir:0 ,byMapTagNpcIdentNo:2
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:661, Map:49, Dis:0, X:150, Y:88, Dir:0 ,byMapTagNpcIdentNo:3
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:662, Map:49, Dis:0, X:165, Y:102, Dir:0 ,byMapTagNpcIdentNo:4
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:663, Map:49, Dis:0, X:173, Y:67, Dir:0 ,byMapTagNpcIdentNo:5
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:664, Map:49, Dis:0, X:187, Y:81, Dir:0 ,byMapTagNpcIdentNo:6
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:665, Map:49, Dis:0, X:187, Y:51, Dir:0 ,byMapTagNpcIdentNo:7
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:666, Map:49, Dis:0, X:203, Y:67, Dir:0 ,byMapTagNpcIdentNo:8
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:667, Map:49, Dis:0, X:133, Y:121, Dir:0 ,byMapTagNpcIdentNo:9
+00:05:57 [ ITR ][AddITRNpcInfo] NpcID:668, Map:49, Dis:0, X:206, Y:48, Dir:0 ,byMapTagNpcIdentNo:10
+00:05:57 [ ITL ] [IllusionTempleLeague_EventInit] event reset
+00:05:57 [ ITL ][schedule][13 hours][33 minutes] type:[1]
+00:05:57 [ ITL ][schedule][13 hours][0 minutes] type:[1]
+00:05:57 [ ITL ][schedule][14 hours][0 minutes] type:[1]
+00:05:57 [ ITL ][schedule][15 hours][0 minutes] type:[1]
+00:05:57 [ ITL ][schedule][16 hours][0 minutes] type:[1]
+00:05:57 [ ITL ][schedule][17 hours][0 minutes] type:[1]
+00:05:57 [ ITL ][schedule][18 hours][0 minutes] type:[1]
+00:05:57 [ ITL ][schedule][19 hours][0 minutes] type:[1]
+00:05:57 [ ITL ][schedule][20 hours][0 minutes] type:[1]
+00:05:57 [ ITL ][schedule][21 hours][0 minutes] type:[1]
+00:05:57 [ ITL ][schedule][22 hours][0 minutes] type:[1]
+00:05:57 [ITL] TempleNumber Reset :[0]
+00:05:57 [ ITL ] TYPE:1 , (0) ITL Sync Open Time. [808]min remain, m_nRemainTimeMSec:[-1]
+00:05:57 [ITL] TempleNumber Reset :[1]
+00:05:57 [ ITL ] TYPE:1 , (1) ITL Sync Open Time. [808]min remain, m_nRemainTimeMSec:[-1]
+00:05:57 [ ITL ][AddITLNpcInfo] NpcID:658, Map:98, Dis:0, X:169, Y:84, Dir:2 ,byMapTagNpcIdentNo:0
+00:05:57 [ ITL ][AddITLNpcInfo] NpcID:659, Map:98, Dis:0, X:136, Y:101, Dir:0 ,byMapTagNpcIdentNo:1
+00:05:57 [ ITL ][AddITLNpcInfo] NpcID:660, Map:98, Dis:0, X:151, Y:118, Dir:0 ,byMapTagNpcIdentNo:2
+00:05:57 [ ITL ][AddITLNpcInfo] NpcID:661, Map:98, Dis:0, X:151, Y:87, Dir:0 ,byMapTagNpcIdentNo:3
+00:05:57 [ ITL ][AddITLNpcInfo] NpcID:662, Map:98, Dis:0, X:166, Y:102, Dir:0 ,byMapTagNpcIdentNo:4
+00:05:57 [ ITL ][AddITLNpcInfo] NpcID:663, Map:98, Dis:0, X:173, Y:66, Dir:0 ,byMapTagNpcIdentNo:5
+00:05:57 [ ITL ][AddITLNpcInfo] NpcID:664, Map:98, Dis:0, X:187, Y:81, Dir:0 ,byMapTagNpcIdentNo:6
+00:05:57 [ ITL ][AddITLNpcInfo] NpcID:665, Map:98, Dis:0, X:187, Y:51, Dir:0 ,byMapTagNpcIdentNo:7
+00:05:57 [ ITL ][AddITLNpcInfo] NpcID:666, Map:98, Dis:0, X:203, Y:67, Dir:0 ,byMapTagNpcIdentNo:8
+00:05:57 [ ITL ][AddITLNpcInfo] NpcID:667, Map:98, Dis:0, X:133, Y:121, Dir:0 ,byMapTagNpcIdentNo:9
+00:05:57 [ ITL ][AddITLNpcInfo] NpcID:668, Map:98, Dis:0, X:207, Y:47, Dir:0 ,byMapTagNpcIdentNo:10
+00:05:57 [ ITL ][AddITLNpcInfo] NpcID:658, Map:99, Dis:0, X:169, Y:84, Dir:2 ,byMapTagNpcIdentNo:0
+00:05:57 [ ITL ][AddITLNpcInfo] NpcID:659, Map:99, Dis:0, X:136, Y:101, Dir:0 ,byMapTagNpcIdentNo:1
+00:05:57 [ ITL ][AddITLNpcInfo] NpcID:660, Map:99, Dis:0, X:151, Y:118, Dir:0 ,byMapTagNpcIdentNo:2
+00:05:57 [ ITL ][AddITLNpcInfo] NpcID:661, Map:99, Dis:0, X:151, Y:87, Dir:0 ,byMapTagNpcIdentNo:3
+00:05:57 [ ITL ][AddITLNpcInfo] NpcID:662, Map:99, Dis:0, X:166, Y:102, Dir:0 ,byMapTagNpcIdentNo:4
+00:05:57 [ ITL ][AddITLNpcInfo] NpcID:663, Map:99, Dis:0, X:173, Y:66, Dir:0 ,byMapTagNpcIdentNo:5
+00:05:57 [ ITL ][AddITLNpcInfo] NpcID:664, Map:99, Dis:0, X:187, Y:81, Dir:0 ,byMapTagNpcIdentNo:6
+00:05:57 [ ITL ][AddITLNpcInfo] NpcID:665, Map:99, Dis:0, X:187, Y:51, Dir:0 ,byMapTagNpcIdentNo:7
+00:05:57 [ ITL ][AddITLNpcInfo] NpcID:666, Map:99, Dis:0, X:203, Y:67, Dir:0 ,byMapTagNpcIdentNo:8
+00:05:57 [ ITL ][AddITLNpcInfo] NpcID:667, Map:99, Dis:0, X:133, Y:121, Dir:0 ,byMapTagNpcIdentNo:9
+00:05:57 [ ITL ][AddITLNpcInfo] NpcID:668, Map:99, Dis:0, X:207, Y:47, Dir:0 ,byMapTagNpcIdentNo:10
+00:05:57 [AcheronGuardian] Sync Start Time. [263] min remain
+00:05:57 [ RAKLION ] State(0) -> END
+00:05:57 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+00:05:57 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+00:05:57 [ RAKLION ] [ BossEggRegen ] : BossEgg(0 ea)
+00:05:57 [Bot Hide][0] (BotHideDW) Sync Start Time. [714] min remain
+00:05:57 [Bot Hide][0] (BotHideDW) SetState EMPTY
+00:05:57 [Bot Hide][1] (BotHideBK) Sync Start Time. [774] min remain
+00:05:57 [Bot Hide][1] (BotHideBK) SetState EMPTY
+00:05:57 [Bot Hide][2] (BotHideFE) Sync Start Time. [834] min remain
+00:05:57 [Bot Hide][2] (BotHideFE) SetState EMPTY
+00:05:57 [Bot Hide][3] (BotHideMG) Sync Start Time. [894] min remain
+00:05:57 [Bot Hide][3] (BotHideMG) SetState EMPTY
+00:05:57 [Bot Hide][4] (BotHideDL) Sync Start Time. [954] min remain
+00:05:57 [Bot Hide][4] (BotHideDL) SetState EMPTY
+00:05:57 [Bot Hide][5] (BotHideSU) Sync Start Time. [1014] min remain
+00:05:57 [Bot Hide][5] (BotHideSU) SetState EMPTY
+00:05:57 [Bot Hide][6] (BotHideRF) Sync Start Time. [1074] min remain
+00:05:57 [Bot Hide][6] (BotHideRF) SetState EMPTY
+00:05:57 [Bot Hide][7] (BotHideGL) Sync Start Time. [1134] min remain
+00:05:57 [Bot Hide][7] (BotHideGL) SetState EMPTY
+00:05:57 [Bot Hide][8] (BotHideRW) Sync Start Time. [1194] min remain
+00:05:57 [Bot Hide][8] (BotHideRW) SetState EMPTY
+00:05:57 [Bot Hide][9] (BotHideSL) Sync Start Time. [1254] min remain
+00:05:57 [Bot Hide][9] (BotHideSL) SetState EMPTY
+00:05:57 [Bot Hide][10] (BotHideGC) Sync Start Time. [1314] min remain
+00:05:57 [Bot Hide][10] (BotHideGC) SetState EMPTY
+00:05:57 [Bot Hide][11] (BotHideKM) Sync Start Time. [1374] min remain
+00:05:57 [Bot Hide][11] (BotHideKM) SetState EMPTY
+00:05:57 [Bot Hide][12] (BotHideLM) Sync Start Time. [1434] min remain
+00:05:57 [Bot Hide][12] (BotHideLM) SetState EMPTY
+00:05:57 [Bot Hide][13] (BotHideIK) Sync Start Time. [54] min remain
+00:05:57 [Bot Hide][13] (BotHideIK) SetState EMPTY
+00:05:57 [DSF][DSFEventInit] Event initialization
+00:05:57 [Doppelganger] State NONE [ROOM_INDEX]:0
+00:05:57 [Doppelganger] State NONE [ROOM_INDEX]:1
+00:05:57 [Doppelganger] State NONE [ROOM_INDEX]:2
+00:05:57 [Doppelganger] State NONE [ROOM_INDEX]:3
+00:05:57 [Doppelganger] State NONE [ROOM_INDEX]:4
+00:05:57 [Doppelganger] State NONE [ROOM_INDEX]:5
+00:05:57 [Doppelganger] State NONE [ROOM_INDEX]:6
+00:05:57 [DSN][DSNEventInit] Event initialization
+00:05:57 [Boss Battle Event] Sync Start Time. [1439] min remain
+00:05:57 [Boss Battle Event] SetState EMPTY
+00:05:57 [AcheronGuardian] Acheron Event Play [1]
+00:05:58 +³++©«¦Î+°+º©ª +ºÃÐ ¦+¢+.+õ++
+00:05:58 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+00:05:58 m_iAB_REMAIN_MSEC 639
+00:05:58 [ArcaBattle] Sync Start Time. [639] min remain (START HOUR:10, MIN:45)
+00:05:58 [Chaos Castle Survival] SetState BLANK
+00:05:58 ITL Guild Ranking Information Received 0
+00:05:58 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+00:05:58 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule Start Date (2099-8-25)
+00:05:58 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule Date (7-0-0)
+00:05:58 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule End Date (2099-9-1(0:0:0))
+00:05:58 [CastleSiege] CCastleSiege::Init() - START
+00:05:58 SET SetState_IDLE_1()
+00:05:58 [DSF][Devil's Square Final] Bringing 0 advance parties (DSFType:2) 
+00:05:58 [DSF][Devil's Square Final] Bringing 0 advance parties (DSFType:3) 
+00:05:58 [DSF][Devil's Square Final] Bringing 0 advance parties (DSFType:4) 
+00:05:58 [DSF][Devil's Square Final] Bringing 0 advance parties (DSFType:2) 
+00:05:58 [DSF][Devil's Square Final] Bringing 0 advance parties (DSFType:3) 
+00:05:58 [DSF][Devil's Square Final] Bringing 0 advance parties (DSFType:4) 
+00:05:58 [DSF][Devil's Square Final] Bringing 0 advance parties (DSFType:2) 
+00:05:58 [DSF][Devil's Square Final] Bringing 0 advance parties (DSFType:3) 
+00:05:58 [DSF][Devil's Square Final] Bringing 0 advance parties (DSFType:4) 
+00:05:58 SET SetState_REGSIEGE()
+00:05:59 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+00:06:00  [ ITL ] m_nNextTimeMin 58570343, nCurTime 58570359
+00:06:00  [ ITL ] m_nNextTimeMin 58570343, nCurTime 58570359
+00:06:00 [FreeChannelSwitch] [Add Server] [ServerCode:20][cur:0/max:100]
+00:07:00  [ ITL ] m_nNextTimeMin 58630359, nCurTime 58630468
+00:07:00  [ ITL ] m_nNextTimeMin 58630359, nCurTime 58630468
+00:08:00  [ ITL ] m_nNextTimeMin 58690468, nCurTime 58690562
+00:08:00  [ ITL ] m_nNextTimeMin 58690468, nCurTime 58690562
+00:09:01  [ ITL ] m_nNextTimeMin 58750562, nCurTime 58750593
+00:09:01  [ ITL ] m_nNextTimeMin 58750562, nCurTime 58750593
+00:10:01  [ ITL ] m_nNextTimeMin 58810593, nCurTime 58810671
+00:10:01  [ ITL ] m_nNextTimeMin 58810593, nCurTime 58810671
+00:10:58 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+00:10:58 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(549), MAXHP:400000, HP:400000, DF:0, RG:0)
+00:10:58 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(550), MAXHP:400000, HP:400000, DF:0, RG:0)
+00:10:58 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(551), MAXHP:400000, HP:400000, DF:0, RG:0)
+00:10:58 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(552), MAXHP:400000, HP:400000, DF:0, RG:0)
+00:10:58 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(553), MAXHP:500000, HP:500000, DF:0, RG:0)
+00:10:58 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(554), MAXHP:500000, HP:500000, DF:0, RG:0)
+00:10:58 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(555), MAXHP:500000, HP:500000, DF:0, RG:0)
+00:10:58 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(556), MAXHP:500000, HP:500000, DF:0, RG:0)
+00:10:58 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(557), MAXHP:500000, HP:500000, DF:0, RG:0)
+00:10:58 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(558), MAXHP:500000, HP:500000, DF:0, RG:0)
+00:10:58 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+00:10:58 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+00:11:01  [ ITL ] m_nNextTimeMin 58870671, nCurTime 58870765
+00:11:01  [ ITL ] m_nNextTimeMin 58870671, nCurTime 58870765
+00:11:58 [ ITR ] MAP : 0[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:11:58 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:11:58 [ ITR ] (0) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-11)(m_nRemainTimeMSec:-94)
+00:11:58 MAP:[0] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:11:58 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:11:58 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:11:58 [ ITR ] (0) Remove All Object
+00:11:58 [ ITR ] Map:0 match ended.
+00:11:58 [ ITR ] MAP : 1[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:11:58 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:11:58 [ ITR ] (1) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-11)(m_nRemainTimeMSec:-94)
+00:11:58 MAP:[1] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:11:58 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:11:58 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:11:58 [ ITR ] (1) Remove All Object
+00:11:58 [ ITR ] Map:1 match ended.
+00:11:58 [ ITR ] MAP : 2[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:11:58 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:11:58 [ ITR ] (2) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-11)(m_nRemainTimeMSec:-94)
+00:11:58 MAP:[2] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:11:58 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:11:58 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:11:58 [ ITR ] (2) Remove All Object
+00:11:58 [ ITR ] Map:2 match ended.
+00:11:58 [ ITR ] MAP : 3[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:11:58 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:11:58 [ ITR ] (3) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-11)(m_nRemainTimeMSec:-94)
+00:11:58 MAP:[3] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:11:58 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:11:58 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:11:58 [ ITR ] (3) Remove All Object
+00:11:58 [ ITR ] Map:3 match ended.
+00:11:58 [ ITR ] MAP : 4[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:11:58 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:11:58 [ ITR ] (4) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-11)(m_nRemainTimeMSec:-94)
+00:11:58 MAP:[4] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:11:58 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:11:58 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:11:58 [ ITR ] (4) Remove All Object
+00:11:58 [ ITR ] Map:4 match ended.
+00:12:01  [ ITL ] m_nNextTimeMin 58930765, nCurTime 58930875
+00:12:01  [ ITL ] m_nNextTimeMin 58930765, nCurTime 58930875
+00:12:59 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:12:59 [ITR] TempleNumber Reset :[0]
+00:12:59 [ ITR ] (0) Sync Open Time. [-12]min remain
+00:12:59 [ ITR ] MAP :0 match NONE.
+00:12:59 0 Welcome Closing Round 1 
+00:12:59 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:12:59 [ITR] TempleNumber Reset :[1]
+00:12:59 [ ITR ] (1) Sync Open Time. [-12]min remain
+00:12:59 [ ITR ] MAP :1 match NONE.
+00:12:59 1 Welcome Closing Round 1 
+00:12:59 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:12:59 [ITR] TempleNumber Reset :[2]
+00:12:59 [ ITR ] (2) Sync Open Time. [-12]min remain
+00:12:59 [ ITR ] MAP :2 match NONE.
+00:12:59 2 Welcome Closing Round 1 
+00:12:59 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:12:59 [ITR] TempleNumber Reset :[3]
+00:12:59 [ ITR ] (3) Sync Open Time. [-12]min remain
+00:12:59 [ ITR ] MAP :3 match NONE.
+00:12:59 3 Welcome Closing Round 1 
+00:12:59 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:12:59 [ITR] TempleNumber Reset :[4]
+00:12:59 [ ITR ] (4) Sync Open Time. [-12]min remain
+00:12:59 [ ITR ] MAP :4 match NONE.
+00:12:59 4 Welcome Closing Round 1 
+00:12:59 [ ITR ] MAP : 0[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:12:59 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:12:59 [ ITR ] (0) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-12)(m_nRemainTimeMSec:-1)
+00:12:59 MAP:[0] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:12:59 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:12:59 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:12:59 [ ITR ] (0) Remove All Object
+00:12:59 [ ITR ] Map:0 match ended.
+00:12:59 [ ITR ] MAP : 1[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:12:59 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:12:59 [ ITR ] (1) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-12)(m_nRemainTimeMSec:-1)
+00:12:59 MAP:[1] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:12:59 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:12:59 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:12:59 [ ITR ] (1) Remove All Object
+00:12:59 [ ITR ] Map:1 match ended.
+00:12:59 [ ITR ] MAP : 2[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:12:59 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:12:59 [ ITR ] (2) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-12)(m_nRemainTimeMSec:-1)
+00:12:59 MAP:[2] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:12:59 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:12:59 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:12:59 [ ITR ] (2) Remove All Object
+00:12:59 [ ITR ] Map:2 match ended.
+00:12:59 [ ITR ] MAP : 3[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:12:59 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:12:59 [ ITR ] (3) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-12)(m_nRemainTimeMSec:-1)
+00:12:59 MAP:[3] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:12:59 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:12:59 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:12:59 [ ITR ] (3) Remove All Object
+00:12:59 [ ITR ] Map:3 match ended.
+00:12:59 [ ITR ] MAP : 4[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:12:59 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:12:59 [ ITR ] (4) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-12)(m_nRemainTimeMSec:-1)
+00:12:59 MAP:[4] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:12:59 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:12:59 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:12:59 [ ITR ] (4) Remove All Object
+00:12:59 [ ITR ] Map:4 match ended.
+00:13:01  [ ITL ] m_nNextTimeMin 58990875, nCurTime 58990968
+00:13:01  [ ITL ] m_nNextTimeMin 58990875, nCurTime 58990968
+00:14:00 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:14:00 [ITR] TempleNumber Reset :[0]
+00:14:00 [ ITR ] (0) Sync Open Time. [-14]min remain
+00:14:00 [ ITR ] MAP :0 match NONE.
+00:14:00 0 Welcome Closing Round 1 
+00:14:00 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:14:00 [ITR] TempleNumber Reset :[1]
+00:14:00 [ ITR ] (1) Sync Open Time. [-14]min remain
+00:14:00 [ ITR ] MAP :1 match NONE.
+00:14:00 1 Welcome Closing Round 1 
+00:14:00 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:14:00 [ITR] TempleNumber Reset :[2]
+00:14:00 [ ITR ] (2) Sync Open Time. [-14]min remain
+00:14:00 [ ITR ] MAP :2 match NONE.
+00:14:00 2 Welcome Closing Round 1 
+00:14:00 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:14:00 [ITR] TempleNumber Reset :[3]
+00:14:00 [ ITR ] (3) Sync Open Time. [-14]min remain
+00:14:00 [ ITR ] MAP :3 match NONE.
+00:14:00 3 Welcome Closing Round 1 
+00:14:00 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:14:00 [ITR] TempleNumber Reset :[4]
+00:14:00 [ ITR ] (4) Sync Open Time. [-14]min remain
+00:14:00 [ ITR ] MAP :4 match NONE.
+00:14:00 4 Welcome Closing Round 1 
+00:14:00 [ ITR ] MAP : 0[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:14:00 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:14:00 [ ITR ] (0) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-14)(m_nRemainTimeMSec:-1)
+00:14:00 MAP:[0] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:14:00 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:14:00 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:14:00 [ ITR ] (0) Remove All Object
+00:14:00 [ ITR ] Map:0 match ended.
+00:14:00 [ ITR ] MAP : 1[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:14:00 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:14:00 [ ITR ] (1) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-14)(m_nRemainTimeMSec:-1)
+00:14:00 MAP:[1] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:14:00 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:14:00 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:14:00 [ ITR ] (1) Remove All Object
+00:14:00 [ ITR ] Map:1 match ended.
+00:14:00 [ ITR ] MAP : 2[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:14:00 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:14:00 [ ITR ] (2) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-14)(m_nRemainTimeMSec:-1)
+00:14:00 MAP:[2] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:14:00 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:14:00 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:14:00 [ ITR ] (2) Remove All Object
+00:14:00 [ ITR ] Map:2 match ended.
+00:14:00 [ ITR ] MAP : 3[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:14:00 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:14:00 [ ITR ] (3) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-14)(m_nRemainTimeMSec:-1)
+00:14:00 MAP:[3] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:14:00 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:14:00 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:14:00 [ ITR ] (3) Remove All Object
+00:14:00 [ ITR ] Map:3 match ended.
+00:14:00 [ ITR ] MAP : 4[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:14:00 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:14:00 [ ITR ] (4) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-14)(m_nRemainTimeMSec:-1)
+00:14:00 MAP:[4] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:14:00 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:14:00 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:14:00 [ ITR ] (4) Remove All Object
+00:14:00 [ ITR ] Map:4 match ended.
+00:14:01  [ ITL ] m_nNextTimeMin 59050968, nCurTime 59051078
+00:14:01  [ ITL ] m_nNextTimeMin 59050968, nCurTime 59051078
+00:15:00 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:15:00 [ITR] TempleNumber Reset :[0]
+00:15:00 [ ITR ] (0) Sync Open Time. [-15]min remain
+00:15:00 [ ITR ] MAP :0 match NONE.
+00:15:00 0 Welcome Closing Round 1 
+00:15:00 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:15:00 [ITR] TempleNumber Reset :[1]
+00:15:00 [ ITR ] (1) Sync Open Time. [-15]min remain
+00:15:00 [ ITR ] MAP :1 match NONE.
+00:15:00 1 Welcome Closing Round 1 
+00:15:00 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:15:00 [ITR] TempleNumber Reset :[2]
+00:15:00 [ ITR ] (2) Sync Open Time. [-15]min remain
+00:15:00 [ ITR ] MAP :2 match NONE.
+00:15:00 2 Welcome Closing Round 1 
+00:15:00 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:15:00 [ITR] TempleNumber Reset :[3]
+00:15:00 [ ITR ] (3) Sync Open Time. [-15]min remain
+00:15:00 [ ITR ] MAP :3 match NONE.
+00:15:00 3 Welcome Closing Round 1 
+00:15:00 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:15:00 [ITR] TempleNumber Reset :[4]
+00:15:00 [ ITR ] (4) Sync Open Time. [-15]min remain
+00:15:00 [ ITR ] MAP :4 match NONE.
+00:15:00 4 Welcome Closing Round 1 
+00:15:00 [ ITR ] MAP : 0[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:15:00 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:15:00 [ ITR ] (0) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-15)(m_nRemainTimeMSec:-1)
+00:15:00 MAP:[0] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:15:00 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:15:00 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:15:00 [ ITR ] (0) Remove All Object
+00:15:00 [ ITR ] Map:0 match ended.
+00:15:00 [ ITR ] MAP : 1[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:15:00 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:15:00 [ ITR ] (1) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-15)(m_nRemainTimeMSec:-1)
+00:15:00 MAP:[1] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:15:00 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:15:00 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:15:00 [ ITR ] (1) Remove All Object
+00:15:00 [ ITR ] Map:1 match ended.
+00:15:00 [ ITR ] MAP : 2[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:15:00 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:15:00 [ ITR ] (2) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-15)(m_nRemainTimeMSec:-1)
+00:15:00 MAP:[2] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:15:00 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:15:00 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:15:00 [ ITR ] (2) Remove All Object
+00:15:00 [ ITR ] Map:2 match ended.
+00:15:00 [ ITR ] MAP : 3[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:15:00 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:15:00 [ ITR ] (3) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-15)(m_nRemainTimeMSec:-1)
+00:15:00 MAP:[3] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:15:00 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:15:00 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:15:00 [ ITR ] (3) Remove All Object
+00:15:00 [ ITR ] Map:3 match ended.
+00:15:00 [ ITR ] MAP : 4[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:15:00 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:15:00 [ ITR ] (4) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-15)(m_nRemainTimeMSec:-1)
+00:15:00 MAP:[4] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:15:00 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:15:00 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:15:00 [ ITR ] (4) Remove All Object
+00:15:00 [ ITR ] Map:4 match ended.
+00:15:01  [ ITL ] m_nNextTimeMin 59111078, nCurTime 59111171
+00:15:01  [ ITL ] m_nNextTimeMin 59111078, nCurTime 59111171
+00:15:59 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+00:15:59 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(549), MAXHP:400000, HP:400000, DF:0, RG:0)
+00:15:59 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(550), MAXHP:400000, HP:400000, DF:0, RG:0)
+00:15:59 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(551), MAXHP:400000, HP:400000, DF:0, RG:0)
+00:15:59 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(552), MAXHP:400000, HP:400000, DF:0, RG:0)
+00:15:59 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(553), MAXHP:500000, HP:500000, DF:0, RG:0)
+00:15:59 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(554), MAXHP:500000, HP:500000, DF:0, RG:0)
+00:15:59 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(555), MAXHP:500000, HP:500000, DF:0, RG:0)
+00:15:59 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(556), MAXHP:500000, HP:500000, DF:0, RG:0)
+00:15:59 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(557), MAXHP:500000, HP:500000, DF:0, RG:0)
+00:15:59 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(558), MAXHP:500000, HP:500000, DF:0, RG:0)
+00:15:59 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+00:15:59 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+00:16:01 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:16:01 [ITR] TempleNumber Reset :[0]
+00:16:01 [ ITR ] (0) Sync Open Time. [-16]min remain
+00:16:01 [ ITR ] MAP :0 match NONE.
+00:16:01 0 Welcome Closing Round 1 
+00:16:01 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:16:01 [ITR] TempleNumber Reset :[1]
+00:16:01 [ ITR ] (1) Sync Open Time. [-16]min remain
+00:16:01 [ ITR ] MAP :1 match NONE.
+00:16:01 1 Welcome Closing Round 1 
+00:16:01 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:16:01 [ITR] TempleNumber Reset :[2]
+00:16:01 [ ITR ] (2) Sync Open Time. [-16]min remain
+00:16:01 [ ITR ] MAP :2 match NONE.
+00:16:01 2 Welcome Closing Round 1 
+00:16:01 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:16:01 [ITR] TempleNumber Reset :[3]
+00:16:01 [ ITR ] (3) Sync Open Time. [-16]min remain
+00:16:01 [ ITR ] MAP :3 match NONE.
+00:16:01 3 Welcome Closing Round 1 
+00:16:01 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:16:01 [ITR] TempleNumber Reset :[4]
+00:16:01 [ ITR ] (4) Sync Open Time. [-16]min remain
+00:16:01 [ ITR ] MAP :4 match NONE.
+00:16:01 4 Welcome Closing Round 1 
+00:16:01 [ ITR ] MAP : 0[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:16:01 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:16:01 [ ITR ] (0) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-16)(m_nRemainTimeMSec:-1)
+00:16:01 MAP:[0] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:16:01 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:16:01 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:16:01 [ ITR ] (0) Remove All Object
+00:16:01 [ ITR ] Map:0 match ended.
+00:16:01 [ ITR ] MAP : 1[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:16:01 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:16:01 [ ITR ] (1) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-16)(m_nRemainTimeMSec:-1)
+00:16:01 MAP:[1] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:16:01 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:16:01 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:16:01 [ ITR ] (1) Remove All Object
+00:16:01 [ ITR ] Map:1 match ended.
+00:16:01 [ ITR ] MAP : 2[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:16:01 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:16:01 [ ITR ] (2) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-16)(m_nRemainTimeMSec:-1)
+00:16:01 MAP:[2] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:16:01 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:16:01 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:16:01 [ ITR ] (2) Remove All Object
+00:16:01 [ ITR ] Map:2 match ended.
+00:16:01 [ ITR ] MAP : 3[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:16:01 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:16:01 [ ITR ] (3) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-16)(m_nRemainTimeMSec:-1)
+00:16:01 MAP:[3] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:16:01 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:16:01 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:16:01 [ ITR ] (3) Remove All Object
+00:16:01 [ ITR ] Map:3 match ended.
+00:16:01 [ ITR ] MAP : 4[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:16:01 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:16:01 [ ITR ] (4) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-16)(m_nRemainTimeMSec:-1)
+00:16:01 MAP:[4] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:16:01 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:16:01 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:16:01 [ ITR ] (4) Remove All Object
+00:16:01 [ ITR ] Map:4 match ended.
+00:16:01  [ ITL ] m_nNextTimeMin 59171171, nCurTime 59171281
+00:16:01  [ ITL ] m_nNextTimeMin 59171171, nCurTime 59171281
+00:17:01 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:17:01 [ITR] TempleNumber Reset :[0]
+00:17:01 [ ITR ] (0) Sync Open Time. [-17]min remain
+00:17:01 [ ITR ] MAP :0 match NONE.
+00:17:01 0 Welcome Closing Round 1 
+00:17:01 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:17:01 [ITR] TempleNumber Reset :[1]
+00:17:01 [ ITR ] (1) Sync Open Time. [-17]min remain
+00:17:01 [ ITR ] MAP :1 match NONE.
+00:17:01 1 Welcome Closing Round 1 
+00:17:01 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:17:01 [ITR] TempleNumber Reset :[2]
+00:17:01 [ ITR ] (2) Sync Open Time. [-17]min remain
+00:17:01 [ ITR ] MAP :2 match NONE.
+00:17:01 2 Welcome Closing Round 1 
+00:17:01 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:17:01 [ITR] TempleNumber Reset :[3]
+00:17:01 [ ITR ] (3) Sync Open Time. [-17]min remain
+00:17:01 [ ITR ] MAP :3 match NONE.
+00:17:01 3 Welcome Closing Round 1 
+00:17:01 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:17:01 [ITR] TempleNumber Reset :[4]
+00:17:01 [ ITR ] (4) Sync Open Time. [-17]min remain
+00:17:01 [ ITR ] MAP :4 match NONE.
+00:17:01 4 Welcome Closing Round 1 
+00:17:01 [ ITR ] MAP : 0[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:17:01 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:17:01 [ ITR ] (0) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-17)(m_nRemainTimeMSec:-1)
+00:17:01 MAP:[0] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:17:01 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:17:01 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:17:01 [ ITR ] (0) Remove All Object
+00:17:01 [ ITR ] Map:0 match ended.
+00:17:01 [ ITR ] MAP : 1[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:17:01 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:17:01 [ ITR ] (1) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-17)(m_nRemainTimeMSec:-1)
+00:17:01 MAP:[1] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:17:01 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:17:01 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:17:01 [ ITR ] (1) Remove All Object
+00:17:01 [ ITR ] Map:1 match ended.
+00:17:01 [ ITR ] MAP : 2[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:17:01 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:17:01 [ ITR ] (2) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-17)(m_nRemainTimeMSec:-1)
+00:17:01 MAP:[2] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:17:01 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:17:01 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:17:01 [ ITR ] (2) Remove All Object
+00:17:01 [ ITR ] Map:2 match ended.
+00:17:01 [ ITR ] MAP : 3[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:17:01 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:17:01 [ ITR ] (3) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-17)(m_nRemainTimeMSec:-1)
+00:17:01 MAP:[3] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:17:01 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:17:01 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:17:01 [ ITR ] (3) Remove All Object
+00:17:01 [ ITR ] Map:3 match ended.
+00:17:01 [ ITR ] MAP : 4[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:17:01 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:17:01 [ ITR ] (4) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-17)(m_nRemainTimeMSec:-1)
+00:17:01 MAP:[4] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:17:01 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:17:01 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:17:01 [ ITR ] (4) Remove All Object
+00:17:01 [ ITR ] Map:4 match ended.
+00:17:01  [ ITL ] m_nNextTimeMin 59231281, nCurTime 59231375
+00:17:01  [ ITL ] m_nNextTimeMin 59231281, nCurTime 59231375
+00:18:01  [ ITL ] m_nNextTimeMin 59291375, nCurTime 59291468
+00:18:01  [ ITL ] m_nNextTimeMin 59291375, nCurTime 59291468
+00:18:02 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:18:02 [ITR] TempleNumber Reset :[0]
+00:18:02 [ ITR ] (0) Sync Open Time. [-18]min remain
+00:18:02 [ ITR ] MAP :0 match NONE.
+00:18:02 0 Welcome Closing Round 1 
+00:18:02 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:18:02 [ITR] TempleNumber Reset :[1]
+00:18:02 [ ITR ] (1) Sync Open Time. [-18]min remain
+00:18:02 [ ITR ] MAP :1 match NONE.
+00:18:02 1 Welcome Closing Round 1 
+00:18:02 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:18:02 [ITR] TempleNumber Reset :[2]
+00:18:02 [ ITR ] (2) Sync Open Time. [-18]min remain
+00:18:02 [ ITR ] MAP :2 match NONE.
+00:18:02 2 Welcome Closing Round 1 
+00:18:02 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:18:02 [ITR] TempleNumber Reset :[3]
+00:18:02 [ ITR ] (3) Sync Open Time. [-18]min remain
+00:18:02 [ ITR ] MAP :3 match NONE.
+00:18:02 3 Welcome Closing Round 1 
+00:18:02 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:18:02 [ITR] TempleNumber Reset :[4]
+00:18:02 [ ITR ] (4) Sync Open Time. [-18]min remain
+00:18:02 [ ITR ] MAP :4 match NONE.
+00:18:02 4 Welcome Closing Round 1 
+00:18:02 [ ITR ] MAP : 0[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:18:02 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:18:02 [ ITR ] (0) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-18)(m_nRemainTimeMSec:-1)
+00:18:02 MAP:[0] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:18:02 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:18:02 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:18:02 [ ITR ] (0) Remove All Object
+00:18:02 [ ITR ] Map:0 match ended.
+00:18:02 [ ITR ] MAP : 1[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:18:02 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:18:02 [ ITR ] (1) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-18)(m_nRemainTimeMSec:-1)
+00:18:02 MAP:[1] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:18:02 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:18:02 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:18:02 [ ITR ] (1) Remove All Object
+00:18:02 [ ITR ] Map:1 match ended.
+00:18:02 [ ITR ] MAP : 2[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:18:02 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:18:02 [ ITR ] (2) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-18)(m_nRemainTimeMSec:-1)
+00:18:02 MAP:[2] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:18:02 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:18:02 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:18:02 [ ITR ] (2) Remove All Object
+00:18:02 [ ITR ] Map:2 match ended.
+00:18:02 [ ITR ] MAP : 3[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:18:02 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:18:02 [ ITR ] (3) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-18)(m_nRemainTimeMSec:-1)
+00:18:02 MAP:[3] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:18:02 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:18:02 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:18:02 [ ITR ] (3) Remove All Object
+00:18:02 [ ITR ] Map:3 match ended.
+00:18:02 [ ITR ] MAP : 4[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:18:02 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:18:02 [ ITR ] (4) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-18)(m_nRemainTimeMSec:-1)
+00:18:02 MAP:[4] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:18:02 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:18:02 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:18:02 [ ITR ] (4) Remove All Object
+00:18:02 [ ITR ] Map:4 match ended.
+00:19:02  [ ITL ] m_nNextTimeMin 59351468, nCurTime 59351578
+00:19:02  [ ITL ] m_nNextTimeMin 59351468, nCurTime 59351578
+00:19:02 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:19:02 [ITR] TempleNumber Reset :[0]
+00:19:02 [ ITR ] (0) Sync Open Time. [-19]min remain
+00:19:02 [ ITR ] MAP :0 match NONE.
+00:19:02 0 Welcome Closing Round 1 
+00:19:02 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:19:02 [ITR] TempleNumber Reset :[1]
+00:19:02 [ ITR ] (1) Sync Open Time. [-19]min remain
+00:19:02 [ ITR ] MAP :1 match NONE.
+00:19:02 1 Welcome Closing Round 1 
+00:19:02 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:19:02 [ITR] TempleNumber Reset :[2]
+00:19:02 [ ITR ] (2) Sync Open Time. [-19]min remain
+00:19:02 [ ITR ] MAP :2 match NONE.
+00:19:02 2 Welcome Closing Round 1 
+00:19:02 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:19:02 [ITR] TempleNumber Reset :[3]
+00:19:02 [ ITR ] (3) Sync Open Time. [-19]min remain
+00:19:02 [ ITR ] MAP :3 match NONE.
+00:19:02 3 Welcome Closing Round 1 
+00:19:02 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:19:02 [ITR] TempleNumber Reset :[4]
+00:19:02 [ ITR ] (4) Sync Open Time. [-19]min remain
+00:19:02 [ ITR ] MAP :4 match NONE.
+00:19:02 4 Welcome Closing Round 1 
+00:19:02 [ ITR ] MAP : 0[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:19:02 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:19:02 [ ITR ] (0) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-19)(m_nRemainTimeMSec:-1)
+00:19:02 MAP:[0] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:19:02 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:19:02 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:19:02 [ ITR ] (0) Remove All Object
+00:19:02 [ ITR ] Map:0 match ended.
+00:19:02 [ ITR ] MAP : 1[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:19:02 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:19:02 [ ITR ] (1) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-19)(m_nRemainTimeMSec:-1)
+00:19:02 MAP:[1] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:19:02 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:19:02 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:19:02 [ ITR ] (1) Remove All Object
+00:19:02 [ ITR ] Map:1 match ended.
+00:19:02 [ ITR ] MAP : 2[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:19:02 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:19:02 [ ITR ] (2) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-19)(m_nRemainTimeMSec:-1)
+00:19:02 MAP:[2] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:19:02 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:19:02 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:19:02 [ ITR ] (2) Remove All Object
+00:19:02 [ ITR ] Map:2 match ended.
+00:19:02 [ ITR ] MAP : 3[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:19:02 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:19:02 [ ITR ] (3) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-19)(m_nRemainTimeMSec:-1)
+00:19:02 MAP:[3] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:19:02 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:19:02 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:19:02 [ ITR ] (3) Remove All Object
+00:19:02 [ ITR ] Map:3 match ended.
+00:19:02 [ ITR ] MAP : 4[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:19:02 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:19:02 [ ITR ] (4) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-19)(m_nRemainTimeMSec:-1)
+00:19:02 MAP:[4] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:19:02 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:19:02 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:19:02 [ ITR ] (4) Remove All Object
+00:19:02 [ ITR ] Map:4 match ended.
+00:20:02  [ ITL ] m_nNextTimeMin 59411578, nCurTime 59411671
+00:20:02  [ ITL ] m_nNextTimeMin 59411578, nCurTime 59411671
+00:20:02 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:20:02 [ITR] TempleNumber Reset :[0]
+00:20:02 [ ITR ] (0) Sync Open Time. [-20]min remain
+00:20:02 [ ITR ] MAP :0 match NONE.
+00:20:02 0 Welcome Closing Round 1 
+00:20:02 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:20:02 [ITR] TempleNumber Reset :[1]
+00:20:02 [ ITR ] (1) Sync Open Time. [-20]min remain
+00:20:02 [ ITR ] MAP :1 match NONE.
+00:20:02 1 Welcome Closing Round 1 
+00:20:02 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:20:02 [ITR] TempleNumber Reset :[2]
+00:20:02 [ ITR ] (2) Sync Open Time. [-20]min remain
+00:20:02 [ ITR ] MAP :2 match NONE.
+00:20:02 2 Welcome Closing Round 1 
+00:20:02 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:20:02 [ITR] TempleNumber Reset :[3]
+00:20:02 [ ITR ] (3) Sync Open Time. [-20]min remain
+00:20:02 [ ITR ] MAP :3 match NONE.
+00:20:02 3 Welcome Closing Round 1 
+00:20:02 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:20:02 [ITR] TempleNumber Reset :[4]
+00:20:02 [ ITR ] (4) Sync Open Time. [-20]min remain
+00:20:02 [ ITR ] MAP :4 match NONE.
+00:20:02 4 Welcome Closing Round 1 
+00:20:02 [ ITR ] MAP : 0[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:20:02 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:20:02 [ ITR ] (0) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-20)(m_nRemainTimeMSec:-1)
+00:20:02 MAP:[0] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:20:02 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:20:02 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:20:02 [ ITR ] (0) Remove All Object
+00:20:02 [ ITR ] Map:0 match ended.
+00:20:02 [ ITR ] MAP : 1[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:20:02 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:20:02 [ ITR ] (1) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-20)(m_nRemainTimeMSec:-1)
+00:20:02 MAP:[1] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:20:02 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:20:02 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:20:02 [ ITR ] (1) Remove All Object
+00:20:02 [ ITR ] Map:1 match ended.
+00:20:02 [ ITR ] MAP : 2[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:20:02 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:20:02 [ ITR ] (2) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-20)(m_nRemainTimeMSec:-1)
+00:20:02 MAP:[2] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:20:02 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:20:02 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:20:02 [ ITR ] (2) Remove All Object
+00:20:02 [ ITR ] Map:2 match ended.
+00:20:02 [ ITR ] MAP : 3[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:20:02 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:20:02 [ ITR ] (3) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-20)(m_nRemainTimeMSec:-1)
+00:20:02 MAP:[3] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:20:02 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:20:02 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:20:02 [ ITR ] (3) Remove All Object
+00:20:02 [ ITR ] Map:3 match ended.
+00:20:02 [ ITR ] MAP : 4[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:20:02 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:20:02 [ ITR ] (4) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-20)(m_nRemainTimeMSec:-1)
+00:20:02 MAP:[4] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:20:02 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:20:02 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:20:02 [ ITR ] (4) Remove All Object
+00:20:02 [ ITR ] Map:4 match ended.
+00:20:59 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+00:20:59 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(549), MAXHP:400000, HP:400000, DF:0, RG:0)
+00:20:59 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(550), MAXHP:400000, HP:400000, DF:0, RG:0)
+00:20:59 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(551), MAXHP:400000, HP:400000, DF:0, RG:0)
+00:20:59 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(552), MAXHP:400000, HP:400000, DF:0, RG:0)
+00:20:59 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(553), MAXHP:500000, HP:500000, DF:0, RG:0)
+00:20:59 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(554), MAXHP:500000, HP:500000, DF:0, RG:0)
+00:20:59 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(555), MAXHP:500000, HP:500000, DF:0, RG:0)
+00:20:59 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(556), MAXHP:500000, HP:500000, DF:0, RG:0)
+00:20:59 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(557), MAXHP:500000, HP:500000, DF:0, RG:0)
+00:20:59 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(558), MAXHP:500000, HP:500000, DF:0, RG:0)
+00:20:59 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+00:20:59 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+00:21:02  [ ITL ] m_nNextTimeMin 59471671, nCurTime 59471781
+00:21:02  [ ITL ] m_nNextTimeMin 59471671, nCurTime 59471781
+00:21:03 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:21:03 [ITR] TempleNumber Reset :[0]
+00:21:03 [ ITR ] (0) Sync Open Time. [-21]min remain
+00:21:03 [ ITR ] MAP :0 match NONE.
+00:21:03 0 Welcome Closing Round 1 
+00:21:03 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:21:03 [ITR] TempleNumber Reset :[1]
+00:21:03 [ ITR ] (1) Sync Open Time. [-21]min remain
+00:21:03 [ ITR ] MAP :1 match NONE.
+00:21:03 1 Welcome Closing Round 1 
+00:21:03 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:21:03 [ITR] TempleNumber Reset :[2]
+00:21:03 [ ITR ] (2) Sync Open Time. [-21]min remain
+00:21:03 [ ITR ] MAP :2 match NONE.
+00:21:03 2 Welcome Closing Round 1 
+00:21:03 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:21:03 [ITR] TempleNumber Reset :[3]
+00:21:03 [ ITR ] (3) Sync Open Time. [-21]min remain
+00:21:03 [ ITR ] MAP :3 match NONE.
+00:21:03 3 Welcome Closing Round 1 
+00:21:03 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:21:03 [ITR] TempleNumber Reset :[4]
+00:21:03 [ ITR ] (4) Sync Open Time. [-21]min remain
+00:21:03 [ ITR ] MAP :4 match NONE.
+00:21:03 4 Welcome Closing Round 1 
+00:21:03 [ ITR ] MAP : 0[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:21:03 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:21:03 [ ITR ] (0) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-21)(m_nRemainTimeMSec:-1)
+00:21:03 MAP:[0] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:21:03 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:21:03 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:21:03 [ ITR ] (0) Remove All Object
+00:21:03 [ ITR ] Map:0 match ended.
+00:21:03 [ ITR ] MAP : 1[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:21:03 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:21:03 [ ITR ] (1) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-21)(m_nRemainTimeMSec:-1)
+00:21:03 MAP:[1] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:21:03 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:21:03 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:21:03 [ ITR ] (1) Remove All Object
+00:21:03 [ ITR ] Map:1 match ended.
+00:21:03 [ ITR ] MAP : 2[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:21:03 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:21:03 [ ITR ] (2) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-21)(m_nRemainTimeMSec:-1)
+00:21:03 MAP:[2] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:21:03 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:21:03 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:21:03 [ ITR ] (2) Remove All Object
+00:21:03 [ ITR ] Map:2 match ended.
+00:21:03 [ ITR ] MAP : 3[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:21:03 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:21:03 [ ITR ] (3) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-21)(m_nRemainTimeMSec:-1)
+00:21:03 MAP:[3] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:21:03 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:21:03 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:21:03 [ ITR ] (3) Remove All Object
+00:21:03 [ ITR ] Map:3 match ended.
+00:21:03 [ ITR ] MAP : 4[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:21:03 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:21:03 [ ITR ] (4) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-21)(m_nRemainTimeMSec:-1)
+00:21:03 MAP:[4] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:21:03 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:21:03 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:21:03 [ ITR ] (4) Remove All Object
+00:21:03 [ ITR ] Map:4 match ended.
+00:22:02  [ ITL ] m_nNextTimeMin 59531781, nCurTime 59531875
+00:22:02  [ ITL ] m_nNextTimeMin 59531781, nCurTime 59531875
+00:22:04 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:22:04 [ITR] TempleNumber Reset :[0]
+00:22:04 [ ITR ] (0) Sync Open Time. [-22]min remain
+00:22:04 [ ITR ] MAP :0 match NONE.
+00:22:04 0 Welcome Closing Round 1 
+00:22:04 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:22:04 [ITR] TempleNumber Reset :[1]
+00:22:04 [ ITR ] (1) Sync Open Time. [-22]min remain
+00:22:04 [ ITR ] MAP :1 match NONE.
+00:22:04 1 Welcome Closing Round 1 
+00:22:04 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:22:04 [ITR] TempleNumber Reset :[2]
+00:22:04 [ ITR ] (2) Sync Open Time. [-22]min remain
+00:22:04 [ ITR ] MAP :2 match NONE.
+00:22:04 2 Welcome Closing Round 1 
+00:22:04 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:22:04 [ITR] TempleNumber Reset :[3]
+00:22:04 [ ITR ] (3) Sync Open Time. [-22]min remain
+00:22:04 [ ITR ] MAP :3 match NONE.
+00:22:04 3 Welcome Closing Round 1 
+00:22:04 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+00:22:04 [ITR] TempleNumber Reset :[4]
+00:22:04 [ ITR ] (4) Sync Open Time. [-22]min remain
+00:22:04 [ ITR ] MAP :4 match NONE.
+00:22:04 4 Welcome Closing Round 1 
+00:22:04 [ ITR ] MAP : 0[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:22:04 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:22:04 [ ITR ] (0) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-22)(m_nRemainTimeMSec:-1)
+00:22:04 MAP:[0] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:22:04 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:22:04 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:22:04 [ ITR ] (0) Remove All Object
+00:22:04 [ ITR ] Map:0 match ended.
+00:22:04 [ ITR ] MAP : 1[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:22:04 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:22:04 [ ITR ] (1) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-22)(m_nRemainTimeMSec:-1)
+00:22:04 MAP:[1] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:22:04 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:22:04 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:22:04 [ ITR ] (1) Remove All Object
+00:22:04 [ ITR ] Map:1 match ended.
+00:22:04 [ ITR ] MAP : 2[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:22:04 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:22:04 [ ITR ] (2) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-22)(m_nRemainTimeMSec:-1)
+00:22:04 MAP:[2] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:22:04 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:22:04 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:22:04 [ ITR ] (2) Remove All Object
+00:22:04 [ ITR ] Map:2 match ended.
+00:22:04 [ ITR ] MAP : 3[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:22:04 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:22:04 [ ITR ] (3) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-22)(m_nRemainTimeMSec:-1)
+00:22:04 MAP:[3] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:22:04 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:22:04 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:22:04 [ ITR ] (3) Remove All Object
+00:22:04 [ ITR ] Map:3 match ended.
+00:22:04 [ ITR ] MAP : 4[CanStartITRBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+00:22:04 [ ITR ] START FAIL ALLIED:ILLUSION == [0 VS 0],WINTEAM : [1]
+00:22:04 [ ITR ] (4) Failed to Start ITR (UserCount: 0) (m_nRemainTimeMin:-22)(m_nRemainTimeMSec:-1)
+00:22:04 MAP:[4] ITR StartFail AllUser:[0],AlliedCnt:[0],IllusionCnt:[0]
+00:22:04 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ END ]  ] ,[ Old:[ NONE ] ]
+00:22:04 [ ITR ][WarResult] Allied Team : 10 , IllusionTeam :0
+00:22:04 [ ITR ] (4) Remove All Object
+00:22:04 [ ITR ] Map:4 match ended.
+20:23:57 [Blood Castle] (1) SetState STAND
+20:23:57 [Blood Castle] (2) SetState STAND
+20:23:57 [Blood Castle] (3) SetState STAND
+20:23:57 [Blood Castle] (4) SetState STAND
+20:23:57 [Blood Castle] (5) SetState STAND
+20:23:57 [Blood Castle] (6) SetState STAND
+20:23:57 [Blood Castle] (7) SetState STAND
+20:23:57 [Blood Castle] (8) SetState STAND
+20:23:57 [Castle Deep] SetState START
+20:23:57 [Chaos Castle] (1) SetState STAND
+20:23:57 [Chaos Castle] (2) SetState STAND
+20:23:57 [Chaos Castle] (3) SetState STAND
+20:23:57 [Chaos Castle] (4) SetState STAND
+20:23:57 [Chaos Castle] (5) SetState STAND
+20:23:57 [Chaos Castle] (6) SetState STAND
+20:23:57 [Chaos Castle] (7) SetState STAND
+20:23:57 [Devil Square] (1) SetState STAND
+20:23:57 [Devil Square] (2) SetState STAND
+20:23:57 [Devil Square] (3) SetState STAND
+20:23:57 [Devil Square] (4) SetState STAND
+20:23:57 [Devil Square] (5) SetState STAND
+20:23:57 [Devil Square] (6) SetState STAND
+20:23:57 [Devil Square] (7) SetState STAND
+20:23:57 [Bot Hide][0] (BotHideDW) SetState STAND
+20:23:57 [Bot Hide][1] (BotHideBK) SetState STAND
+20:23:57 [Bot Hide][2] (BotHideFE) SetState STAND
+20:23:57 [Bot Hide][3] (BotHideMG) SetState STAND
+20:23:57 [Bot Hide][4] (BotHideDL) SetState STAND
+20:23:57 [Bot Hide][5] (BotHideSU) SetState STAND
+20:23:57 [Bot Hide][6] (BotHideRF) SetState STAND
+20:23:57 [Bot Hide][7] (BotHideGL) SetState STAND
+20:23:57 [Bot Hide][8] (BotHideRW) SetState STAND
+20:23:57 [Bot Hide][13] (BotHideIK) SetState STAND
+20:23:58 [Blood Castle] (1) Not enough users
+20:23:58 [Blood Castle] (1) Sync Start Time. [36] min remain
+20:23:58 [Blood Castle] (1) SetState EMPTY
+20:23:58 [Blood Castle] (2) Not enough users
+20:23:58 [Blood Castle] (2) Sync Start Time. [36] min remain
+20:23:58 [Blood Castle] (2) SetState EMPTY
+20:23:58 [Blood Castle] (3) Not enough users
+20:23:58 [Blood Castle] (3) Sync Start Time. [36] min remain
+20:23:58 [Blood Castle] (3) SetState EMPTY
+20:23:58 [Blood Castle] (4) Not enough users
+20:23:58 [Blood Castle] (4) Sync Start Time. [36] min remain
+20:23:58 [Blood Castle] (4) SetState EMPTY
+20:23:58 [Blood Castle] (5) Not enough users
+20:23:58 [Blood Castle] (5) Sync Start Time. [36] min remain
+20:23:58 [Blood Castle] (5) SetState EMPTY
+20:23:58 [Blood Castle] (6) Not enough users
+20:23:58 [Blood Castle] (6) Sync Start Time. [36] min remain
+20:23:58 [Blood Castle] (6) SetState EMPTY
+20:23:58 [Blood Castle] (7) Not enough users
+20:23:58 [Blood Castle] (7) Sync Start Time. [36] min remain
+20:23:58 [Blood Castle] (7) SetState EMPTY
+20:23:58 [Blood Castle] (8) Not enough users
+20:23:58 [Blood Castle] (8) Sync Start Time. [36] min remain
+20:23:58 [Blood Castle] (8) SetState EMPTY
+20:23:58 [Chaos Castle] (1) Not enough users
+20:23:58 [Chaos Castle] (1) Sync Start Time. [21] min remain
+20:23:58 [Chaos Castle] (1) SetState EMPTY
+20:23:58 [Chaos Castle] (2) Not enough users
+20:23:58 [Chaos Castle] (2) Sync Start Time. [21] min remain
+20:23:58 [Chaos Castle] (2) SetState EMPTY
+20:23:58 [Chaos Castle] (3) Not enough users
+20:23:58 [Chaos Castle] (3) Sync Start Time. [21] min remain
+20:23:58 [Chaos Castle] (3) SetState EMPTY
+20:23:58 [Chaos Castle] (4) Not enough users
+20:23:58 [Chaos Castle] (4) Sync Start Time. [21] min remain
+20:23:58 [Chaos Castle] (4) SetState EMPTY
+20:23:58 [Chaos Castle] (5) Not enough users
+20:23:58 [Chaos Castle] (5) Sync Start Time. [21] min remain
+20:23:58 [Chaos Castle] (5) SetState EMPTY
+20:23:58 [Chaos Castle] (6) Not enough users
+20:23:58 [Chaos Castle] (6) Sync Start Time. [21] min remain
+20:23:58 [Chaos Castle] (6) SetState EMPTY
+20:23:58 [Chaos Castle] (7) Not enough users
+20:23:58 [Chaos Castle] (7) Sync Start Time. [21] min remain
+20:23:58 [Chaos Castle] (7) SetState EMPTY
+20:23:58 [Devil Square] (1) Not enough users
+20:23:58 [Devil Square] (1) Sync Start Time. [6] min remain
+20:23:58 [Devil Square] (1) SetState EMPTY
+20:23:58 [Devil Square] (2) Not enough users
+20:23:58 [Devil Square] (2) Sync Start Time. [6] min remain
+20:23:58 [Devil Square] (2) SetState EMPTY
+20:23:58 [Devil Square] (3) Not enough users
+20:23:58 [Devil Square] (3) Sync Start Time. [6] min remain
+20:23:58 [Devil Square] (3) SetState EMPTY
+20:23:58 [Devil Square] (4) Not enough users
+20:23:58 [Devil Square] (4) Sync Start Time. [6] min remain
+20:23:58 [Devil Square] (4) SetState EMPTY
+20:23:58 [Devil Square] (5) Not enough users
+20:23:58 [Devil Square] (5) Sync Start Time. [6] min remain
+20:23:58 [Devil Square] (5) SetState EMPTY
+20:23:58 [Devil Square] (6) Not enough users
+20:23:58 [Devil Square] (6) Sync Start Time. [6] min remain
+20:23:58 [Devil Square] (6) SetState EMPTY
+20:23:58 [Devil Square] (7) Not enough users
+20:23:58 [Devil Square] (7) Sync Start Time. [6] min remain
+20:23:58 [Devil Square] (7) SetState EMPTY
+20:23:58 [Bot Hide] [BotHideDW] [Map:51] [X:51] [Y:150]
+20:23:58 [Bot Hide][0] (BotHideDW) SetState START
+20:23:58 [Bot Hide] [BotHideBK] [Map:1] [X:88] [Y:64]
+20:23:58 [Bot Hide][1] (BotHideBK) SetState START
+20:23:58 [Bot Hide] [BotHideFE] [Map:7] [X:78] [Y:172]
+20:23:58 [Bot Hide][2] (BotHideFE) SetState START
+20:23:58 [Bot Hide] [BotHideMG] [Map:4] [X:125] [Y:35]
+20:23:58 [Bot Hide][3] (BotHideMG) SetState START
+20:23:58 [Bot Hide] [BotHideDL] [Map:6] [X:34] [Y:4]
+20:23:58 [Bot Hide][4] (BotHideDL) SetState START
+20:23:58 [Bot Hide] [BotHideSU] [Map:37] [X:63] [Y:24]
+20:23:58 [Bot Hide][5] (BotHideSU) SetState START
+20:23:58 [Bot Hide] [BotHideRF] [Map:56] [X:10] [Y:201]
+20:23:58 [Bot Hide][6] (BotHideRF) SetState START
+20:23:58 [Bot Hide] [BotHideGL] [Map:57] [X:57] [Y:198]
+20:23:58 [Bot Hide][7] (BotHideGL) SetState START
+20:23:58 [Bot Hide] [BotHideRW] [Map:80] [X:143] [Y:81]
+20:23:58 [Bot Hide][8] (BotHideRW) SetState START
+20:23:58 [Bot Hide] [BotHideIK] [Map:138] [X:64] [Y:109]
+20:23:58 [Bot Hide][13] (BotHideIK) SetState START
+20:24:46  [ ITL ] m_nNextTimeMin 59591875, nCurTime 59591968
+20:24:46  [ ITL ] m_nNextTimeMin 59591875, nCurTime 59591968
+20:24:48 [ ITR ][Set_ITRState] [ MAP:0 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+20:24:48 [ITR] TempleNumber Reset :[0]
+20:24:48 [ ITR ] (0) Sync Open Time. [216]min remain
+20:24:48 [ ITR ] MAP :0 match NONE.
+20:24:48 0 Welcome Closing Round 1 
+20:24:48 [ ITR ][Set_ITRState] [ MAP:1 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+20:24:48 [ITR] TempleNumber Reset :[1]
+20:24:48 [ ITR ] (1) Sync Open Time. [216]min remain
+20:24:48 [ ITR ] MAP :1 match NONE.
+20:24:48 1 Welcome Closing Round 1 
+20:24:48 [ ITR ][Set_ITRState] [ MAP:2 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+20:24:48 [ITR] TempleNumber Reset :[2]
+20:24:48 [ ITR ] (2) Sync Open Time. [216]min remain
+20:24:48 [ ITR ] MAP :2 match NONE.
+20:24:48 2 Welcome Closing Round 1 
+20:24:48 [ ITR ][Set_ITRState] [ MAP:3 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+20:24:48 [ITR] TempleNumber Reset :[3]
+20:24:48 [ ITR ] (3) Sync Open Time. [216]min remain
+20:24:48 [ ITR ] MAP :3 match NONE.
+20:24:48 3 Welcome Closing Round 1 
+20:24:48 [ ITR ][Set_ITRState] [ MAP:4 ] [ New:[ NONE ] ] ,[ Old:[ END ] ]
+20:24:48 [ITR] TempleNumber Reset :[4]
+20:24:48 [ ITR ] (4) Sync Open Time. [216]min remain
+20:24:48 [ ITR ] MAP :4 match NONE.
+20:24:48 4 Welcome Closing Round 1 
+20:25:46  [ ITL ] m_nNextTimeMin 59651968, nCurTime 59652078
+20:25:46  [ ITL ] m_nNextTimeMin 59651968, nCurTime 59652078
+20:26:46  [ ITL ] m_nNextTimeMin 59712078, nCurTime 59712171
+20:26:46  [ ITL ] m_nNextTimeMin 59712078, nCurTime 59712171
+20:27:00 [Doppelganger] State READY [ROOM_INDEX]:0
+20:27:00 [Doppelganger] State READY [ROOM_INDEX]:1
+20:27:00 [Doppelganger] State READY [ROOM_INDEX]:2
+20:27:00 [Doppelganger] State READY [ROOM_INDEX]:3
+20:27:00 [Doppelganger] State READY [ROOM_INDEX]:4
+20:27:00 [Doppelganger] State READY [ROOM_INDEX]:5
+20:27:00 [Doppelganger] State READY [ROOM_INDEX]:6
+20:27:43 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+20:27:43 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(549), MAXHP:400000, HP:400000, DF:0, RG:0)
+20:27:43 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(550), MAXHP:400000, HP:400000, DF:0, RG:0)
+20:27:43 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(551), MAXHP:400000, HP:400000, DF:0, RG:0)
+20:27:43 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(552), MAXHP:400000, HP:400000, DF:0, RG:0)
+20:27:43 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(553), MAXHP:500000, HP:500000, DF:0, RG:0)
+20:27:43 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(554), MAXHP:500000, HP:500000, DF:0, RG:0)
+20:27:43 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(555), MAXHP:500000, HP:500000, DF:0, RG:0)
+20:27:43 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(556), MAXHP:500000, HP:500000, DF:0, RG:0)
+20:27:43 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(557), MAXHP:500000, HP:500000, DF:0, RG:0)
+20:27:43 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(558), MAXHP:500000, HP:500000, DF:0, RG:0)
+20:27:43 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+20:27:43 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+20:27:46  [ ITL ] m_nNextTimeMin 59772171, nCurTime 59772265
+20:27:46  [ ITL ] m_nNextTimeMin 59772171, nCurTime 59772265
+20:28:46  [ ITL ] m_nNextTimeMin 59832265, nCurTime 59832281
+20:28:46  [ ITL ] m_nNextTimeMin 59832265, nCurTime 59832281
+20:29:30 [Doppelganger] State END [ROOM_INDEX]:0
+20:29:30 [Doppelganger] State END [ROOM_INDEX]:1
+20:29:30 [Doppelganger] State END [ROOM_INDEX]:2
+20:29:30 [Doppelganger] State END [ROOM_INDEX]:3
+20:29:30 [Doppelganger] State END [ROOM_INDEX]:4
+20:29:30 [Doppelganger] State END [ROOM_INDEX]:5
+20:29:30 [Doppelganger] State END [ROOM_INDEX]:6
+20:29:35 [Doppelganger] State NONE [ROOM_INDEX]:0
+20:29:35 [Doppelganger] State NONE [ROOM_INDEX]:1
+20:29:35 [Doppelganger] State NONE [ROOM_INDEX]:2
+20:29:35 [Doppelganger] State NONE [ROOM_INDEX]:3
+20:29:35 [Doppelganger] State NONE [ROOM_INDEX]:4
+20:29:35 [Doppelganger] State NONE [ROOM_INDEX]:5
+20:29:35 [Doppelganger] State NONE [ROOM_INDEX]:6
+20:29:46  [ ITL ] m_nNextTimeMin 59892281, nCurTime 59892375
+20:29:46  [ ITL ] m_nNextTimeMin 59892281, nCurTime 59892375
+20:30:00 [Devil Square] (1) SetState STAND
+20:30:00 [Devil Square] (2) SetState STAND
+20:30:00 [Devil Square] (3) SetState STAND
+20:30:00 [Devil Square] (4) SetState STAND
+20:30:00 [Devil Square] (5) SetState STAND
+20:30:00 [Devil Square] (6) SetState STAND
+20:30:00 [Devil Square] (7) SetState STAND
+20:30:01 [Devil Square] (1) Not enough users
+20:30:01 [Devil Square] (1) Sync Start Time. [59] min remain
+20:30:01 [Devil Square] (1) SetState EMPTY
+20:30:01 [Devil Square] (2) Not enough users
+20:30:01 [Devil Square] (2) Sync Start Time. [59] min remain
+20:30:01 [Devil Square] (2) SetState EMPTY
+20:30:01 [Devil Square] (3) Not enough users
+20:30:01 [Devil Square] (3) Sync Start Time. [59] min remain
+20:30:01 [Devil Square] (3) SetState EMPTY
+20:30:01 [Devil Square] (4) Not enough users
+20:30:01 [Devil Square] (4) Sync Start Time. [59] min remain
+20:30:01 [Devil Square] (4) SetState EMPTY
+20:30:01 [Devil Square] (5) Not enough users
+20:30:01 [Devil Square] (5) Sync Start Time. [59] min remain
+20:30:01 [Devil Square] (5) SetState EMPTY
+20:30:01 [Devil Square] (6) Not enough users
+20:30:01 [Devil Square] (6) Sync Start Time. [59] min remain
+20:30:01 [Devil Square] (6) SetState EMPTY
+20:30:01 [Devil Square] (7) Not enough users
+20:30:01 [Devil Square] (7) Sync Start Time. [59] min remain
+20:30:01 [Devil Square] (7) SetState EMPTY
+20:30:46  [ ITL ] m_nNextTimeMin 59952375, nCurTime 59952390
+20:30:46  [ ITL ] m_nNextTimeMin 59952375, nCurTime 59952390
+20:31:46  [ ITL ] m_nNextTimeMin 60012390, nCurTime 60012468
+20:31:46  [ ITL ] m_nNextTimeMin 60012390, nCurTime 60012468
+20:32:43 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+20:32:43 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(549), MAXHP:400000, HP:400000, DF:0, RG:0)
+20:32:43 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(550), MAXHP:400000, HP:400000, DF:0, RG:0)
+20:32:43 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(551), MAXHP:400000, HP:400000, DF:0, RG:0)
+20:32:43 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(552), MAXHP:400000, HP:400000, DF:0, RG:0)
+20:32:43 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(553), MAXHP:500000, HP:500000, DF:0, RG:0)
+20:32:43 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(554), MAXHP:500000, HP:500000, DF:0, RG:0)
+20:32:43 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(555), MAXHP:500000, HP:500000, DF:0, RG:0)
+20:32:43 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(556), MAXHP:500000, HP:500000, DF:0, RG:0)
+20:32:43 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(557), MAXHP:500000, HP:500000, DF:0, RG:0)
+20:32:43 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(558), MAXHP:500000, HP:500000, DF:0, RG:0)
+20:32:43 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+20:32:43 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+20:32:46  [ ITL ] m_nNextTimeMin 60072468, nCurTime 60072562
+20:32:46  [ ITL ] m_nNextTimeMin 60072468, nCurTime 60072562
+20:33:46  [ ITL ] m_nNextTimeMin 60132562, nCurTime 60132671
+20:33:46  [ ITL ] m_nNextTimeMin 60132562, nCurTime 60132671
+20:34:47  [ ITL ] m_nNextTimeMin 60192671, nCurTime 60192765
+20:34:47  [ ITL ] m_nNextTimeMin 60192671, nCurTime 60192765
+20:35:47  [ ITL ] m_nNextTimeMin 60252765, nCurTime 60252781
+20:35:47  [ ITL ] m_nNextTimeMin 60252765, nCurTime 60252781
+20:36:47  [ ITL ] m_nNextTimeMin 60312781, nCurTime 60312796
+20:36:47  [ ITL ] m_nNextTimeMin 60312781, nCurTime 60312796
+20:36:47 [ ITL ] TYPE:1 , (0) ITL Sync Open Time. [24]min remain, m_nRemainTimeMSec:[-1]
+20:36:47 [ ITL ] TYPE:1 , (1) ITL Sync Open Time. [24]min remain, m_nRemainTimeMSec:[-1]
+20:37:00  [ ITL ] m_nNextTimeMin 60325875, nCurTime 60325968
+20:37:00  [ ITL ] m_nNextTimeMin 60325875, nCurTime 60325968
+20:37:43 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+20:37:43 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(549), MAXHP:400000, HP:400000, DF:0, RG:0)
+20:37:43 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(550), MAXHP:400000, HP:400000, DF:0, RG:0)
+20:37:43 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(551), MAXHP:400000, HP:400000, DF:0, RG:0)
+20:37:43 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(552), MAXHP:400000, HP:400000, DF:0, RG:0)
+20:37:43 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(553), MAXHP:500000, HP:500000, DF:0, RG:0)
+20:37:43 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(554), MAXHP:500000, HP:500000, DF:0, RG:0)
+20:37:43 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(555), MAXHP:500000, HP:500000, DF:0, RG:0)
+20:37:43 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(556), MAXHP:500000, HP:500000, DF:0, RG:0)
+20:37:43 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(557), MAXHP:500000, HP:500000, DF:0, RG:0)
+20:37:43 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(558), MAXHP:500000, HP:500000, DF:0, RG:0)
+20:37:43 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+20:37:43 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+20:38:00  [ ITL ] m_nNextTimeMin 60385968, nCurTime 60386062
+20:38:00  [ ITL ] m_nNextTimeMin 60385968, nCurTime 60386062
+22:05:12 [Bot Hide][0] (BotHideDW) SetState CLEAN
+22:05:12 [Bot Hide][1] (BotHideBK) SetState CLEAN
+22:05:12 [Bot Hide][2] (BotHideFE) SetState CLEAN
+22:05:12 [Bot Hide][3] (BotHideMG) SetState CLEAN
+22:05:12 [Bot Hide][4] (BotHideDL) SetState CLEAN
+22:05:12 [Bot Hide][5] (BotHideSU) SetState CLEAN
+22:05:12 [Bot Hide][6] (BotHideRF) SetState CLEAN
+22:05:12 [Bot Hide][7] (BotHideGL) SetState CLEAN
+22:05:12 [Bot Hide][8] (BotHideRW) SetState CLEAN
+22:05:12 [Bot Hide][9] (BotHideSL) SetState STAND
+22:05:12 [Bot Hide][10] (BotHideGC) SetState STAND
+22:05:12 [Bot Hide][13] (BotHideIK) SetState CLEAN
+22:05:12 [Blood Castle] (1) SetState STAND
+22:05:12 [Blood Castle] (2) SetState STAND
+22:05:12 [Blood Castle] (3) SetState STAND
+22:05:12 [Blood Castle] (4) SetState STAND
+22:05:12 [Blood Castle] (5) SetState STAND
+22:05:12 [Blood Castle] (6) SetState STAND
+22:05:12 [Blood Castle] (7) SetState STAND
+22:05:12 [Blood Castle] (8) SetState STAND
+22:05:12 [Castle Deep] Sync Start Time. [354] min remain
+22:05:12 [Castle Deep] SetState EMPTY
+22:05:12 [Chaos Castle] (1) SetState STAND
+22:05:12 [Chaos Castle] (2) SetState STAND
+22:05:12 [Chaos Castle] (3) SetState STAND
+22:05:12 [Chaos Castle] (4) SetState STAND
+22:05:12 [Chaos Castle] (5) SetState STAND
+22:05:12 [Chaos Castle] (6) SetState STAND
+22:05:12 [Chaos Castle] (7) SetState STAND
+22:05:12 [Devil Square] (1) SetState STAND
+22:05:12 [Devil Square] (2) SetState STAND
+22:05:12 [Devil Square] (3) SetState STAND
+22:05:12 [Devil Square] (4) SetState STAND
+22:05:12 [Devil Square] (5) SetState STAND
+22:05:12 [Devil Square] (6) SetState STAND
+22:05:12 [Devil Square] (7) SetState STAND
+22:05:13 [Bot Hide] [BotHideSL] [Map:100] [X:231] [Y:62]
+22:05:13 [Bot Hide][9] (BotHideSL) SetState START
+22:05:13 [Bot Hide] [BotHideGC] [Map:112] [X:179] [Y:121]
+22:05:13 [Bot Hide][10] (BotHideGC) SetState START
+22:05:13 [Blood Castle] (1) Not enough users
+22:05:13 [Blood Castle] (1) Sync Start Time. [54] min remain
+22:05:13 [Blood Castle] (1) SetState EMPTY
+22:05:13 [Blood Castle] (2) Not enough users
+22:05:13 [Blood Castle] (2) Sync Start Time. [54] min remain
+22:05:13 [Blood Castle] (2) SetState EMPTY
+22:05:13 [Blood Castle] (3) Not enough users
+22:05:13 [Blood Castle] (3) Sync Start Time. [54] min remain
+22:05:13 [Blood Castle] (3) SetState EMPTY
+22:05:13 [Blood Castle] (4) Not enough users
+22:05:13 [Blood Castle] (4) Sync Start Time. [54] min remain
+22:05:13 [Blood Castle] (4) SetState EMPTY
+22:05:13 [Blood Castle] (5) Not enough users
+22:05:13 [Blood Castle] (5) Sync Start Time. [54] min remain
+22:05:13 [Blood Castle] (5) SetState EMPTY
+22:05:13 [Blood Castle] (6) Not enough users
+22:05:13 [Blood Castle] (6) Sync Start Time. [54] min remain
+22:05:13 [Blood Castle] (6) SetState EMPTY
+22:05:13 [Blood Castle] (7) Not enough users
+22:05:13 [Blood Castle] (7) Sync Start Time. [54] min remain
+22:05:13 [Blood Castle] (7) SetState EMPTY
+22:05:13 [Blood Castle] (8) Not enough users
+22:05:13 [Blood Castle] (8) Sync Start Time. [54] min remain
+22:05:13 [Blood Castle] (8) SetState EMPTY
+22:05:13 [Chaos Castle] (1) Not enough users
+22:05:13 [Chaos Castle] (1) Sync Start Time. [39] min remain
+22:05:13 [Chaos Castle] (1) SetState EMPTY
+22:05:13 [Chaos Castle] (2) Not enough users
+22:05:13 [Chaos Castle] (2) Sync Start Time. [39] min remain
+22:05:13 [Chaos Castle] (2) SetState EMPTY
+22:05:13 [Chaos Castle] (3) Not enough users
+22:05:13 [Chaos Castle] (3) Sync Start Time. [39] min remain
+22:05:13 [Chaos Castle] (3) SetState EMPTY
+22:05:13 [Chaos Castle] (4) Not enough users
+22:05:13 [Chaos Castle] (4) Sync Start Time. [39] min remain
+22:05:13 [Chaos Castle] (4) SetState EMPTY
+22:05:13 [Chaos Castle] (5) Not enough users
+22:05:13 [Chaos Castle] (5) Sync Start Time. [39] min remain
+22:05:13 [Chaos Castle] (5) SetState EMPTY
+22:05:13 [Chaos Castle] (6) Not enough users
+22:05:13 [Chaos Castle] (6) Sync Start Time. [39] min remain
+22:05:13 [Chaos Castle] (6) SetState EMPTY
+22:05:13 [Chaos Castle] (7) Not enough users
+22:05:13 [Chaos Castle] (7) Sync Start Time. [39] min remain
+22:05:13 [Chaos Castle] (7) SetState EMPTY
+22:05:13 [Devil Square] (1) Not enough users
+22:05:13 [Devil Square] (1) Sync Start Time. [24] min remain
+22:05:13 [Devil Square] (1) SetState EMPTY
+22:05:13 [Devil Square] (2) Not enough users
+22:05:13 [Devil Square] (2) Sync Start Time. [24] min remain
+22:05:13 [Devil Square] (2) SetState EMPTY
+22:05:13 [Devil Square] (3) Not enough users
+22:05:13 [Devil Square] (3) Sync Start Time. [24] min remain
+22:05:13 [Devil Square] (3) SetState EMPTY
+22:05:13 [Devil Square] (4) Not enough users
+22:05:13 [Devil Square] (4) Sync Start Time. [24] min remain
+22:05:13 [Devil Square] (4) SetState EMPTY
+22:05:13 [Devil Square] (5) Not enough users
+22:05:13 [Devil Square] (5) Sync Start Time. [24] min remain
+22:05:13 [Devil Square] (5) SetState EMPTY
+22:05:13 [Devil Square] (6) Not enough users
+22:05:13 [Devil Square] (6) Sync Start Time. [24] min remain
+22:05:13 [Devil Square] (6) SetState EMPTY
+22:05:13 [Devil Square] (7) Not enough users
+22:05:13 [Devil Square] (7) Sync Start Time. [24] min remain
+22:05:13 [Devil Square] (7) SetState EMPTY
+                                            
