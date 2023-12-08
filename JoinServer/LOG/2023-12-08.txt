@@ -1,0 +1,14 @@
+20:29:27 [SocketManager] Server started at port [55970]
+20:29:27 [SocketManager] Server started at port [55557]
+20:29:28 [ServerManager][0] AddServer (127.0.0.1)
+20:29:28 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+20:29:32 [ServerManager][1] AddServer (127.0.0.1)
+20:29:42 [ServerManager][2] AddServer (127.0.0.1)
+20:29:42 [ServerManager][2] ServerInfo (MuDevs) (55901) (20)
+20:29:45 [ServerManager][3] AddServer (127.0.0.1)
+20:29:45 [ServerManager][3] ServerInfo (GameServerCS) (55919) (19)
+20:45:00 [AllowConectionManager][ADD][+][HWID:2EC2A659-B9B991A5-C418FC1B-B173E8B4-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:1][Account:kudoshjn]
+20:59:48 [AllowConectionManager][CHANGE][OK][HWID:2EC2A659-B9B991A5-C418FC1B-B173E8B4-49656E69-00000016-BFEBFBFF-7FFAFBBF][Account:kudoshjn][ServerCode:19][LastServerCode:20]
+21:02:22 [AllowConectionManager][CHANGE][OK][HWID:2EC2A659-B9B991A5-C418FC1B-B173E8B4-49656E69-00000016-BFEBFBFF-7FFAFBBF][Account:kudoshjn][ServerCode:20][LastServerCode:19]
+21:31:26 [AllowConectionManager][CHANGE][OK][HWID:2EC2A659-B9B991A5-C418FC1B-B173E8B4-49656E69-00000016-BFEBFBFF-7FFAFBBF][Account:kudoshjn][ServerCode:19][LastServerCode:20]
+21:31:38 [AllowConectionManager][CHANGE][OK][HWID:2EC2A659-B9B991A5-C418FC1B-B173E8B4-49656E69-00000016-BFEBFBFF-7FFAFBBF][Account:kudoshjn][ServerCode:20][LastServerCode:19]

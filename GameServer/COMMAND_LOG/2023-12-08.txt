@@ -1,0 +1,13 @@
+21:05:37 [CommandDebuff][kudoshjn][IKBiv] 
+21:06:18 [CommandGMPost][kudoshjn][IKBiv] - (Message: test)
+21:06:40 [CommandNotice][kudoshjn][IKBiv] - (Message: test)
+21:06:48 [CommandHide][kudoshjn][IKBiv] - (State: 1)
+21:19:09 [CommandClearExtInvent][IKBiv] - (ClearExtInvent)
+21:30:44 [CommandClearExtInvent][IKBiv] - (ClearExtInvent)
+22:18:04 [CommandClearExtInvent][IKBiv] - (ClearExtInvent)
+23:53:39 [CommandMake][kudoshjn][IKBiv] - (Section: 14, Type: 11, Level: 8, Skill: 0, Luck: 0, Option: 0, Exc: 0, Set: 0,count:1)
+23:53:49 [CommandMake][kudoshjn][IKBiv] - (Section: 14, Type: 11, Level: 8, Skill: 0, Luck: 0, Option: 0, Exc: 0, Set: 0,count:1)
+23:53:55 [CommandMake][kudoshjn][IKBiv] - (Section: 14, Type: 11, Level: 8, Skill: 0, Luck: 0, Option: 0, Exc: 0, Set: 0,count:1)
+23:54:06 [CommandMake][kudoshjn][IKBiv] - (Section: 14, Type: 11, Level: 8, Skill: 0, Luck: 0, Option: 0, Exc: 0, Set: 0,count:1)
+23:54:10 [CommandMake][kudoshjn][IKBiv] - (Section: 14, Type: 11, Level: 8, Skill: 0, Luck: 0, Option: 0, Exc: 0, Set: 0,count:1)
+23:54:22 [CommandClearExtInvent][IKBiv] - (ClearExtInvent)

@@ -1,0 +1,28 @@
+20:09:15 [SocketManager] Server started at port [55981]
+20:09:15 [PMATCHING][CreatePartyDirectly]Leader:IKBiv TotalPartyCnt:1 - Success
+20:09:15 [PMATCHING][CreatePartyDirectly]Leader:TEST TotalPartyCnt:2 - Success
+20:09:15 [PMATCHING][AddPartyMemberDirectly]Leader:IKBiv, Member:ElfBuff, MemberCnt:2
+20:09:15 [PMATCHING][AddPartyMemberDirectly]Leader:IKBiv, Member:SumBiv, MemberCnt:3
+20:09:40 [ServerManager][0] AddServer (127.0.0.1)
+20:09:40 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)(0)
+20:09:45 [ServerManager][1] AddServer (127.0.0.1)
+20:09:45 [ServerManager][1] ServerInfo (GameServerCS) (55919) (19)(0)
+20:25:04 [PMATCHING][ConnectMember]LeaderName:IKBiv, ConnectMemberName:IKBiv
+20:29:08 [PMATCHING][DisConnectMember]LeaderName:IKBiv, ConnectMemberName:IKBiv
+20:29:16 [PMATCHING][ConnectMember]LeaderName:IKBiv, ConnectMemberName:ElfBuff
+20:30:21 [PMATCHING][ConnectMember]LeaderName:IKBiv, ConnectMemberName:IKBiv
+20:31:44 [PMATCHING][ConnectMember]LeaderName:IKBiv, ConnectMemberName:SumBiv
+20:57:24 [PMATCHING][DisConnectMember]LeaderName:IKBiv, ConnectMemberName:ElfBuff
+20:57:24 [PMATCHING][ConnectMember]LeaderName:IKBiv, ConnectMemberName:ElfBuff
+20:58:35 [PMATCHING][DisConnectMember]LeaderName:IKBiv, ConnectMemberName:IKBiv
+20:58:35 [PMATCHING][ConnectMember]LeaderName:IKBiv, ConnectMemberName:IKBiv
+20:58:38 [PMATCHING][DisConnectMember]LeaderName:IKBiv, ConnectMemberName:ElfBuff
+21:11:49 [PMATCHING][ConnectMember]LeaderName:IKBiv, ConnectMemberName:ElfBuff
+21:12:56 [PMATCHING][DisConnectMember]LeaderName:IKBiv, ConnectMemberName:IKBiv
+21:12:56 [PMATCHING][ConnectMember]LeaderName:IKBiv, ConnectMemberName:IKBiv
+21:13:15 [PMATCHING][DisConnectMember]LeaderName:IKBiv, ConnectMemberName:ElfBuff
+21:23:00 [PMATCHING][ConnectMember]LeaderName:IKBiv, ConnectMemberName:ElfBuff
+21:23:09 [PMATCHING][DisConnectMember]LeaderName:IKBiv, ConnectMemberName:ElfBuff
+21:23:10 [PMATCHING][ConnectMember]LeaderName:IKBiv, ConnectMemberName:ElfBuff
+21:40:48 [PMATCHING][ChangeLeader]Leader: IKBiv -> ElfBuff
+21:40:48 [PMATCHING][DelPartyMember]Leader:ElfBuff, Member:IKBiv, MemberCnt:2

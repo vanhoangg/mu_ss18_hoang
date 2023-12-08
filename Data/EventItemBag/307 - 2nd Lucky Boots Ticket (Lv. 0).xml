@@ -24,7 +24,7 @@
 		<DropInfo Index="3" Section="8" SectionRate="10000" MoneyAmount="0" OptionValue="0" AccountLevel0="1" AccountLevel1="1" AccountLevel2="1" AccountLevel3="1" DW="1" DK="1" FE="1" MG="1" DL="1" SU="1" RF="1" GL="1" RW="1" SL="1" GC="1" KM="1" LM="1" IK="1"/>
 	</BagDropInfoEx>
 	<BagRuudInfoEx>
-		<RuudInfo Section="5" RuudMin="500" RuudMax="1000"/>
+		<RuudInfo Section="5" RuudMin="500" RuudMax="100"/>
 	</BagRuudInfoEx>
 	<BagItemsEx>
 		<ItemEx Section="6" Index="6346" Level="0" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="15" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Lorencia Knights' Iron Shield"/>
@@ -106,6 +106,20 @@
 		<ItemEx Section="8" Index="4820" Level="0" Grade="0" Durability="0" Option0="0" Option1="1" Option2="1" Option3="1" Option4="1" Option5="14" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Blood Angel Gun Crusher Pants"/>
 		<ItemEx Section="8" Index="5332" Level="0" Grade="0" Durability="0" Option0="0" Option1="1" Option2="1" Option3="1" Option4="1" Option5="14" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Blood Angel Gun Crusher Gloves"/>
 		<ItemEx Section="8" Index="5844" Level="0" Grade="0" Durability="0" Option0="0" Option1="1" Option2="1" Option3="1" Option4="1" Option5="14" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Blood Angel Gun Crasher Boots"/>
-		
+				<ItemEx Section="8" Index="3825" Level="0" Grade="0" Durability="0" Option0="0" Option1="1" Option2="1" Option3="1" Option4="1" Option5="14" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel White Wizard Helm" />
+		<ItemEx Section="8" Index="4337" Level="0" Grade="0" Durability="0" Option0="0" Option1="1" Option2="1" Option3="1" Option4="1" Option5="14" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel White Wizard Armor" />
+		<ItemEx Section="8" Index="4849" Level="0" Grade="0" Durability="0" Option0="0" Option1="1" Option2="1" Option3="1" Option4="1" Option5="14" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel White Wizard Pants" />
+		<ItemEx Section="8" Index="5361" Level="0" Grade="0" Durability="0" Option0="0" Option1="1" Option2="1" Option3="1" Option4="1" Option5="14" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel White Wizard Gloves" />
+		<ItemEx Section="8" Index="5873" Level="0" Grade="0" Durability="0" Option0="0" Option1="1" Option2="1" Option3="1" Option4="1" Option5="14" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel White Wizard Boots" />
+		<ItemEx Section="8" Index="3843" Level="0" Grade="0" Durability="0" Option0="0" Option1="1" Option2="1" Option3="1" Option4="1" Option5="14" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Mage Helm" />
+		<ItemEx Section="8" Index="4355" Level="0" Grade="0" Durability="0" Option0="0" Option1="1" Option2="1" Option3="1" Option4="1" Option5="14" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Mage Armor" />
+		<ItemEx Section="8" Index="4867" Level="0" Grade="0" Durability="0" Option0="0" Option1="1" Option2="1" Option3="1" Option4="1" Option5="14" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Mage Pants" />
+		<ItemEx Section="8" Index="5379" Level="0" Grade="0" Durability="0" Option0="0" Option1="1" Option2="1" Option3="1" Option4="1" Option5="14" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Mage Gloves" />
+		<ItemEx Section="8" Index="5891" Level="0" Grade="0" Durability="0" Option0="0" Option1="1" Option2="1" Option3="1" Option4="1" Option5="14" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Mage Boots" />
+		<ItemEx Section="8" Index="3890" Level="0" Grade="0" Durability="0" Option0="0" Option1="1" Option2="1" Option3="1" Option4="1" Option5="14" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Illusion Knight Helm" />
+		<ItemEx Section="8" Index="4402" Level="0" Grade="0" Durability="0" Option0="0" Option1="1" Option2="1" Option3="1" Option4="1" Option5="14" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Illusion Knight Armor" />
+		<ItemEx Section="8" Index="4914" Level="0" Grade="0" Durability="0" Option0="0" Option1="1" Option2="1" Option3="1" Option4="1" Option5="14" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Illusion Knight Pants" />
+		<ItemEx Section="8" Index="5426" Level="0" Grade="0" Durability="0" Option0="0" Option1="1" Option2="1" Option3="1" Option4="1" Option5="14" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Illusion Knight Gloves" />
+		<ItemEx Section="8" Index="5938" Level="0" Grade="0" Durability="0" Option0="0" Option1="1" Option2="1" Option3="1" Option4="1" Option5="14" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Bloodangel Illusion Knight Boots" />
 	</BagItemsEx>
 </ItemBag>

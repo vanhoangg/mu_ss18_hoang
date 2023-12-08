@@ -1,0 +1,1 @@
+20:45:00 [AccountInfo] Account connected (Account: kudoshjn, IpAddress: 192.168.1.1, GameServerCode: 20)
