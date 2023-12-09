@@ -5,88 +5,88 @@
 	</NPC>
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<SPOT>
-		<Config Class="768" Range="6" BeginPosX="60" BeginPosY="50" EndPosX="69" EndPosY="57" Direction="-1" Quantity="10" Element="1" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
-		<Config Class="768" Range="10" BeginPosX="9" BeginPosY="38" EndPosX="18" EndPosY="63" Direction="-1" Quantity="10" Element="1" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
-		<Config Class="768" Range="6" BeginPosX="42" BeginPosY="125" EndPosX="58" EndPosY="132" Direction="-1" Quantity="10" Element="2" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
-		<Config Class="768" Range="6" BeginPosX="84" BeginPosY="171" EndPosX="93" EndPosY="178" Direction="-1" Quantity="10" Element="2" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
-		<Config Class="768" Range="6" BeginPosX="43" BeginPosY="235" EndPosX="52" EndPosY="249" Direction="-1" Quantity="10" Element="3" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
-		<Config Class="768" Range="6" BeginPosX="97" BeginPosY="229" EndPosX="110" EndPosY="246" Direction="-1" Quantity="10" Element="4" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
-		<Config Class="768" Range="6" BeginPosX="167" BeginPosY="216" EndPosX="186" EndPosY="219" Direction="-1" Quantity="10" Element="4" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
-		<Config Class="768" Range="6" BeginPosX="116" BeginPosY="209" EndPosX="127" EndPosY="226" Direction="-1" Quantity="10" Element="4" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
-		<Config Class="768" Range="6" BeginPosX="47" BeginPosY="99" EndPosX="53" EndPosY="111" Direction="-1" Quantity="10" Element="1" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
-		<Config Class="768" Range="6" BeginPosX="2" BeginPosY="98" EndPosX="10" EndPosY="104" Direction="-1" Quantity="10" Element="1" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
-		<Config Class="768" Range="6" BeginPosX="9" BeginPosY="182" EndPosX="13" EndPosY="194" Direction="-1" Quantity="10" Element="2" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
-		<Config Class="768" Range="6" BeginPosX="35" BeginPosY="195" EndPosX="54" EndPosY="218" Direction="-1" Quantity="10" Element="3" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
-		<Config Class="768" Range="6" BeginPosX="6" BeginPosY="207" EndPosX="16" EndPosY="218" Direction="-1" Quantity="10" Element="3" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
-		<Config Class="768" Range="6" BeginPosX="84" BeginPosY="242" EndPosX="97" EndPosY="249" Direction="-1" Quantity="10" Element="4" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
-		<Config Class="768" Range="8" BeginPosX="173" BeginPosY="193" EndPosX="182" EndPosY="207" Direction="-1" Quantity="10" Element="4" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
-		<Config Class="768" Range="6" BeginPosX="161" BeginPosY="238" EndPosX="172" EndPosY="245" Direction="-1" Quantity="10" Element="4" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
-		<Config Class="768" Range="6" BeginPosX="130" BeginPosY="224" EndPosX="138" EndPosY="233" Direction="-1" Quantity="10" Element="4" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
-		<Config Class="768" Range="6" BeginPosX="30" BeginPosY="101" EndPosX="38" EndPosY="109" Direction="-1" Quantity="10" Element="1" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
-		<Config Class="768" Range="6" BeginPosX="79" BeginPosY="97" EndPosX="87" EndPosY="106" Direction="-1" Quantity="10" Element="1" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
-		<Config Class="768" Range="6" BeginPosX="73" BeginPosY="143" EndPosX="78" EndPosY="155" Direction="-1" Quantity="10" Element="2" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
-		<Config Class="768" Range="6" BeginPosX="59" BeginPosY="171" EndPosX="66" EndPosY="180" Direction="-1" Quantity="10" Element="2" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
-		<Config Class="768" Range="6" BeginPosX="21" BeginPosY="222" EndPosX="36" EndPosY="234" Direction="-1" Quantity="10" Element="3" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
-		<Config Class="768" Range="8" BeginPosX="56" BeginPosY="193" EndPosX="65" EndPosY="206" Direction="-1" Quantity="10" Element="4" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
-		<Config Class="768" Range="6" BeginPosX="133" BeginPosY="151" EndPosX="147" EndPosY="164" Direction="-1" Quantity="10" Element="5" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
-		<Config Class="768" Range="6" BeginPosX="148" BeginPosY="227" EndPosX="171" EndPosY="231" Direction="-1" Quantity="10" Element="4" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
-		<Config Class="768" Range="6" BeginPosX="175" BeginPosY="177" EndPosX="180" EndPosY="182" Direction="-1" Quantity="10" Element="4" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
-		<Config Class="768" Range="6" BeginPosX="147" BeginPosY="196" EndPosX="158" EndPosY="204" Direction="-1" Quantity="10" Element="4" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
-		<Config Class="768" Range="6" BeginPosX="102" BeginPosY="110" EndPosX="109" EndPosY="118" Direction="-1" Quantity="10" Element="1" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
-		<Config Class="768" Range="6" BeginPosX="63" BeginPosY="104" EndPosX="69" EndPosY="113" Direction="-1" Quantity="10" Element="2" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
-		<Config Class="768" Range="6" BeginPosX="15" BeginPosY="187" EndPosX="25" EndPosY="199" Direction="-1" Quantity="10" Element="2" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
-		<Config Class="768" Range="6" BeginPosX="59" BeginPosY="183" EndPosX="70" EndPosY="189" Direction="-1" Quantity="10" Element="2" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
-		<Config Class="768" Range="12" BeginPosX="54" BeginPosY="215" EndPosX="67" EndPosY="233" Direction="-1" Quantity="10" Element="3" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
-		<Config Class="768" Range="6" BeginPosX="106" BeginPosY="187" EndPosX="121" EndPosY="201" Direction="-1" Quantity="10" Element="4" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
-		<Config Class="768" Range="6" BeginPosX="163" BeginPosY="196" EndPosX="166" EndPosY="212" Direction="-1" Quantity="10" Element="4" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
-		<Config Class="768" Range="6" BeginPosX="165" BeginPosY="172" EndPosX="172" EndPosY="182" Direction="-1" Quantity="10" Element="4" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
-		<Config Class="768" Range="6" BeginPosX="45" BeginPosY="26" EndPosX="54" EndPosY="32" Direction="-1" Quantity="10" Element="1" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
-		<Config Class="773" Range="6" BeginPosX="38" BeginPosY="62" EndPosX="54" EndPosY="67" Direction="-1" Quantity="10" Element="1" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="6" BeginPosX="37" BeginPosY="46" EndPosX="46" EndPosY="57" Direction="-1" Quantity="10" Element="1" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="8" BeginPosX="33" BeginPosY="115" EndPosX="41" EndPosY="122" Direction="-1" Quantity="10" Element="1" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="6" BeginPosX="71" BeginPosY="70" EndPosX="78" EndPosY="75" Direction="-1" Quantity="10" Element="1" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="4" BeginPosX="80" BeginPosY="114" EndPosX="88" EndPosY="124" Direction="-1" Quantity="10" Element="2" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="6" BeginPosX="6" BeginPosY="159" EndPosX="17" EndPosY="167" Direction="-1" Quantity="10" Element="2" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="6" BeginPosX="1" BeginPosY="135" EndPosX="13" EndPosY="145" Direction="-1" Quantity="10" Element="2" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="6" BeginPosX="5" BeginPosY="107" EndPosX="10" EndPosY="120" Direction="-1" Quantity="10" Element="2" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="6" BeginPosX="86" BeginPosY="183" EndPosX="98" EndPosY="192" Direction="-1" Quantity="10" Element="3" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="6" BeginPosX="107" BeginPosY="165" EndPosX="119" EndPosY="177" Direction="-1" Quantity="10" Element="3" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="8" BeginPosX="198" BeginPosY="179" EndPosX="208" EndPosY="187" Direction="-1" Quantity="10" Element="4" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="8" BeginPosX="201" BeginPosY="213" EndPosX="211" EndPosY="223" Direction="-1" Quantity="10" Element="4" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="6" BeginPosX="51" BeginPosY="75" EndPosX="59" EndPosY="82" Direction="-1" Quantity="10" Element="1" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="8" BeginPosX="22" BeginPosY="95" EndPosX="27" EndPosY="108" Direction="-1" Quantity="10" Element="1" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="8" BeginPosX="35" BeginPosY="85" EndPosX="46" EndPosY="92" Direction="-1" Quantity="10" Element="1" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="3" BeginPosX="22" BeginPosY="76" EndPosX="26" EndPosY="85" Direction="-1" Quantity="10" Element="1" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="6" BeginPosX="63" BeginPosY="90" EndPosX="69" EndPosY="100" Direction="-1" Quantity="10" Element="1" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="6" BeginPosX="85" BeginPosY="151" EndPosX="96" EndPosY="158" Direction="-1" Quantity="10" Element="2" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="6" BeginPosX="71" BeginPosY="183" EndPosX="81" EndPosY="191" Direction="-1" Quantity="10" Element="2" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="6" BeginPosX="77" BeginPosY="128" EndPosX="85" EndPosY="135" Direction="-1" Quantity="10" Element="3" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="6" BeginPosX="26" BeginPosY="195" EndPosX="33" EndPosY="204" Direction="-1" Quantity="10" Element="3" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="6" BeginPosX="122" BeginPosY="155" EndPosX="129" EndPosY="166" Direction="-1" Quantity="10" Element="4" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="6" BeginPosX="130" BeginPosY="168" EndPosX="138" EndPosY="178" Direction="-1" Quantity="10" Element="4" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="8" BeginPosX="182" BeginPosY="223" EndPosX="191" EndPosY="233" Direction="-1" Quantity="10" Element="4" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="6" BeginPosX="31" BeginPosY="26" EndPosX="35" EndPosY="31" Direction="-1" Quantity="10" Element="1" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="6" BeginPosX="13" BeginPosY="83" EndPosX="16" EndPosY="95" Direction="-1" Quantity="10" Element="1" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="3" BeginPosX="31" BeginPosY="54" EndPosX="33" EndPosY="59" Direction="-1" Quantity="10" Element="1" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="3" BeginPosX="26" BeginPosY="60" EndPosX="35" EndPosY="63" Direction="-1" Quantity="10" Element="1" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="6" BeginPosX="41" BeginPosY="187" EndPosX="57" EndPosY="193" Direction="-1" Quantity="10" Element="2" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="6" BeginPosX="98" BeginPosY="172" EndPosX="107" EndPosY="187" Direction="-1" Quantity="10" Element="2" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="6" BeginPosX="90" BeginPosY="139" EndPosX="100" EndPosY="143" Direction="-1" Quantity="10" Element="2" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="6" BeginPosX="99" BeginPosY="161" EndPosX="105" EndPosY="169" Direction="-1" Quantity="10" Element="2" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="6" BeginPosX="65" BeginPosY="241" EndPosX="75" EndPosY="250" Direction="-1" Quantity="10" Element="4" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="6" BeginPosX="97" BeginPosY="216" EndPosX="108" EndPosY="231" Direction="-1" Quantity="10" Element="4" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="6" BeginPosX="49" BeginPosY="46" EndPosX="53" EndPosY="59" Direction="-1" Quantity="10" Element="1" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="6" BeginPosX="21" BeginPosY="30" EndPosX="28" EndPosY="39" Direction="-1" Quantity="10" Element="1" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="10" BeginPosX="61" BeginPosY="64" EndPosX="70" EndPosY="83" Direction="-1" Quantity="10" Element="1" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="3" BeginPosX="31" BeginPosY="46" EndPosX="33" EndPosY="50" Direction="-1" Quantity="10" Element="1" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="6" BeginPosX="14" BeginPosY="171" EndPosX="23" EndPosY="179" Direction="-1" Quantity="10" Element="2" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="6" BeginPosX="41" BeginPosY="150" EndPosX="48" EndPosY="160" Direction="-1" Quantity="10" Element="2" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="6" BeginPosX="63" BeginPosY="141" EndPosX="69" EndPosY="164" Direction="-1" Quantity="10" Element="2" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="6" BeginPosX="28" BeginPosY="172" EndPosX="42" EndPosY="185" Direction="-1" Quantity="10" Element="2" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="6" BeginPosX="35" BeginPosY="197" EndPosX="52" EndPosY="217" Direction="-1" Quantity="10" Element="3" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="6" BeginPosX="73" BeginPosY="210" EndPosX="81" EndPosY="221" Direction="-1" Quantity="10" Element="3" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="8" BeginPosX="159" BeginPosY="153" EndPosX="168" EndPosY="165" Direction="-1" Quantity="10" Element="4" /> <!-- "Deep Dungeon Hell Hound" -->
-		<Config Class="773" Range="8" BeginPosX="181" BeginPosY="166" EndPosX="192" EndPosY="174" Direction="-1" Quantity="10" Element="4" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="768" Range="6" BeginPosX="60" BeginPosY="50" EndPosX="69" EndPosY="57" Direction="-1" Quantity="6" Element="1" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="10" BeginPosX="9" BeginPosY="38" EndPosX="18" EndPosY="63" Direction="-1" Quantity="6" Element="1" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="6" BeginPosX="42" BeginPosY="125" EndPosX="58" EndPosY="132" Direction="-1" Quantity="6" Element="2" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="6" BeginPosX="84" BeginPosY="171" EndPosX="93" EndPosY="178" Direction="-1" Quantity="6" Element="2" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="6" BeginPosX="43" BeginPosY="235" EndPosX="52" EndPosY="249" Direction="-1" Quantity="6" Element="3" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="6" BeginPosX="97" BeginPosY="229" EndPosX="110" EndPosY="246" Direction="-1" Quantity="6" Element="4" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="6" BeginPosX="167" BeginPosY="216" EndPosX="186" EndPosY="219" Direction="-1" Quantity="6" Element="4" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="6" BeginPosX="116" BeginPosY="209" EndPosX="127" EndPosY="226" Direction="-1" Quantity="6" Element="4" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="6" BeginPosX="47" BeginPosY="99" EndPosX="53" EndPosY="111" Direction="-1" Quantity="6" Element="1" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="6" BeginPosX="2" BeginPosY="98" EndPosX="10" EndPosY="104" Direction="-1" Quantity="6" Element="1" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="6" BeginPosX="9" BeginPosY="182" EndPosX="13" EndPosY="194" Direction="-1" Quantity="6" Element="2" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="6" BeginPosX="35" BeginPosY="195" EndPosX="54" EndPosY="218" Direction="-1" Quantity="6" Element="3" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="6" BeginPosX="6" BeginPosY="207" EndPosX="16" EndPosY="218" Direction="-1" Quantity="6" Element="3" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="6" BeginPosX="84" BeginPosY="242" EndPosX="97" EndPosY="249" Direction="-1" Quantity="6" Element="4" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="8" BeginPosX="173" BeginPosY="193" EndPosX="182" EndPosY="207" Direction="-1" Quantity="6" Element="4" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="6" BeginPosX="161" BeginPosY="238" EndPosX="172" EndPosY="245" Direction="-1" Quantity="6" Element="4" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="6" BeginPosX="130" BeginPosY="224" EndPosX="138" EndPosY="233" Direction="-1" Quantity="6" Element="4" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="6" BeginPosX="30" BeginPosY="101" EndPosX="38" EndPosY="109" Direction="-1" Quantity="6" Element="1" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="6" BeginPosX="79" BeginPosY="97" EndPosX="87" EndPosY="106" Direction="-1" Quantity="6" Element="1" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="6" BeginPosX="73" BeginPosY="143" EndPosX="78" EndPosY="155" Direction="-1" Quantity="6" Element="2" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="6" BeginPosX="59" BeginPosY="171" EndPosX="66" EndPosY="180" Direction="-1" Quantity="6" Element="2" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="6" BeginPosX="21" BeginPosY="222" EndPosX="36" EndPosY="234" Direction="-1" Quantity="6" Element="3" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="8" BeginPosX="56" BeginPosY="193" EndPosX="65" EndPosY="206" Direction="-1" Quantity="6" Element="4" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="6" BeginPosX="133" BeginPosY="151" EndPosX="147" EndPosY="164" Direction="-1" Quantity="6" Element="5" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="6" BeginPosX="148" BeginPosY="227" EndPosX="171" EndPosY="231" Direction="-1" Quantity="6" Element="4" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="6" BeginPosX="175" BeginPosY="177" EndPosX="180" EndPosY="182" Direction="-1" Quantity="6" Element="4" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="6" BeginPosX="147" BeginPosY="196" EndPosX="158" EndPosY="204" Direction="-1" Quantity="6" Element="4" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="6" BeginPosX="102" BeginPosY="110" EndPosX="109" EndPosY="118" Direction="-1" Quantity="6" Element="1" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="6" BeginPosX="63" BeginPosY="104" EndPosX="69" EndPosY="113" Direction="-1" Quantity="6" Element="2" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="6" BeginPosX="15" BeginPosY="187" EndPosX="25" EndPosY="199" Direction="-1" Quantity="6" Element="2" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="6" BeginPosX="59" BeginPosY="183" EndPosX="70" EndPosY="189" Direction="-1" Quantity="6" Element="2" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="12" BeginPosX="54" BeginPosY="215" EndPosX="67" EndPosY="233" Direction="-1" Quantity="6" Element="3" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="6" BeginPosX="106" BeginPosY="187" EndPosX="121" EndPosY="201" Direction="-1" Quantity="6" Element="4" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="6" BeginPosX="163" BeginPosY="196" EndPosX="166" EndPosY="212" Direction="-1" Quantity="6" Element="4" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="6" BeginPosX="165" BeginPosY="172" EndPosX="172" EndPosY="182" Direction="-1" Quantity="6" Element="4" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="6" BeginPosX="45" BeginPosY="26" EndPosX="54" EndPosY="32" Direction="-1" Quantity="6" Element="1" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="773" Range="6" BeginPosX="38" BeginPosY="62" EndPosX="54" EndPosY="67" Direction="-1" Quantity="6" Element="1" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="6" BeginPosX="37" BeginPosY="46" EndPosX="46" EndPosY="57" Direction="-1" Quantity="6" Element="1" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="8" BeginPosX="33" BeginPosY="115" EndPosX="41" EndPosY="122" Direction="-1" Quantity="6" Element="1" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="6" BeginPosX="71" BeginPosY="70" EndPosX="78" EndPosY="75" Direction="-1" Quantity="6" Element="1" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="4" BeginPosX="80" BeginPosY="114" EndPosX="88" EndPosY="124" Direction="-1" Quantity="6" Element="2" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="6" BeginPosX="6" BeginPosY="159" EndPosX="17" EndPosY="167" Direction="-1" Quantity="6" Element="2" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="6" BeginPosX="1" BeginPosY="135" EndPosX="13" EndPosY="145" Direction="-1" Quantity="6" Element="2" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="6" BeginPosX="5" BeginPosY="107" EndPosX="10" EndPosY="120" Direction="-1" Quantity="6" Element="2" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="6" BeginPosX="86" BeginPosY="183" EndPosX="98" EndPosY="192" Direction="-1" Quantity="6" Element="3" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="6" BeginPosX="107" BeginPosY="165" EndPosX="119" EndPosY="177" Direction="-1" Quantity="6" Element="3" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="8" BeginPosX="198" BeginPosY="179" EndPosX="208" EndPosY="187" Direction="-1" Quantity="6" Element="4" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="8" BeginPosX="201" BeginPosY="213" EndPosX="211" EndPosY="223" Direction="-1" Quantity="6" Element="4" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="6" BeginPosX="51" BeginPosY="75" EndPosX="59" EndPosY="82" Direction="-1" Quantity="6" Element="1" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="8" BeginPosX="22" BeginPosY="95" EndPosX="27" EndPosY="108" Direction="-1" Quantity="6" Element="1" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="8" BeginPosX="35" BeginPosY="85" EndPosX="46" EndPosY="92" Direction="-1" Quantity="6" Element="1" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="3" BeginPosX="22" BeginPosY="76" EndPosX="26" EndPosY="85" Direction="-1" Quantity="6" Element="1" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="6" BeginPosX="63" BeginPosY="90" EndPosX="69" EndPosY="100" Direction="-1" Quantity="6" Element="1" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="6" BeginPosX="85" BeginPosY="151" EndPosX="96" EndPosY="158" Direction="-1" Quantity="6" Element="2" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="6" BeginPosX="71" BeginPosY="183" EndPosX="81" EndPosY="191" Direction="-1" Quantity="6" Element="2" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="6" BeginPosX="77" BeginPosY="128" EndPosX="85" EndPosY="135" Direction="-1" Quantity="6" Element="3" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="6" BeginPosX="26" BeginPosY="195" EndPosX="33" EndPosY="204" Direction="-1" Quantity="6" Element="3" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="6" BeginPosX="122" BeginPosY="155" EndPosX="129" EndPosY="166" Direction="-1" Quantity="6" Element="4" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="6" BeginPosX="130" BeginPosY="168" EndPosX="138" EndPosY="178" Direction="-1" Quantity="6" Element="4" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="8" BeginPosX="182" BeginPosY="223" EndPosX="191" EndPosY="233" Direction="-1" Quantity="6" Element="4" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="6" BeginPosX="31" BeginPosY="26" EndPosX="35" EndPosY="31" Direction="-1" Quantity="6" Element="1" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="6" BeginPosX="13" BeginPosY="83" EndPosX="16" EndPosY="95" Direction="-1" Quantity="6" Element="1" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="3" BeginPosX="31" BeginPosY="54" EndPosX="33" EndPosY="59" Direction="-1" Quantity="6" Element="1" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="3" BeginPosX="26" BeginPosY="60" EndPosX="35" EndPosY="63" Direction="-1" Quantity="6" Element="1" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="6" BeginPosX="41" BeginPosY="187" EndPosX="57" EndPosY="193" Direction="-1" Quantity="6" Element="2" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="6" BeginPosX="98" BeginPosY="172" EndPosX="107" EndPosY="187" Direction="-1" Quantity="6" Element="2" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="6" BeginPosX="90" BeginPosY="139" EndPosX="100" EndPosY="143" Direction="-1" Quantity="6" Element="2" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="6" BeginPosX="99" BeginPosY="161" EndPosX="105" EndPosY="169" Direction="-1" Quantity="6" Element="2" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="6" BeginPosX="65" BeginPosY="241" EndPosX="75" EndPosY="250" Direction="-1" Quantity="6" Element="4" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="6" BeginPosX="97" BeginPosY="216" EndPosX="108" EndPosY="231" Direction="-1" Quantity="6" Element="4" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="6" BeginPosX="49" BeginPosY="46" EndPosX="53" EndPosY="59" Direction="-1" Quantity="6" Element="1" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="6" BeginPosX="21" BeginPosY="30" EndPosX="28" EndPosY="39" Direction="-1" Quantity="6" Element="1" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="10" BeginPosX="61" BeginPosY="64" EndPosX="70" EndPosY="83" Direction="-1" Quantity="6" Element="1" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="3" BeginPosX="31" BeginPosY="46" EndPosX="33" EndPosY="50" Direction="-1" Quantity="6" Element="1" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="6" BeginPosX="14" BeginPosY="171" EndPosX="23" EndPosY="179" Direction="-1" Quantity="6" Element="2" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="6" BeginPosX="41" BeginPosY="150" EndPosX="48" EndPosY="160" Direction="-1" Quantity="6" Element="2" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="6" BeginPosX="63" BeginPosY="141" EndPosX="69" EndPosY="164" Direction="-1" Quantity="6" Element="2" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="6" BeginPosX="28" BeginPosY="172" EndPosX="42" EndPosY="185" Direction="-1" Quantity="6" Element="2" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="6" BeginPosX="35" BeginPosY="197" EndPosX="52" EndPosY="217" Direction="-1" Quantity="6" Element="3" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="6" BeginPosX="73" BeginPosY="210" EndPosX="81" EndPosY="221" Direction="-1" Quantity="6" Element="3" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="8" BeginPosX="159" BeginPosY="153" EndPosX="168" EndPosY="165" Direction="-1" Quantity="6" Element="4" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="8" BeginPosX="181" BeginPosY="166" EndPosX="192" EndPosY="174" Direction="-1" Quantity="6" Element="4" /> <!-- "Deep Dungeon Hell Hound" -->
 	</SPOT>
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<MONSTER>

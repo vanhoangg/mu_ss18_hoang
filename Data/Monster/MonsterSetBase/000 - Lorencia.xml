@@ -34,15 +34,6 @@
 	</NPC>
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<SPOT>
-		<Config Class="3" Range="30" BeginPosX="180" BeginPosY="90" EndPosX="226" EndPosY="244" Direction="-1" Quantity="45" Element="0" /> <!-- "Spider" -->
-		<Config Class="2" Range="30" BeginPosX="180" BeginPosY="90" EndPosX="226" EndPosY="244" Direction="-1" Quantity="40" Element="0" /> <!-- "Budge Dragon" -->
-		<Config Class="2" Range="30" BeginPosX="135" BeginPosY="20" EndPosX="240" EndPosY="88" Direction="-1" Quantity="20" Element="0" /> <!-- "Budge Dragon" -->
-		<Config Class="0" Range="30" BeginPosX="135" BeginPosY="20" EndPosX="240" EndPosY="88" Direction="-1" Quantity="45" Element="0" /> <!-- "Bull Fighter" -->
-		<Config Class="6" Range="30" BeginPosX="95" BeginPosY="168" EndPosX="175" EndPosY="244" Direction="-1" Quantity="20" Element="0" /> <!-- "Lich" -->
-		<Config Class="14" Range="30" BeginPosX="95" BeginPosY="168" EndPosX="175" EndPosY="244" Direction="-1" Quantity="15" Element="0" /> <!-- "Skeleton" -->
-		<Config Class="1" Range="30" BeginPosX="8" BeginPosY="11" EndPosX="94" EndPosY="244" Direction="-1" Quantity="45" Element="0" /> <!-- "Hound" -->
-		<Config Class="4" Range="30" BeginPosX="8" BeginPosY="11" EndPosX="94" EndPosY="244" Direction="-1" Quantity="45" Element="0" /> <!-- "Elite Bull Fighter" -->
-		<Config Class="7" Range="30" BeginPosX="8" BeginPosY="11" EndPosX="60" EndPosY="80" Direction="-1" Quantity="15" Element="0" /> <!-- "Giant" -->
 		
 		<Config Class="3" Range="7" BeginPosX="180" BeginPosY="126" EndPosX="182" EndPosY="129" Direction="-1" Quantity="5" Element="0" /> <!-- "Spider" -->
 		<Config Class="0" Range="7" BeginPosX="179" BeginPosY="54" EndPosX="182" EndPosY="56" Direction="-1" Quantity="5" Element="0" /> <!-- "Bull Fighter" -->
@@ -51,15 +42,7 @@
 		<Config Class="1" Range="7" BeginPosX="63" BeginPosY="195" EndPosX="63" EndPosY="195" Direction="-1" Quantity="5" Element="0" /> <!-- "Hound" -->
 		<Config Class="14" Range="7" BeginPosX="118" BeginPosY="207" EndPosX="118" EndPosY="207" Direction="-1" Quantity="5" Element="0" /> <!-- "Skeleton" -->
 		<Config Class="6" Range="7" BeginPosX="166" BeginPosY="225" EndPosX="166" EndPosY="225" Direction="-1" Quantity="5" Element="0" /> <!-- "Lich" -->		
-		<Config Class="3" Range="30" BeginPosX="180" BeginPosY="90" EndPosX="226" EndPosY="244" Direction="-1" Quantity="45" Element="0" /> <!-- "Spider" -->
-		<Config Class="2" Range="30" BeginPosX="180" BeginPosY="90" EndPosX="226" EndPosY="244" Direction="-1" Quantity="40" Element="0" /> <!-- "Budge Dragon" -->
-		<Config Class="2" Range="30" BeginPosX="135" BeginPosY="20" EndPosX="240" EndPosY="88" Direction="-1" Quantity="20" Element="0" /> <!-- "Budge Dragon" -->
-		<Config Class="0" Range="30" BeginPosX="135" BeginPosY="20" EndPosX="240" EndPosY="88" Direction="-1" Quantity="45" Element="0" /> <!-- "Bull Fighter" -->
-		<Config Class="6" Range="30" BeginPosX="95" BeginPosY="168" EndPosX="175" EndPosY="244" Direction="-1" Quantity="20" Element="0" /> <!-- "Lich" -->
-		<Config Class="14" Range="30" BeginPosX="95" BeginPosY="168" EndPosX="175" EndPosY="244" Direction="-1" Quantity="15" Element="0" /> <!-- "Skeleton" -->
-		<Config Class="1" Range="30" BeginPosX="8" BeginPosY="11" EndPosX="94" EndPosY="244" Direction="-1" Quantity="45" Element="0" /> <!-- "Hound" -->
-		<Config Class="4" Range="30" BeginPosX="8" BeginPosY="11" EndPosX="94" EndPosY="244" Direction="-1" Quantity="45" Element="0" /> <!-- "Elite Bull Fighter" -->
-		<Config Class="7" Range="30" BeginPosX="8" BeginPosY="11" EndPosX="60" EndPosY="80" Direction="-1" Quantity="10" Element="0" /> <!-- "Giant" -->
+
 	   
 	   <Config Class="6" Range="5" BeginPosX="127" BeginPosY="180" EndPosX="130" EndPosY="182" Direction="-1" Quantity="5" Element="0" /> <!-- "Lich" -->	
 	   <Config Class="6" Range="5" BeginPosX="95" BeginPosY="168" EndPosX="95" EndPosY="168" Direction="-1" Quantity="5" Element="0" /> <!-- "Lich" -->	

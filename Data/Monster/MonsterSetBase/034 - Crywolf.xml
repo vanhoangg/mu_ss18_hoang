@@ -19,13 +19,13 @@
 	</NPC>
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<SPOT>
-	<Config Class="310" Range="5" BeginPosX="203" BeginPosY="43" EndPosX="203" EndPosY="43" Direction="-1" Quantity="5" Element="0" /> <!-- "Hammer Scout" -->	
-	<Config Class="312" Range="5" BeginPosX="206" BeginPosY="43" EndPosX="203" EndPosY="43" Direction="-1" Quantity="5" Element="0" /> <!-- "Bow Scout" -->	
-	<Config Class="313" Range="5" BeginPosX="208" BeginPosY="43" EndPosX="203" EndPosY="43" Direction="-1" Quantity="5" Element="0" /> <!-- "Werewolf" -->	
-	<Config Class="314" Range="5" BeginPosX="201" BeginPosY="43" EndPosX="203" EndPosY="43" Direction="-1" Quantity="5" Element="0" /> <!-- "Scout(Hero)" -->	
-	<Config Class="315" Range="5" BeginPosX="199" BeginPosY="43" EndPosX="203" EndPosY="43" Direction="-1" Quantity="5" Element="0" /> <!-- "Werewolf(Hero)" -->	
-	<Config Class="316" Range="5" BeginPosX="210" BeginPosY="43" EndPosX="203" EndPosY="43" Direction="-1" Quantity="5" Element="0" /> <!-- "Balram" -->
-	<Config Class="317" Range="5" BeginPosX="212" BeginPosY="43" EndPosX="203" EndPosY="43" Direction="-1" Quantity="5" Element="0" /> <!-- "Soram" -->
+	<Config Class="310" Range="5" BeginPosX="203" BeginPosY="43" EndPosX="203" EndPosY="43" Direction="-1" Quantity="3" Element="0" /> <!-- "Hammer Scout" -->	
+	<Config Class="312" Range="5" BeginPosX="206" BeginPosY="43" EndPosX="203" EndPosY="43" Direction="-1" Quantity="3" Element="0" /> <!-- "Bow Scout" -->	
+	<Config Class="313" Range="5" BeginPosX="208" BeginPosY="43" EndPosX="203" EndPosY="43" Direction="-1" Quantity="3" Element="0" /> <!-- "Werewolf" -->	
+	<Config Class="314" Range="5" BeginPosX="201" BeginPosY="43" EndPosX="203" EndPosY="43" Direction="-1" Quantity="3" Element="0" /> <!-- "Scout(Hero)" -->	
+	<Config Class="315" Range="5" BeginPosX="199" BeginPosY="43" EndPosX="203" EndPosY="43" Direction="-1" Quantity="3" Element="0" /> <!-- "Werewolf(Hero)" -->	
+	<Config Class="316" Range="5" BeginPosX="210" BeginPosY="43" EndPosX="203" EndPosY="43" Direction="-1" Quantity="3" Element="0" /> <!-- "Balram" -->
+	<Config Class="317" Range="5" BeginPosX="212" BeginPosY="43" EndPosX="203" EndPosY="43" Direction="-1" Quantity="3" Element="0" /> <!-- "Soram" -->
 
 	</SPOT>
 <!-- ================================================================================================================================================================================================================================================================================= -->

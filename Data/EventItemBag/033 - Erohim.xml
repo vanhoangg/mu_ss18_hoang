@@ -199,5 +199,7 @@
 		<ItemEx Section="7" Index="7635" Level="0" Grade="0" Durability="1" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Guardian Enhanced Stone"/>
 		<ItemEx Section="7" Index="7513" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Mysterious Stone"/>
 		<ItemEx Section="7" Index="7122" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Garuda's Flame"/>
+		<ItemEx Section="7" Index="7123" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Garuda's Feather"/>
+
 	</BagItemsEx>
 </ItemBag>

@@ -166,15 +166,15 @@ ElfBufferTime = 1800
 ; Experience Settings
 ;==================================================
 ; Level 1~400
-AddExperienceRate_AL0 = 10
-AddExperienceRate_AL1 = 10
-AddExperienceRate_AL2 = 10
-AddExperienceRate_AL3 = 10
+AddExperienceRate_AL0 = 100
+AddExperienceRate_AL1 = 100
+AddExperienceRate_AL2 = 100
+AddExperienceRate_AL3 = 100
 ; Level Master 400+										   
-AddMasterExperienceRate_AL0 = 20
-AddMasterExperienceRate_AL1 = 20
-AddMasterExperienceRate_AL2 = 20
-AddMasterExperienceRate_AL3 = 20
+AddMasterExperienceRate_AL0 = 200
+AddMasterExperienceRate_AL1 = 200
+AddMasterExperienceRate_AL2 = 200
+AddMasterExperienceRate_AL3 = 200
 ; Monster EXP Master 400+	
 MinMasterExperienceMonsterLevel_AL0 = 95
 MinMasterExperienceMonsterLevel_AL1 = 95
@@ -391,14 +391,14 @@ IKGaugeMaxRate = 90
 ; Master Skill Tree Settings
 ;==================================================
 MasterSkillTree = 1
-MasterSkillTreePoint = 1
+MasterSkillTreePoint = 7
 MasterSkillTreeMaxLevel = 400
 
 ;==================================================
 ; Enhance Skill Tree Settings
 ;==================================================
 EnhanceSkillTree = 1
-EnhanceSkillTreePoint = 1
+EnhanceSkillTreePoint = 7
 ; 400 Normal + 400 Master +750 Enhanced = 1550 Maxlevel
 EnhanceSkillTreeMaxLevel = 750
 

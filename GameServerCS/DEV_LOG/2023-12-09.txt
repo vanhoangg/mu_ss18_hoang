@@ -1,0 +1,7 @@
+01:02:16 [Blood Castle 5 reward - winners] AddRuudBox Account:kudoshjn | Name:IKBiv | PartyWinner:0
+18:03:51 [Blood Castle 4 reward - winners] AddRuudBox Account:test1 | Name:SumBiv | PartyWinner:1
+18:03:51 [Blood Castle 4 reward - winners] AddRuudBox Account:test | Name:ElfBuff | PartyWinner:1
+18:04:03 [Blood Castle 5 reward - winners] AddRuudBox Account:kudoshjn | Name:IKBiv | PartyWinner:1
+19:05:10 [Blood Castle 5 reward - winners] AddRuudBox Account:kudoshjn | Name:IKBiv | PartyWinner:1
+19:09:51 [Blood Castle 4 reward - losers] AddRuudBox Account:test1 | Name:SumBiv | PartyWinner:0
+19:09:51 [Blood Castle 4 reward - winners] AddRuudBox Account:test | Name:ElfBuff | PartyWinner:0

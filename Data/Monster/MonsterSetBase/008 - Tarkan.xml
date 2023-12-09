@@ -17,12 +17,12 @@
 	</NPC>
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<SPOT>
-	<Config Class="60" Range="5" BeginPosX="133" BeginPosY="92" EndPosX="133" EndPosY="92" Direction="-1" Quantity="10" Element="0" /> <!-- "Bloody wolf" -->
-	<Config Class="58" Range="5" BeginPosX="34" BeginPosY="124" EndPosX="34" EndPosY="124" Direction="-1" Quantity="10" Element="0" /> <!-- "Tantalos" -->
-	<Config Class="62" Range="5" BeginPosX="180" BeginPosY="109" EndPosX="180" EndPosY="109" Direction="-1" Quantity="10" Element="0" /> <!-- "Mutant" -->
-	<Config Class="60" Range="5" BeginPosX="76" BeginPosY="80" EndPosX="79" EndPosY="82" Direction="-1" Quantity="10" Element="0" /> <!-- "Bloody wolf" -->
-	<Config Class="57" Range="5" BeginPosX="61" BeginPosY="84" EndPosX="61" EndPosY="84" Direction="-1" Quantity="10" Element="0" /> <!-- "Iron Wheel" -->
-	<Config Class="61" Range="5" BeginPosX="91" BeginPosY="192" EndPosX="91" EndPosY="192" Direction="-1" Quantity="10" Element="0" /> <!-- " Beam Knight" -->
+	<Config Class="60" Range="5" BeginPosX="133" BeginPosY="92" EndPosX="133" EndPosY="92" Direction="-1" Quantity="6" Element="0" /> <!-- "Bloody wolf" -->
+	<Config Class="58" Range="5" BeginPosX="34" BeginPosY="124" EndPosX="34" EndPosY="124" Direction="-1" Quantity="6" Element="0" /> <!-- "Tantalos" -->
+	<Config Class="62" Range="5" BeginPosX="180" BeginPosY="109" EndPosX="180" EndPosY="109" Direction="-1" Quantity="6" Element="0" /> <!-- "Mutant" -->
+	<Config Class="60" Range="5" BeginPosX="76" BeginPosY="80" EndPosX="79" EndPosY="82" Direction="-1" Quantity="6" Element="0" /> <!-- "Bloody wolf" -->
+	<Config Class="57" Range="5" BeginPosX="61" BeginPosY="84" EndPosX="61" EndPosY="84" Direction="-1" Quantity="6" Element="0" /> <!-- "Iron Wheel" -->
+	<Config Class="61" Range="5" BeginPosX="91" BeginPosY="192" EndPosX="91" EndPosY="192" Direction="-1" Quantity="6" Element="0" /> <!-- " Beam Knight" -->
 	
 	<Config Class="62" Range="5" BeginPosX="164" BeginPosY="104" EndPosX="168" EndPosY="103" Direction="-1" Quantity="5" Element="0" /> <!-- "Mutant" -->
 	<Config Class="62" Range="5" BeginPosX="151" BeginPosY="95" EndPosX="152" EndPosY="98" Direction="-1" Quantity="5" Element="0" /> <!-- "Mutant" -->

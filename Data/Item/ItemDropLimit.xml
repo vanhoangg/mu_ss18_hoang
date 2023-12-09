@@ -35,7 +35,7 @@ ITEM_CREATE_TYPE_MONSTER = 30
 
 -->
 
-<ItemDropLimit Enabled="1">
+<ItemDropLimit Enabled="0">
 	<ItemList DayOfWeek="2" DropType="10">
 		<Item Index="7122" Level="-1" IsLuck="-1" IsSkill="-1" IsSetItem="-1" IsExeItem="-1" IsSocket="-1" MaxDrop="5" Name="Garuda's Flame"/>
 		<Item Index="7639" Level="-1" IsLuck="-1" IsSkill="-1" IsSetItem="-1" IsExeItem="-1" IsSocket="-1" MaxDrop="5" Name="Sealed Armor Fragment"/>

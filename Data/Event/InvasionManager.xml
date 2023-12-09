@@ -141,6 +141,7 @@
 			<Info Group="11" Value="0" MonsterClass="495" Count="1" Map="6" MapSX="68" MapSY="75" MapTX="68" MapTY="75" Distance="3" Element="-1" RegenType="0" RegenTime="0" Name="Golden Stone Golem"/>
 			<Info Group="12" Value="0" MonsterClass="496" Count="1" Map="6" MapSX="68" MapSY="75" MapTX="68" MapTY="75" Distance="3" Element="-1" RegenType="0" RegenTime="0" Name="Golden Crust"/>
 			<Info Group="10" Value="0" MonsterClass="494" Count="1" Map="6" MapSX="68" MapSY="75" MapTX="68" MapTY="75" Distance="3" Element="-1" RegenType="0" RegenTime="0" Name="Golden Devil"/>
+			<Info Group="10" Value="0" MonsterClass="79" Count="1" Map="6" MapSX="68" MapSY="75" MapTX="68" MapTY="75" Distance="3" Element="-1" RegenType="0" RegenTime="0" Name="Golden Dragon"/>
 
 
 		</Monster>
