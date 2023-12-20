@@ -43,7 +43,7 @@ RaklionEvent = 1
 ;==================================================
 EvolutionMonsterEventOnOff = 1
 EvolutionMonsterEventType = 2
-EvoMonEventItemDropRate = 30
+EvoMonEventItemDropRate = 50
 
 ;==================================================
 ; Banner Event Settings

@@ -9464,3 +9464,1184 @@
 21:36:09 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(558), MAXHP:500000, HP:500000, DF:0, RG:0)
 21:36:09 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
 21:36:09 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+21:37:03  [ ITL ] m_nNextTimeMin 28283828, nCurTime 28283921
+21:37:03  [ ITL ] m_nNextTimeMin 28283828, nCurTime 28283921
+21:38:03  [ ITL ] m_nNextTimeMin 28343921, nCurTime 28343937
+21:38:03  [ ITL ] m_nNextTimeMin 28343921, nCurTime 28343937
+21:39:03  [ ITL ] m_nNextTimeMin 28403937, nCurTime 28404031
+21:39:03  [ ITL ] m_nNextTimeMin 28403937, nCurTime 28404031
+21:40:03  [ ITL ] m_nNextTimeMin 28464031, nCurTime 28464125
+21:40:03  [ ITL ] m_nNextTimeMin 28464031, nCurTime 28464125
+21:41:03  [ ITL ] m_nNextTimeMin 28524125, nCurTime 28524218
+21:41:03  [ ITL ] m_nNextTimeMin 28524125, nCurTime 28524218
+21:41:09 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+21:41:09 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(549), MAXHP:400000, HP:400000, DF:0, RG:0)
+21:41:09 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(550), MAXHP:400000, HP:400000, DF:0, RG:0)
+21:41:09 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(551), MAXHP:400000, HP:400000, DF:0, RG:0)
+21:41:09 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(552), MAXHP:400000, HP:400000, DF:0, RG:0)
+21:41:09 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(553), MAXHP:500000, HP:500000, DF:0, RG:0)
+21:41:09 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(554), MAXHP:500000, HP:500000, DF:0, RG:0)
+21:41:09 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(555), MAXHP:500000, HP:500000, DF:0, RG:0)
+21:41:09 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(556), MAXHP:500000, HP:500000, DF:0, RG:0)
+21:41:09 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(557), MAXHP:500000, HP:500000, DF:0, RG:0)
+21:41:09 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(558), MAXHP:500000, HP:500000, DF:0, RG:0)
+21:41:09 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+21:41:09 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+21:42:03  [ ITL ] m_nNextTimeMin 28584218, nCurTime 28584234
+21:42:03  [ ITL ] m_nNextTimeMin 28584218, nCurTime 28584234
+21:43:03  [ ITL ] m_nNextTimeMin 28644234, nCurTime 28644328
+21:43:03  [ ITL ] m_nNextTimeMin 28644234, nCurTime 28644328
+21:44:03  [ ITL ] m_nNextTimeMin 28704328, nCurTime 28704343
+21:44:03  [ ITL ] m_nNextTimeMin 28704328, nCurTime 28704343
+21:45:00 [Chaos Castle] (1) SetState STAND
+21:45:00 [Chaos Castle] (2) SetState STAND
+21:45:00 [Chaos Castle] (3) SetState STAND
+21:45:00 [Chaos Castle] (4) SetState STAND
+21:45:00 [Chaos Castle] (5) SetState STAND
+21:45:00 [Chaos Castle] (6) SetState STAND
+21:45:00 [Chaos Castle] (7) SetState STAND
+21:45:01 [Chaos Castle] (1) Not enough users
+21:45:01 [Chaos Castle] (1) Sync Start Time. [59] min remain
+21:45:01 [Chaos Castle] (1) SetState EMPTY
+21:45:01 [Chaos Castle] (2) Not enough users
+21:45:01 [Chaos Castle] (2) Sync Start Time. [59] min remain
+21:45:01 [Chaos Castle] (2) SetState EMPTY
+21:45:01 [Chaos Castle] (3) Not enough users
+21:45:01 [Chaos Castle] (3) Sync Start Time. [59] min remain
+21:45:01 [Chaos Castle] (3) SetState EMPTY
+21:45:01 [Chaos Castle] (4) Not enough users
+21:45:01 [Chaos Castle] (4) Sync Start Time. [59] min remain
+21:45:01 [Chaos Castle] (4) SetState EMPTY
+21:45:01 [Chaos Castle] (5) Not enough users
+21:45:01 [Chaos Castle] (5) Sync Start Time. [59] min remain
+21:45:01 [Chaos Castle] (5) SetState EMPTY
+21:45:01 [Chaos Castle] (6) Not enough users
+21:45:01 [Chaos Castle] (6) Sync Start Time. [59] min remain
+21:45:01 [Chaos Castle] (6) SetState EMPTY
+21:45:01 [Chaos Castle] (7) Not enough users
+21:45:01 [Chaos Castle] (7) Sync Start Time. [59] min remain
+21:45:01 [Chaos Castle] (7) SetState EMPTY
+21:45:03  [ ITL ] m_nNextTimeMin 28764343, nCurTime 28764421
+21:45:03  [ ITL ] m_nNextTimeMin 28764343, nCurTime 28764421
+21:46:03  [ ITL ] m_nNextTimeMin 28824421, nCurTime 28824437
+21:46:03  [ ITL ] m_nNextTimeMin 28824421, nCurTime 28824437
+21:46:09 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+21:46:09 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(549), MAXHP:400000, HP:400000, DF:0, RG:0)
+21:46:09 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(550), MAXHP:400000, HP:400000, DF:0, RG:0)
+21:46:09 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(551), MAXHP:400000, HP:400000, DF:0, RG:0)
+21:46:09 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(552), MAXHP:400000, HP:400000, DF:0, RG:0)
+21:46:09 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(553), MAXHP:500000, HP:500000, DF:0, RG:0)
+21:46:09 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(554), MAXHP:500000, HP:500000, DF:0, RG:0)
+21:46:09 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(555), MAXHP:500000, HP:500000, DF:0, RG:0)
+21:46:09 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(556), MAXHP:500000, HP:500000, DF:0, RG:0)
+21:46:09 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(557), MAXHP:500000, HP:500000, DF:0, RG:0)
+21:46:09 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(558), MAXHP:500000, HP:500000, DF:0, RG:0)
+21:46:09 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+21:46:09 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+21:47:04  [ ITL ] m_nNextTimeMin 28884437, nCurTime 28884531
+21:47:04  [ ITL ] m_nNextTimeMin 28884437, nCurTime 28884531
+21:48:04  [ ITL ] m_nNextTimeMin 28944531, nCurTime 28944625
+21:48:04  [ ITL ] m_nNextTimeMin 28944531, nCurTime 28944625
+21:49:04  [ ITL ] m_nNextTimeMin 29004625, nCurTime 29004750
+21:49:04  [ ITL ] m_nNextTimeMin 29004625, nCurTime 29004750
+21:50:04  [ ITL ] m_nNextTimeMin 29064750, nCurTime 29064828
+21:50:04  [ ITL ] m_nNextTimeMin 29064750, nCurTime 29064828
+21:50:04 [ ITL ] TYPE:1 , (0) ITL Sync Open Time. [10]min remain, m_nRemainTimeMSec:[-1]
+21:50:04 [ ITL ] TYPE:1 , (1) ITL Sync Open Time. [10]min remain, m_nRemainTimeMSec:[-1]
+21:51:00  [ ITL ] m_nNextTimeMin 29120937, nCurTime 29121031
+21:51:00  [ ITL ] m_nNextTimeMin 29120937, nCurTime 29121031
+21:51:09 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+21:51:09 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(549), MAXHP:400000, HP:400000, DF:0, RG:0)
+21:51:09 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(550), MAXHP:400000, HP:400000, DF:0, RG:0)
+21:51:09 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(551), MAXHP:400000, HP:400000, DF:0, RG:0)
+21:51:09 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(552), MAXHP:400000, HP:400000, DF:0, RG:0)
+21:51:09 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(553), MAXHP:500000, HP:500000, DF:0, RG:0)
+21:51:09 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(554), MAXHP:500000, HP:500000, DF:0, RG:0)
+21:51:09 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(555), MAXHP:500000, HP:500000, DF:0, RG:0)
+21:51:09 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(556), MAXHP:500000, HP:500000, DF:0, RG:0)
+21:51:09 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(557), MAXHP:500000, HP:500000, DF:0, RG:0)
+21:51:09 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(558), MAXHP:500000, HP:500000, DF:0, RG:0)
+21:51:09 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+21:51:09 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+21:52:00  [ ITL ] m_nNextTimeMin 29181031, nCurTime 29181125
+21:52:00  [ ITL ] m_nNextTimeMin 29181031, nCurTime 29181125
+21:53:00  [ ITL ] m_nNextTimeMin 29241125, nCurTime 29241218
+21:53:00  [ ITL ] m_nNextTimeMin 29241125, nCurTime 29241218
+21:54:00  [ ITL ] m_nNextTimeMin 29301218, nCurTime 29301328
+21:54:00  [ ITL ] m_nNextTimeMin 29301218, nCurTime 29301328
+21:55:00  [ ITL ] m_nNextTimeMin 29361328, nCurTime 29361421
+21:55:00 [ITL] (0) TYPE:1  5 minutes left to enter.
+21:55:00  [ ITL ] m_nNextTimeMin 29361328, nCurTime 29361421
+21:55:01 [ ITL ] Map:(0)TYPE:[1] Proc_ITLState_None m_bEntrance TRUE ,m_nRemainTimeMin:[5],m_nRemainTimeMSec:[299891]
+21:55:01 [ ITL ] Map:(1)TYPE:[1] Proc_ITLState_None m_bEntrance TRUE ,m_nRemainTimeMin:[5],m_nRemainTimeMSec:[299891]
+21:56:01  [ ITL ] m_nNextTimeMin 29421421, nCurTime 29421546
+21:56:01 [ITL] (0) TYPE:1  4 minutes left to enter.
+21:56:01  [ ITL ] m_nNextTimeMin 29421421, nCurTime 29421546
+21:56:09 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+21:56:09 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(549), MAXHP:400000, HP:400000, DF:0, RG:0)
+21:56:09 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(550), MAXHP:400000, HP:400000, DF:0, RG:0)
+21:56:09 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(551), MAXHP:400000, HP:400000, DF:0, RG:0)
+21:56:09 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(552), MAXHP:400000, HP:400000, DF:0, RG:0)
+21:56:09 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(553), MAXHP:500000, HP:500000, DF:0, RG:0)
+21:56:09 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(554), MAXHP:500000, HP:500000, DF:0, RG:0)
+21:56:09 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(555), MAXHP:500000, HP:500000, DF:0, RG:0)
+21:56:09 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(556), MAXHP:500000, HP:500000, DF:0, RG:0)
+21:56:09 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(557), MAXHP:500000, HP:500000, DF:0, RG:0)
+21:56:09 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(558), MAXHP:500000, HP:500000, DF:0, RG:0)
+21:56:09 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+21:56:10 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+21:57:01  [ ITL ] m_nNextTimeMin 29481546, nCurTime 29481625
+21:57:01 [ITL] (0) TYPE:1  3 minutes left to enter.
+21:57:01  [ ITL ] m_nNextTimeMin 29481546, nCurTime 29481625
+21:58:01  [ ITL ] m_nNextTimeMin 29541625, nCurTime 29541734
+21:58:01 [ITL] (0) TYPE:1  2 minutes left to enter.
+21:58:01  [ ITL ] m_nNextTimeMin 29541625, nCurTime 29541734
+21:59:01  [ ITL ] m_nNextTimeMin 29601734, nCurTime 29601828
+21:59:01 [ITL] (0) TYPE:1  1 minutes left to enter.
+21:59:01  [ ITL ] m_nNextTimeMin 29601734, nCurTime 29601828
+21:59:56 [ itl ] Map:0 Proc_ITLState_None II m_bEntrance = FALSE
+21:59:56 [ itl ] Map:1 Proc_ITLState_None II m_bEntrance = FALSE
+22:00:00 [Blood Castle] (1) SetState STAND
+22:00:00 [Blood Castle] (2) SetState STAND
+22:00:00 [Blood Castle] (3) SetState STAND
+22:00:00 [Blood Castle] (4) SetState STAND
+22:00:00 [Blood Castle] (5) SetState STAND
+22:00:00 [Blood Castle] (6) SetState STAND
+22:00:00 [Blood Castle] (7) SetState STAND
+22:00:00 [Blood Castle] (8) SetState STAND
+22:00:00 [Bot Hide][10] (BotHideGC) SetState STAND
+22:00:01  [ ITL ] m_nNextTimeMin 29661828, nCurTime 29661843
+22:00:01  [ ITL ] m_nNextTimeMin 29661828, nCurTime 29661843
+22:00:01 [Blood Castle] (1) Not enough users
+22:00:01 [Blood Castle] (1) Sync Start Time. [59] min remain
+22:00:01 [Blood Castle] (1) SetState EMPTY
+22:00:01 [Blood Castle] (2) Not enough users
+22:00:01 [Blood Castle] (2) Sync Start Time. [59] min remain
+22:00:01 [Blood Castle] (2) SetState EMPTY
+22:00:01 [Blood Castle] (3) Not enough users
+22:00:01 [Blood Castle] (3) Sync Start Time. [59] min remain
+22:00:01 [Blood Castle] (3) SetState EMPTY
+22:00:01 [Blood Castle] (4) Not enough users
+22:00:01 [Blood Castle] (4) Sync Start Time. [59] min remain
+22:00:01 [Blood Castle] (4) SetState EMPTY
+22:00:01 [Blood Castle] (5) Not enough users
+22:00:01 [Blood Castle] (5) Sync Start Time. [59] min remain
+22:00:01 [Blood Castle] (5) SetState EMPTY
+22:00:01 [Blood Castle] (6) Not enough users
+22:00:01 [Blood Castle] (6) Sync Start Time. [59] min remain
+22:00:01 [Blood Castle] (6) SetState EMPTY
+22:00:01 [Blood Castle] (7) Not enough users
+22:00:01 [Blood Castle] (7) Sync Start Time. [59] min remain
+22:00:01 [Blood Castle] (7) SetState EMPTY
+22:00:01 [Blood Castle] (8) Not enough users
+22:00:01 [Blood Castle] (8) Sync Start Time. [59] min remain
+22:00:01 [Blood Castle] (8) SetState EMPTY
+22:00:01 [ ITL ] (map:0), Proc_ITLState_None m_bEntrance = FALSE 
+22:00:01 [ ITL ] MAP : 0[CanStartITLBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+22:00:01 [ ITL ] (0) Failed to Start ITL (UserCount: 0) (m_nRemainTimeMin:0)(m_nRemainTimeMSec:-703),AlliedCnt:[0],IllusionCnt:[0]
+22:00:01 [ ITL ][WarResult] Allied Team : 10 , IllusionTeam :0
+22:00:01 [ ITL ] (0) Remove All Object
+22:00:01 [ ITL ] Map:0 match ended.
+22:00:01 [ ITL ] (map:1), Proc_ITLState_None m_bEntrance = FALSE 
+22:00:01 [ ITL ] MAP : 1[CanStartITLBattle] FALSE nAlliedCount:0,nIllusionCount:0 
+22:00:01 [ ITL ] (1) Failed to Start ITL (UserCount: 0) (m_nRemainTimeMin:0)(m_nRemainTimeMSec:-703),AlliedCnt:[0],IllusionCnt:[0]
+22:00:01 [ ITL ][WarResult] Allied Team : 10 , IllusionTeam :0
+22:00:01 [ ITL ] (1) Remove All Object
+22:00:01 [ ITL ] Map:1 match ended.
+22:00:02 [Bot Hide] [BotHideGC] [Map:112] [X:198] [Y:102]
+22:00:02 [Bot Hide][10] (BotHideGC) SetState START
+22:01:02 [ITL] TempleNumber Reset :[0]
+22:01:02 [ ITL ] TYPE:1 , (0) ITL Sync Open Time. [932]min remain, m_nRemainTimeMSec:[-1]
+22:01:02 [ ITL ] MAP :0 match NONE.
+22:01:02 [ ITL ] TYPE :1, TempleNumber (0) end round 1, RemainTimeMSec:-1
+22:01:02 [ITL] TempleNumber Reset :[1]
+22:01:02 [ ITL ] TYPE:1 , (1) ITL Sync Open Time. [932]min remain, m_nRemainTimeMSec:[-1]
+22:01:02 [ ITL ] MAP :1 match NONE.
+22:01:02 [ ITL ] TYPE :1, TempleNumber (1) end round 1, RemainTimeMSec:-1
+22:01:10 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+22:01:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(549), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:01:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(550), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:01:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(551), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:01:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(552), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:01:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(553), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:01:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(554), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:01:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(555), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:01:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(556), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:01:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(557), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:01:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(558), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:01:10 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+22:01:10 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+22:02:00  [ ITL ] m_nNextTimeMin 29780937, nCurTime 29781015
+22:02:00  [ ITL ] m_nNextTimeMin 29780937, nCurTime 29781015
+22:02:02 +³++©«¦Î+°+º©ª +ºÃÐ ¦+¢+.+õ++
+22:02:02 ITL Guild Ranking Information Received 0
+22:03:00  [ ITL ] m_nNextTimeMin 29841015, nCurTime 29841031
+22:03:00  [ ITL ] m_nNextTimeMin 29841015, nCurTime 29841031
+22:04:00  [ ITL ] m_nNextTimeMin 29901031, nCurTime 29901125
+22:04:00  [ ITL ] m_nNextTimeMin 29901031, nCurTime 29901125
+22:05:00  [ ITL ] m_nNextTimeMin 29961125, nCurTime 29961140
+22:05:00  [ ITL ] m_nNextTimeMin 29961125, nCurTime 29961140
+22:06:00  [ ITL ] m_nNextTimeMin 30021140, nCurTime 30021234
+22:06:00  [ ITL ] m_nNextTimeMin 30021140, nCurTime 30021234
+22:06:10 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+22:06:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(549), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:06:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(550), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:06:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(551), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:06:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(552), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:06:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(553), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:06:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(554), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:06:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(555), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:06:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(556), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:06:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(557), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:06:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(558), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:06:10 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+22:06:10 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+22:07:00  [ ITL ] m_nNextTimeMin 30081234, nCurTime 30081250
+22:07:00  [ ITL ] m_nNextTimeMin 30081234, nCurTime 30081250
+22:08:00  [ ITL ] m_nNextTimeMin 30141250, nCurTime 30141312
+22:08:00  [ ITL ] m_nNextTimeMin 30141250, nCurTime 30141312
+22:09:00  [ ITL ] m_nNextTimeMin 30201312, nCurTime 30201421
+22:09:00  [ ITL ] m_nNextTimeMin 30201312, nCurTime 30201421
+22:10:01  [ ITL ] m_nNextTimeMin 30261421, nCurTime 30261531
+22:10:01  [ ITL ] m_nNextTimeMin 30261421, nCurTime 30261531
+22:11:01  [ ITL ] m_nNextTimeMin 30321531, nCurTime 30321625
+22:11:01  [ ITL ] m_nNextTimeMin 30321531, nCurTime 30321625
+22:11:10 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+22:11:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(549), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:11:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(550), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:11:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(551), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:11:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(552), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:11:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(553), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:11:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(554), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:11:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(555), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:11:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(556), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:11:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(557), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:11:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(558), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:11:10 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+22:11:10 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+22:12:01  [ ITL ] m_nNextTimeMin 30381625, nCurTime 30381734
+22:12:01  [ ITL ] m_nNextTimeMin 30381625, nCurTime 30381734
+22:13:01  [ ITL ] m_nNextTimeMin 30441734, nCurTime 30441828
+22:13:01  [ ITL ] m_nNextTimeMin 30441734, nCurTime 30441828
+22:14:01  [ ITL ] m_nNextTimeMin 30501828, nCurTime 30501843
+22:14:01  [ ITL ] m_nNextTimeMin 30501828, nCurTime 30501843
+22:15:01  [ ITL ] m_nNextTimeMin 30561843, nCurTime 30561921
+22:15:01  [ ITL ] m_nNextTimeMin 30561843, nCurTime 30561921
+22:16:01  [ ITL ] m_nNextTimeMin 30621921, nCurTime 30622031
+22:16:01  [ ITL ] m_nNextTimeMin 30621921, nCurTime 30622031
+22:16:10 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+22:16:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(549), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:16:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(550), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:16:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(551), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:16:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(552), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:16:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(553), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:16:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(554), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:16:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(555), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:16:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(556), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:16:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(557), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:16:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(558), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:16:10 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+22:16:10 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+22:17:01  [ ITL ] m_nNextTimeMin 30682031, nCurTime 30682140
+22:17:01  [ ITL ] m_nNextTimeMin 30682031, nCurTime 30682140
+22:18:01  [ ITL ] m_nNextTimeMin 30742140, nCurTime 30742218
+22:18:01  [ ITL ] m_nNextTimeMin 30742140, nCurTime 30742218
+22:19:01  [ ITL ] m_nNextTimeMin 30802218, nCurTime 30802234
+22:19:01  [ ITL ] m_nNextTimeMin 30802218, nCurTime 30802234
+22:20:00 [DSN][Proc_DSNState_None] After 10 minutes, the [Devil Square Normal Battle] door closes. RoomIndex ==> 0
+22:20:00 [DSN][Proc_DSNState_None] After 10 minutes, the [Devil Square Normal Battle] door closes. RoomIndex ==> 1
+22:20:00 [DSN][Proc_DSNState_None] After 10 minutes, the [Devil Square Normal Battle] door closes. RoomIndex ==> 2
+22:20:00 [DSN][Proc_DSNState_None] After 10 minutes, the [Devil Square Normal Battle] door closes. RoomIndex ==> 3
+22:20:01  [ ITL ] m_nNextTimeMin 30862234, nCurTime 30862328
+22:20:01  [ ITL ] m_nNextTimeMin 30862234, nCurTime 30862328
+22:21:01  [ ITL ] m_nNextTimeMin 30922328, nCurTime 30922343
+22:21:01  [ ITL ] m_nNextTimeMin 30922328, nCurTime 30922343
+22:21:10 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+22:21:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(549), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:21:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(550), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:21:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(551), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:21:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(552), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:21:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(553), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:21:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(554), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:21:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(555), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:21:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(556), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:21:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(557), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:21:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(558), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:21:10 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+22:21:10 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+22:22:01  [ ITL ] m_nNextTimeMin 30982343, nCurTime 30982421
+22:22:01  [ ITL ] m_nNextTimeMin 30982343, nCurTime 30982421
+22:23:02  [ ITL ] m_nNextTimeMin 31042421, nCurTime 31042531
+22:23:02  [ ITL ] m_nNextTimeMin 31042421, nCurTime 31042531
+22:24:02  [ ITL ] m_nNextTimeMin 31102531, nCurTime 31102625
+22:24:02  [ ITL ] m_nNextTimeMin 31102531, nCurTime 31102625
+22:25:02  [ ITL ] m_nNextTimeMin 31162625, nCurTime 31162718
+22:25:02  [ ITL ] m_nNextTimeMin 31162625, nCurTime 31162718
+22:25:05 [DSN][Proc_DSNState_None] After 5 minutes, the [Devil Square Normal Battle] door closes. RoomIndex ==> 0
+22:25:05 [DSN][Proc_DSNState_None] After 5 minutes, the [Devil Square Normal Battle] door closes. RoomIndex ==> 1
+22:25:05 [DSN][Proc_DSNState_None] After 5 minutes, the [Devil Square Normal Battle] door closes. RoomIndex ==> 2
+22:25:05 [DSN][Proc_DSNState_None] After 5 minutes, the [Devil Square Normal Battle] door closes. RoomIndex ==> 3
+22:25:05 [DSN][Proc_DSNState_None] Admission is possible. RoomIndex ==> 0
+22:25:05 [DSN][Proc_DSNState_None] Admission is possible. RoomIndex ==> 1
+22:25:05 [DSN][Proc_DSNState_None] Admission is possible. RoomIndex ==> 2
+22:25:05 [DSN][Proc_DSNState_None] Admission is possible. RoomIndex ==> 3
+22:26:02  [ ITL ] m_nNextTimeMin 31222718, nCurTime 31222734
+22:26:02  [ ITL ] m_nNextTimeMin 31222718, nCurTime 31222734
+22:26:06 [DSN][Proc_DSNState_None] After 4 minutes, the [Devil Square Normal Battle] door closes. RoomIndex ==> 0
+22:26:06 [DSN][Proc_DSNState_None] After 4 minutes, the [Devil Square Normal Battle] door closes. RoomIndex ==> 1
+22:26:06 [DSN][Proc_DSNState_None] After 4 minutes, the [Devil Square Normal Battle] door closes. RoomIndex ==> 2
+22:26:06 [DSN][Proc_DSNState_None] After 4 minutes, the [Devil Square Normal Battle] door closes. RoomIndex ==> 3
+22:26:10 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+22:26:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(549), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:26:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(550), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:26:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(551), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:26:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(552), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:26:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(553), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:26:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(554), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:26:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(555), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:26:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(556), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:26:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(557), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:26:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(558), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:26:10 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+22:26:10 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+22:27:00 [Doppelganger] State READY [ROOM_INDEX]:0
+22:27:00 [Doppelganger] State READY [ROOM_INDEX]:1
+22:27:00 [Doppelganger] State READY [ROOM_INDEX]:2
+22:27:00 [Doppelganger] State READY [ROOM_INDEX]:3
+22:27:00 [Doppelganger] State READY [ROOM_INDEX]:4
+22:27:00 [Doppelganger] State READY [ROOM_INDEX]:5
+22:27:00 [Doppelganger] State READY [ROOM_INDEX]:6
+22:27:02  [ ITL ] m_nNextTimeMin 31282734, nCurTime 31282750
+22:27:02  [ ITL ] m_nNextTimeMin 31282734, nCurTime 31282750
+22:27:07 [DSN][Proc_DSNState_None] After 3 minutes, the [Devil Square Normal Battle] door closes. RoomIndex ==> 0
+22:27:07 [DSN][Proc_DSNState_None] After 3 minutes, the [Devil Square Normal Battle] door closes. RoomIndex ==> 1
+22:27:07 [DSN][Proc_DSNState_None] After 3 minutes, the [Devil Square Normal Battle] door closes. RoomIndex ==> 2
+22:27:07 [DSN][Proc_DSNState_None] After 3 minutes, the [Devil Square Normal Battle] door closes. RoomIndex ==> 3
+22:28:02  [ ITL ] m_nNextTimeMin 31342750, nCurTime 31342843
+22:28:02  [ ITL ] m_nNextTimeMin 31342750, nCurTime 31342843
+22:28:08 [DSN][Proc_DSNState_None] After 2 minutes, the [Devil Square Normal Battle] door closes. RoomIndex ==> 0
+22:28:08 [DSN][Proc_DSNState_None] After 2 minutes, the [Devil Square Normal Battle] door closes. RoomIndex ==> 1
+22:28:08 [DSN][Proc_DSNState_None] After 2 minutes, the [Devil Square Normal Battle] door closes. RoomIndex ==> 2
+22:28:08 [DSN][Proc_DSNState_None] After 2 minutes, the [Devil Square Normal Battle] door closes. RoomIndex ==> 3
+22:29:02  [ ITL ] m_nNextTimeMin 31402843, nCurTime 31402921
+22:29:02  [ ITL ] m_nNextTimeMin 31402843, nCurTime 31402921
+22:29:09 [DSN][Proc_DSNState_None] After 1 minutes, the [Devil Square Normal Battle] door closes. RoomIndex ==> 0
+22:29:09 [DSN][Proc_DSNState_None] After 1 minutes, the [Devil Square Normal Battle] door closes. RoomIndex ==> 1
+22:29:09 [DSN][Proc_DSNState_None] After 1 minutes, the [Devil Square Normal Battle] door closes. RoomIndex ==> 2
+22:29:09 [DSN][Proc_DSNState_None] After 1 minutes, the [Devil Square Normal Battle] door closes. RoomIndex ==> 3
+22:29:30 [Doppelganger] State END [ROOM_INDEX]:0
+22:29:30 [Doppelganger] State END [ROOM_INDEX]:1
+22:29:30 [Doppelganger] State END [ROOM_INDEX]:2
+22:29:30 [Doppelganger] State END [ROOM_INDEX]:3
+22:29:30 [Doppelganger] State END [ROOM_INDEX]:4
+22:29:30 [Doppelganger] State END [ROOM_INDEX]:5
+22:29:30 [Doppelganger] State END [ROOM_INDEX]:6
+22:29:35 [Doppelganger] State NONE [ROOM_INDEX]:0
+22:29:35 [Doppelganger] State NONE [ROOM_INDEX]:1
+22:29:35 [Doppelganger] State NONE [ROOM_INDEX]:2
+22:29:35 [Doppelganger] State NONE [ROOM_INDEX]:3
+22:29:35 [Doppelganger] State NONE [ROOM_INDEX]:4
+22:29:35 [Doppelganger] State NONE [ROOM_INDEX]:5
+22:29:35 [Doppelganger] State NONE [ROOM_INDEX]:6
+22:30:00 [Devil Square] (1) SetState STAND
+22:30:00 [Devil Square] (2) SetState STAND
+22:30:00 [Devil Square] (3) SetState STAND
+22:30:00 [Devil Square] (4) SetState STAND
+22:30:00 [Devil Square] (5) SetState STAND
+22:30:00 [Devil Square] (6) SetState STAND
+22:30:00 [Devil Square] (7) SetState STAND
+22:30:01 [Devil Square] (1) Not enough users
+22:30:01 [Devil Square] (1) Sync Start Time. [59] min remain
+22:30:01 [Devil Square] (1) SetState EMPTY
+22:30:01 [Devil Square] (2) Not enough users
+22:30:01 [Devil Square] (2) Sync Start Time. [59] min remain
+22:30:01 [Devil Square] (2) SetState EMPTY
+22:30:01 [Devil Square] (3) Not enough users
+22:30:01 [Devil Square] (3) Sync Start Time. [59] min remain
+22:30:01 [Devil Square] (3) SetState EMPTY
+22:30:01 [Devil Square] (4) Not enough users
+22:30:01 [Devil Square] (4) Sync Start Time. [59] min remain
+22:30:01 [Devil Square] (4) SetState EMPTY
+22:30:01 [Devil Square] (5) Not enough users
+22:30:01 [Devil Square] (5) Sync Start Time. [59] min remain
+22:30:01 [Devil Square] (5) SetState EMPTY
+22:30:01 [Devil Square] (6) Not enough users
+22:30:01 [Devil Square] (6) Sync Start Time. [59] min remain
+22:30:01 [Devil Square] (6) SetState EMPTY
+22:30:01 [Devil Square] (7) Not enough users
+22:30:01 [Devil Square] (7) Sync Start Time. [59] min remain
+22:30:01 [Devil Square] (7) SetState EMPTY
+22:30:02  [ ITL ] m_nNextTimeMin 31462921, nCurTime 31463015
+22:30:02  [ ITL ] m_nNextTimeMin 31462921, nCurTime 31463015
+22:30:02 [Bot Hide][10] (BotHideGC) SetState CLEAN
+22:30:03 [DSN][Proc_DSNState_None] The door is closed. RoomIndex ==> 0
+22:30:03 [DSN][Proc_DSNState_None] The door is closed. RoomIndex ==> 1
+22:30:03 [DSN][Proc_DSNState_None] The door is closed. RoomIndex ==> 2
+22:30:03 [DSN][Proc_DSNState_None] The door is closed. RoomIndex ==> 3
+22:30:10 [DSN][Proc_DSNState_None] Failed to Start DSN (UserCount: 0) (m_nRemainTimeMin:0)(m_nRemainTimeMSec:0)(RoomIndex:0)
+22:30:10 [DSN][ClearMonster] Clear Monster RoomIndex ==> 0
+22:30:10 [DSN][Set_DSNState_End] Termination processing. RoomIndex ==> 0
+22:30:10 [DSN][Proc_DSNState_None] Failed to Start DSN (UserCount: 0) (m_nRemainTimeMin:0)(m_nRemainTimeMSec:0)(RoomIndex:1)
+22:30:10 [DSN][ClearMonster] Clear Monster RoomIndex ==> 1
+22:30:10 [DSN][Set_DSNState_End] Termination processing. RoomIndex ==> 1
+22:30:10 [DSN][Proc_DSNState_None] Failed to Start DSN (UserCount: 0) (m_nRemainTimeMin:0)(m_nRemainTimeMSec:0)(RoomIndex:2)
+22:30:10 [DSN][ClearMonster] Clear Monster RoomIndex ==> 2
+22:30:10 [DSN][Set_DSNState_End] Termination processing. RoomIndex ==> 2
+22:30:10 [DSN][Proc_DSNState_None] Failed to Start DSN (UserCount: 0) (m_nRemainTimeMin:0)(m_nRemainTimeMSec:0)(RoomIndex:3)
+22:30:10 [DSN][ClearMonster] Clear Monster RoomIndex ==> 3
+22:30:10 [DSN][Set_DSNState_End] Termination processing. RoomIndex ==> 3
+22:30:19 [DSN][DSN_ProcessInit] reset RoomIndex ==> 0
+22:30:19 [DSN][Set_DSNState_None] NONE process. RoomIndex ==> 0
+22:30:19 [DSN][Proc_DSNState_End] Ending round : 0 RoomIndex ==> 0
+22:30:19 [DSN][DSN_ProcessInit] reset RoomIndex ==> 1
+22:30:19 [DSN][Set_DSNState_None] NONE process. RoomIndex ==> 1
+22:30:19 [DSN][Proc_DSNState_End] Ending round : 0 RoomIndex ==> 1
+22:30:19 [DSN][DSN_ProcessInit] reset RoomIndex ==> 2
+22:30:19 [DSN][Set_DSNState_None] NONE process. RoomIndex ==> 2
+22:30:19 [DSN][Proc_DSNState_End] Ending round : 0 RoomIndex ==> 2
+22:30:19 [DSN][DSN_ProcessInit] reset RoomIndex ==> 3
+22:30:19 [DSN][Set_DSNState_None] NONE process. RoomIndex ==> 3
+22:30:19 [DSN][Proc_DSNState_End] Ending round : 0 RoomIndex ==> 3
+22:31:02 [Bot Hide][10] (BotHideGC) Sync Start Time. [1408] min remain
+22:31:02 [Bot Hide][10] (BotHideGC) SetState EMPTY
+22:31:02  [ ITL ] m_nNextTimeMin 31523015, nCurTime 31523031
+22:31:02  [ ITL ] m_nNextTimeMin 31523015, nCurTime 31523031
+22:31:10 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+22:31:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(549), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:31:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(550), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:31:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(551), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:31:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(552), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:31:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(553), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:31:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(554), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:31:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(555), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:31:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(556), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:31:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(557), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:31:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(558), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:31:10 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+22:31:10 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+22:32:02  [ ITL ] m_nNextTimeMin 31583031, nCurTime 31583125
+22:32:02  [ ITL ] m_nNextTimeMin 31583031, nCurTime 31583125
+22:33:02  [ ITL ] m_nNextTimeMin 31643125, nCurTime 31643218
+22:33:02  [ ITL ] m_nNextTimeMin 31643125, nCurTime 31643218
+22:34:02  [ ITL ] m_nNextTimeMin 31703218, nCurTime 31703234
+22:34:02  [ ITL ] m_nNextTimeMin 31703218, nCurTime 31703234
+22:35:02  [ ITL ] m_nNextTimeMin 31763234, nCurTime 31763250
+22:35:02  [ ITL ] m_nNextTimeMin 31763234, nCurTime 31763250
+22:36:02  [ ITL ] m_nNextTimeMin 31823250, nCurTime 31823328
+22:36:02  [ ITL ] m_nNextTimeMin 31823250, nCurTime 31823328
+22:36:10 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+22:36:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(549), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:36:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(550), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:36:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(551), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:36:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(552), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:36:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(553), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:36:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(554), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:36:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(555), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:36:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(556), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:36:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(557), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:36:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(558), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:36:10 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+22:36:10 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+22:37:02  [ ITL ] m_nNextTimeMin 31883328, nCurTime 31883421
+22:37:02  [ ITL ] m_nNextTimeMin 31883328, nCurTime 31883421
+22:38:03  [ ITL ] m_nNextTimeMin 31943421, nCurTime 31943515
+22:38:03  [ ITL ] m_nNextTimeMin 31943421, nCurTime 31943515
+22:39:03  [ ITL ] m_nNextTimeMin 32003515, nCurTime 32003531
+22:39:03  [ ITL ] m_nNextTimeMin 32003515, nCurTime 32003531
+22:40:03  [ ITL ] m_nNextTimeMin 32063531, nCurTime 32063625
+22:40:03  [ ITL ] m_nNextTimeMin 32063531, nCurTime 32063625
+22:41:03  [ ITL ] m_nNextTimeMin 32123625, nCurTime 32123734
+22:41:03  [ ITL ] m_nNextTimeMin 32123625, nCurTime 32123734
+22:41:10 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+22:41:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(549), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:41:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(550), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:41:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(551), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:41:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(552), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:41:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(553), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:41:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(554), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:41:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(555), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:41:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(556), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:41:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(557), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:41:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(558), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:41:10 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+22:41:10 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+22:42:03  [ ITL ] m_nNextTimeMin 32183734, nCurTime 32183828
+22:42:03  [ ITL ] m_nNextTimeMin 32183734, nCurTime 32183828
+22:43:03  [ ITL ] m_nNextTimeMin 32243828, nCurTime 32243921
+22:43:03  [ ITL ] m_nNextTimeMin 32243828, nCurTime 32243921
+22:44:03  [ ITL ] m_nNextTimeMin 32303921, nCurTime 32304031
+22:44:03  [ ITL ] m_nNextTimeMin 32303921, nCurTime 32304031
+22:45:00 [Chaos Castle] (1) SetState STAND
+22:45:00 [Chaos Castle] (2) SetState STAND
+22:45:00 [Chaos Castle] (3) SetState STAND
+22:45:00 [Chaos Castle] (4) SetState STAND
+22:45:00 [Chaos Castle] (5) SetState STAND
+22:45:00 [Chaos Castle] (6) SetState STAND
+22:45:00 [Chaos Castle] (7) SetState STAND
+22:45:01 [Chaos Castle] (1) Not enough users
+22:45:01 [Chaos Castle] (1) Sync Start Time. [59] min remain
+22:45:01 [Chaos Castle] (1) SetState EMPTY
+22:45:01 [Chaos Castle] (2) Not enough users
+22:45:01 [Chaos Castle] (2) Sync Start Time. [59] min remain
+22:45:01 [Chaos Castle] (2) SetState EMPTY
+22:45:01 [Chaos Castle] (3) Not enough users
+22:45:01 [Chaos Castle] (3) Sync Start Time. [59] min remain
+22:45:01 [Chaos Castle] (3) SetState EMPTY
+22:45:01 [Chaos Castle] (4) Not enough users
+22:45:01 [Chaos Castle] (4) Sync Start Time. [59] min remain
+22:45:01 [Chaos Castle] (4) SetState EMPTY
+22:45:01 [Chaos Castle] (5) Not enough users
+22:45:01 [Chaos Castle] (5) Sync Start Time. [59] min remain
+22:45:01 [Chaos Castle] (5) SetState EMPTY
+22:45:01 [Chaos Castle] (6) Not enough users
+22:45:01 [Chaos Castle] (6) Sync Start Time. [59] min remain
+22:45:01 [Chaos Castle] (6) SetState EMPTY
+22:45:01 [Chaos Castle] (7) Not enough users
+22:45:01 [Chaos Castle] (7) Sync Start Time. [59] min remain
+22:45:01 [Chaos Castle] (7) SetState EMPTY
+22:45:03  [ ITL ] m_nNextTimeMin 32364031, nCurTime 32364125
+22:45:03  [ ITL ] m_nNextTimeMin 32364031, nCurTime 32364125
+22:46:03  [ ITL ] m_nNextTimeMin 32424125, nCurTime 32424250
+22:46:03  [ ITL ] m_nNextTimeMin 32424125, nCurTime 32424250
+22:46:10 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+22:46:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(549), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:46:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(550), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:46:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(551), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:46:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(552), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:46:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(553), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:46:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(554), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:46:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(555), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:46:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(556), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:46:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(557), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:46:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(558), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:46:10 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+22:46:10 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+22:47:03  [ ITL ] m_nNextTimeMin 32484250, nCurTime 32484328
+22:47:03  [ ITL ] m_nNextTimeMin 32484250, nCurTime 32484328
+22:48:03  [ ITL ] m_nNextTimeMin 32544328, nCurTime 32544421
+22:48:03  [ ITL ] m_nNextTimeMin 32544328, nCurTime 32544421
+22:49:04  [ ITL ] m_nNextTimeMin 32604421, nCurTime 32604531
+22:49:04  [ ITL ] m_nNextTimeMin 32604421, nCurTime 32604531
+22:50:04  [ ITL ] m_nNextTimeMin 32664531, nCurTime 32664625
+22:50:04  [ ITL ] m_nNextTimeMin 32664531, nCurTime 32664625
+22:51:04  [ ITL ] m_nNextTimeMin 32724625, nCurTime 32724718
+22:51:04  [ ITL ] m_nNextTimeMin 32724625, nCurTime 32724718
+22:51:10 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+22:51:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(549), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:51:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(550), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:51:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(551), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:51:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(552), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:51:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(553), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:51:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(554), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:51:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(555), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:51:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(556), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:51:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(557), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:51:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(558), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:51:10 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+22:51:10 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+22:52:04  [ ITL ] m_nNextTimeMin 32784718, nCurTime 32784812
+22:52:04  [ ITL ] m_nNextTimeMin 32784718, nCurTime 32784812
+22:53:04  [ ITL ] m_nNextTimeMin 32844812, nCurTime 32844828
+22:53:04  [ ITL ] m_nNextTimeMin 32844812, nCurTime 32844828
+22:54:04  [ ITL ] m_nNextTimeMin 32904828, nCurTime 32904937
+22:54:04  [ ITL ] m_nNextTimeMin 32904828, nCurTime 32904937
+22:55:04  [ ITL ] m_nNextTimeMin 32964937, nCurTime 32965015
+22:55:04  [ ITL ] m_nNextTimeMin 32964937, nCurTime 32965015
+22:56:04  [ ITL ] m_nNextTimeMin 33025015, nCurTime 33025046
+22:56:04  [ ITL ] m_nNextTimeMin 33025015, nCurTime 33025046
+22:56:10 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+22:56:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(549), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:56:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(550), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:56:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(551), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:56:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(552), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:56:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(553), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:56:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(554), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:56:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(555), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:56:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(556), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:56:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(557), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:56:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(558), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:56:10 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+22:56:10 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+22:57:04  [ ITL ] m_nNextTimeMin 33085046, nCurTime 33085140
+22:57:04  [ ITL ] m_nNextTimeMin 33085046, nCurTime 33085140
+22:58:04  [ ITL ] m_nNextTimeMin 33145140, nCurTime 33145234
+22:58:04  [ ITL ] m_nNextTimeMin 33145140, nCurTime 33145234
+22:58:22 [ObjectManager][7052] AddClient (192.168.1.1)
+22:58:22 Send ObeliskInfo iGroupNumber 2 iAttr 3 iMapIndex 92 iPosX 188 iPosY 101
+22:58:22 Send ObeliskInfo iGroupNumber m_iAuraPosX 175 m_iAuraPosY 102
+22:58:22 Send ObeliskInfo iGroupNumber m_iAuraPosX 192 m_iAuraPosY 110
+22:58:22 Send ObeliskInfo iGroupNumber m_iAuraPosX 200 m_iAuraPosY 96
+22:58:22 Send ObeliskInfo iGroupNumber 3 iAttr 5 iMapIndex 96 iPosX 162 iPosY 54
+22:58:22 Send ObeliskInfo iGroupNumber m_iAuraPosX 154 m_iAuraPosY 60
+22:58:22 Send ObeliskInfo iGroupNumber m_iAuraPosX 162 m_iAuraPosY 45
+22:58:22 Send ObeliskInfo iGroupNumber m_iAuraPosX 165 m_iAuraPosY 67
+22:58:22 Send ObeliskInfo iGroupNumber 0 iAttr 1 iMapIndex -1 iPosX -1 iPosY -1
+22:58:22 Send ObeliskInfo iGroupNumber m_iAuraPosX -1 m_iAuraPosY -1
+22:58:22 Send ObeliskInfo iGroupNumber m_iAuraPosX -1 m_iAuraPosY -1
+22:58:22 Send ObeliskInfo iGroupNumber m_iAuraPosX -1 m_iAuraPosY -1
+22:58:22 Send ObeliskInfo iGroupNumber 0 iAttr 4 iMapIndex -1 iPosX -1 iPosY -1
+22:58:22 Send ObeliskInfo iGroupNumber m_iAuraPosX -1 m_iAuraPosY -1
+22:58:22 Send ObeliskInfo iGroupNumber m_iAuraPosX -1 m_iAuraPosY -1
+22:58:22 Send ObeliskInfo iGroupNumber m_iAuraPosX -1 m_iAuraPosY -1
+22:58:22 [ArcaBattle] Send Play Data
+22:58:22 [ObjectManager][7052] AddAccountInfo (test1)
+22:58:22 Send ObeliskInfo iGroupNumber 2 iAttr 3 iMapIndex 92 iPosX 188 iPosY 101
+22:58:22 Send ObeliskInfo iGroupNumber m_iAuraPosX 175 m_iAuraPosY 102
+22:58:22 Send ObeliskInfo iGroupNumber m_iAuraPosX 192 m_iAuraPosY 110
+22:58:22 Send ObeliskInfo iGroupNumber m_iAuraPosX 200 m_iAuraPosY 96
+22:58:22 Send ObeliskInfo iGroupNumber 3 iAttr 5 iMapIndex 96 iPosX 162 iPosY 54
+22:58:22 Send ObeliskInfo iGroupNumber m_iAuraPosX 154 m_iAuraPosY 60
+22:58:22 Send ObeliskInfo iGroupNumber m_iAuraPosX 162 m_iAuraPosY 45
+22:58:22 Send ObeliskInfo iGroupNumber m_iAuraPosX 165 m_iAuraPosY 67
+22:58:22 Send ObeliskInfo iGroupNumber 0 iAttr 1 iMapIndex -1 iPosX -1 iPosY -1
+22:58:22 Send ObeliskInfo iGroupNumber m_iAuraPosX -1 m_iAuraPosY -1
+22:58:22 Send ObeliskInfo iGroupNumber m_iAuraPosX -1 m_iAuraPosY -1
+22:58:22 Send ObeliskInfo iGroupNumber m_iAuraPosX -1 m_iAuraPosY -1
+22:58:22 Send ObeliskInfo iGroupNumber 0 iAttr 4 iMapIndex -1 iPosX -1 iPosY -1
+22:58:22 Send ObeliskInfo iGroupNumber m_iAuraPosX -1 m_iAuraPosY -1
+22:58:22 Send ObeliskInfo iGroupNumber m_iAuraPosX -1 m_iAuraPosY -1
+22:58:22 Send ObeliskInfo iGroupNumber m_iAuraPosX -1 m_iAuraPosY -1
+22:58:22 [ArcaBattle] Send Play Data
+22:58:22 [ArcaBattle] Entered ArcaBattle [test1] [SumBiv] UserCnt [3]
+22:58:22 [Gremory Case][GDGremoryCaseReqItemListSend][Account:test1][Name:SumBiv] Request to load Gremory Case item list
+22:58:22 [BlockChat][GDReqBlockChatList] Send Request Block List
+22:58:22 [ObjectManager][7052] AddCharacterInfo (SumBiv)
+22:58:22 [ ITL ][ DG_ITL_UserCount ] Name :SumBiv ,Cnt:0
+22:58:22 [Gremory Case][DGGremoryCaseReqItemListRecv][Account:test1][Name:SumBiv] Received item list [Character:2]-[Server:0]-[MuMobil:0]-[Private:0]
+22:58:31 [ObjectManager][7050] AddClient (192.168.1.1)
+22:58:31 Send ObeliskInfo iGroupNumber 2 iAttr 3 iMapIndex 92 iPosX 188 iPosY 101
+22:58:31 Send ObeliskInfo iGroupNumber m_iAuraPosX 175 m_iAuraPosY 102
+22:58:31 Send ObeliskInfo iGroupNumber m_iAuraPosX 192 m_iAuraPosY 110
+22:58:31 Send ObeliskInfo iGroupNumber m_iAuraPosX 200 m_iAuraPosY 96
+22:58:31 Send ObeliskInfo iGroupNumber 3 iAttr 5 iMapIndex 96 iPosX 162 iPosY 54
+22:58:31 Send ObeliskInfo iGroupNumber m_iAuraPosX 154 m_iAuraPosY 60
+22:58:31 Send ObeliskInfo iGroupNumber m_iAuraPosX 162 m_iAuraPosY 45
+22:58:31 Send ObeliskInfo iGroupNumber m_iAuraPosX 165 m_iAuraPosY 67
+22:58:31 Send ObeliskInfo iGroupNumber 0 iAttr 1 iMapIndex -1 iPosX -1 iPosY -1
+22:58:31 Send ObeliskInfo iGroupNumber m_iAuraPosX -1 m_iAuraPosY -1
+22:58:31 Send ObeliskInfo iGroupNumber m_iAuraPosX -1 m_iAuraPosY -1
+22:58:31 Send ObeliskInfo iGroupNumber m_iAuraPosX -1 m_iAuraPosY -1
+22:58:31 Send ObeliskInfo iGroupNumber 0 iAttr 4 iMapIndex -1 iPosX -1 iPosY -1
+22:58:31 Send ObeliskInfo iGroupNumber m_iAuraPosX -1 m_iAuraPosY -1
+22:58:31 Send ObeliskInfo iGroupNumber m_iAuraPosX -1 m_iAuraPosY -1
+22:58:31 Send ObeliskInfo iGroupNumber m_iAuraPosX -1 m_iAuraPosY -1
+22:58:31 [ArcaBattle] Send Play Data
+22:58:31 [ObjectManager][7050] AddAccountInfo (test)
+22:58:31 Send ObeliskInfo iGroupNumber 2 iAttr 3 iMapIndex 92 iPosX 188 iPosY 101
+22:58:31 Send ObeliskInfo iGroupNumber m_iAuraPosX 175 m_iAuraPosY 102
+22:58:31 Send ObeliskInfo iGroupNumber m_iAuraPosX 192 m_iAuraPosY 110
+22:58:31 Send ObeliskInfo iGroupNumber m_iAuraPosX 200 m_iAuraPosY 96
+22:58:31 Send ObeliskInfo iGroupNumber 3 iAttr 5 iMapIndex 96 iPosX 162 iPosY 54
+22:58:31 Send ObeliskInfo iGroupNumber m_iAuraPosX 154 m_iAuraPosY 60
+22:58:31 Send ObeliskInfo iGroupNumber m_iAuraPosX 162 m_iAuraPosY 45
+22:58:31 Send ObeliskInfo iGroupNumber m_iAuraPosX 165 m_iAuraPosY 67
+22:58:31 Send ObeliskInfo iGroupNumber 0 iAttr 1 iMapIndex -1 iPosX -1 iPosY -1
+22:58:31 Send ObeliskInfo iGroupNumber m_iAuraPosX -1 m_iAuraPosY -1
+22:58:31 Send ObeliskInfo iGroupNumber m_iAuraPosX -1 m_iAuraPosY -1
+22:58:31 Send ObeliskInfo iGroupNumber m_iAuraPosX -1 m_iAuraPosY -1
+22:58:31 Send ObeliskInfo iGroupNumber 0 iAttr 4 iMapIndex -1 iPosX -1 iPosY -1
+22:58:31 Send ObeliskInfo iGroupNumber m_iAuraPosX -1 m_iAuraPosY -1
+22:58:31 Send ObeliskInfo iGroupNumber m_iAuraPosX -1 m_iAuraPosY -1
+22:58:31 Send ObeliskInfo iGroupNumber m_iAuraPosX -1 m_iAuraPosY -1
+22:58:31 [ArcaBattle] Send Play Data
+22:58:31 [ArcaBattle] Entered ArcaBattle [test] [ElfBuff] UserCnt [3]
+22:58:31 [Gremory Case][GDGremoryCaseReqItemListSend][Account:test][Name:ElfBuff] Request to load Gremory Case item list
+22:58:31 [BlockChat][GDReqBlockChatList] Send Request Block List
+22:58:31 [ObjectManager][7050] AddCharacterInfo (ElfBuff)
+22:58:31 [ ITL ][ DG_ITL_UserCount ] Name :ElfBuff ,Cnt:0
+22:58:31 [Gremory Case][DGGremoryCaseReqItemListRecv][Account:test][Name:ElfBuff] Received item list [Character:0]-[Server:0]-[MuMobil:0]-[Private:0]
+22:58:36 [ObjectManager][7051] AddClient (192.168.1.1)
+22:58:36 Send ObeliskInfo iGroupNumber 2 iAttr 3 iMapIndex 92 iPosX 188 iPosY 101
+22:58:36 Send ObeliskInfo iGroupNumber m_iAuraPosX 175 m_iAuraPosY 102
+22:58:36 Send ObeliskInfo iGroupNumber m_iAuraPosX 192 m_iAuraPosY 110
+22:58:36 Send ObeliskInfo iGroupNumber m_iAuraPosX 200 m_iAuraPosY 96
+22:58:36 Send ObeliskInfo iGroupNumber 3 iAttr 5 iMapIndex 96 iPosX 162 iPosY 54
+22:58:36 Send ObeliskInfo iGroupNumber m_iAuraPosX 154 m_iAuraPosY 60
+22:58:36 Send ObeliskInfo iGroupNumber m_iAuraPosX 162 m_iAuraPosY 45
+22:58:36 Send ObeliskInfo iGroupNumber m_iAuraPosX 165 m_iAuraPosY 67
+22:58:36 Send ObeliskInfo iGroupNumber 0 iAttr 1 iMapIndex -1 iPosX -1 iPosY -1
+22:58:36 Send ObeliskInfo iGroupNumber m_iAuraPosX -1 m_iAuraPosY -1
+22:58:36 Send ObeliskInfo iGroupNumber m_iAuraPosX -1 m_iAuraPosY -1
+22:58:36 Send ObeliskInfo iGroupNumber m_iAuraPosX -1 m_iAuraPosY -1
+22:58:36 Send ObeliskInfo iGroupNumber 0 iAttr 4 iMapIndex -1 iPosX -1 iPosY -1
+22:58:36 Send ObeliskInfo iGroupNumber m_iAuraPosX -1 m_iAuraPosY -1
+22:58:36 Send ObeliskInfo iGroupNumber m_iAuraPosX -1 m_iAuraPosY -1
+22:58:36 Send ObeliskInfo iGroupNumber m_iAuraPosX -1 m_iAuraPosY -1
+22:58:36 [ArcaBattle] Send Play Data
+22:58:36 [ObjectManager][7051] AddAccountInfo (kudoshjn)
+22:58:36 Send ObeliskInfo iGroupNumber 2 iAttr 3 iMapIndex 92 iPosX 188 iPosY 101
+22:58:36 Send ObeliskInfo iGroupNumber m_iAuraPosX 175 m_iAuraPosY 102
+22:58:36 Send ObeliskInfo iGroupNumber m_iAuraPosX 192 m_iAuraPosY 110
+22:58:36 Send ObeliskInfo iGroupNumber m_iAuraPosX 200 m_iAuraPosY 96
+22:58:36 Send ObeliskInfo iGroupNumber 3 iAttr 5 iMapIndex 96 iPosX 162 iPosY 54
+22:58:36 Send ObeliskInfo iGroupNumber m_iAuraPosX 154 m_iAuraPosY 60
+22:58:36 Send ObeliskInfo iGroupNumber m_iAuraPosX 162 m_iAuraPosY 45
+22:58:36 Send ObeliskInfo iGroupNumber m_iAuraPosX 165 m_iAuraPosY 67
+22:58:36 Send ObeliskInfo iGroupNumber 0 iAttr 1 iMapIndex -1 iPosX -1 iPosY -1
+22:58:36 Send ObeliskInfo iGroupNumber m_iAuraPosX -1 m_iAuraPosY -1
+22:58:36 Send ObeliskInfo iGroupNumber m_iAuraPosX -1 m_iAuraPosY -1
+22:58:36 Send ObeliskInfo iGroupNumber m_iAuraPosX -1 m_iAuraPosY -1
+22:58:36 Send ObeliskInfo iGroupNumber 0 iAttr 4 iMapIndex -1 iPosX -1 iPosY -1
+22:58:36 Send ObeliskInfo iGroupNumber m_iAuraPosX -1 m_iAuraPosY -1
+22:58:36 Send ObeliskInfo iGroupNumber m_iAuraPosX -1 m_iAuraPosY -1
+22:58:36 Send ObeliskInfo iGroupNumber m_iAuraPosX -1 m_iAuraPosY -1
+22:58:36 [ArcaBattle] Send Play Data
+22:58:36 [ArcaBattle] Entered ArcaBattle [kudoshjn] [IKBiv] UserCnt [3]
+22:58:36 [Gremory Case][GDGremoryCaseReqItemListSend][Account:kudoshjn][Name:IKBiv] Request to load Gremory Case item list
+22:58:36 [BlockChat][GDReqBlockChatList] Send Request Block List
+22:58:36 [ObjectManager][7051] AddCharacterInfo (IKBiv)
+22:58:36 [PMATCHING_R][CreateParty] PNum:0, LeaderIdx:7051, LeaderName:IKBiv
+22:58:36 PartyMember(2) :[kudoshjn][IKBiv], [test1][SumBiv], 
+22:58:36 PartyMember(3) :[kudoshjn][IKBiv], [test1][SumBiv], [test][ElfBuff], 
+22:58:37 [ ITL ][ DG_ITL_UserCount ] Name :IKBiv ,Cnt:0
+22:58:37 [Gremory Case][DGGremoryCaseReqItemListRecv][Account:kudoshjn][Name:IKBiv] Received item list [Character:1]-[Server:0]-[MuMobil:0]-[Private:0]
+22:59:04  [ ITL ] m_nNextTimeMin 33205234, nCurTime 33205328
+22:59:04  [ ITL ] m_nNextTimeMin 33205234, nCurTime 33205328
+23:00:00 [Blood Castle] (1) SetState STAND
+23:00:00 [Blood Castle] (2) SetState STAND
+23:00:00 [Blood Castle] (3) SetState STAND
+23:00:00 [Blood Castle] (4) SetState STAND
+23:00:00 [Blood Castle] (5) SetState STAND
+23:00:00 [Blood Castle] (6) SetState STAND
+23:00:00 [Blood Castle] (7) SetState STAND
+23:00:00 [Blood Castle] (8) SetState STAND
+23:00:00 [Chaos Castle Survival] SetState STAND
+23:00:00 [Bot Hide][11] (BotHideKM) SetState STAND
+23:00:01 [Blood Castle] (1) Not enough users
+23:00:01 [Blood Castle] (1) Sync Start Time. [59] min remain
+23:00:01 [Blood Castle] (1) SetState EMPTY
+23:00:01 [Blood Castle] (2) Not enough users
+23:00:01 [Blood Castle] (2) Sync Start Time. [59] min remain
+23:00:01 [Blood Castle] (2) SetState EMPTY
+23:00:01 [Blood Castle] (3) Not enough users
+23:00:01 [Blood Castle] (3) Sync Start Time. [59] min remain
+23:00:01 [Blood Castle] (3) SetState EMPTY
+23:00:01 [Blood Castle] (4) Not enough users
+23:00:01 [Blood Castle] (4) Sync Start Time. [59] min remain
+23:00:01 [Blood Castle] (4) SetState EMPTY
+23:00:01 [Blood Castle] (7) Not enough users
+23:00:01 [Blood Castle] (7) Sync Start Time. [59] min remain
+23:00:01 [Blood Castle] (7) SetState EMPTY
+23:00:01 [Blood Castle] (8) Not enough users
+23:00:01 [Blood Castle] (8) Sync Start Time. [59] min remain
+23:00:01 [Blood Castle] (8) SetState EMPTY
+23:00:01 [Chaos Castle Survival] Not enough users
+23:00:01 [Chaos Castle Survival] Sync Start Time. [144] min remain
+23:00:01 [Chaos Castle Survival][GDChaosCastleSurvivalRenewallRanking] [BattleType:1]
+23:00:01 [Chaos Castle Survival] SetState EMPTY
+23:00:01 [Bot Hide] [BotHideKM] [Map:122] [X:34] [Y:43]
+23:00:01 [Bot Hide][11] (BotHideKM) SetState START
+23:00:01 [Chaos Castle Survival] Ranking Load Successful [RankingCount:0]
+23:00:05  [ ITL ] m_nNextTimeMin 33265328, nCurTime 33265453
+23:00:05  [ ITL ] m_nNextTimeMin 33265328, nCurTime 33265453
+23:01:00 [Blood Castle] (5) SetState START
+23:01:00 [Blood Castle] (6) SetState START
+23:01:05  [ ITL ] m_nNextTimeMin 33325453, nCurTime 33325531
+23:01:05  [ ITL ] m_nNextTimeMin 33325453, nCurTime 33325531
+23:01:10 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+23:01:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(549), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:01:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(550), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:01:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(551), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:01:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(552), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:01:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(553), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:01:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(554), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:01:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(555), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:01:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(556), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:01:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(557), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:01:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(558), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:01:10 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+23:01:10 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+23:02:05  [ ITL ] m_nNextTimeMin 33385531, nCurTime 33385546
+23:02:05  [ ITL ] m_nNextTimeMin 33385531, nCurTime 33385546
+23:03:05  [ ITL ] m_nNextTimeMin 33445546, nCurTime 33445625
+23:03:05  [ ITL ] m_nNextTimeMin 33445546, nCurTime 33445625
+23:04:05  [ ITL ] m_nNextTimeMin 33505625, nCurTime 33505640
+23:04:05  [ ITL ] m_nNextTimeMin 33505625, nCurTime 33505640
+23:05:05  [ ITL ] m_nNextTimeMin 33565640, nCurTime 33565718
+23:05:05  [ ITL ] m_nNextTimeMin 33565640, nCurTime 33565718
+23:06:00 [AcheronGuardian] Obelisk PlayGroupNum 2
+23:06:00 [AcheronGuardian][Ovelisk] (Index:841)(Class:627)(Attr:1) Obelisk be created.
+23:06:00 [AcheronGuardian] [Monster] (Index:842)(Count:1) Map:96 X:168 Y:58 Monster be created.
+23:06:00 [AcheronGuardian] [Monster] (Index:843)(Count:2) Map:96 X:168 Y:60 Monster be created.
+23:06:00 [AcheronGuardian] [Monster] (Index:844)(Count:3) Map:96 X:165 Y:54 Monster be created.
+23:06:00 [AcheronGuardian] [Monster] (Index:845)(Count:4) Map:96 X:167 Y:57 Monster be created.
+23:06:00 [AcheronGuardian] [Monster] (Index:846)(Count:5) Map:96 X:164 Y:54 Monster be created.
+23:06:00 [AcheronGuardian] [Monster] (Index:847)(Count:6) Map:96 X:163 Y:55 Monster be created.
+23:06:00 [AcheronGuardian] [Monster] (Index:848)(Count:7) Map:96 X:162 Y:57 Monster be created.
+23:06:00 [AcheronGuardian] [Monster] (Index:849)(Count:8) Map:96 X:165 Y:58 Monster be created.
+23:06:00 [AcheronGuardian] [Monster] (Index:850)(Count:9) Map:96 X:167 Y:57 Monster be created.
+23:06:00 [AcheronGuardian] [Monster] (Index:851)(Count:10) Map:96 X:164 Y:56 Monster be created.
+23:06:00 [AcheronGuardian] Acheron Event Play [2]
+23:06:05  [ ITL ] m_nNextTimeMin 33625718, nCurTime 33625812
+23:06:05  [ ITL ] m_nNextTimeMin 33625718, nCurTime 33625812
+23:06:10 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+23:06:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(549), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:06:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(550), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:06:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(551), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:06:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(552), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:06:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(553), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:06:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(554), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:06:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(555), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:06:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(556), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:06:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(557), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:06:10 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(558), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:06:10 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+23:06:10 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+23:07:05  [ ITL ] m_nNextTimeMin 33685812, nCurTime 33685828
+23:07:05  [ ITL ] m_nNextTimeMin 33685812, nCurTime 33685828
+23:08:05  [ ITL ] m_nNextTimeMin 33745828, nCurTime 33745843
+23:08:05  [ ITL ] m_nNextTimeMin 33745828, nCurTime 33745843
+23:08:28 [RuudShop] Saving Ruud Money Account[kudoshjn] Name[IKBiv] RuudMoney[224242]
+23:08:28 [Gremory Case][GDGremoryCaseReqAddItem][Account:kudoshjn][Name:IKBiv] Request to Add item to Storage [Storage Type:2]-[Reward Source:2]-[ItemID:7452]-[ExpireDays:7][RecvDate:2023-12-09 PM11:08][ExpireDate:2023-12-16 PM11:08]
+23:08:28 [Blood Castle] (6) SetState CLEAN
+23:08:28 [Gremory Case][DGGremoryCaseReqAddItemRecv][Account:kudoshjn][Name:IKBiv] Success to Add Item to Storage [Storage:2]-[Source:2]-[ItemGUID:1]-[AuthCode:177144209][RecvDate:2023-12-09 PM11:08][ExpireDate:2023-12-16 PM11:08]
+23:09:05  [ ITL ] m_nNextTimeMin 33805843, nCurTime 33805937
+23:09:05  [ ITL ] m_nNextTimeMin 33805843, nCurTime 33805937
+23:09:23 [RuudShop] Saving Ruud Money Account[test1] Name[SumBiv] RuudMoney[18166]
+23:09:23 [Gremory Case][GDGremoryCaseReqAddItem][Account:test1][Name:SumBiv] Request to Add item to Storage [Storage Type:2]-[Reward Source:2]-[ItemID:7452]-[ExpireDays:7][RecvDate:2023-12-09 PM11:09][ExpireDate:2023-12-16 PM11:09]
+23:09:23 [RuudShop] Saving Ruud Money Account[test] Name[ElfBuff] RuudMoney[74775]
+23:09:23 [Gremory Case][GDGremoryCaseReqAddItem][Account:test][Name:ElfBuff] Request to Add item to Storage [Storage Type:2]-[Reward Source:2]-[ItemID:7452]-[ExpireDays:7][RecvDate:2023-12-09 PM11:09][ExpireDate:2023-12-16 PM11:09]
+23:09:23 [Blood Castle] (5) SetState CLEAN
+23:09:23 [Gremory Case][DGGremoryCaseReqAddItemRecv][Account:test1][Name:SumBiv] Success to Add Item to Storage [Storage:2]-[Source:2]-[ItemGUID:2]-[AuthCode:336384440][RecvDate:2023-12-09 PM11:09][ExpireDate:2023-12-16 PM11:09]
+23:09:23 [Gremory Case][DGGremoryCaseReqAddItemRecv][Account:test][Name:ElfBuff] Success to Add Item to Storage [Storage:2]-[Source:2]-[ItemGUID:0]-[AuthCode:1573930373][RecvDate:2023-12-09 PM11:09][ExpireDate:2023-12-16 PM11:09]
+23:09:29 [CGOpenBoxRecv] [Success] Box Open [Index:7551] [Account:test] [Name:ElfBuff] [InventoryType:0]
+23:09:31 [CGOpenBoxRecv] [Success] Box Open [Index:7547] [Account:test] [Name:ElfBuff] [InventoryType:0]
+23:09:34 [PMATCHING_R][DelPartyMember] PNum:0, Slot:2, MemberIdx:7050, MemberName:ElfBuff
+23:09:34 [ObjectManager][7050] DelCharacterInfo (ElfBuff)
+23:09:34 [ObjectManager][7050] DelAccountInfo (test)
+23:09:34 [ObjectManager][7050] DelClient (192.168.1.1) [DelType:182]
+23:10:05  [ ITL ] m_nNextTimeMin 33865937, nCurTime 33866015
+23:10:05  [ ITL ] m_nNextTimeMin 33865937, nCurTime 33866015
+23:10:10 [PMATCHING_R][DelPartyMember] PNum:0, Slot:1, MemberIdx:7052, MemberName:SumBiv
+23:10:10 [PMATCHING_R][DestroyParty] PNum:0
+23:10:10 [ObjectManager][7051] DelCharacterInfo (IKBiv)
+23:10:10 [ObjectManager][7051] DelAccountInfo (kudoshjn)
+23:10:10 [ObjectManager][7051] DelClient (192.168.1.1) [DelType:182]
+23:10:16 [ObjectManager][7052] DelCharacterInfo (SumBiv)
+23:10:16 [ObjectManager][7052] DelAccountInfo (test1)
+23:10:16 [ObjectManager][7052] DelClient (192.168.1.1) [DelType:182]
+23:11:05  [ ITL ] m_nNextTimeMin 33926015, nCurTime 33926125
+23:11:05  [ ITL ] m_nNextTimeMin 33926015, nCurTime 33926125
+23:11:11 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+23:11:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(549), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:11:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(550), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:11:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(551), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:11:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(552), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:11:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(553), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:11:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(554), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:11:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(555), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:11:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(556), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:11:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(557), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:11:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(558), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:11:11 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+23:11:11 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+23:12:05  [ ITL ] m_nNextTimeMin 33986125, nCurTime 33986218
+23:12:05  [ ITL ] m_nNextTimeMin 33986125, nCurTime 33986218
+23:12:28 [Blood Castle] (6) Sync Start Time. [47] min remain
+23:12:28 [Blood Castle] (6) SetState EMPTY
+23:13:05  [ ITL ] m_nNextTimeMin 34046218, nCurTime 34046234
+23:13:05  [ ITL ] m_nNextTimeMin 34046218, nCurTime 34046234
+23:13:23 [Blood Castle] (5) Sync Start Time. [46] min remain
+23:13:23 [Blood Castle] (5) SetState EMPTY
+23:14:05  [ ITL ] m_nNextTimeMin 34106234, nCurTime 34106312
+23:14:05  [ ITL ] m_nNextTimeMin 34106234, nCurTime 34106312
+23:15:05  [ ITL ] m_nNextTimeMin 34166312, nCurTime 34166328
+23:15:05  [ ITL ] m_nNextTimeMin 34166312, nCurTime 34166328
+23:16:05  [ ITL ] m_nNextTimeMin 34226328, nCurTime 34226343
+23:16:05  [ ITL ] m_nNextTimeMin 34226328, nCurTime 34226343
+23:16:11 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+23:16:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(549), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:16:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(550), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:16:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(551), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:16:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(552), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:16:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(553), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:16:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(554), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:16:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(555), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:16:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(556), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:16:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(557), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:16:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(558), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:16:11 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+23:16:11 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+23:17:05  [ ITL ] m_nNextTimeMin 34286343, nCurTime 34286437
+23:17:05  [ ITL ] m_nNextTimeMin 34286343, nCurTime 34286437
+23:18:06  [ ITL ] m_nNextTimeMin 34346437, nCurTime 34346531
+23:18:06  [ ITL ] m_nNextTimeMin 34346437, nCurTime 34346531
+23:19:06  [ ITL ] m_nNextTimeMin 34406531, nCurTime 34406625
+23:19:06  [ ITL ] m_nNextTimeMin 34406531, nCurTime 34406625
+23:20:06  [ ITL ] m_nNextTimeMin 34466625, nCurTime 34466718
+23:20:06  [ ITL ] m_nNextTimeMin 34466625, nCurTime 34466718
+23:21:06  [ ITL ] m_nNextTimeMin 34526718, nCurTime 34526734
+23:21:06  [ ITL ] m_nNextTimeMin 34526718, nCurTime 34526734
+23:21:11 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+23:21:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(549), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:21:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(550), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:21:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(551), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:21:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(552), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:21:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(553), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:21:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(554), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:21:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(555), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:21:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(556), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:21:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(557), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:21:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(558), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:21:11 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+23:21:11 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+23:22:06  [ ITL ] m_nNextTimeMin 34586734, nCurTime 34586843
+23:22:06  [ ITL ] m_nNextTimeMin 34586734, nCurTime 34586843
+23:23:06  [ ITL ] m_nNextTimeMin 34646843, nCurTime 34646921
+23:23:06  [ ITL ] m_nNextTimeMin 34646843, nCurTime 34646921
+23:24:06  [ ITL ] m_nNextTimeMin 34706921, nCurTime 34707046
+23:24:06  [ ITL ] m_nNextTimeMin 34706921, nCurTime 34707046
+23:25:06  [ ITL ] m_nNextTimeMin 34767046, nCurTime 34767125
+23:25:06  [ ITL ] m_nNextTimeMin 34767046, nCurTime 34767125
+23:26:06  [ ITL ] m_nNextTimeMin 34827125, nCurTime 34827218
+23:26:06  [ ITL ] m_nNextTimeMin 34827125, nCurTime 34827218
+23:26:11 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+23:26:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(549), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:26:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(550), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:26:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(551), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:26:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(552), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:26:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(553), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:26:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(554), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:26:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(555), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:26:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(556), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:26:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(557), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:26:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(558), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:26:11 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+23:26:11 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+23:27:06  [ ITL ] m_nNextTimeMin 34887218, nCurTime 34887234
+23:27:06  [ ITL ] m_nNextTimeMin 34887218, nCurTime 34887234
+23:28:06  [ ITL ] m_nNextTimeMin 34947234, nCurTime 34947343
+23:28:06  [ ITL ] m_nNextTimeMin 34947234, nCurTime 34947343
+23:29:06  [ ITL ] m_nNextTimeMin 35007343, nCurTime 35007437
+23:29:06  [ ITL ] m_nNextTimeMin 35007343, nCurTime 35007437
+23:30:00 [Devil Square] (1) SetState STAND
+23:30:00 [Devil Square] (2) SetState STAND
+23:30:00 [Devil Square] (3) SetState STAND
+23:30:00 [Devil Square] (4) SetState STAND
+23:30:00 [Devil Square] (5) SetState STAND
+23:30:00 [Devil Square] (6) SetState STAND
+23:30:00 [Devil Square] (7) SetState STAND
+23:30:01 [Devil Square] (1) Not enough users
+23:30:01 [Devil Square] (1) Sync Start Time. [59] min remain
+23:30:01 [Devil Square] (1) SetState EMPTY
+23:30:01 [Devil Square] (2) Not enough users
+23:30:01 [Devil Square] (2) Sync Start Time. [59] min remain
+23:30:01 [Devil Square] (2) SetState EMPTY
+23:30:01 [Devil Square] (3) Not enough users
+23:30:01 [Devil Square] (3) Sync Start Time. [59] min remain
+23:30:01 [Devil Square] (3) SetState EMPTY
+23:30:01 [Devil Square] (4) Not enough users
+23:30:01 [Devil Square] (4) Sync Start Time. [59] min remain
+23:30:01 [Devil Square] (4) SetState EMPTY
+23:30:01 [Devil Square] (5) Not enough users
+23:30:01 [Devil Square] (5) Sync Start Time. [59] min remain
+23:30:01 [Devil Square] (5) SetState EMPTY
+23:30:01 [Devil Square] (6) Not enough users
+23:30:01 [Devil Square] (6) Sync Start Time. [59] min remain
+23:30:01 [Devil Square] (6) SetState EMPTY
+23:30:01 [Devil Square] (7) Not enough users
+23:30:01 [Devil Square] (7) Sync Start Time. [59] min remain
+23:30:01 [Devil Square] (7) SetState EMPTY
+23:30:01 [Bot Hide][11] (BotHideKM) SetState CLEAN
+23:30:07  [ ITL ] m_nNextTimeMin 35067437, nCurTime 35067531
+23:30:07  [ ITL ] m_nNextTimeMin 35067437, nCurTime 35067531
+23:31:01 [Bot Hide][11] (BotHideKM) Sync Start Time. [1408] min remain
+23:31:01 [Bot Hide][11] (BotHideKM) SetState EMPTY
+23:31:07  [ ITL ] m_nNextTimeMin 35127531, nCurTime 35127625
+23:31:07  [ ITL ] m_nNextTimeMin 35127531, nCurTime 35127625
+23:31:11 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+23:31:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(549), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:31:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(550), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:31:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(551), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:31:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(552), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:31:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(553), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:31:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(554), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:31:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(555), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:31:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(556), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:31:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(557), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:31:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(558), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:31:11 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+23:31:11 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+23:32:07  [ ITL ] m_nNextTimeMin 35187625, nCurTime 35187734
+23:32:07  [ ITL ] m_nNextTimeMin 35187625, nCurTime 35187734
+23:33:07  [ ITL ] m_nNextTimeMin 35247734, nCurTime 35247828
+23:33:07  [ ITL ] m_nNextTimeMin 35247734, nCurTime 35247828
+23:34:07  [ ITL ] m_nNextTimeMin 35307828, nCurTime 35307921
+23:34:07  [ ITL ] m_nNextTimeMin 35307828, nCurTime 35307921
+23:35:07  [ ITL ] m_nNextTimeMin 35367921, nCurTime 35367937
+23:35:07  [ ITL ] m_nNextTimeMin 35367921, nCurTime 35367937
+23:36:00 [AcheronGuardian] Acheron Event Play [3]
+23:36:07  [ ITL ] m_nNextTimeMin 35427937, nCurTime 35428015
+23:36:07  [ ITL ] m_nNextTimeMin 35427937, nCurTime 35428015
+23:36:11 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+23:36:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(549), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:36:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(550), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:36:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(551), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:36:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(552), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:36:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(553), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:36:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(554), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:36:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(555), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:36:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(556), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:36:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(557), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:36:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(558), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:36:11 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+23:36:11 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+23:36:50 [AcheronGuardianEvent] Send Close Window Sec[10]
+23:37:00 [AcheronGuardian] Sync Start Time. [292] min remain
+23:37:00 [AcheronGuardian] Acheron Event Play [4]
+23:37:07  [ ITL ] m_nNextTimeMin 35488015, nCurTime 35488031
+23:37:07  [ ITL ] m_nNextTimeMin 35488015, nCurTime 35488031
+23:38:07  [ ITL ] m_nNextTimeMin 35548031, nCurTime 35548125
+23:38:07  [ ITL ] m_nNextTimeMin 35548031, nCurTime 35548125
+23:39:07  [ ITL ] m_nNextTimeMin 35608125, nCurTime 35608218
+23:39:07  [ ITL ] m_nNextTimeMin 35608125, nCurTime 35608218
+23:40:07  [ ITL ] m_nNextTimeMin 35668218, nCurTime 35668328
+23:40:07  [ ITL ] m_nNextTimeMin 35668218, nCurTime 35668328
+23:41:08  [ ITL ] m_nNextTimeMin 35728328, nCurTime 35728453
+23:41:08  [ ITL ] m_nNextTimeMin 35728328, nCurTime 35728453
+23:41:11 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+23:41:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(549), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:41:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(550), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:41:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(551), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:41:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(552), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:41:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(553), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:41:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(554), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:41:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(555), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:41:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(556), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:41:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(557), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:41:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(558), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:41:11 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+23:41:11 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+23:42:08  [ ITL ] m_nNextTimeMin 35788453, nCurTime 35788515
+23:42:08  [ ITL ] m_nNextTimeMin 35788453, nCurTime 35788515
+23:43:08  [ ITL ] m_nNextTimeMin 35848515, nCurTime 35848531
+23:43:08  [ ITL ] m_nNextTimeMin 35848515, nCurTime 35848531
+23:44:08  [ ITL ] m_nNextTimeMin 35908531, nCurTime 35908625
+23:44:08  [ ITL ] m_nNextTimeMin 35908531, nCurTime 35908625
+23:45:00 [Chaos Castle] (1) SetState STAND
+23:45:00 [Chaos Castle] (2) SetState STAND
+23:45:00 [Chaos Castle] (3) SetState STAND
+23:45:00 [Chaos Castle] (4) SetState STAND
+23:45:00 [Chaos Castle] (5) SetState STAND
+23:45:00 [Chaos Castle] (6) SetState STAND
+23:45:00 [Chaos Castle] (7) SetState STAND
+23:45:01 [Chaos Castle] (1) Not enough users
+23:45:01 [Chaos Castle] (1) Sync Start Time. [59] min remain
+23:45:01 [Chaos Castle] (1) SetState EMPTY
+23:45:01 [Chaos Castle] (2) Not enough users
+23:45:01 [Chaos Castle] (2) Sync Start Time. [59] min remain
+23:45:01 [Chaos Castle] (2) SetState EMPTY
+23:45:01 [Chaos Castle] (3) Not enough users
+23:45:01 [Chaos Castle] (3) Sync Start Time. [59] min remain
+23:45:01 [Chaos Castle] (3) SetState EMPTY
+23:45:01 [Chaos Castle] (4) Not enough users
+23:45:01 [Chaos Castle] (4) Sync Start Time. [59] min remain
+23:45:01 [Chaos Castle] (4) SetState EMPTY
+23:45:01 [Chaos Castle] (5) Not enough users
+23:45:01 [Chaos Castle] (5) Sync Start Time. [59] min remain
+23:45:01 [Chaos Castle] (5) SetState EMPTY
+23:45:01 [Chaos Castle] (6) Not enough users
+23:45:01 [Chaos Castle] (6) Sync Start Time. [59] min remain
+23:45:01 [Chaos Castle] (6) SetState EMPTY
+23:45:01 [Chaos Castle] (7) Not enough users
+23:45:01 [Chaos Castle] (7) Sync Start Time. [59] min remain
+23:45:01 [Chaos Castle] (7) SetState EMPTY
+23:45:08  [ ITL ] m_nNextTimeMin 35968625, nCurTime 35968734
+23:45:08  [ ITL ] m_nNextTimeMin 35968625, nCurTime 35968734
+23:46:08  [ ITL ] m_nNextTimeMin 36028734, nCurTime 36028828
+23:46:08  [ ITL ] m_nNextTimeMin 36028734, nCurTime 36028828
+23:46:11 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+23:46:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(549), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:46:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(550), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:46:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(551), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:46:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(552), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:46:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(553), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:46:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(554), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:46:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(555), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:46:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(556), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:46:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(557), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:46:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(558), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:46:11 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+23:46:11 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+23:47:08  [ ITL ] m_nNextTimeMin 36088828, nCurTime 36088921
+23:47:08  [ ITL ] m_nNextTimeMin 36088828, nCurTime 36088921
+23:48:08  [ ITL ] m_nNextTimeMin 36148921, nCurTime 36148937
+23:48:08  [ ITL ] m_nNextTimeMin 36148921, nCurTime 36148937
+23:49:08  [ ITL ] m_nNextTimeMin 36208937, nCurTime 36209046
+23:49:08  [ ITL ] m_nNextTimeMin 36208937, nCurTime 36209046
+23:50:08  [ ITL ] m_nNextTimeMin 36269046, nCurTime 36269140
+23:50:08  [ ITL ] m_nNextTimeMin 36269046, nCurTime 36269140
+23:51:08  [ ITL ] m_nNextTimeMin 36329140, nCurTime 36329234
+23:51:08  [ ITL ] m_nNextTimeMin 36329140, nCurTime 36329234
+23:51:11 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+23:51:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(549), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:51:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(550), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:51:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(551), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:51:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(552), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:51:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(553), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:51:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(554), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:51:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(555), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:51:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(556), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:51:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(557), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:51:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(558), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:51:11 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+23:51:11 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+23:52:08  [ ITL ] m_nNextTimeMin 36389234, nCurTime 36389250
+23:52:08  [ ITL ] m_nNextTimeMin 36389234, nCurTime 36389250
+23:53:08  [ ITL ] m_nNextTimeMin 36449250, nCurTime 36449328
+23:53:08  [ ITL ] m_nNextTimeMin 36449250, nCurTime 36449328
+23:54:08  [ ITL ] m_nNextTimeMin 36509328, nCurTime 36509421
+23:54:08  [ ITL ] m_nNextTimeMin 36509328, nCurTime 36509421
+23:55:08  [ ITL ] m_nNextTimeMin 36569421, nCurTime 36569437
+23:55:08  [ ITL ] m_nNextTimeMin 36569421, nCurTime 36569437
+23:56:09  [ ITL ] m_nNextTimeMin 36629437, nCurTime 36629515
+23:56:09  [ ITL ] m_nNextTimeMin 36629437, nCurTime 36629515
+23:56:11 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+23:56:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(549), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:56:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(550), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:56:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(551), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:56:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(552), MAXHP:400000, HP:400000, DF:0, RG:0)
+23:56:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(553), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:56:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(554), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:56:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(555), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:56:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(556), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:56:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(557), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:56:11 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(558), MAXHP:500000, HP:500000, DF:0, RG:0)
+23:56:11 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+23:56:11 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+23:56:15 [ObjectManager][7050] AddClient (192.168.1.1)
+23:56:15 Send ObeliskInfo iGroupNumber 2 iAttr 3 iMapIndex 92 iPosX 188 iPosY 101
+23:56:15 Send ObeliskInfo iGroupNumber m_iAuraPosX 175 m_iAuraPosY 102
+23:56:15 Send ObeliskInfo iGroupNumber m_iAuraPosX 192 m_iAuraPosY 110
+23:56:15 Send ObeliskInfo iGroupNumber m_iAuraPosX 200 m_iAuraPosY 96
+23:56:15 Send ObeliskInfo iGroupNumber 3 iAttr 5 iMapIndex 96 iPosX 162 iPosY 54
+23:56:15 Send ObeliskInfo iGroupNumber m_iAuraPosX 154 m_iAuraPosY 60
+23:56:15 Send ObeliskInfo iGroupNumber m_iAuraPosX 162 m_iAuraPosY 45
+23:56:15 Send ObeliskInfo iGroupNumber m_iAuraPosX 165 m_iAuraPosY 67
+23:56:15 Send ObeliskInfo iGroupNumber 0 iAttr 1 iMapIndex -1 iPosX -1 iPosY -1
+23:56:15 Send ObeliskInfo iGroupNumber m_iAuraPosX -1 m_iAuraPosY -1
+23:56:15 Send ObeliskInfo iGroupNumber m_iAuraPosX -1 m_iAuraPosY -1
+23:56:15 Send ObeliskInfo iGroupNumber m_iAuraPosX -1 m_iAuraPosY -1
+23:56:15 Send ObeliskInfo iGroupNumber 0 iAttr 4 iMapIndex -1 iPosX -1 iPosY -1
+23:56:15 Send ObeliskInfo iGroupNumber m_iAuraPosX -1 m_iAuraPosY -1
+23:56:15 Send ObeliskInfo iGroupNumber m_iAuraPosX -1 m_iAuraPosY -1
+23:56:15 Send ObeliskInfo iGroupNumber m_iAuraPosX -1 m_iAuraPosY -1
+23:56:15 [ArcaBattle] Send Play Data
+23:56:15 [ObjectManager][7050] AddAccountInfo (test)
+23:56:15 [Gremory Case][GDGremoryCaseReqItemListSend][Account:test][Name:ElfBuff] Request to load Gremory Case item list
+23:56:15 [BlockChat][GDReqBlockChatList] Send Request Block List
+23:56:15 [ObjectManager][7050] AddCharacterInfo (ElfBuff)
+23:56:15 [ ITL ][ DG_ITL_UserCount ] Name :ElfBuff ,Cnt:0
+23:56:15 [Gremory Case][DGGremoryCaseReqItemListRecv][Account:test][Name:ElfBuff] Received item list [Character:1]-[Server:0]-[MuMobil:0]-[Private:0]
+23:56:18 [IllusionTempleEvent_Renewal] Admission request party. ACC:[test], NAME:[ElfBuff], PartyID:[-1]
+23:56:30 [ObjectManager][7050] DelCharacterInfo (ElfBuff)
+23:56:30 [ObjectManager][7050] DelAccountInfo (test)
+23:56:30 [ObjectManager][7050] DelClient (192.168.1.1) [DelType:182]
+23:57:09  [ ITL ] m_nNextTimeMin 36689515, nCurTime 36689531
+23:57:09  [ ITL ] m_nNextTimeMin 36689515, nCurTime 36689531
+23:58:09  [ ITL ] m_nNextTimeMin 36749531, nCurTime 36749546
+23:58:09  [ ITL ] m_nNextTimeMin 36749531, nCurTime 36749546
+23:59:00 [DGEventEntryLimitReqResetLimitRecv] Delete All Info [Time:2023-12-09 PM11:59]
+23:59:05 [DGReqLabyrinthLeagueResetDayInfo] Reset All Information...
+23:59:09  [ ITL ] m_nNextTimeMin 36809546, nCurTime 36809625
+23:59:09  [ ITL ] m_nNextTimeMin 36809546, nCurTime 36809625

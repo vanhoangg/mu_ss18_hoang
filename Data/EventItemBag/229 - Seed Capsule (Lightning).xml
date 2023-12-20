@@ -24,7 +24,7 @@
 	</BagRuudInfoEx>
 	<BagItemsEx>
 		<ItemEx Section="5" Index="6248" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Seed Sphere Lightning (Lv.1)"/>
-		<ItemEx Section="5" Index="6545" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Sphere Upgrade Rune"/>
+		<ItemEx Section="5" Index="6545" Level="0" Grade="0" Durability="5" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Sphere Upgrade Rune"/>
 		   <!-- LV1  -->
         <!-- Sword -->
         <ItemEx Section="6" Index="52" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="10" Option4="0" Option5="0" Option6="99" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Pantera Claws"/>

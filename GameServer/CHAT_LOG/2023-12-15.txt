@@ -1,0 +1,6 @@
+22:30:47 [General][kudoshjn][IKBiv] - (Message: /money 99999999)
+22:30:51 [General][kudoshjn][IKBiv] - (Message: /money 999999999)
+22:31:41 [General][kudoshjn][IKBiv] - (Message: /money 9999999999)
+22:31:48 [General][kudoshjn][IKBiv] - (Message: /money 9999999999)
+23:02:32 [General][test][ElfBuff] - (Message: a)
+23:48:48 [General][kudoshjn][IKBiv] - (Message: /clearextinv)

@@ -1,0 +1,24 @@
+00:16:18 [AllowConectionManager][DEL][OK][AccountInfo][HWID:2EC2A659-B9B991A5-C418FC1B-B173E8B4-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:2][Account:test1]
+00:16:20 [AllowConectionManager][DEL][OK][AccountInfo][HWID:2EC2A659-B9B991A5-C418FC1B-B173E8B4-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:1][Account:test]
+00:16:20 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:2EC2A659-B9B991A5-C418FC1B-B173E8B4-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:0][Account:kudoshjn]
+00:16:24 [ServerManager][2] DelServer (127.0.0.1)
+12:58:04 [SocketManager] Server started at port [55970]
+12:58:04 [SocketManager] Server started at port [55557]
+12:58:06 [ServerManager][0] AddServer (127.0.0.1)
+12:58:06 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+12:58:09 [ServerManager][1] AddServer (127.0.0.1)
+12:58:10 [ServerManager][2] AddServer (127.0.0.1)
+12:58:10 [ServerManager][2] ServerInfo (MuDevs) (55901) (20)
+12:58:13 [ServerManager][3] AddServer (127.0.0.1)
+12:58:13 [ServerManager][3] ServerInfo (GameServerCS) (55919) (19)
+13:04:13 [AllowConectionManager][ADD][+][HWID:2EC2A659-B9B991A5-C418FC1B-B173E8B4-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:1][Account:test1]
+13:04:55 [AllowConectionManager][ADD][=][HWID:2EC2A659-B9B991A5-C418FC1B-B173E8B4-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:2][Account:test]
+13:05:11 [AllowConectionManager][ADD][=][HWID:2EC2A659-B9B991A5-C418FC1B-B173E8B4-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:3][Account:kudoshjn]
+13:34:02 [AllowConectionManager][DEL][OK][AccountInfo][HWID:2EC2A659-B9B991A5-C418FC1B-B173E8B4-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:2][Account:test]
+13:35:00 [AllowConectionManager][ADD][=][HWID:2EC2A659-B9B991A5-C418FC1B-B173E8B4-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:3][Account:test]
+14:21:42 [AllowConectionManager][DEL][OK][AccountInfo][HWID:2EC2A659-B9B991A5-C418FC1B-B173E8B4-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:2][Account:kudoshjn]
+14:22:07 [AllowConectionManager][ADD][=][HWID:2EC2A659-B9B991A5-C418FC1B-B173E8B4-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:3][Account:kudoshjn]
+16:27:11 [AllowConectionManager][CHANGE][OK][HWID:2EC2A659-B9B991A5-C418FC1B-B173E8B4-49656E69-00000016-BFEBFBFF-7FFAFBBF][Account:test1][ServerCode:19][LastServerCode:20]
+16:45:13 [AllowConectionManager][CHANGE][OK][HWID:2EC2A659-B9B991A5-C418FC1B-B173E8B4-49656E69-00000016-BFEBFBFF-7FFAFBBF][Account:test1][ServerCode:20][LastServerCode:19]
+19:16:36 [AllowConectionManager][DEL][OK][AccountInfo][HWID:2EC2A659-B9B991A5-C418FC1B-B173E8B4-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:2][Account:kudoshjn]
+23:11:55 [AllowConectionManager][DEL][OK][AccountInfo][HWID:2EC2A659-B9B991A5-C418FC1B-B173E8B4-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:1][Account:test]

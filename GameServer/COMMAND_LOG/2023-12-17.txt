@@ -1,0 +1,2 @@
+01:17:38 [CommandMoney][test][ElfBuff] - (Money: 999999999)
+01:17:58 [CommandMoney][test][ElfBuff] - (Money: 2147483647)

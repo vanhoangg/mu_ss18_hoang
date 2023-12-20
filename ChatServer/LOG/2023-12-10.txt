@@ -1,0 +1,8 @@
+15:59:21 [SocketManager] Server started at port [55980]
+15:59:23 [Connection] connect() failed with error: 10061
+15:59:25 [Connection] connect() failed with error: 10061
+15:59:32 [SocketManager] Server started at port [55980]
+15:59:34 [Connection] connect() failed with error: 10061
+15:59:36 [Connection] connect() failed with error: 10061
+16:32:08 [Connection] Protocol header error (Header: 38)
+16:32:08 [Connection] recv() failed with error: 10038

@@ -24,7 +24,7 @@
 	</BagDropInfoEx>
 
 	<BagRuudInfoEx>
-		<RuudInfo Section="5" RuudMin="150" RuudMax="1500"/>
+		<RuudInfo Section="5" RuudMin="1500" RuudMax="15000"/>
 	</BagRuudInfoEx>
 	<BagItemsEx>
 
@@ -311,10 +311,8 @@
 		<ItemEx Section="10" Index="7520" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Ruud Box(1000)"/>
 		<ItemEx Section="10" Index="7615" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Ruud Box (2000)"/>
 		<ItemEx Section="10" Index="7616" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Ruud Box (3000)"/>
-		<ItemEx Section="10" Index="7357" Level="0" Grade="0" Durability="1" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Elemental Talisman of Luck"/>
-		<ItemEx Section="10" Index="7221" Level="0" Grade="0" Durability="5" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Talisman of Luck"/>
 		<ItemEx Section="10" Index="6709" Level="0" Grade="0" Durability="1" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Condor Feather"/>
-		<ItemEx Section="10" Index="7513" Level="0" Grade="0" Durability="1" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Mysterious Stone"/>
+		<ItemEx Section="10" Index="7513" Level="0" Grade="0" Durability="10" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Mysterious Stone"/>
 
 
 	</BagItemsEx>

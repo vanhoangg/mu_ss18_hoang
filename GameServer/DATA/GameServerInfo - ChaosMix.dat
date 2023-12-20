@@ -86,10 +86,10 @@ DinorantMixRate_AL3 = 70
 ;==================================================
 ; Fruit Mix Settings
 ;==================================================
-FruitMixRate_AL0 = 90
-FruitMixRate_AL1 = 90
-FruitMixRate_AL2 = 90
-FruitMixRate_AL3 = 90
+FruitMixRate_AL0 = 100
+FruitMixRate_AL1 = 100
+FruitMixRate_AL2 = 100
+FruitMixRate_AL3 = 100
 
 ;==================================================
 ; Wing2 Mix Settings
@@ -284,7 +284,7 @@ Wing3MixRate_AL0 = -1
 Wing3MixRate_AL1 = -1
 Wing3MixRate_AL2 = -1
 Wing3MixRate_AL3 = -1
-Wing3MaxRate = 40
+Wing3MaxRate = 80
 
 ;==================================================
 ; Wing3 Relic Mix Settings
@@ -293,7 +293,7 @@ Wing3RelicMixRate_AL0 = -1
 Wing3RelicMixRate_AL1 = -1
 Wing3RelicMixRate_AL2 = -1
 Wing3RelicMixRate_AL3 = -1
-Wing3RelicMaxRate = 24
+Wing3RelicMaxRate = 54
 
 ;==================================================
 ; Wing4 Mix Settings
@@ -302,7 +302,7 @@ Wing4MixRate_AL0 = -1
 Wing4MixRate_AL1 = -1
 Wing4MixRate_AL2 = -1
 Wing4MixRate_AL3 = -1
-Wing4MaxRate = 40
+Wing4MaxRate = 80
 
 ;==================================================
 ; Wing4 Relic Mix Settings
@@ -311,7 +311,7 @@ Wing4RelicMixRate_AL0 = -1
 Wing4RelicMixRate_AL1 = -1
 Wing4RelicMixRate_AL2 = -1
 Wing4RelicMixRate_AL3 = -1
-Wing4RelicMaxRate = 24
+Wing4RelicMaxRate = 54
 
 ;==================================================
 ; Socket Item Create Seed Mix Settings
@@ -377,41 +377,41 @@ SocketWeaponMixRate_AL3 = -1
 ; Pentagram Mithril Mix Settings
 ;==================================================
 PentagramMithrilMixRate_AL0 = 80
-PentagramMithrilMixRate_AL1 = 80
-PentagramMithrilMixRate_AL2 = 80
-PentagramMithrilMixRate_AL3 = 80
+PentagramMithrilMixRate_AL1 = 85
+PentagramMithrilMixRate_AL2 = 90
+PentagramMithrilMixRate_AL3 = 95
 
 ;==================================================
 ; Pentagram Elixir Mix Settings
 ;==================================================
 PentagramElixirMixRate_AL0 = 60
-PentagramElixirMixRate_AL1 = 60
-PentagramElixirMixRate_AL2 = 60
-PentagramElixirMixRate_AL3 = 60
+PentagramElixirMixRate_AL1 = 65
+PentagramElixirMixRate_AL2 = 70
+PentagramElixirMixRate_AL3 = 75
 
 ;==================================================
 ; Pentagram Jewel Mix Settings
 ;==================================================
 PentagramJewelMixRate_AL0 = 50
-PentagramJewelMixRate_AL1 = 50
-PentagramJewelMixRate_AL2 = 50
-PentagramJewelMixRate_AL3 = 50
+PentagramJewelMixRate_AL1 = 55
+PentagramJewelMixRate_AL2 = 60
+PentagramJewelMixRate_AL3 = 65
 
 ;==================================================
 ; Pentagram Decomposite Mix Settings
 ;==================================================
 PentagramDecompositeMixRate_AL0 = 50
-PentagramDecompositeMixRate_AL1 = 50
-PentagramDecompositeMixRate_AL2 = 50
-PentagramDecompositeMixRate_AL3 = 50
+PentagramDecompositeMixRate_AL1 = 55
+PentagramDecompositeMixRate_AL2 = 60
+PentagramDecompositeMixRate_AL3 = 65
 
 ;==================================================
 ; Arca Battle Trophies of Battle Mix Settings
 ;==================================================
 TrophiesOfBattleMixRate_AL0 = 50
-TrophiesOfBattleMixRate_AL1 = 50
-TrophiesOfBattleMixRate_AL2 = 50
-TrophiesOfBattleMixRate_AL3 = 50
+TrophiesOfBattleMixRate_AL1 = 55
+TrophiesOfBattleMixRate_AL2 = 60
+TrophiesOfBattleMixRate_AL3 = 65
 TrophiesOfBattleMixRateAdd_AL0 = 5
 TrophiesOfBattleMixRateAdd_AL1 = 5
 TrophiesOfBattleMixRateAdd_AL2 = 5
@@ -441,9 +441,9 @@ ChaosMachineEnabledDoubleTalisman = 0
 ; Artifact Spider Mix Settings
 ;==================================================
 ArtifactSpiderRate_AL0 = 80
-ArtifactSpiderRate_AL1 = 80
-ArtifactSpiderRate_AL2 = 80
-ArtifactSpiderRate_AL3 = 80
+ArtifactSpiderRate_AL1 = 85
+ArtifactSpiderRate_AL2 = 90
+ArtifactSpiderRate_AL3 = 95
 
 
 ;==================================================

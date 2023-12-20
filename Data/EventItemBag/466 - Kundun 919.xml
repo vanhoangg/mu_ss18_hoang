@@ -288,14 +288,6 @@
         <ItemEx Section="8" Index="113" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="19" Option4="1" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Archangel's Absolute Blade" /> 
 		<ItemEx Section="8" Index="7510" Level="0" Grade="0" Durability="1" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Steel of Heaven" />
 
-
-
-		<ItemEx Section="8" Index="7264" Level="0" Grade="0" Durability="1" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Talisman of Chaos Assembly"/>
-		<ItemEx Section="8" Index="7358" Level="0" Grade="0" Durability="1" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Elemental Talisman of Chaos"/>
-		<ItemEx Section="8" Index="6432" Level="0" Grade="0" Durability="10" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Elemental Rune"/>
-		<ItemEx Section="8" Index="6733" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="86400" Name="Brown Panda Ring"/>
-		<ItemEx Section="8" Index="6833" Level="0" Grade="0" Durability="1" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="86400" Name="Talisman of Ascension I"/>
-		<ItemEx Section="8" Index="6834" Level="0" Grade="0" Durability="1" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="86400" Name="Talisman of Ascension II"/>
 		
 		<ItemEx Section="8" Index="6346" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="15" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Lorencia Knights' Iron Shield"/>
 		<ItemEx Section="8" Index="6347" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="15" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Iron Shield of the Magic"/>
@@ -316,7 +308,6 @@
 		<ItemEx Section="8" Index="6405" Level="0" Grade="1" Durability="1" Option0="12" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="6" Duration="0" Name="Errtel of Radiance"/>
 		<ItemEx Section="8" Index="7615" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Ruud Box (2000)"/>
 		<ItemEx Section="8" Index="7616" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Ruud Box (3000)"/>
-		<ItemEx Section="8" Index="7513" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Mysterious Stone"/>
-		<ItemEx Section="7" Index="24" Level="0" Grade="0" Durability="0" Option0="0" Option1="12" Option2="13" Option3="10" Option4="1" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Daybreak"/>
+		<ItemEx Section="8" Index="7513" Level="0" Grade="0" Durability="10" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Mysterious Stone"/>
 	</BagItemsEx>
 </ItemBag>

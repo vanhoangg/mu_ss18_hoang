@@ -13,7 +13,7 @@
 		<DropInfo Index="3" Section="5" SectionRate="10000" MoneyAmount="0" OptionValue="0" AccountLevel0="1" AccountLevel1="1" AccountLevel2="1" AccountLevel3="1" DW="1" DK="1" FE="1" MG="1" DL="1" SU="1" RF="1" GL="1" RW="1" SL="1" GC="1" KM="1" LM="1" IK="1"/>
 	</BagDropInfoEx>
 	<BagRuudInfoEx>
-		<RuudInfo Section="5" RuudMin="200" RuudMax="2000"/>
+		<RuudInfo Section="5" RuudMin="2000" RuudMax="20000"/>
 	</BagRuudInfoEx>
 	<BagItemsEx>
 	
@@ -188,8 +188,6 @@
 		<ItemEx Section="8" Index="7510" Level="0" Grade="0" Durability="1" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Steel of Heaven" />
 
 		<ItemEx Section="7" Index="7634" Level="0" Grade="0" Durability="2" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Sculpture"/>
-		<ItemEx Section="7" Index="7357" Level="0" Grade="0" Durability="1" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Elemental Talisman of Luck"/>
-		<ItemEx Section="7" Index="7358" Level="0" Grade="0" Durability="1" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Elemental Talisman of Chaos"/>
 		<ItemEx Section="7" Index="7210" Level="0" Grade="0" Durability="50" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Jewel of Harmony"/>
 		<ItemEx Section="7" Index="7181" Level="0" Grade="0" Durability="50" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Jewel of Bless"/>
 		<ItemEx Section="7" Index="7182" Level="0" Grade="0" Durability="50" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Jewel of Soul"/>

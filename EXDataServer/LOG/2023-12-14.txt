@@ -1,0 +1,22 @@
+20:35:46 [SocketManager] Server started at port [55981]
+20:35:46 [PMATCHING][CreatePartyDirectly]Leader:ElfBuff TotalPartyCnt:1 - Success
+20:35:46 [PMATCHING][CreatePartyDirectly]Leader:TEST TotalPartyCnt:2 - Success
+20:35:46 [PMATCHING][CreatePartyDirectly]Leader:SumBiv TotalPartyCnt:3 - Success
+20:35:46 [PMATCHING][CreatePartyDirectly]Leader:IKBiv TotalPartyCnt:4 - Success
+20:35:55 [ServerManager][0] AddServer (127.0.0.1)
+20:35:55 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)(0)
+20:36:10 [SocketManager] Server started at port [55981]
+20:36:10 [PMATCHING][CreatePartyDirectly]Leader:ElfBuff TotalPartyCnt:1 - Success
+20:36:10 [PMATCHING][CreatePartyDirectly]Leader:TEST TotalPartyCnt:2 - Success
+20:36:10 [PMATCHING][CreatePartyDirectly]Leader:SumBiv TotalPartyCnt:3 - Success
+20:36:10 [PMATCHING][CreatePartyDirectly]Leader:IKBiv TotalPartyCnt:4 - Success
+20:36:16 [ServerManager][0] AddServer (127.0.0.1)
+20:36:16 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)(0)
+20:36:19 [ServerManager][1] AddServer (127.0.0.1)
+20:36:19 [ServerManager][1] ServerInfo (GameServerCS) (55919) (19)(0)
+20:40:06 [PMATCHING][ConnectMember]LeaderName:SumBiv, ConnectMemberName:SumBiv
+20:40:54 [PMATCHING][ConnectMember]LeaderName:ElfBuff, ConnectMemberName:ElfBuff
+20:41:39 [PMATCHING][ConnectMember]LeaderName:IKBiv, ConnectMemberName:IKBiv
+23:38:14 [PMATCHING][DisConnectMember]LeaderName:ElfBuff, ConnectMemberName:ElfBuff
+23:38:18 [PMATCHING][DisConnectMember]LeaderName:SumBiv, ConnectMemberName:SumBiv
+23:38:29 [PMATCHING][DisConnectMember]LeaderName:IKBiv, ConnectMemberName:IKBiv

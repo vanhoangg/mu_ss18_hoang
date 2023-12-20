@@ -1,0 +1,2 @@
+19:16:36 [Offattack LOG][Disconnect Character] Name:IKBiv | type:3
+23:11:55 [Offattack LOG][Disconnect Character] Name:ElfBuff | type:3

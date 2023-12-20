@@ -13,7 +13,7 @@
 		<DropInfo Index="3" Section="5" SectionRate="10000" MoneyAmount="0" OptionValue="0" AccountLevel0="1" AccountLevel1="1" AccountLevel2="1" AccountLevel3="1" DW="1" DK="1" FE="1" MG="1" DL="1" SU="1" RF="1" GL="1" RW="1" SL="1" GC="1" KM="1" LM="1" IK="1"/>
 	</BagDropInfoEx>
 	<BagRuudInfoEx>
-		<RuudInfo Section="5" RuudMin="250" RuudMax="2500"/>
+		<RuudInfo Section="5" RuudMin="2500" RuudMax="25000"/>
 	</BagRuudInfoEx>
 	<BagItemsEx>
 			<!-- Set Hyperion`s Bronze 2 - DK DL - Armor Pants Boots  -->
@@ -393,13 +393,6 @@
         <ItemEx Section="8" Index="2653" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="19" Option4="1" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Divine Orb of the Archangel" /> 
         <ItemEx Section="8" Index="113" Level="0" Grade="0" Durability="0" Option0="0" Option1="13" Option2="13" Option3="19" Option4="1" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Archangel's Absolute Blade" /> 
 		<ItemEx Section="8" Index="7510" Level="0" Grade="0" Durability="1" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Steel of Heaven" />
-
-		<ItemEx Section="8" Index="7264" Level="0" Grade="0" Durability="1" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Talisman of Chaos Assembly"/>
-		<ItemEx Section="8" Index="7358" Level="0" Grade="0" Durability="1" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Elemental Talisman of Chaos"/>
-		<ItemEx Section="8" Index="6432" Level="0" Grade="0" Durability="10" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Elemental Rune"/>
-		<ItemEx Section="8" Index="6733" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="86400" Name="Brown Panda Ring"/>
-		<ItemEx Section="8" Index="6833" Level="0" Grade="0" Durability="1" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="86400" Name="Talisman of Ascension I"/>
-		<ItemEx Section="8" Index="6834" Level="0" Grade="0" Durability="1" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="86400" Name="Talisman of Ascension II"/>
 		
 		<ItemEx Section="8" Index="6346" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="15" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Lorencia Knights' Iron Shield"/>
 		<ItemEx Section="8" Index="6347" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="15" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Iron Shield of the Magic"/>
