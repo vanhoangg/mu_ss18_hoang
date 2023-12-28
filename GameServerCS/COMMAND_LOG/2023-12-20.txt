@@ -1,0 +1,6 @@
+18:03:02 [CommandMoney][test][ElfBuff] - (Money: 0)
+18:03:07 [CommandMoney][test][ElfBuff] - (Money: 2147483647)
+19:03:02 [CommandMoney][test][ElfBuff] - (Money: 0)
+19:03:39 [CommandMoney][kudoshjn][IKBiv] - (Money: 0)
+19:03:46 [CommandMoney][kudoshjn][IKBiv] - (Money: 2147483647)
+19:04:03 [CommandMoney][test][ElfBuff] - (Money: 2147483647)

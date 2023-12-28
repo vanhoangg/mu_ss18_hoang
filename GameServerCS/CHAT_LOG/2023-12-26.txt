@@ -1,0 +1,8 @@
+22:29:52 [General][kudoshjn][IKBiv] - (Message: /make 13 80 0)
+22:33:12 [General][test1][SumBiv] - (Message: /startevent)
+22:37:04 [General][test1][SumBiv] - (Message: /startevent 32 1)
+22:37:13 [General][test1][SumBiv] - (Message: /startevent 32 1)
+22:59:07 [General][test][ElfBuff] - (Message: /startevent 32 1)
+23:00:32 [General][test][ElfBuff] - (Message: /startevent 32 1)
+23:03:40 [General][test][ElfBuff] - (Message: /startevent 2 1)
+23:04:29 [General][test][ElfBuff] - (Message: /startevent 2 1)

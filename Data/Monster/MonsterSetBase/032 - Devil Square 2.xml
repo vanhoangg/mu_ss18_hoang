@@ -12,457 +12,603 @@
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<EVENT>
 		<!-- Devil Square Level 4 - Stage 0 -->
-		<Config Class="60" Range="30" PositionX="125" PositionY="84" Direction="-1"  Element="0" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="60" Range="30" PositionX="125" PositionY="84" Direction="-1"  Element="0" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="60" Range="30" PositionX="125" PositionY="84" Direction="-1"  Element="0" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="60" Range="30" PositionX="125" PositionY="84" Direction="-1"  Element="0" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="60" Range="30" PositionX="145" PositionY="86" Direction="-1"  Element="0" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->		
-		<Config Class="60" Range="30" PositionX="145" PositionY="86"  Direction="-1" Element="0" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="60" Range="30" PositionX="145" PositionY="86"  Direction="-1" Element="0" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="60" Range="30" PositionX="145" PositionY="86" Direction="-1"  Element="0" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="60" Range="30" PositionX="145" PositionY="108"  Direction="-1" Element="0" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="60" Range="30" PositionX="145" PositionY="108"  Direction="-1" Element="0" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="60" Range="30" PositionX="145" PositionY="108" Direction="-1"  Element="0" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="60" Range="30" PositionX="145" PositionY="108" Direction="-1"  Element="0" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="60" Range="30" PositionX="127" PositionY="106" Direction="-1"  Element="0" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->		
-		<Config Class="60" Range="30" PositionX="127" PositionY="106"  Direction="-1" Element="0" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="60" Range="30" PositionX="127" PositionY="106"  Direction="-1" Element="0" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="60" Range="30" PositionX="127" PositionY="106" Direction="-1"  Element="0" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="60" Range="30" PositionX="136" PositionY="93"  Direction="-1" Element="0" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="60" Range="30" PositionX="136" PositionY="93"  Direction="-1" Element="0" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="60" Range="30" PositionX="136" PositionY="93" Direction="-1"  Element="0" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="60" Range="30" PositionX="136" PositionY="93" Direction="-1"  Element="0" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		
-		<Config Class="62" Range="30" PositionX="125" PositionY="84" Direction="-1"  Element="0" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="62" Range="30" PositionX="125" PositionY="84" Direction="-1"  Element="0" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="62" Range="30" PositionX="125" PositionY="84" Direction="-1"  Element="0" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="62" Range="30" PositionX="125" PositionY="84" Direction="-1"  Element="0" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="62" Range="30" PositionX="145" PositionY="86" Direction="-1"  Element="0" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="62" Range="30" PositionX="145" PositionY="86" Direction="-1"  Element="0" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="62" Range="30" PositionX="145" PositionY="86" Direction="-1"  Element="0" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="62" Range="30" PositionX="145" PositionY="86"  Direction="-1" Element="0" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="62" Range="30" PositionX="145" PositionY="108"  Direction="-1" Element="0" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="62" Range="30" PositionX="145" PositionY="108" Direction="-1"  Element="0" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="62" Range="30" PositionX="145" PositionY="108"  Direction="-1" Element="0" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="62" Range="30" PositionX="145" PositionY="108" Direction="-1"  Element="0" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="62" Range="30" PositionX="127" PositionY="106" Direction="-1"  Element="0" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="62" Range="30" PositionX="127" PositionY="106" Direction="-1"  Element="0" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="62" Range="30" PositionX="127" PositionY="106" Direction="-1"  Element="0" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="62" Range="30" PositionX="127" PositionY="106"  Direction="-1" Element="0" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="62" Range="30" PositionX="136" PositionY="93"  Direction="-1" Element="0" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="62" Range="30" PositionX="136" PositionY="93" Direction="-1"  Element="0" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="62" Range="30" PositionX="136" PositionY="93"  Direction="-1" Element="0" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="62" Range="30" PositionX="136" PositionY="93" Direction="-1"  Element="0" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Mutant" -->
+		<Config Class="594" Range="30" PositionX="64" PositionY="90" Direction="-1" Element="1" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Sylphid" -->
+		<Config Class="594" Range="30" PositionX="71" PositionY="84" Direction="-1" Element="2" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Sylphid" -->
+		<Config Class="594" Range="30" PositionX="71" PositionY="87" Direction="-1" Element="3" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Sylphid" -->
+		<Config Class="594" Range="30" PositionX="65" PositionY="88" Direction="-1" Element="4" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Sylphid" -->
+		<Config Class="594" Range="30" PositionX="67" PositionY="96" Direction="-1" Element="5" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Sylphid" -->
+		<Config Class="594" Range="30" PositionX="58" PositionY="85" Direction="-1" Element="1" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Sylphid" -->
+		<Config Class="594" Range="30" PositionX="75" PositionY="76" Direction="-1" Element="2" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Sylphid" -->
+		<Config Class="594" Range="30" PositionX="76" PositionY="99" Direction="-1" Element="3" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Sylphid" -->
+		<Config Class="594" Range="30" PositionX="66" PositionY="80" Direction="-1" Element="4" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Sylphid" -->
+		<Config Class="594" Range="30" PositionX="70" PositionY="84" Direction="-1" Element="5" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Sylphid" -->
+
+		<Config Class="592" Range="30" PositionX="122" PositionY="152" Direction="-1" Element="1" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Undine" -->
+		<Config Class="592" Range="30" PositionX="82" PositionY="102" Direction="-1" Element="2" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Undine" -->
+		<Config Class="592" Range="30" PositionX="82" PositionY="84" Direction="-1" Element="3" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Undine" -->
+		<Config Class="592" Range="30" PositionX="66" PositionY="97" Direction="-1" Element="4" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Undine" -->
+		<Config Class="592" Range="30" PositionX="63" PositionY="96" Direction="-1" Element="5" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Undine" -->
+		<Config Class="592" Range="30" PositionX="77" PositionY="80" Direction="-1" Element="1" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Undine" -->
+		<Config Class="592" Range="30" PositionX="74" PositionY="98" Direction="-1" Element="2" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Undine" -->
+		<Config Class="592" Range="30" PositionX="80" PositionY="100" Direction="-1" Element="3" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Undine" -->
+		<Config Class="592" Range="30" PositionX="68" PositionY="99" Direction="-1" Element="4" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Undine" -->
+		<Config Class="592" Range="30" PositionX="68" PositionY="100" Direction="-1" Element="5" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Undine" -->
+		<Config Class="592" Range="30" PositionX="58" PositionY="103" Direction="-1" Element="1" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Undine" -->
+		<Config Class="592" Range="30" PositionX="75" PositionY="77" Direction="-1" Element="2" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Undine" -->
+		<Config Class="592" Range="30" PositionX="70" PositionY="79" Direction="-1" Element="3" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Undine" -->
+		<Config Class="592" Range="30" PositionX="65" PositionY="92" Direction="-1" Element="4" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Undine" -->
+		<Config Class="592" Range="30" PositionX="55" PositionY="77" Direction="-1" Element="5" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Undine" -->
+		<Config Class="592" Range="30" PositionX="72" PositionY="101" Direction="-1" Element="1" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Undine" -->
+
+		<Config Class="593" Range="30" PositionX="120" PositionY="80" Direction="-1" Element="1" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Salamander" -->
+		<Config Class="593" Range="30" PositionX="76" PositionY="103" Direction="-1" Element="2" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Salamander" -->
+		<Config Class="593" Range="30" PositionX="77" PositionY="82" Direction="-1" Element="3" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Salamander" -->
+		<Config Class="593" Range="30" PositionX="80" PositionY="90" Direction="-1" Element="4" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Salamander" -->
+		<Config Class="593" Range="30" PositionX="80" PositionY="95" Direction="-1" Element="5" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Salamander" -->
+		<Config Class="593" Range="30" PositionX="73" PositionY="76" Direction="-1" Element="1" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Salamander" -->
+		<Config Class="593" Range="30" PositionX="73" PositionY="93" Direction="-1" Element="2" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Salamander" -->
+		<Config Class="593" Range="30" PositionX="71" PositionY="99" Direction="-1" Element="3" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Salamander" -->
+		<Config Class="593" Range="30" PositionX="68" PositionY="102" Direction="-1" Element="4" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Salamander" -->
+		<Config Class="593" Range="30" PositionX="62" PositionY="103" Direction="-1" Element="5" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Salamander" -->
+		<Config Class="593" Range="30" PositionX="73" PositionY="84" Direction="-1" Element="1" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Salamander" -->
+		<Config Class="593" Range="30" PositionX="82" PositionY="90" Direction="-1" Element="2" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Salamander" -->
+		<Config Class="593" Range="30" PositionX="61" PositionY="86" Direction="-1" Element="3" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Salamander" -->
+		<Config Class="593" Range="30" PositionX="78" PositionY="91" Direction="-1" Element="4" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Salamander" -->
+		<Config Class="593" Range="30" PositionX="61" PositionY="89" Direction="-1" Element="5" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Salamander" -->
+		<Config Class="593" Range="30" PositionX="55" PositionY="101" Direction="-1" Element="1" EventLevel="4" EventStage="0" RewpawnTime="500" /> <!-- "Salamander" -->
 
 		<!-- Devil Square Level 4 - Stage 1 -->
-		<Config Class="57" Range="30" PositionX="125" PositionY="84" Direction="-1"  Element="0" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="57" Range="30" PositionX="125" PositionY="84" Direction="-1"  Element="0" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="57" Range="30" PositionX="125" PositionY="84" Direction="-1"  Element="0" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="57" Range="30" PositionX="125" PositionY="84" Direction="-1"  Element="0" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="57" Range="30" PositionX="145" PositionY="86" Direction="-1"  Element="0" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->		
-		<Config Class="57" Range="30" PositionX="145" PositionY="86"  Direction="-1" Element="0" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="57" Range="30" PositionX="145" PositionY="86"  Direction="-1" Element="0" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="57" Range="30" PositionX="145" PositionY="86" Direction="-1"  Element="0" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="57" Range="30" PositionX="145" PositionY="108"  Direction="-1" Element="0" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="57" Range="30" PositionX="145" PositionY="108"  Direction="-1" Element="0" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="57" Range="30" PositionX="145" PositionY="108" Direction="-1"  Element="0" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="57" Range="30" PositionX="145" PositionY="108" Direction="-1"  Element="0" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="57" Range="30" PositionX="127" PositionY="106" Direction="-1"  Element="0" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->		
-		<Config Class="57" Range="30" PositionX="127" PositionY="106"  Direction="-1" Element="0" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="57" Range="30" PositionX="127" PositionY="106"  Direction="-1" Element="0" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="57" Range="30" PositionX="127" PositionY="106" Direction="-1"  Element="0" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="57" Range="30" PositionX="136" PositionY="93"  Direction="-1" Element="0" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="57" Range="30" PositionX="136" PositionY="93"  Direction="-1" Element="0" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="57" Range="30" PositionX="136" PositionY="93" Direction="-1"  Element="0" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="57" Range="30" PositionX="136" PositionY="93" Direction="-1"  Element="0" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
+		<Config Class="732" Range="30" PositionX="64" PositionY="90" Direction="-1" Element="1" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Ferea Fighter" -->
+		<Config Class="732" Range="30" PositionX="71" PositionY="84" Direction="-1" Element="2" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Ferea Fighter" -->
+		<Config Class="732" Range="30" PositionX="71" PositionY="87" Direction="-1" Element="3" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Ferea Fighter" -->
+		<Config Class="732" Range="30" PositionX="65" PositionY="88" Direction="-1" Element="4" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Ferea Fighter" -->
+		<Config Class="732" Range="30" PositionX="67" PositionY="96" Direction="-1" Element="5" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Ferea Fighter" -->
+		<Config Class="732" Range="30" PositionX="58" PositionY="85" Direction="-1" Element="1" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Ferea Fighter" -->
+		<Config Class="732" Range="30" PositionX="75" PositionY="76" Direction="-1" Element="2" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Ferea Fighter" -->
+		<Config Class="732" Range="30" PositionX="76" PositionY="99" Direction="-1" Element="3" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Ferea Fighter" -->
+		<Config Class="732" Range="30" PositionX="66" PositionY="80" Direction="-1" Element="4" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Ferea Fighter" -->
+		<Config Class="732" Range="30" PositionX="70" PositionY="84" Direction="-1" Element="5" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Ferea Fighter" -->
 		
-		<Config Class="58" Range="30" PositionX="125" PositionY="84" Direction="-1"  Element="0" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="58" Range="30" PositionX="125" PositionY="84" Direction="-1"  Element="0" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="58" Range="30" PositionX="125" PositionY="84" Direction="-1"  Element="0" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="58" Range="30" PositionX="125" PositionY="84" Direction="-1"  Element="0" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="58" Range="30" PositionX="145" PositionY="86" Direction="-1"  Element="0" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="58" Range="30" PositionX="145" PositionY="86" Direction="-1"  Element="0" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="58" Range="30" PositionX="145" PositionY="86" Direction="-1"  Element="0" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="58" Range="30" PositionX="145" PositionY="86"  Direction="-1" Element="0" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="58" Range="30" PositionX="145" PositionY="108"  Direction="-1" Element="0" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="58" Range="30" PositionX="145" PositionY="108" Direction="-1"  Element="0" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="58" Range="30" PositionX="145" PositionY="108"  Direction="-1" Element="0" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="58" Range="30" PositionX="145" PositionY="108" Direction="-1"  Element="0" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="58" Range="30" PositionX="127" PositionY="106" Direction="-1"  Element="0" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="58" Range="30" PositionX="127" PositionY="106" Direction="-1"  Element="0" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="58" Range="30" PositionX="127" PositionY="106" Direction="-1"  Element="0" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="58" Range="30" PositionX="127" PositionY="106"  Direction="-1" Element="0" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="58" Range="30" PositionX="136" PositionY="93"  Direction="-1" Element="0" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="58" Range="30" PositionX="136" PositionY="93" Direction="-1"  Element="0" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="58" Range="30" PositionX="136" PositionY="93"  Direction="-1" Element="0" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="58" Range="30" PositionX="136" PositionY="93" Direction="-1"  Element="0" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Mutant" -->
+		<Config Class="730" Range="30" PositionX="122" PositionY="152" Direction="-1" Element="1" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Ferea Knight" -->
+		<Config Class="730" Range="30" PositionX="82" PositionY="102" Direction="-1" Element="2" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Ferea Knight" -->
+		<Config Class="730" Range="30" PositionX="82" PositionY="84" Direction="-1" Element="3" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Ferea Knight" -->
+		<Config Class="730" Range="30" PositionX="66" PositionY="97" Direction="-1" Element="4" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Ferea Knight" -->
+		<Config Class="730" Range="30" PositionX="63" PositionY="96" Direction="-1" Element="5" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Ferea Knight" -->
+		<Config Class="730" Range="30" PositionX="77" PositionY="80" Direction="-1" Element="1" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Ferea Knight" -->
+		<Config Class="730" Range="30" PositionX="74" PositionY="98" Direction="-1" Element="2" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Ferea Knight" -->
+		<Config Class="730" Range="30" PositionX="80" PositionY="100" Direction="-1" Element="3" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Ferea Knight" -->
+		<Config Class="730" Range="30" PositionX="68" PositionY="99" Direction="-1" Element="4" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Ferea Knight" -->
+		<Config Class="730" Range="30" PositionX="68" PositionY="100" Direction="-1" Element="5" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Ferea Knight" -->
+		<Config Class="730" Range="30" PositionX="58" PositionY="103" Direction="-1" Element="1" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Ferea Knight" -->
+		<Config Class="730" Range="30" PositionX="75" PositionY="77" Direction="-1" Element="2" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Ferea Knight" -->
+		<Config Class="730" Range="30" PositionX="70" PositionY="79" Direction="-1" Element="3" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Ferea Knight" -->
+		<Config Class="730" Range="30" PositionX="65" PositionY="92" Direction="-1" Element="4" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Ferea Knight" -->
+		<Config Class="730" Range="30" PositionX="55" PositionY="77" Direction="-1" Element="5" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Ferea Knight" -->
+		<Config Class="730" Range="30" PositionX="72" PositionY="101" Direction="-1" Element="1" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Ferea Knight" -->
+
+		<Config Class="731" Range="30" PositionX="120" PositionY="80" Direction="-1" Element="1" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Ferea Archer" -->
+		<Config Class="731" Range="30" PositionX="76" PositionY="103" Direction="-1" Element="2" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Ferea Archer" -->
+		<Config Class="731" Range="30" PositionX="77" PositionY="82" Direction="-1" Element="3" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Ferea Archer" -->
+		<Config Class="731" Range="30" PositionX="80" PositionY="90" Direction="-1" Element="4" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Ferea Archer" -->
+		<Config Class="731" Range="30" PositionX="80" PositionY="95" Direction="-1" Element="5" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Ferea Archer" -->
+		<Config Class="731" Range="30" PositionX="73" PositionY="76" Direction="-1" Element="1" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Ferea Archer" -->
+		<Config Class="731" Range="30" PositionX="73" PositionY="93" Direction="-1" Element="2" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Ferea Archer" -->
+		<Config Class="731" Range="30" PositionX="71" PositionY="99" Direction="-1" Element="3" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Ferea Archer" -->
+		<Config Class="731" Range="30" PositionX="68" PositionY="102" Direction="-1" Element="4" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Ferea Archer" -->
+		<Config Class="731" Range="30" PositionX="62" PositionY="103" Direction="-1" Element="5" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Ferea Archer" -->
+		<Config Class="731" Range="30" PositionX="73" PositionY="84" Direction="-1" Element="1" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Ferea Archer" -->
+		<Config Class="731" Range="30" PositionX="82" PositionY="90" Direction="-1" Element="2" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Ferea Archer" -->
+		<Config Class="731" Range="30" PositionX="61" PositionY="86" Direction="-1" Element="3" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Ferea Archer" -->
+		<Config Class="731" Range="30" PositionX="78" PositionY="91" Direction="-1" Element="4" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Ferea Archer" -->
+		<Config Class="731" Range="30" PositionX="61" PositionY="89" Direction="-1" Element="5" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Ferea Archer" -->
+		<Config Class="731" Range="30" PositionX="55" PositionY="101" Direction="-1" Element="1" EventLevel="4" EventStage="1" RewpawnTime="500" /> <!-- "Ferea Archer" -->
+
 		
 		<!-- Devil Square Level 4 - Stage 2 -->
-		<Config Class="292" Range="30" PositionX="125" PositionY="84" Direction="-1"  Element="0" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="292" Range="30" PositionX="125" PositionY="84" Direction="-1"  Element="0" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="292" Range="30" PositionX="125" PositionY="84" Direction="-1"  Element="0" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="292" Range="30" PositionX="125" PositionY="84" Direction="-1"  Element="0" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="292" Range="30" PositionX="145" PositionY="86" Direction="-1"  Element="0" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->		
-		<Config Class="292" Range="30" PositionX="145" PositionY="86"  Direction="-1" Element="0" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="292" Range="30" PositionX="145" PositionY="86"  Direction="-1" Element="0" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="292" Range="30" PositionX="145" PositionY="86" Direction="-1"  Element="0" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="292" Range="30" PositionX="145" PositionY="108"  Direction="-1" Element="0" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="292" Range="30" PositionX="145" PositionY="108"  Direction="-1" Element="0" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="292" Range="30" PositionX="145" PositionY="108" Direction="-1"  Element="0" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="292" Range="30" PositionX="145" PositionY="108" Direction="-1"  Element="0" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="292" Range="30" PositionX="127" PositionY="106" Direction="-1"  Element="0" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->		
-		<Config Class="292" Range="30" PositionX="127" PositionY="106"  Direction="-1" Element="0" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="292" Range="30" PositionX="127" PositionY="106"  Direction="-1" Element="0" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="292" Range="30" PositionX="127" PositionY="106" Direction="-1"  Element="0" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="292" Range="30" PositionX="136" PositionY="93"  Direction="-1" Element="0" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="292" Range="30" PositionX="136" PositionY="93"  Direction="-1" Element="0" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="292" Range="30" PositionX="136" PositionY="93" Direction="-1"  Element="0" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="292" Range="30" PositionX="136" PositionY="93" Direction="-1"  Element="0" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
+		<Config Class="743" Range="30" PositionX="64" PositionY="90" Direction="-1" Element="1" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Paraca" -->
+		<Config Class="743" Range="30" PositionX="71" PositionY="84" Direction="-1" Element="2" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Paraca" -->
+		<Config Class="743" Range="30" PositionX="71" PositionY="87" Direction="-1" Element="3" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Paraca" -->
+		<Config Class="743" Range="30" PositionX="65" PositionY="88" Direction="-1" Element="4" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Paraca" -->
+		<Config Class="743" Range="30" PositionX="67" PositionY="96" Direction="-1" Element="5" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Paraca" -->
+		<Config Class="743" Range="30" PositionX="58" PositionY="85" Direction="-1" Element="1" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Paraca" -->
+		<Config Class="743" Range="30" PositionX="75" PositionY="76" Direction="-1" Element="2" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Paraca" -->
+		<Config Class="743" Range="30" PositionX="76" PositionY="99" Direction="-1" Element="3" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Paraca" -->
+		<Config Class="743" Range="30" PositionX="66" PositionY="80" Direction="-1" Element="4" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Paraca" -->
+		<Config Class="743" Range="30" PositionX="70" PositionY="84" Direction="-1" Element="5" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Paraca" -->
 		
-		<Config Class="293" Range="30" PositionX="125" PositionY="84" Direction="-1"  Element="0" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="293" Range="30" PositionX="125" PositionY="84" Direction="-1"  Element="0" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="293" Range="30" PositionX="125" PositionY="84" Direction="-1"  Element="0" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="293" Range="30" PositionX="125" PositionY="84" Direction="-1"  Element="0" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="293" Range="30" PositionX="145" PositionY="86" Direction="-1"  Element="0" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="293" Range="30" PositionX="145" PositionY="86" Direction="-1"  Element="0" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="293" Range="30" PositionX="145" PositionY="86" Direction="-1"  Element="0" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="293" Range="30" PositionX="145" PositionY="86"  Direction="-1" Element="0" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="293" Range="30" PositionX="145" PositionY="108"  Direction="-1" Element="0" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="293" Range="30" PositionX="145" PositionY="108" Direction="-1"  Element="0" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="293" Range="30" PositionX="145" PositionY="108"  Direction="-1" Element="0" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="293" Range="30" PositionX="145" PositionY="108" Direction="-1"  Element="0" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="293" Range="30" PositionX="127" PositionY="106" Direction="-1"  Element="0" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="293" Range="30" PositionX="127" PositionY="106" Direction="-1"  Element="0" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="293" Range="30" PositionX="127" PositionY="106" Direction="-1"  Element="0" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="293" Range="30" PositionX="127" PositionY="106"  Direction="-1" Element="0" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="293" Range="30" PositionX="136" PositionY="93"  Direction="-1" Element="0" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="293" Range="30" PositionX="136" PositionY="93" Direction="-1"  Element="0" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="293" Range="30" PositionX="136" PositionY="93"  Direction="-1" Element="0" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="293" Range="30" PositionX="136" PositionY="93" Direction="-1"  Element="0" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Mutant" -->
+		<Config Class="744" Range="30" PositionX="122" PositionY="152" Direction="-1" Element="1" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bass" -->
+		<Config Class="744" Range="30" PositionX="82" PositionY="102" Direction="-1" Element="2" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bass" -->
+		<Config Class="744" Range="30" PositionX="82" PositionY="84" Direction="-1" Element="3" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bass" -->
+		<Config Class="744" Range="30" PositionX="66" PositionY="97" Direction="-1" Element="4" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bass" -->
+		<Config Class="744" Range="30" PositionX="63" PositionY="96" Direction="-1" Element="5" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bass" -->
+		<Config Class="744" Range="30" PositionX="77" PositionY="80" Direction="-1" Element="1" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bass" -->
+		<Config Class="744" Range="30" PositionX="74" PositionY="98" Direction="-1" Element="2" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bass" -->
+		<Config Class="744" Range="30" PositionX="80" PositionY="100" Direction="-1" Element="3" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bass" -->
+		<Config Class="744" Range="30" PositionX="68" PositionY="99" Direction="-1" Element="4" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bass" -->
+		<Config Class="744" Range="30" PositionX="68" PositionY="100" Direction="-1" Element="5" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bass" -->
+		<Config Class="744" Range="30" PositionX="58" PositionY="103" Direction="-1" Element="1" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bass" -->
+		<Config Class="744" Range="30" PositionX="75" PositionY="77" Direction="-1" Element="2" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bass" -->
+		<Config Class="744" Range="30" PositionX="70" PositionY="79" Direction="-1" Element="3" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bass" -->
+		<Config Class="744" Range="30" PositionX="65" PositionY="92" Direction="-1" Element="4" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bass" -->
+		<Config Class="744" Range="30" PositionX="55" PositionY="77" Direction="-1" Element="5" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bass" -->
+		<Config Class="744" Range="30" PositionX="72" PositionY="101" Direction="-1" Element="1" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Bass" -->
+
+		<Config Class="745" Range="30" PositionX="120" PositionY="80" Direction="-1" Element="1" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Vasuki" -->
+		<Config Class="745" Range="30" PositionX="76" PositionY="103" Direction="-1" Element="2" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Vasuki" -->
+		<Config Class="745" Range="30" PositionX="77" PositionY="82" Direction="-1" Element="3" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Vasuki" -->
+		<Config Class="745" Range="30" PositionX="80" PositionY="90" Direction="-1" Element="4" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Vasuki" -->
+		<Config Class="745" Range="30" PositionX="80" PositionY="95" Direction="-1" Element="5" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Vasuki" -->
+		<Config Class="745" Range="30" PositionX="73" PositionY="76" Direction="-1" Element="1" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Vasuki" -->
+		<Config Class="745" Range="30" PositionX="73" PositionY="93" Direction="-1" Element="2" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Vasuki" -->
+		<Config Class="745" Range="30" PositionX="71" PositionY="99" Direction="-1" Element="3" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Vasuki" -->
+		<Config Class="745" Range="30" PositionX="68" PositionY="102" Direction="-1" Element="4" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Vasuki" -->
+		<Config Class="745" Range="30" PositionX="62" PositionY="103" Direction="-1" Element="5" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Vasuki" -->
+		<Config Class="745" Range="30" PositionX="73" PositionY="84" Direction="-1" Element="1" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Vasuki" -->
+		<Config Class="745" Range="30" PositionX="82" PositionY="90" Direction="-1" Element="2" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Vasuki" -->
+		<Config Class="745" Range="30" PositionX="61" PositionY="86" Direction="-1" Element="3" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Vasuki" -->
+		<Config Class="745" Range="30" PositionX="78" PositionY="91" Direction="-1" Element="4" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Vasuki" -->
+		<Config Class="745" Range="30" PositionX="61" PositionY="89" Direction="-1" Element="5" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Vasuki" -->
+		<Config Class="745" Range="30" PositionX="55" PositionY="101" Direction="-1" Element="1" EventLevel="4" EventStage="2" RewpawnTime="500" /> <!-- "Vasuki" -->
 
 		<!-- Devil Square Level 4 - Stage 3 -->
-		<Config Class="291" Range="30" PositionX="125" PositionY="84" Direction="-1"  Element="0" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="291" Range="30" PositionX="125" PositionY="84" Direction="-1"  Element="0" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="291" Range="30" PositionX="125" PositionY="84" Direction="-1"  Element="0" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="291" Range="30" PositionX="125" PositionY="84" Direction="-1"  Element="0" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="291" Range="30" PositionX="145" PositionY="86" Direction="-1"  Element="0" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->		
-		<Config Class="291" Range="30" PositionX="145" PositionY="86"  Direction="-1" Element="0" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="291" Range="30" PositionX="145" PositionY="86"  Direction="-1" Element="0" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="291" Range="30" PositionX="145" PositionY="86" Direction="-1"  Element="0" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="291" Range="30" PositionX="145" PositionY="108"  Direction="-1" Element="0" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="291" Range="30" PositionX="145" PositionY="108"  Direction="-1" Element="0" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="291" Range="30" PositionX="145" PositionY="108" Direction="-1"  Element="0" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="291" Range="30" PositionX="145" PositionY="108" Direction="-1"  Element="0" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="291" Range="30" PositionX="127" PositionY="106" Direction="-1"  Element="0" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->		
-		<Config Class="291" Range="30" PositionX="127" PositionY="106"  Direction="-1" Element="0" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="291" Range="30" PositionX="127" PositionY="106"  Direction="-1" Element="0" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="291" Range="30" PositionX="127" PositionY="106" Direction="-1"  Element="0" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="291" Range="30" PositionX="136" PositionY="93"  Direction="-1" Element="0" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="291" Range="30" PositionX="136" PositionY="93"  Direction="-1" Element="0" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="291" Range="30" PositionX="136" PositionY="93" Direction="-1"  Element="0" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="291" Range="30" PositionX="136" PositionY="93" Direction="-1"  Element="0" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
+		<Config Class="782" Range="30" PositionX="64" PositionY="90" Direction="-1" Element="1" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Soram" -->
+		<Config Class="782" Range="30" PositionX="71" PositionY="84" Direction="-1" Element="2" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Soram" -->
+		<Config Class="782" Range="30" PositionX="71" PositionY="87" Direction="-1" Element="3" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Soram" -->
+		<Config Class="782" Range="30" PositionX="65" PositionY="88" Direction="-1" Element="4" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Soram" -->
+		<Config Class="782" Range="30" PositionX="67" PositionY="96" Direction="-1" Element="5" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Soram" -->
+		<Config Class="782" Range="30" PositionX="58" PositionY="85" Direction="-1" Element="1" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Soram" -->
+		<Config Class="782" Range="30" PositionX="75" PositionY="76" Direction="-1" Element="2" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Soram" -->
+		<Config Class="782" Range="30" PositionX="76" PositionY="99" Direction="-1" Element="3" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Soram" -->
+		<Config Class="782" Range="30" PositionX="66" PositionY="80" Direction="-1" Element="4" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Soram" -->
+		<Config Class="782" Range="30" PositionX="70" PositionY="84" Direction="-1" Element="5" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Soram" -->
+		
+		<Config Class="780" Range="30" PositionX="122" PositionY="152" Direction="-1" Element="1" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Necron" -->
+		<Config Class="780" Range="30" PositionX="82" PositionY="102" Direction="-1" Element="2" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Necron" -->
+		<Config Class="780" Range="30" PositionX="82" PositionY="84" Direction="-1" Element="3" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Necron" -->
+		<Config Class="780" Range="30" PositionX="66" PositionY="97" Direction="-1" Element="4" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Necron" -->
+		<Config Class="780" Range="30" PositionX="63" PositionY="96" Direction="-1" Element="5" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Necron" -->
+		<Config Class="780" Range="30" PositionX="77" PositionY="80" Direction="-1" Element="1" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Necron" -->
+		<Config Class="780" Range="30" PositionX="74" PositionY="98" Direction="-1" Element="2" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Necron" -->
+		<Config Class="780" Range="30" PositionX="80" PositionY="100" Direction="-1" Element="3" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Necron" -->
+		<Config Class="780" Range="30" PositionX="68" PositionY="99" Direction="-1" Element="4" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Necron" -->
+		<Config Class="780" Range="30" PositionX="68" PositionY="100" Direction="-1" Element="5" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Necron" -->
+		<Config Class="780" Range="30" PositionX="58" PositionY="103" Direction="-1" Element="1" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Necron" -->
+		<Config Class="780" Range="30" PositionX="75" PositionY="77" Direction="-1" Element="2" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Necron" -->
+		<Config Class="780" Range="30" PositionX="70" PositionY="79" Direction="-1" Element="3" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Necron" -->
+		<Config Class="780" Range="30" PositionX="65" PositionY="92" Direction="-1" Element="4" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Necron" -->
+		<Config Class="780" Range="30" PositionX="55" PositionY="77" Direction="-1" Element="5" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Necron" -->
+		<Config Class="780" Range="30" PositionX="72" PositionY="101" Direction="-1" Element="1" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Necron" -->
+
+		<Config Class="781" Range="30" PositionX="120" PositionY="80" Direction="-1" Element="1" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Balram" -->
+		<Config Class="781" Range="30" PositionX="76" PositionY="103" Direction="-1" Element="2" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Balram" -->
+		<Config Class="781" Range="30" PositionX="77" PositionY="82" Direction="-1" Element="3" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Balram" -->
+		<Config Class="781" Range="30" PositionX="80" PositionY="90" Direction="-1" Element="4" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Balram" -->
+		<Config Class="781" Range="30" PositionX="80" PositionY="95" Direction="-1" Element="5" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Balram" -->
+		<Config Class="781" Range="30" PositionX="73" PositionY="76" Direction="-1" Element="1" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Balram" -->
+		<Config Class="781" Range="30" PositionX="73" PositionY="93" Direction="-1" Element="2" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Balram" -->
+		<Config Class="781" Range="30" PositionX="71" PositionY="99" Direction="-1" Element="3" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Balram" -->
+		<Config Class="781" Range="30" PositionX="68" PositionY="102" Direction="-1" Element="4" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Balram" -->
+		<Config Class="781" Range="30" PositionX="62" PositionY="103" Direction="-1" Element="5" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Balram" -->
+		<Config Class="781" Range="30" PositionX="73" PositionY="84" Direction="-1" Element="1" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Balram" -->
+		<Config Class="781" Range="30" PositionX="82" PositionY="90" Direction="-1" Element="2" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Balram" -->
+		<Config Class="781" Range="30" PositionX="61" PositionY="86" Direction="-1" Element="3" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Balram" -->
+		<Config Class="781" Range="30" PositionX="78" PositionY="91" Direction="-1" Element="4" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Balram" -->
+		<Config Class="781" Range="30" PositionX="61" PositionY="89" Direction="-1" Element="5" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Balram" -->
+		<Config Class="781" Range="30" PositionX="55" PositionY="101" Direction="-1" Element="1" EventLevel="4" EventStage="3" RewpawnTime="500" /> <!-- "Balram" -->
 
 		<!-- Devil Square Level 5 - Stage 0 -->
-		<Config Class="69" Range="30" PositionX="141" PositionY="164" Direction="-1"  Element="0" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="69" Range="30" PositionX="141" PositionY="164" Direction="-1"  Element="0" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="69" Range="30" PositionX="141" PositionY="164" Direction="-1"  Element="0" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="69" Range="30" PositionX="141" PositionY="164" Direction="-1"  Element="0" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="69" Range="30" PositionX="147" PositionY="177" Direction="-1"  Element="0" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->		
-		<Config Class="69" Range="30" PositionX="147" PositionY="177"  Direction="-1" Element="0" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="69" Range="30" PositionX="147" PositionY="177"  Direction="-1" Element="0" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="69" Range="30" PositionX="147" PositionY="177" Direction="-1"  Element="0" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="69" Range="30" PositionX="128" PositionY="176"   Direction="-1" Element="0" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="69" Range="30" PositionX="128" PositionY="176"   Direction="-1" Element="0" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="69" Range="30" PositionX="128" PositionY="176"  Direction="-1"  Element="0" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="69" Range="30" PositionX="128" PositionY="176"  Direction="-1"  Element="0" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="69" Range="30" PositionX="127" PositionY="155"  Direction="-1"  Element="0" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->		
-		<Config Class="69" Range="30" PositionX="127" PositionY="155"   Direction="-1" Element="0" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="69" Range="30" PositionX="127" PositionY="155"   Direction="-1" Element="0" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="69" Range="30" PositionX="127" PositionY="155"  Direction="-1"  Element="0" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="69" Range="30" PositionX="145" PositionY="155"  Direction="-1" Element="0" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="69" Range="30" PositionX="145" PositionY="155"  Direction="-1" Element="0" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="69" Range="30" PositionX="145" PositionY="155" Direction="-1"  Element="0" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="69" Range="30" PositionX="145" PositionY="155" Direction="-1"  Element="0" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		
-		<Config Class="71" Range="30" PositionX="141" PositionY="164" Direction="-1"  Element="0" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="71" Range="30" PositionX="141" PositionY="164" Direction="-1"  Element="0" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="71" Range="30" PositionX="141" PositionY="164" Direction="-1"  Element="0" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="71" Range="30" PositionX="141" PositionY="164" Direction="-1"  Element="0" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="71" Range="30" PositionX="147" PositionY="177" Direction="-1"  Element="0" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="71" Range="30" PositionX="147" PositionY="177" Direction="-1"  Element="0" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="71" Range="30" PositionX="147" PositionY="177" Direction="-1"  Element="0" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="71" Range="30" PositionX="147" PositionY="177"  Direction="-1" Element="0" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="71" Range="30" PositionX="128" PositionY="176"   Direction="-1" Element="0" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="71" Range="30" PositionX="128" PositionY="176"  Direction="-1"  Element="0" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="71" Range="30" PositionX="128" PositionY="176"   Direction="-1" Element="0" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="71" Range="30" PositionX="128" PositionY="176"  Direction="-1"  Element="0" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="71" Range="30" PositionX="127" PositionY="155"  Direction="-1"  Element="0" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="71" Range="30" PositionX="127" PositionY="155"  Direction="-1"  Element="0" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="71" Range="30" PositionX="127" PositionY="155"  Direction="-1"  Element="0" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="71" Range="30" PositionX="127" PositionY="155"   Direction="-1" Element="0" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="71" Range="30" PositionX="145" PositionY="155"  Direction="-1" Element="0" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="71" Range="30" PositionX="145" PositionY="155" Direction="-1"  Element="0" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="71" Range="30" PositionX="145" PositionY="155"  Direction="-1" Element="0" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="71" Range="30" PositionX="145" PositionY="155" Direction="-1"  Element="0" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Mutant" -->
+		<Config Class="767" Range="30" PositionX="64" PositionY="90" Direction="-1" Element="1" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Deep Dungeon Skeleton Warrior" -->
+		<Config Class="767" Range="30" PositionX="71" PositionY="84" Direction="-1" Element="2" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Deep Dungeon Skeleton Warrior" -->
+		<Config Class="767" Range="30" PositionX="71" PositionY="87" Direction="-1" Element="3" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Deep Dungeon Skeleton Warrior" -->
+		<Config Class="767" Range="30" PositionX="65" PositionY="88" Direction="-1" Element="4" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Deep Dungeon Skeleton Warrior" -->
+		<Config Class="767" Range="30" PositionX="67" PositionY="96" Direction="-1" Element="5" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Deep Dungeon Skeleton Warrior" -->
+		<Config Class="767" Range="30" PositionX="58" PositionY="85" Direction="-1" Element="1" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Deep Dungeon Skeleton Warrior" -->
+		<Config Class="767" Range="30" PositionX="75" PositionY="76" Direction="-1" Element="2" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Deep Dungeon Skeleton Warrior" -->
+		<Config Class="767" Range="30" PositionX="76" PositionY="99" Direction="-1" Element="3" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Deep Dungeon Skeleton Warrior" -->
+		<Config Class="767" Range="30" PositionX="66" PositionY="80" Direction="-1" Element="4" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Deep Dungeon Skeleton Warrior" -->
+		<Config Class="767" Range="30" PositionX="70" PositionY="84" Direction="-1" Element="5" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Deep Dungeon Skeleton Warrior" -->
+
+		<Config Class="768" Range="30" PositionX="122" PositionY="152" Direction="-1" Element="1" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="30" PositionX="82" PositionY="102" Direction="-1" Element="2" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="30" PositionX="82" PositionY="84" Direction="-1" Element="3" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="30" PositionX="66" PositionY="97" Direction="-1" Element="4" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="30" PositionX="63" PositionY="96" Direction="-1" Element="5" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="30" PositionX="77" PositionY="80" Direction="-1" Element="1" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="30" PositionX="74" PositionY="98" Direction="-1" Element="2" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="30" PositionX="80" PositionY="100" Direction="-1" Element="3" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="30" PositionX="68" PositionY="99" Direction="-1" Element="4" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="30" PositionX="68" PositionY="100" Direction="-1" Element="5" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="30" PositionX="58" PositionY="103" Direction="-1" Element="1" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="30" PositionX="75" PositionY="77" Direction="-1" Element="2" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="30" PositionX="70" PositionY="79" Direction="-1" Element="3" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="30" PositionX="65" PositionY="92" Direction="-1" Element="4" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="30" PositionX="55" PositionY="77" Direction="-1" Element="5" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+		<Config Class="768" Range="30" PositionX="72" PositionY="101" Direction="-1" Element="1" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Deep Dungeon Chief Skeleton Arc" -->
+
+		<Config Class="769" Range="30" PositionX="120" PositionY="80" Direction="-1" Element="1" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Deep Dungeon Elite Skeleton War" -->
+		<Config Class="769" Range="30" PositionX="76" PositionY="103" Direction="-1" Element="2" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Deep Dungeon Elite Skeleton War" -->
+		<Config Class="769" Range="30" PositionX="77" PositionY="82" Direction="-1" Element="3" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Deep Dungeon Elite Skeleton War" -->
+		<Config Class="769" Range="30" PositionX="80" PositionY="90" Direction="-1" Element="4" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Deep Dungeon Elite Skeleton War" -->
+		<Config Class="769" Range="30" PositionX="80" PositionY="95" Direction="-1" Element="5" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Deep Dungeon Elite Skeleton War" -->
+		<Config Class="769" Range="30" PositionX="73" PositionY="76" Direction="-1" Element="1" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Deep Dungeon Elite Skeleton War" -->
+		<Config Class="769" Range="30" PositionX="73" PositionY="93" Direction="-1" Element="2" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Deep Dungeon Elite Skeleton War" -->
+		<Config Class="769" Range="30" PositionX="71" PositionY="99" Direction="-1" Element="3" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Deep Dungeon Elite Skeleton War" -->
+		<Config Class="769" Range="30" PositionX="68" PositionY="102" Direction="-1" Element="4" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Deep Dungeon Elite Skeleton War" -->
+		<Config Class="769" Range="30" PositionX="62" PositionY="103" Direction="-1" Element="5" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Deep Dungeon Elite Skeleton War" -->
+		<Config Class="769" Range="30" PositionX="73" PositionY="84" Direction="-1" Element="1" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Deep Dungeon Elite Skeleton War" -->
+		<Config Class="769" Range="30" PositionX="82" PositionY="90" Direction="-1" Element="2" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Deep Dungeon Elite Skeleton War" -->
+		<Config Class="769" Range="30" PositionX="61" PositionY="86" Direction="-1" Element="3" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Deep Dungeon Elite Skeleton War" -->
+		<Config Class="769" Range="30" PositionX="78" PositionY="91" Direction="-1" Element="4" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Deep Dungeon Elite Skeleton War" -->
+		<Config Class="769" Range="30" PositionX="61" PositionY="89" Direction="-1" Element="5" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Deep Dungeon Elite Skeleton War" -->
+		<Config Class="769" Range="30" PositionX="55" PositionY="101" Direction="-1" Element="1" EventLevel="5" EventStage="0" RewpawnTime="500" /> <!-- "Deep Dungeon Elite Skeleton War" -->
+
 
 		<!-- Devil Square Level 5 - Stage 1 -->
-		<Config Class="73" Range="30" PositionX="141" PositionY="164" Direction="-1"  Element="0" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="73" Range="30" PositionX="141" PositionY="164" Direction="-1"  Element="0" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="73" Range="30" PositionX="141" PositionY="164" Direction="-1"  Element="0" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="73" Range="30" PositionX="141" PositionY="164" Direction="-1"  Element="0" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="73" Range="30" PositionX="147" PositionY="177" Direction="-1"  Element="0" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->		
-		<Config Class="73" Range="30" PositionX="147" PositionY="177"  Direction="-1" Element="0" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="73" Range="30" PositionX="147" PositionY="177"  Direction="-1" Element="0" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="73" Range="30" PositionX="147" PositionY="177" Direction="-1"  Element="0" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="73" Range="30" PositionX="128" PositionY="176"   Direction="-1" Element="0" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="73" Range="30" PositionX="128" PositionY="176"   Direction="-1" Element="0" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="73" Range="30" PositionX="128" PositionY="176"  Direction="-1"  Element="0" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="73" Range="30" PositionX="128" PositionY="176"  Direction="-1"  Element="0" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="73" Range="30" PositionX="127" PositionY="155"  Direction="-1"  Element="0" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->		
-		<Config Class="73" Range="30" PositionX="127" PositionY="155"   Direction="-1" Element="0" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="73" Range="30" PositionX="127" PositionY="155"   Direction="-1" Element="0" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="73" Range="30" PositionX="127" PositionY="155"  Direction="-1"  Element="0" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="73" Range="30" PositionX="145" PositionY="155"  Direction="-1" Element="0" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="73" Range="30" PositionX="145" PositionY="155"  Direction="-1" Element="0" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="73" Range="30" PositionX="145" PositionY="155" Direction="-1"  Element="0" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="73" Range="30" PositionX="145" PositionY="155" Direction="-1"  Element="0" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
+		<Config Class="770" Range="30" PositionX="64" PositionY="90" Direction="-1" Element="1" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Deep Dungeon Larva" -->
+		<Config Class="770" Range="30" PositionX="71" PositionY="84" Direction="-1" Element="2" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Deep Dungeon Larva" -->
+		<Config Class="770" Range="30" PositionX="71" PositionY="87" Direction="-1" Element="3" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Deep Dungeon Larva" -->
+		<Config Class="770" Range="30" PositionX="65" PositionY="88" Direction="-1" Element="4" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Deep Dungeon Larva" -->
+		<Config Class="770" Range="30" PositionX="67" PositionY="96" Direction="-1" Element="5" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Deep Dungeon Larva" -->
+		<Config Class="770" Range="30" PositionX="58" PositionY="85" Direction="-1" Element="1" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Deep Dungeon Larva" -->
+		<Config Class="770" Range="30" PositionX="75" PositionY="76" Direction="-1" Element="2" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Deep Dungeon Larva" -->
+		<Config Class="770" Range="30" PositionX="76" PositionY="99" Direction="-1" Element="3" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Deep Dungeon Larva" -->
+		<Config Class="770" Range="30" PositionX="66" PositionY="80" Direction="-1" Element="4" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Deep Dungeon Larva" -->
+		<Config Class="770" Range="30" PositionX="70" PositionY="84" Direction="-1" Element="5" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Deep Dungeon Larva" -->
 		
-		<Config Class="74" Range="30" PositionX="141" PositionY="164" Direction="-1"  Element="0" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="74" Range="30" PositionX="141" PositionY="164" Direction="-1"  Element="0" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="74" Range="30" PositionX="141" PositionY="164" Direction="-1"  Element="0" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="74" Range="30" PositionX="141" PositionY="164" Direction="-1"  Element="0" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="74" Range="30" PositionX="147" PositionY="177" Direction="-1"  Element="0" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="74" Range="30" PositionX="147" PositionY="177" Direction="-1"  Element="0" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="74" Range="30" PositionX="147" PositionY="177" Direction="-1"  Element="0" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="74" Range="30" PositionX="147" PositionY="177"  Direction="-1" Element="0" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="74" Range="30" PositionX="128" PositionY="176"   Direction="-1" Element="0" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="74" Range="30" PositionX="128" PositionY="176"  Direction="-1"  Element="0" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="74" Range="30" PositionX="128" PositionY="176"   Direction="-1" Element="0" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="74" Range="30" PositionX="128" PositionY="176"  Direction="-1"  Element="0" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="74" Range="30" PositionX="127" PositionY="155"  Direction="-1"  Element="0" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="74" Range="30" PositionX="127" PositionY="155"  Direction="-1"  Element="0" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="74" Range="30" PositionX="127" PositionY="155"  Direction="-1"  Element="0" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="74" Range="30" PositionX="127" PositionY="155"   Direction="-1" Element="0" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="74" Range="30" PositionX="145" PositionY="155"  Direction="-1" Element="0" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="74" Range="30" PositionX="145" PositionY="155" Direction="-1"  Element="0" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="74" Range="30" PositionX="145" PositionY="155"  Direction="-1" Element="0" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="74" Range="30" PositionX="145" PositionY="155" Direction="-1"  Element="0" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Mutant" -->
+		<Config Class="771" Range="30" PositionX="122" PositionY="152" Direction="-1" Element="1" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Deep Dungeon Cyclops" -->
+		<Config Class="771" Range="30" PositionX="82" PositionY="102" Direction="-1" Element="2" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Deep Dungeon Cyclops" -->
+		<Config Class="771" Range="30" PositionX="82" PositionY="84" Direction="-1" Element="3" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Deep Dungeon Cyclops" -->
+		<Config Class="771" Range="30" PositionX="66" PositionY="97" Direction="-1" Element="4" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Deep Dungeon Cyclops" -->
+		<Config Class="771" Range="30" PositionX="63" PositionY="96" Direction="-1" Element="5" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Deep Dungeon Cyclops" -->
+		<Config Class="771" Range="30" PositionX="77" PositionY="80" Direction="-1" Element="1" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Deep Dungeon Cyclops" -->
+		<Config Class="771" Range="30" PositionX="74" PositionY="98" Direction="-1" Element="2" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Deep Dungeon Cyclops" -->
+		<Config Class="771" Range="30" PositionX="80" PositionY="100" Direction="-1" Element="3" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Deep Dungeon Cyclops" -->
+		<Config Class="771" Range="30" PositionX="68" PositionY="99" Direction="-1" Element="4" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Deep Dungeon Cyclops" -->
+		<Config Class="771" Range="30" PositionX="68" PositionY="100" Direction="-1" Element="5" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Deep Dungeon Cyclops" -->
+		<Config Class="771" Range="30" PositionX="58" PositionY="103" Direction="-1" Element="1" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Deep Dungeon Cyclops" -->
+		<Config Class="771" Range="30" PositionX="75" PositionY="77" Direction="-1" Element="2" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Deep Dungeon Cyclops" -->
+		<Config Class="771" Range="30" PositionX="70" PositionY="79" Direction="-1" Element="3" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Deep Dungeon Cyclops" -->
+		<Config Class="771" Range="30" PositionX="65" PositionY="92" Direction="-1" Element="4" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Deep Dungeon Cyclops" -->
+		<Config Class="771" Range="30" PositionX="55" PositionY="77" Direction="-1" Element="5" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Deep Dungeon Cyclops" -->
+		<Config Class="771" Range="30" PositionX="72" PositionY="101" Direction="-1" Element="1" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Deep Dungeon Cyclops" -->
+
+		<Config Class="772" Range="30" PositionX="120" PositionY="80" Direction="-1" Element="1" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Deep Dungeon Ghost" -->
+		<Config Class="772" Range="30" PositionX="76" PositionY="103" Direction="-1" Element="2" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Deep Dungeon Ghost" -->
+		<Config Class="772" Range="30" PositionX="77" PositionY="82" Direction="-1" Element="3" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Deep Dungeon Ghost" -->
+		<Config Class="772" Range="30" PositionX="80" PositionY="90" Direction="-1" Element="4" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Deep Dungeon Ghost" -->
+		<Config Class="772" Range="30" PositionX="80" PositionY="95" Direction="-1" Element="5" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Deep Dungeon Ghost" -->
+		<Config Class="772" Range="30" PositionX="73" PositionY="76" Direction="-1" Element="1" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Deep Dungeon Ghost" -->
+		<Config Class="772" Range="30" PositionX="73" PositionY="93" Direction="-1" Element="2" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Deep Dungeon Ghost" -->
+		<Config Class="772" Range="30" PositionX="71" PositionY="99" Direction="-1" Element="3" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Deep Dungeon Ghost" -->
+		<Config Class="772" Range="30" PositionX="68" PositionY="102" Direction="-1" Element="4" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Deep Dungeon Ghost" -->
+		<Config Class="772" Range="30" PositionX="62" PositionY="103" Direction="-1" Element="5" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Deep Dungeon Ghost" -->
+		<Config Class="772" Range="30" PositionX="73" PositionY="84" Direction="-1" Element="1" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Deep Dungeon Ghost" -->
+		<Config Class="772" Range="30" PositionX="82" PositionY="90" Direction="-1" Element="2" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Deep Dungeon Ghost" -->
+		<Config Class="772" Range="30" PositionX="61" PositionY="86" Direction="-1" Element="3" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Deep Dungeon Ghost" -->
+		<Config Class="772" Range="30" PositionX="78" PositionY="91" Direction="-1" Element="4" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Deep Dungeon Ghost" -->
+		<Config Class="772" Range="30" PositionX="61" PositionY="89" Direction="-1" Element="5" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Deep Dungeon Ghost" -->
+		<Config Class="772" Range="30" PositionX="55" PositionY="101" Direction="-1" Element="1" EventLevel="5" EventStage="1" RewpawnTime="500" /> <!-- "Deep Dungeon Ghost" -->
 
 		<!-- Devil Square Level 5 - Stage 2 -->
-		<Config Class="72" Range="30" PositionX="141" PositionY="164" Direction="-1"  Element="0" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="72" Range="30" PositionX="141" PositionY="164" Direction="-1"  Element="0" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="72" Range="30" PositionX="141" PositionY="164" Direction="-1"  Element="0" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="72" Range="30" PositionX="141" PositionY="164" Direction="-1"  Element="0" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="72" Range="30" PositionX="147" PositionY="177" Direction="-1"  Element="0" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->		
-		<Config Class="72" Range="30" PositionX="147" PositionY="177"  Direction="-1" Element="0" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="72" Range="30" PositionX="147" PositionY="177"  Direction="-1" Element="0" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="72" Range="30" PositionX="147" PositionY="177" Direction="-1"  Element="0" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="72" Range="30" PositionX="128" PositionY="176"   Direction="-1" Element="0" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="72" Range="30" PositionX="128" PositionY="176"   Direction="-1" Element="0" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="72" Range="30" PositionX="128" PositionY="176"  Direction="-1"  Element="0" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="72" Range="30" PositionX="128" PositionY="176"  Direction="-1"  Element="0" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="72" Range="30" PositionX="127" PositionY="155"  Direction="-1"  Element="0" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->		
-		<Config Class="72" Range="30" PositionX="127" PositionY="155"   Direction="-1" Element="0" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="72" Range="30" PositionX="127" PositionY="155"   Direction="-1" Element="0" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="72" Range="30" PositionX="127" PositionY="155"  Direction="-1"  Element="0" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="72" Range="30" PositionX="145" PositionY="155"  Direction="-1" Element="0" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="72" Range="30" PositionX="145" PositionY="155"  Direction="-1" Element="0" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="72" Range="30" PositionX="145" PositionY="155" Direction="-1"  Element="0" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="72" Range="30" PositionX="145" PositionY="155" Direction="-1"  Element="0" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
+		<Config Class="773" Range="30" PositionX="64" PositionY="90" Direction="-1" Element="1" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="30" PositionX="71" PositionY="84" Direction="-1" Element="2" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="30" PositionX="71" PositionY="87" Direction="-1" Element="3" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="30" PositionX="65" PositionY="88" Direction="-1" Element="4" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="30" PositionX="67" PositionY="96" Direction="-1" Element="5" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="30" PositionX="58" PositionY="85" Direction="-1" Element="1" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="30" PositionX="75" PositionY="76" Direction="-1" Element="2" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="30" PositionX="76" PositionY="99" Direction="-1" Element="3" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="30" PositionX="66" PositionY="80" Direction="-1" Element="4" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Deep Dungeon Hell Hound" -->
+		<Config Class="773" Range="30" PositionX="70" PositionY="84" Direction="-1" Element="5" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Deep Dungeon Hell Hound" -->
 		
-		<Config Class="75" Range="30" PositionX="141" PositionY="164" Direction="-1"  Element="0" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="75" Range="30" PositionX="141" PositionY="164" Direction="-1"  Element="0" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="75" Range="30" PositionX="141" PositionY="164" Direction="-1"  Element="0" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="75" Range="30" PositionX="141" PositionY="164" Direction="-1"  Element="0" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="75" Range="30" PositionX="147" PositionY="177" Direction="-1"  Element="0" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="75" Range="30" PositionX="147" PositionY="177" Direction="-1"  Element="0" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="75" Range="30" PositionX="147" PositionY="177" Direction="-1"  Element="0" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="75" Range="30" PositionX="147" PositionY="177"  Direction="-1" Element="0" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="75" Range="30" PositionX="128" PositionY="176"   Direction="-1" Element="0" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="75" Range="30" PositionX="128" PositionY="176"  Direction="-1"  Element="0" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="75" Range="30" PositionX="128" PositionY="176"   Direction="-1" Element="0" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="75" Range="30" PositionX="128" PositionY="176"  Direction="-1"  Element="0" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="75" Range="30" PositionX="127" PositionY="155"  Direction="-1"  Element="0" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="75" Range="30" PositionX="127" PositionY="155"  Direction="-1"  Element="0" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="75" Range="30" PositionX="127" PositionY="155"  Direction="-1"  Element="0" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="75" Range="30" PositionX="127" PositionY="155"   Direction="-1" Element="0" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="75" Range="30" PositionX="145" PositionY="155"  Direction="-1" Element="0" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="75" Range="30" PositionX="145" PositionY="155" Direction="-1"  Element="0" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="75" Range="30" PositionX="145" PositionY="155"  Direction="-1" Element="0" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="75" Range="30" PositionX="145" PositionY="155" Direction="-1"  Element="0" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Mutant" -->
+		<Config Class="774" Range="30" PositionX="122" PositionY="152" Direction="-1" Element="1" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Deep Dungeon Hell Spider" -->
+		<Config Class="774" Range="30" PositionX="82" PositionY="102" Direction="-1" Element="2" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Deep Dungeon Hell Spider" -->
+		<Config Class="774" Range="30" PositionX="82" PositionY="84" Direction="-1" Element="3" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Deep Dungeon Hell Spider" -->
+		<Config Class="774" Range="30" PositionX="66" PositionY="97" Direction="-1" Element="4" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Deep Dungeon Hell Spider" -->
+		<Config Class="774" Range="30" PositionX="63" PositionY="96" Direction="-1" Element="5" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Deep Dungeon Hell Spider" -->
+		<Config Class="774" Range="30" PositionX="77" PositionY="80" Direction="-1" Element="1" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Deep Dungeon Hell Spider" -->
+		<Config Class="774" Range="30" PositionX="74" PositionY="98" Direction="-1" Element="2" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Deep Dungeon Hell Spider" -->
+		<Config Class="774" Range="30" PositionX="80" PositionY="100" Direction="-1" Element="3" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Deep Dungeon Hell Spider" -->
+		<Config Class="774" Range="30" PositionX="68" PositionY="99" Direction="-1" Element="4" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Deep Dungeon Hell Spider" -->
+		<Config Class="774" Range="30" PositionX="68" PositionY="100" Direction="-1" Element="5" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Deep Dungeon Hell Spider" -->
+		<Config Class="774" Range="30" PositionX="58" PositionY="103" Direction="-1" Element="1" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Deep Dungeon Hell Spider" -->
+		<Config Class="774" Range="30" PositionX="75" PositionY="77" Direction="-1" Element="2" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Deep Dungeon Hell Spider" -->
+		<Config Class="774" Range="30" PositionX="70" PositionY="79" Direction="-1" Element="3" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Deep Dungeon Hell Spider" -->
+		<Config Class="774" Range="30" PositionX="65" PositionY="92" Direction="-1" Element="4" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Deep Dungeon Hell Spider" -->
+		<Config Class="774" Range="30" PositionX="55" PositionY="77" Direction="-1" Element="5" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Deep Dungeon Hell Spider" -->
+		<Config Class="774" Range="30" PositionX="72" PositionY="101" Direction="-1" Element="1" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Deep Dungeon Hell Spider" -->
+
+		<Config Class="775" Range="30" PositionX="120" PositionY="80" Direction="-1" Element="1" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Deep Dungeon Thunder Lich" -->
+		<Config Class="775" Range="30" PositionX="76" PositionY="103" Direction="-1" Element="2" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Deep Dungeon Thunder Lich" -->
+		<Config Class="775" Range="30" PositionX="77" PositionY="82" Direction="-1" Element="3" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Deep Dungeon Thunder Lich" -->
+		<Config Class="775" Range="30" PositionX="80" PositionY="90" Direction="-1" Element="4" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Deep Dungeon Thunder Lich" -->
+		<Config Class="775" Range="30" PositionX="80" PositionY="95" Direction="-1" Element="5" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Deep Dungeon Thunder Lich" -->
+		<Config Class="775" Range="30" PositionX="73" PositionY="76" Direction="-1" Element="1" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Deep Dungeon Thunder Lich" -->
+		<Config Class="775" Range="30" PositionX="73" PositionY="93" Direction="-1" Element="2" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Deep Dungeon Thunder Lich" -->
+		<Config Class="775" Range="30" PositionX="71" PositionY="99" Direction="-1" Element="3" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Deep Dungeon Thunder Lich" -->
+		<Config Class="775" Range="30" PositionX="68" PositionY="102" Direction="-1" Element="4" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Deep Dungeon Thunder Lich" -->
+		<Config Class="775" Range="30" PositionX="62" PositionY="103" Direction="-1" Element="5" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Deep Dungeon Thunder Lich" -->
+		<Config Class="775" Range="30" PositionX="73" PositionY="84" Direction="-1" Element="1" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Deep Dungeon Thunder Lich" -->
+		<Config Class="775" Range="30" PositionX="82" PositionY="90" Direction="-1" Element="2" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Deep Dungeon Thunder Lich" -->
+		<Config Class="775" Range="30" PositionX="61" PositionY="86" Direction="-1" Element="3" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Deep Dungeon Thunder Lich" -->
+		<Config Class="775" Range="30" PositionX="78" PositionY="91" Direction="-1" Element="4" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Deep Dungeon Thunder Lich" -->
+		<Config Class="775" Range="30" PositionX="61" PositionY="89" Direction="-1" Element="5" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Deep Dungeon Thunder Lich" -->
+		<Config Class="775" Range="30" PositionX="55" PositionY="101" Direction="-1" Element="1" EventLevel="5" EventStage="2" RewpawnTime="500" /> <!-- "Deep Dungeon Thunder Lich" -->
 
 		<!-- Devil Square Level 5 - Stage 3 -->
-		<Config Class="77" Range="30" PositionX="141" PositionY="164" Direction="-1"  Element="0" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="77" Range="30" PositionX="141" PositionY="164" Direction="-1"  Element="0" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="77" Range="30" PositionX="141" PositionY="164" Direction="-1"  Element="0" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="77" Range="30" PositionX="141" PositionY="164" Direction="-1"  Element="0" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="77" Range="30" PositionX="147" PositionY="177" Direction="-1"  Element="0" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->		
-		<Config Class="77" Range="30" PositionX="147" PositionY="177"  Direction="-1" Element="0" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="77" Range="30" PositionX="147" PositionY="177"  Direction="-1" Element="0" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="77" Range="30" PositionX="147" PositionY="177" Direction="-1"  Element="0" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="77" Range="30" PositionX="128" PositionY="176"   Direction="-1" Element="0" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="77" Range="30" PositionX="128" PositionY="176"   Direction="-1" Element="0" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="77" Range="30" PositionX="128" PositionY="176"  Direction="-1"  Element="0" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="77" Range="30" PositionX="128" PositionY="176"  Direction="-1"  Element="0" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="77" Range="30" PositionX="127" PositionY="155"  Direction="-1"  Element="0" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->		
-		<Config Class="77" Range="30" PositionX="127" PositionY="155"   Direction="-1" Element="0" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="77" Range="30" PositionX="127" PositionY="155"   Direction="-1" Element="0" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="77" Range="30" PositionX="127" PositionY="155"  Direction="-1"  Element="0" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="77" Range="30" PositionX="145" PositionY="155"  Direction="-1" Element="0" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="77" Range="30" PositionX="145" PositionY="155"  Direction="-1" Element="0" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="77" Range="30" PositionX="145" PositionY="155" Direction="-1"  Element="0" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="77" Range="30" PositionX="145" PositionY="155" Direction="-1"  Element="0" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
+		<Config Class="776" Range="30" PositionX="64" PositionY="90" Direction="-1" Element="1" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Deep Dungeon Poison Bull Fighte" -->
+		<Config Class="776" Range="30" PositionX="71" PositionY="84" Direction="-1" Element="2" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Deep Dungeon Poison Bull Fighte" -->
+		<Config Class="776" Range="30" PositionX="71" PositionY="87" Direction="-1" Element="3" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Deep Dungeon Poison Bull Fighte" -->
+		<Config Class="776" Range="30" PositionX="65" PositionY="88" Direction="-1" Element="4" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Deep Dungeon Poison Bull Fighte" -->
+		<Config Class="776" Range="30" PositionX="67" PositionY="96" Direction="-1" Element="5" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Deep Dungeon Poison Bull Fighte" -->
+		<Config Class="776" Range="30" PositionX="58" PositionY="85" Direction="-1" Element="1" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Deep Dungeon Poison Bull Fighte" -->
+		<Config Class="776" Range="30" PositionX="75" PositionY="76" Direction="-1" Element="2" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Deep Dungeon Poison Bull Fighte" -->
+		<Config Class="776" Range="30" PositionX="76" PositionY="99" Direction="-1" Element="3" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Deep Dungeon Poison Bull Fighte" -->
+		<Config Class="776" Range="30" PositionX="66" PositionY="80" Direction="-1" Element="4" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Deep Dungeon Poison Bull Fighte" -->
+		<Config Class="776" Range="30" PositionX="70" PositionY="84" Direction="-1" Element="5" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Deep Dungeon Poison Bull Fighte" -->
+		
+		<Config Class="777" Range="30" PositionX="122" PositionY="152" Direction="-1" Element="1" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Deep Dungeon Dark Knight" -->
+		<Config Class="777" Range="30" PositionX="82" PositionY="102" Direction="-1" Element="2" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Deep Dungeon Dark Knight" -->
+		<Config Class="777" Range="30" PositionX="82" PositionY="84" Direction="-1" Element="3" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Deep Dungeon Dark Knight" -->
+		<Config Class="777" Range="30" PositionX="66" PositionY="97" Direction="-1" Element="4" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Deep Dungeon Dark Knight" -->
+		<Config Class="777" Range="30" PositionX="63" PositionY="96" Direction="-1" Element="5" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Deep Dungeon Dark Knight" -->
+		<Config Class="777" Range="30" PositionX="77" PositionY="80" Direction="-1" Element="1" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Deep Dungeon Dark Knight" -->
+		<Config Class="777" Range="30" PositionX="74" PositionY="98" Direction="-1" Element="2" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Deep Dungeon Dark Knight" -->
+		<Config Class="777" Range="30" PositionX="80" PositionY="100" Direction="-1" Element="3" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Deep Dungeon Dark Knight" -->
+		<Config Class="777" Range="30" PositionX="68" PositionY="99" Direction="-1" Element="4" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Deep Dungeon Dark Knight" -->
+		<Config Class="777" Range="30" PositionX="68" PositionY="100" Direction="-1" Element="5" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Deep Dungeon Dark Knight" -->
+		<Config Class="777" Range="30" PositionX="58" PositionY="103" Direction="-1" Element="1" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Deep Dungeon Dark Knight" -->
+		<Config Class="777" Range="30" PositionX="75" PositionY="77" Direction="-1" Element="2" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Deep Dungeon Dark Knight" -->
+		<Config Class="777" Range="30" PositionX="70" PositionY="79" Direction="-1" Element="3" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Deep Dungeon Dark Knight" -->
+		<Config Class="777" Range="30" PositionX="65" PositionY="92" Direction="-1" Element="4" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Deep Dungeon Dark Knight" -->
+		<Config Class="777" Range="30" PositionX="55" PositionY="77" Direction="-1" Element="5" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Deep Dungeon Dark Knight" -->
+		<Config Class="777" Range="30" PositionX="72" PositionY="101" Direction="-1" Element="1" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Deep Dungeon Dark Knight" -->
+
+		<Config Class="778" Range="30" PositionX="120" PositionY="80" Direction="-1" Element="1" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Deep Dungeon Gorgon" -->
+		<Config Class="778" Range="30" PositionX="76" PositionY="103" Direction="-1" Element="2" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Deep Dungeon Gorgon" -->
+		<Config Class="778" Range="30" PositionX="77" PositionY="82" Direction="-1" Element="3" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Deep Dungeon Gorgon" -->
+		<Config Class="778" Range="30" PositionX="80" PositionY="90" Direction="-1" Element="4" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Deep Dungeon Gorgon" -->
+		<Config Class="778" Range="30" PositionX="80" PositionY="95" Direction="-1" Element="5" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Deep Dungeon Gorgon" -->
+		<Config Class="778" Range="30" PositionX="73" PositionY="76" Direction="-1" Element="1" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Deep Dungeon Gorgon" -->
+		<Config Class="778" Range="30" PositionX="73" PositionY="93" Direction="-1" Element="2" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Deep Dungeon Gorgon" -->
+		<Config Class="778" Range="30" PositionX="71" PositionY="99" Direction="-1" Element="3" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Deep Dungeon Gorgon" -->
+		<Config Class="778" Range="30" PositionX="68" PositionY="102" Direction="-1" Element="4" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Deep Dungeon Gorgon" -->
+		<Config Class="778" Range="30" PositionX="62" PositionY="103" Direction="-1" Element="5" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Deep Dungeon Gorgon" -->
+		<Config Class="778" Range="30" PositionX="73" PositionY="84" Direction="-1" Element="1" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Deep Dungeon Gorgon" -->
+		<Config Class="778" Range="30" PositionX="82" PositionY="90" Direction="-1" Element="2" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Deep Dungeon Gorgon" -->
+		<Config Class="778" Range="30" PositionX="61" PositionY="86" Direction="-1" Element="3" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Deep Dungeon Gorgon" -->
+		<Config Class="778" Range="30" PositionX="78" PositionY="91" Direction="-1" Element="4" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Deep Dungeon Gorgon" -->
+		<Config Class="778" Range="30" PositionX="61" PositionY="89" Direction="-1" Element="5" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Deep Dungeon Gorgon" -->
+		<Config Class="778" Range="30" PositionX="55" PositionY="101" Direction="-1" Element="1" EventLevel="5" EventStage="3" RewpawnTime="500" /> <!-- "Deep Dungeon Gorgon" -->
 
 		<!-- Devil Square Level 6 - Stage 0 -->
-		<Config Class="434" Range="30" PositionX="62" PositionY="153" Direction="-1"  Element="0" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="434" Range="30" PositionX="62" PositionY="153" Direction="-1"  Element="0" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="434" Range="30" PositionX="62" PositionY="153" Direction="-1"  Element="0" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="434" Range="30" PositionX="62" PositionY="153" Direction="-1"  Element="0" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="434" Range="30" PositionX="71" PositionY="167" Direction="-1"  Element="0" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->		
-		<Config Class="434" Range="30" PositionX="71" PositionY="167"  Direction="-1" Element="0" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="434" Range="30" PositionX="71" PositionY="167"  Direction="-1" Element="0" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="434" Range="30" PositionX="71" PositionY="167" Direction="-1"  Element="0" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="434" Range="30" PositionX="56" PositionY="166"   Direction="-1" Element="0" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="434" Range="30" PositionX="56" PositionY="166"   Direction="-1" Element="0" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="434" Range="30" PositionX="56" PositionY="166"  Direction="-1"  Element="0" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="434" Range="30" PositionX="56" PositionY="166"  Direction="-1"  Element="0" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="434" Range="30" PositionX="55" PositionY="144"  Direction="-1"  Element="0" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->		
-		<Config Class="434" Range="30" PositionX="55" PositionY="144"   Direction="-1" Element="0" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="434" Range="30" PositionX="55" PositionY="144"   Direction="-1" Element="0" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="434" Range="30" PositionX="55" PositionY="144"  Direction="-1"  Element="0" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="434" Range="30" PositionX="75" PositionY="144"  Direction="-1" Element="0" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="434" Range="30" PositionX="75" PositionY="144"  Direction="-1" Element="0" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="434" Range="30" PositionX="75" PositionY="144" Direction="-1"  Element="0" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="434" Range="30" PositionX="75" PositionY="144" Direction="-1"  Element="0" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
+
+
+		<Config Class="787" Range="30" PositionX="62" PositionY="153" Direction="-1"  Element="1" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Wooden Beast" -->
+		<Config Class="787" Range="30" PositionX="62" PositionY="153" Direction="-1"  Element="2" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Wooden Beast" -->
+		<Config Class="787" Range="30" PositionX="62" PositionY="153" Direction="-1"  Element="3" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Wooden Beast" -->
+		<Config Class="787" Range="30" PositionX="62" PositionY="153" Direction="-1"  Element="4" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Wooden Beast" -->
+		<Config Class="787" Range="30" PositionX="62" PositionY="153" Direction="-1"  Element="5" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Wooden Beast" -->
 		
-		<Config Class="435" Range="30" PositionX="62" PositionY="153" Direction="-1"  Element="0" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="435" Range="30" PositionX="62" PositionY="153" Direction="-1"  Element="0" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="435" Range="30" PositionX="62" PositionY="153" Direction="-1"  Element="0" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="435" Range="30" PositionX="62" PositionY="153" Direction="-1"  Element="0" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="435" Range="30" PositionX="71" PositionY="167" Direction="-1"  Element="0" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="435" Range="30" PositionX="71" PositionY="167" Direction="-1"  Element="0" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="435" Range="30" PositionX="71" PositionY="167" Direction="-1"  Element="0" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="435" Range="30" PositionX="71" PositionY="167"  Direction="-1" Element="0" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="435" Range="30" PositionX="56" PositionY="166"   Direction="-1" Element="0" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="435" Range="30" PositionX="56" PositionY="166"  Direction="-1"  Element="0" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="435" Range="30" PositionX="56" PositionY="166"   Direction="-1" Element="0" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="435" Range="30" PositionX="56" PositionY="166"  Direction="-1"  Element="0" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="435" Range="30" PositionX="55" PositionY="144"  Direction="-1"  Element="0" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="435" Range="30" PositionX="55" PositionY="144"  Direction="-1"  Element="0" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="435" Range="30" PositionX="55" PositionY="144"  Direction="-1"  Element="0" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="435" Range="30" PositionX="55" PositionY="144"   Direction="-1" Element="0" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="435" Range="30" PositionX="75" PositionY="144"  Direction="-1" Element="0" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="435" Range="30" PositionX="75" PositionY="144" Direction="-1"  Element="0" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="435" Range="30" PositionX="75" PositionY="144"  Direction="-1" Element="0" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="435" Range="30" PositionX="75" PositionY="144" Direction="-1"  Element="0" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Mutant" -->
+		<Config Class="787" Range="30" PositionX="71" PositionY="167" Direction="-1"  Element="1" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Wooden Beast" -->		
+		<Config Class="787" Range="30" PositionX="71" PositionY="167" Direction="-1" Element="2" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Wooden Beast" -->
+		<Config Class="787" Range="30" PositionX="71" PositionY="167" Direction="-1" Element="3" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Wooden Beast" -->
+		<Config Class="787" Range="30" PositionX="71" PositionY="167" Direction="-1"  Element="4" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Swamp Wizard" -->
+		<Config Class="787" Range="30" PositionX="71" PositionY="167" Direction="-1"  Element="5" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Swamp Wizard" -->
+		
+		<Config Class="787" Range="30" PositionX="56" PositionY="166" Direction="-1" Element="1" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Swamp Wizard" -->
+		<Config Class="787" Range="30" PositionX="56" PositionY="166" Direction="-1" Element="2" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Swamp Wizard" -->
+		<Config Class="787" Range="30" PositionX="56" PositionY="166" Direction="-1"  Element="3" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Swamp Wizard" -->
+		<Config Class="787" Range="30" PositionX="56" PositionY="166" Direction="-1"  Element="4" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Swamp Wizard" -->
+		<Config Class="787" Range="30" PositionX="56" PositionY="166" Direction="-1"  Element="5" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Swamp Wizard" -->
+		
+		<Config Class="788" Range="30" PositionX="55" PositionY="144" Direction="-1"  Element="1" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Swamp Wizard" -->		
+		<Config Class="788" Range="30" PositionX="55" PositionY="144" Direction="-1" Element="2" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Swamp Wizard" -->
+		<Config Class="788" Range="30" PositionX="55" PositionY="144" Direction="-1" Element="3" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Swarmface" -->
+		<Config Class="788" Range="30" PositionX="55" PositionY="144" Direction="-1"  Element="4" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Swarmface" -->
+		<Config Class="788" Range="30" PositionX="55" PositionY="144" Direction="-1"  Element="5" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Swarmface" -->
+		
+		<Config Class="788" Range="30" PositionX="75" PositionY="144" Direction="-1" Element="1" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Swarmface" -->
+		<Config Class="788" Range="30" PositionX="75" PositionY="144" Direction="-1" Element="2" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Swarmface" -->
+		<Config Class="788" Range="30" PositionX="75" PositionY="144" Direction="-1"  Element="3" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Swarmface" -->
+		<Config Class="788" Range="30" PositionX="75" PositionY="144" Direction="-1"  Element="4" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Swarmface" -->
+		<Config Class="788" Range="30" PositionX="75" PositionY="144" Direction="-1"  Element="5" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Swarmface" -->
+
+		<Config Class="788" Range="30" PositionX="62" PositionY="153" Direction="-1"  Element="1" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
+		<Config Class="788" Range="30" PositionX="62" PositionY="153" Direction="-1"  Element="2" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
+		<Config Class="788" Range="30" PositionX="62" PositionY="153" Direction="-1"  Element="3" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
+		<Config Class="788" Range="30" PositionX="62" PositionY="153" Direction="-1"  Element="4" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
+		<Config Class="788" Range="30" PositionX="62" PositionY="153" Direction="-1"  Element="5" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
+		
+		<Config Class="786" Range="30" PositionX="71" PositionY="167" Direction="-1"  Element="1" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
+		<Config Class="786" Range="30" PositionX="71" PositionY="167" Direction="-1"  Element="2" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
+		<Config Class="786" Range="30" PositionX="71" PositionY="167" Direction="-1"  Element="3" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
+		<Config Class="786" Range="30" PositionX="71" PositionY="167" Direction="-1" Element="4" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
+		<Config Class="786" Range="30" PositionX="71" PositionY="167" Direction="-1" Element="5" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
+		
+		<Config Class="786" Range="30" PositionX="56" PositionY="166" Direction="-1" Element="1" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
+		<Config Class="786" Range="30" PositionX="56" PositionY="166" Direction="-1"  Element="2" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Mutant" -->
+		<Config Class="786" Range="30" PositionX="56" PositionY="166" Direction="-1" Element="3" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Mutant" -->
+		<Config Class="786" Range="30" PositionX="56" PositionY="166" Direction="-1"  Element="4" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Mutant" -->
+		<Config Class="786" Range="30" PositionX="56" PositionY="166" Direction="-1"  Element="5" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Mutant" -->
+		
+		<Config Class="786" Range="30" PositionX="55" PositionY="144" Direction="-1"  Element="1" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
+		<Config Class="786" Range="30" PositionX="55" PositionY="144" Direction="-1"  Element="2" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
+		<Config Class="786" Range="30" PositionX="55" PositionY="144" Direction="-1"  Element="3" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
+		<Config Class="786" Range="30" PositionX="55" PositionY="144" Direction="-1" Element="4" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
+		<Config Class="786" Range="30" PositionX="55" PositionY="144" Direction="-1" Element="5" EventLevel="6" EventStage="0" RewpawnTime="500" /> <!-- "Bloody wolf" -->
+		
+
 
 		<!-- Devil Square Level 6 - Stage 1 -->
-		<Config Class="436" Range="30" PositionX="62" PositionY="153" Direction="-1"  Element="0" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="436" Range="30" PositionX="62" PositionY="153" Direction="-1"  Element="0" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="436" Range="30" PositionX="62" PositionY="153" Direction="-1"  Element="0" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="436" Range="30" PositionX="62" PositionY="153" Direction="-1"  Element="0" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="436" Range="30" PositionX="71" PositionY="167" Direction="-1"  Element="0" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->		
-		<Config Class="436" Range="30" PositionX="71" PositionY="167"  Direction="-1" Element="0" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="436" Range="30" PositionX="71" PositionY="167"  Direction="-1" Element="0" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="436" Range="30" PositionX="71" PositionY="167" Direction="-1"  Element="0" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="436" Range="30" PositionX="56" PositionY="166"  Direction="-1" Element="0" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="436" Range="30" PositionX="56" PositionY="166"  Direction="-1" Element="0" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="436" Range="30" PositionX="56" PositionY="166" Direction="-1"  Element="0" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="436" Range="30" PositionX="56" PositionY="166" Direction="-1"  Element="0" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="436" Range="30" PositionX="55" PositionY="144" Direction="-1"  Element="0" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->		
-		<Config Class="436" Range="30" PositionX="55" PositionY="144"  Direction="-1" Element="0" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="436" Range="30" PositionX="55" PositionY="144"  Direction="-1" Element="0" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="436" Range="30" PositionX="55" PositionY="144" Direction="-1"  Element="0" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="436" Range="30" PositionX="75" PositionY="144"  Direction="-1" Element="0" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="436" Range="30" PositionX="75" PositionY="144"  Direction="-1" Element="0" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="436" Range="30" PositionX="75" PositionY="144" Direction="-1"  Element="0" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="436" Range="30" PositionX="75" PositionY="144" Direction="-1"  Element="0" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
+
+		<Config Class="789" Range="30" PositionX="62" PositionY="153" Direction="-1" Element="1" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mutton Tile" -->
+		<Config Class="789" Range="30" PositionX="62" PositionY="153" Direction="-1" Element="2" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mutton Tile" -->
+		<Config Class="789" Range="30" PositionX="62" PositionY="153" Direction="-1" Element="3" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mutton Tile" -->
+		<Config Class="789" Range="30" PositionX="62" PositionY="153" Direction="-1" Element="4" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mutton Tile" -->
+		<Config Class="789" Range="30" PositionX="62" PositionY="153" Direction="-1" Element="5" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mutton Tile" -->
 		
-		<Config Class="437" Range="30" PositionX="62" PositionY="153" Direction="-1"  Element="0" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="437" Range="30" PositionX="62" PositionY="153" Direction="-1"  Element="0" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="437" Range="30" PositionX="62" PositionY="153" Direction="-1"  Element="0" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="437" Range="30" PositionX="62" PositionY="153" Direction="-1"  Element="0" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="437" Range="30" PositionX="71" PositionY="167" Direction="-1"  Element="0" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="437" Range="30" PositionX="71" PositionY="167" Direction="-1"  Element="0" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="437" Range="30" PositionX="71" PositionY="167" Direction="-1"  Element="0" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="437" Range="30" PositionX="71" PositionY="167"  Direction="-1" Element="0" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="437" Range="30" PositionX="56" PositionY="166"   Direction="-1" Element="0" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="437" Range="30" PositionX="56" PositionY="166"  Direction="-1"  Element="0" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="437" Range="30" PositionX="56" PositionY="166"   Direction="-1" Element="0" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="437" Range="30" PositionX="56" PositionY="166"  Direction="-1"  Element="0" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="437" Range="30" PositionX="55" PositionY="144"  Direction="-1"  Element="0" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="437" Range="30" PositionX="55" PositionY="144"  Direction="-1"  Element="0" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="437" Range="30" PositionX="55" PositionY="144"  Direction="-1"  Element="0" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="437" Range="30" PositionX="55" PositionY="144"   Direction="-1" Element="0" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="437" Range="30" PositionX="75" PositionY="144"  Direction="-1" Element="0" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="437" Range="30" PositionX="75" PositionY="144" Direction="-1"  Element="0" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="437" Range="30" PositionX="75" PositionY="144"  Direction="-1" Element="0" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="437" Range="30" PositionX="75" PositionY="144" Direction="-1"  Element="0" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mutant" -->
+		<Config Class="789" Range="30" PositionX="71" PositionY="167" Direction="-1" Element="1" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mutton Tile" -->		
+		<Config Class="789" Range="30" PositionX="71" PositionY="167" Direction="-1" Element="2" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mutton Tile" -->
+		<Config Class="789" Range="30" PositionX="71" PositionY="167" Direction="-1" Element="3" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mutton Tile" -->
+		<Config Class="789" Range="30" PositionX="71" PositionY="167" Direction="-1" Element="4" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mutton Tile" -->
+		<Config Class="789" Range="30" PositionX="71" PositionY="167" Direction="-1" Element="5" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mutton Tile" -->
+		
+		<Config Class="789" Range="30" PositionX="56" PositionY="166" Direction="-1" Element="1" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mutton Tile" -->
+		<Config Class="789" Range="30" PositionX="56" PositionY="166" Direction="-1" Element="2" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mutton Tile" -->
+		<Config Class="789" Range="30" PositionX="56" PositionY="166" Direction="-1" Element="3" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mutton Tile" -->
+		<Config Class="789" Range="30" PositionX="56" PositionY="166" Direction="-1" Element="4" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mutton Tile" -->
+		<Config Class="789" Range="30" PositionX="56" PositionY="166" Direction="-1" Element="5" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mutton Tile" -->
+		
+		<Config Class="788" Range="30" PositionX="55" PositionY="144" Direction="-1" Element="1" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Digger" -->		
+		<Config Class="788" Range="30" PositionX="55" PositionY="144" Direction="-1" Element="2" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Digger" -->
+		<Config Class="788" Range="30" PositionX="55" PositionY="144" Direction="-1" Element="3" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Digger" -->
+		<Config Class="788" Range="30" PositionX="55" PositionY="144" Direction="-1" Element="4" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Digger" -->
+		<Config Class="788" Range="30" PositionX="55" PositionY="144" Direction="-1" Element="5" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Digger" -->
+		
+		<Config Class="788" Range="30" PositionX="75" PositionY="144" Direction="-1" Element="1" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Digger" -->
+		<Config Class="788" Range="30" PositionX="75" PositionY="144" Direction="-1" Element="2" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Digger" -->
+		<Config Class="788" Range="30" PositionX="75" PositionY="144" Direction="-1" Element="3" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Digger" -->
+		<Config Class="788" Range="30" PositionX="75" PositionY="144" Direction="-1" Element="4" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Digger" -->
+		<Config Class="788" Range="30" PositionX="75" PositionY="144" Direction="-1" Element="5" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Digger" -->
+
+		<Config Class="788" Range="30" PositionX="62" PositionY="153" Direction="-1" Element="1" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Digger" -->
+		<Config Class="788" Range="30" PositionX="62" PositionY="153" Direction="-1" Element="2" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Digger" -->
+		<Config Class="788" Range="30" PositionX="62" PositionY="153" Direction="-1" Element="3" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Digger" -->
+		<Config Class="788" Range="30" PositionX="62" PositionY="153" Direction="-1" Element="4" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Digger" -->
+		<Config Class="788" Range="30" PositionX="62" PositionY="153" Direction="-1" Element="5" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Digger" -->
+		
+		<Config Class="786" Range="30" PositionX="71" PositionY="167" Direction="-1" Element="1" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Carrier" -->
+		<Config Class="786" Range="30" PositionX="71" PositionY="167" Direction="-1" Element="2" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Carrier" -->
+		<Config Class="786" Range="30" PositionX="71" PositionY="167" Direction="-1" Element="3" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Carrier" -->
+		<Config Class="786" Range="30" PositionX="71" PositionY="167" Direction="-1" Element="4" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Carrier" -->
+		<Config Class="786" Range="30" PositionX="71" PositionY="167" Direction="-1" Element="5" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Carrier" -->
+		
+		<Config Class="786" Range="30" PositionX="56" PositionY="166" Direction="-1" Element="1" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Carrier" -->
+		<Config Class="786" Range="30" PositionX="56" PositionY="166" Direction="-1" Element="2" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Carrier" -->
+		<Config Class="786" Range="30" PositionX="56" PositionY="166" Direction="-1" Element="3" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Carrier" -->
+		<Config Class="786" Range="30" PositionX="56" PositionY="166" Direction="-1" Element="4" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Carrier" -->
+		<Config Class="786" Range="30" PositionX="56" PositionY="166" Direction="-1" Element="5" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Carrier" -->
+		
+		<Config Class="786" Range="30" PositionX="55" PositionY="144" Direction="-1" Element="1" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Carrier" -->
+		<Config Class="786" Range="30" PositionX="55" PositionY="144" Direction="-1" Element="2" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Carrier" -->
+		<Config Class="786" Range="30" PositionX="55" PositionY="144" Direction="-1" Element="3" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Carrier" -->
+		<Config Class="786" Range="30" PositionX="55" PositionY="144" Direction="-1" Element="4" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Carrier" -->
+		<Config Class="786" Range="30" PositionX="55" PositionY="144" Direction="-1" Element="5" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Carrier" -->
 
 		<!-- Devil Square Level 6 - Stage 2 -->
-		<Config Class="438" Range="30" PositionX="62" PositionY="153" Direction="-1"  Element="0" EventLevel="6" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="438" Range="30" PositionX="62" PositionY="153" Direction="-1"  Element="0" EventLevel="6" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="438" Range="30" PositionX="62" PositionY="153" Direction="-1"  Element="0" EventLevel="6" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="438" Range="30" PositionX="62" PositionY="153" Direction="-1"  Element="0" EventLevel="6" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="438" Range="30" PositionX="71" PositionY="167" Direction="-1"  Element="0" EventLevel="6" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->		
-		<Config Class="438" Range="30" PositionX="71" PositionY="167"  Direction="-1" Element="0" EventLevel="6" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="438" Range="30" PositionX="71" PositionY="167"  Direction="-1" Element="0" EventLevel="6" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="438" Range="30" PositionX="71" PositionY="167" Direction="-1"  Element="0" EventLevel="6" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="438" Range="30" PositionX="56" PositionY="166"   Direction="-1" Element="0" EventLevel="6" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="438" Range="30" PositionX="56" PositionY="166"   Direction="-1" Element="0" EventLevel="6" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="438" Range="30" PositionX="56" PositionY="166"  Direction="-1"  Element="0" EventLevel="6" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="438" Range="30" PositionX="56" PositionY="166"  Direction="-1"  Element="0" EventLevel="6" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="438" Range="30" PositionX="55" PositionY="144"  Direction="-1"  Element="0" EventLevel="6" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->		
-		<Config Class="438" Range="30" PositionX="55" PositionY="144"   Direction="-1" Element="0" EventLevel="6" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="438" Range="30" PositionX="55" PositionY="144"   Direction="-1" Element="0" EventLevel="6" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="438" Range="30" PositionX="55" PositionY="144"  Direction="-1"  Element="0" EventLevel="6" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="438" Range="30" PositionX="75" PositionY="144"  Direction="-1" Element="0" EventLevel="6" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="438" Range="30" PositionX="75" PositionY="144"  Direction="-1" Element="0" EventLevel="6" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="438" Range="30" PositionX="75" PositionY="144" Direction="-1"  Element="0" EventLevel="6" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="438" Range="30" PositionX="75" PositionY="144" Direction="-1"  Element="0" EventLevel="6" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
+		<Config Class="812" Range="30" PositionX="62" PositionY="153" Direction="-1" Element="1" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Porter" -->
+		<Config Class="812" Range="30" PositionX="62" PositionY="153" Direction="-1" Element="2" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Porter" -->
+		<Config Class="812" Range="30" PositionX="62" PositionY="153" Direction="-1" Element="3" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Porter" -->
+		<Config Class="812" Range="30" PositionX="62" PositionY="153" Direction="-1" Element="4" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Porter" -->
+		<Config Class="812" Range="30" PositionX="62" PositionY="153" Direction="-1" Element="5" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Porter" -->
 		
-		<Config Class="439" Range="30" PositionX="62" PositionY="153" Direction="-1"  Element="0" EventLevel="6" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="439" Range="30" PositionX="62" PositionY="153" Direction="-1"  Element="0" EventLevel="6" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="439" Range="30" PositionX="62" PositionY="153" Direction="-1"  Element="0" EventLevel="6" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="439" Range="30" PositionX="62" PositionY="153" Direction="-1"  Element="0" EventLevel="6" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="439" Range="30" PositionX="71" PositionY="167" Direction="-1"  Element="0" EventLevel="6" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="439" Range="30" PositionX="71" PositionY="167" Direction="-1"  Element="0" EventLevel="6" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="439" Range="30" PositionX="71" PositionY="167" Direction="-1"  Element="0" EventLevel="6" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="439" Range="30" PositionX="71" PositionY="167"  Direction="-1" Element="0" EventLevel="6" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="439" Range="30" PositionX="56" PositionY="166"   Direction="-1" Element="0" EventLevel="6" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="439" Range="30" PositionX="56" PositionY="166"  Direction="-1"  Element="0" EventLevel="6" EventStage="2" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="439" Range="30" PositionX="56" PositionY="166"   Direction="-1" Element="0" EventLevel="6" EventStage="2" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="439" Range="30" PositionX="56" PositionY="166"  Direction="-1"  Element="0" EventLevel="6" EventStage="2" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="439" Range="30" PositionX="55" PositionY="144"  Direction="-1"  Element="0" EventLevel="6" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="439" Range="30" PositionX="55" PositionY="144"  Direction="-1"  Element="0" EventLevel="6" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="439" Range="30" PositionX="55" PositionY="144"  Direction="-1"  Element="0" EventLevel="6" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="439" Range="30" PositionX="55" PositionY="144"   Direction="-1" Element="0" EventLevel="6" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="439" Range="30" PositionX="75" PositionY="144"  Direction="-1" Element="0" EventLevel="6" EventStage="2" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="439" Range="30" PositionX="75" PositionY="144" Direction="-1"  Element="0" EventLevel="6" EventStage="2" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="439" Range="30" PositionX="75" PositionY="144"  Direction="-1" Element="0" EventLevel="6" EventStage="2" RewpawnTime="500" /> <!-- "Mutant" -->
-		<Config Class="439" Range="30" PositionX="75" PositionY="144" Direction="-1"  Element="0" EventLevel="6" EventStage="2" RewpawnTime="500" /> <!-- "Mutant" -->
+		<Config Class="812" Range="30" PositionX="71" PositionY="167" Direction="-1" Element="1" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Porter" -->		
+		<Config Class="812" Range="30" PositionX="71" PositionY="167" Direction="-1" Element="2" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Porter" -->
+		<Config Class="812" Range="30" PositionX="71" PositionY="167" Direction="-1" Element="3" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Porter" -->
+		<Config Class="812" Range="30" PositionX="71" PositionY="167" Direction="-1" Element="4" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Porter" -->
+		<Config Class="812" Range="30" PositionX="71" PositionY="167" Direction="-1" Element="5" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Porter" -->
+		
+		<Config Class="812" Range="30" PositionX="56" PositionY="166" Direction="-1" Element="1" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Porter" -->
+		<Config Class="812" Range="30" PositionX="56" PositionY="166" Direction="-1" Element="2" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Porter" -->
+		<Config Class="812" Range="30" PositionX="56" PositionY="166" Direction="-1" Element="3" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Porter" -->
+		<Config Class="812" Range="30" PositionX="56" PositionY="166" Direction="-1" Element="4" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Porter" -->
+		<Config Class="812" Range="30" PositionX="56" PositionY="166" Direction="-1" Element="5" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Porter" -->
+		
+		<Config Class="813" Range="30" PositionX="55" PositionY="144" Direction="-1" Element="1" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Driller" -->		
+		<Config Class="813" Range="30" PositionX="55" PositionY="144" Direction="-1" Element="2" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Driller" -->
+		<Config Class="813" Range="30" PositionX="55" PositionY="144" Direction="-1" Element="3" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Driller" -->
+		<Config Class="813" Range="30" PositionX="55" PositionY="144" Direction="-1" Element="4" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Driller" -->
+		<Config Class="813" Range="30" PositionX="55" PositionY="144" Direction="-1" Element="5" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Driller" -->
+		
+		<Config Class="813" Range="30" PositionX="75" PositionY="144" Direction="-1" Element="1" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Driller" -->
+		<Config Class="813" Range="30" PositionX="75" PositionY="144" Direction="-1" Element="2" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Driller" -->
+		<Config Class="813" Range="30" PositionX="75" PositionY="144" Direction="-1" Element="3" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Driller" -->
+		<Config Class="813" Range="30" PositionX="75" PositionY="144" Direction="-1" Element="4" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Driller" -->
+		<Config Class="813" Range="30" PositionX="75" PositionY="144" Direction="-1" Element="5" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Driller" -->
+
+		<Config Class="813" Range="30" PositionX="62" PositionY="153" Direction="-1" Element="1" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Driller" -->
+		<Config Class="813" Range="30" PositionX="62" PositionY="153" Direction="-1" Element="2" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Driller" -->
+		<Config Class="813" Range="30" PositionX="62" PositionY="153" Direction="-1" Element="3" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Driller" -->
+		<Config Class="813" Range="30" PositionX="62" PositionY="153" Direction="-1" Element="4" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Driller" -->
+		<Config Class="813" Range="30" PositionX="62" PositionY="153" Direction="-1" Element="5" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Driller" -->
+		
+		<Config Class="811" Range="30" PositionX="71" PositionY="167" Direction="-1" Element="1" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Carrier" -->
+		<Config Class="811" Range="30" PositionX="71" PositionY="167" Direction="-1" Element="2" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Carrier" -->
+		<Config Class="811" Range="30" PositionX="71" PositionY="167" Direction="-1" Element="3" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Carrier" -->
+		<Config Class="811" Range="30" PositionX="71" PositionY="167" Direction="-1" Element="4" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Carrier" -->
+		<Config Class="811" Range="30" PositionX="71" PositionY="167" Direction="-1" Element="5" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Carrier" -->
+		
+		<Config Class="811" Range="30" PositionX="56" PositionY="166" Direction="-1" Element="1" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Carrier" -->
+		<Config Class="811" Range="30" PositionX="56" PositionY="166" Direction="-1" Element="2" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Carrier" -->
+		<Config Class="811" Range="30" PositionX="56" PositionY="166" Direction="-1" Element="3" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Carrier" -->
+		<Config Class="811" Range="30" PositionX="56" PositionY="166" Direction="-1" Element="4" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Carrier" -->
+		<Config Class="811" Range="30" PositionX="56" PositionY="166" Direction="-1" Element="5" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Carrier" -->
+		
+		<Config Class="811" Range="30" PositionX="55" PositionY="144" Direction="-1" Element="1" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Carrier" -->
+		<Config Class="811" Range="30" PositionX="55" PositionY="144" Direction="-1" Element="2" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Carrier" -->
+		<Config Class="811" Range="30" PositionX="55" PositionY="144" Direction="-1" Element="3" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Carrier" -->
+		<Config Class="811" Range="30" PositionX="55" PositionY="144" Direction="-1" Element="4" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Carrier" -->
+		<Config Class="811" Range="30" PositionX="55" PositionY="144" Direction="-1" Element="5" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Mine Carrier" -->
 
 		<!-- Devil Square Level 6 - Stage 3 -->
-		<Config Class="440" Range="30" PositionX="62" PositionY="153" Direction="-1"  Element="0" EventLevel="6" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="440" Range="30" PositionX="62" PositionY="153" Direction="-1"  Element="0" EventLevel="6" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="440" Range="30" PositionX="62" PositionY="153" Direction="-1"  Element="0" EventLevel="6" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="440" Range="30" PositionX="62" PositionY="153" Direction="-1"  Element="0" EventLevel="6" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="440" Range="30" PositionX="71" PositionY="167" Direction="-1"  Element="0" EventLevel="6" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->		
-		<Config Class="440" Range="30" PositionX="71" PositionY="167"  Direction="-1" Element="0" EventLevel="6" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="440" Range="30" PositionX="71" PositionY="167"  Direction="-1" Element="0" EventLevel="6" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="440" Range="30" PositionX="71" PositionY="167" Direction="-1"  Element="0" EventLevel="6" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="440" Range="30" PositionX="56" PositionY="166"   Direction="-1" Element="0" EventLevel="6" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="440" Range="30" PositionX="56" PositionY="166"   Direction="-1" Element="0" EventLevel="6" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="440" Range="30" PositionX="56" PositionY="166"  Direction="-1"  Element="0" EventLevel="6" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="440" Range="30" PositionX="56" PositionY="166"  Direction="-1"  Element="0" EventLevel="6" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="440" Range="30" PositionX="55" PositionY="144"  Direction="-1"  Element="0" EventLevel="6" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->		
-		<Config Class="440" Range="30" PositionX="55" PositionY="144"   Direction="-1" Element="0" EventLevel="6" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="440" Range="30" PositionX="55" PositionY="144"   Direction="-1" Element="0" EventLevel="6" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="440" Range="30" PositionX="55" PositionY="144"  Direction="-1"  Element="0" EventLevel="6" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="440" Range="30" PositionX="75" PositionY="144"  Direction="-1" Element="0" EventLevel="6" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="440" Range="30" PositionX="75" PositionY="144"  Direction="-1" Element="0" EventLevel="6" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="440" Range="30" PositionX="75" PositionY="144" Direction="-1"  Element="0" EventLevel="6" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
-		<Config Class="440" Range="30" PositionX="75" PositionY="144" Direction="-1"  Element="0" EventLevel="6" EventStage="3" RewpawnTime="500" /> <!-- "Bloody wolf" -->
+		<Config Class="814" Range="30" PositionX="126" PositionY="150" Direction="-1" Element="1" EventLevel="6" EventStage="3" RewpawnTime="500" /> <!-- "Dead Digger" -->
+		<Config Class="815" Range="30" PositionX="149" PositionY="175" Direction="-1" Element="1" EventLevel="6" EventStage="3" RewpawnTime="500" /> <!-- "Dead Shoveler" -->
+		<Config Class="816" Range="30" PositionX="132" PositionY="167"  Direction="-1" Element="1" EventLevel="6" EventStage="3" RewpawnTime="500" /> <!-- "Dead Porter" -->
+		
+		<Config Class="814" Range="30" PositionX="62" PositionY="153" Direction="-1" Element="1" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Digger" -->
+		<Config Class="814" Range="30" PositionX="62" PositionY="153" Direction="-1" Element="2" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Digger" -->
+		<Config Class="814" Range="30" PositionX="62" PositionY="153" Direction="-1" Element="3" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Digger" -->
+		<Config Class="814" Range="30" PositionX="62" PositionY="153" Direction="-1" Element="4" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Digger" -->
+		<Config Class="814" Range="30" PositionX="62" PositionY="153" Direction="-1" Element="5" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Digger" -->
+		
+		<Config Class="814" Range="30" PositionX="71" PositionY="167" Direction="-1" Element="1" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Digger" -->		
+		<Config Class="814" Range="30" PositionX="71" PositionY="167" Direction="-1" Element="2" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Digger" -->
+		<Config Class="814" Range="30" PositionX="71" PositionY="167" Direction="-1" Element="3" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Digger" -->
+		<Config Class="814" Range="30" PositionX="71" PositionY="167" Direction="-1" Element="4" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Digger" -->
+		<Config Class="814" Range="30" PositionX="71" PositionY="167" Direction="-1" Element="5" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Digger" -->
+		
+		<Config Class="814" Range="30" PositionX="56" PositionY="166" Direction="-1" Element="1" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Digger" -->
+		<Config Class="814" Range="30" PositionX="56" PositionY="166" Direction="-1" Element="2" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Digger" -->
+		<Config Class="814" Range="30" PositionX="56" PositionY="166" Direction="-1" Element="3" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Digger" -->
+		<Config Class="814" Range="30" PositionX="56" PositionY="166" Direction="-1" Element="4" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Digger" -->
+		<Config Class="814" Range="30" PositionX="56" PositionY="166" Direction="-1" Element="5" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Digger" -->
+		
+		<Config Class="815" Range="30" PositionX="55" PositionY="144" Direction="-1" Element="1" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Shoveler" -->		
+		<Config Class="815" Range="30" PositionX="55" PositionY="144" Direction="-1" Element="2" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Shoveler" -->
+		<Config Class="815" Range="30" PositionX="55" PositionY="144" Direction="-1" Element="3" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Shoveler" -->
+		<Config Class="815" Range="30" PositionX="55" PositionY="144" Direction="-1" Element="4" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Shoveler" -->
+		<Config Class="815" Range="30" PositionX="55" PositionY="144" Direction="-1" Element="5" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Shoveler" -->
+		
+		<Config Class="815" Range="30" PositionX="75" PositionY="144" Direction="-1" Element="1" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Shoveler" -->
+		<Config Class="815" Range="30" PositionX="75" PositionY="144" Direction="-1" Element="2" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Shoveler" -->
+		<Config Class="815" Range="30" PositionX="75" PositionY="144" Direction="-1" Element="3" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Shoveler" -->
+		<Config Class="815" Range="30" PositionX="75" PositionY="144" Direction="-1" Element="4" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Shoveler" -->
+		<Config Class="815" Range="30" PositionX="75" PositionY="144" Direction="-1" Element="5" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Shoveler" -->
+
+		<Config Class="815" Range="30" PositionX="62" PositionY="153" Direction="-1" Element="1" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Shoveler" -->
+		<Config Class="815" Range="30" PositionX="62" PositionY="153" Direction="-1" Element="2" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Shoveler" -->
+		<Config Class="815" Range="30" PositionX="62" PositionY="153" Direction="-1" Element="3" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Shoveler" -->
+		<Config Class="815" Range="30" PositionX="62" PositionY="153" Direction="-1" Element="4" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Shoveler" -->
+		<Config Class="815" Range="30" PositionX="62" PositionY="153" Direction="-1" Element="5" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Shoveler" -->
+		
+		<Config Class="816" Range="30" PositionX="71" PositionY="167" Direction="-1" Element="1" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Porter" -->
+		<Config Class="816" Range="30" PositionX="71" PositionY="167" Direction="-1" Element="2" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Porter" -->
+		<Config Class="816" Range="30" PositionX="71" PositionY="167" Direction="-1" Element="3" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Porter" -->
+		<Config Class="816" Range="30" PositionX="71" PositionY="167" Direction="-1" Element="4" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Porter" -->
+		<Config Class="816" Range="30" PositionX="71" PositionY="167" Direction="-1" Element="5" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Porter" -->
+		
+		<Config Class="816" Range="30" PositionX="56" PositionY="166" Direction="-1" Element="1" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Porter" -->
+		<Config Class="816" Range="30" PositionX="56" PositionY="166" Direction="-1" Element="2" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Porter" -->
+		<Config Class="816" Range="30" PositionX="56" PositionY="166" Direction="-1" Element="3" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Porter" -->
+		<Config Class="816" Range="30" PositionX="56" PositionY="166" Direction="-1" Element="4" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Porter" -->
+		<Config Class="816" Range="30" PositionX="56" PositionY="166" Direction="-1" Element="5" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Porter" -->
+		
+		<Config Class="816" Range="30" PositionX="55" PositionY="144" Direction="-1" Element="1" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Porter" -->
+		<Config Class="816" Range="30" PositionX="55" PositionY="144" Direction="-1" Element="2" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Porter" -->
+		<Config Class="816" Range="30" PositionX="55" PositionY="144" Direction="-1" Element="3" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Porter" -->
+		<Config Class="816" Range="30" PositionX="55" PositionY="144" Direction="-1" Element="4" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Porter" -->
+		<Config Class="816" Range="30" PositionX="55" PositionY="144" Direction="-1" Element="5" EventLevel="6" EventStage="1" RewpawnTime="500" /> <!-- "Dead Porter" -->
 	</EVENT>
 <!-- ================================================================================================================================================================================================================================================================================= -->
 </MonsterSetBase>

@@ -98,7 +98,7 @@
 		<ItemEx Section="7" Index="7581" Level="0" Grade="0" Durability="0" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Coin of Miracle"/>
 		<ItemEx Section="7" Index="7357" Level="0" Grade="0" Durability="1" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Elemental Talisman of Luck"/>
 		<ItemEx Section="7" Index="7182" Level="0" Grade="0" Durability="50" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Jewel of Soul"/>
-		<ItemEx Section="7" Index="7190" Level="0" Grade="0" Durability="50" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Jewel of Creation"/>
+		<ItemEx Section="7" Index="7190" Level="0" Grade="0" Durability="10" Option0="1" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Jewel of Creation"/>
 		
 </BagItemsEx>
 </ItemBag>

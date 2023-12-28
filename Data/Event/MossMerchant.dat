@@ -13,12 +13,12 @@ end
 2		1000000		*	    *	*	*	1	// Menu - Bow
 3		1000000		*	    *	*	*	1	// Menu - Scepter
 4		1000000		*	    *	*	*	1	// Menu - Stick
-5		*		    7181	50	*	1	1	// Menu - Bless
-6		*		    7182	50	*	1	1	// Menu - Soul
-7		*		    7581	5	*	*	1	// Menu - Miracle Coin
-8       *	        7181    50	*	1	1	// Menu - Mastery Accessory
-9       *	        7181    50	*	1	1	// Menu - Guardian
-10      *	        7581	20	7181    50	1	// Menu - Miracle moss
+5		*		    7181	10	*	1	1	// Menu - Bless
+6		*		    7182	10	*	1	1	// Menu - Soul
+7		*		    7581	1	*	*	1	// Menu - Miracle Coin
+8       *	        7181    10	*	1	1	// Menu - Mastery Accessory
+9       *	        7181    10	*	1	1	// Menu - Guardian
+10      *	        7581	3	7181    10	1	// Menu - Miracle moss
 end
 
 2

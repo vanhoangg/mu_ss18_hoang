@@ -1,0 +1,11 @@
+19:58:13 [SocketManager] Server started at port [55981]
+19:58:13 [PMATCHING][CreatePartyDirectly]Leader:ElfBuff TotalPartyCnt:1 - Success
+19:58:13 [PMATCHING][CreatePartyDirectly]Leader:TEST TotalPartyCnt:2 - Success
+19:58:29 [SocketManager] Server started at port [55981]
+19:58:29 [PMATCHING][CreatePartyDirectly]Leader:ElfBuff TotalPartyCnt:1 - Success
+19:58:29 [PMATCHING][CreatePartyDirectly]Leader:TEST TotalPartyCnt:2 - Success
+19:58:36 [ServerManager][0] AddServer (127.0.0.1)
+19:58:36 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)(0)
+19:58:40 [ServerManager][1] AddServer (127.0.0.1)
+19:58:40 [ServerManager][1] ServerInfo (GameServerCS) (55919) (19)(0)
+20:03:19 [PMATCHING][ConnectMember]LeaderName:ElfBuff, ConnectMemberName:ElfBuff

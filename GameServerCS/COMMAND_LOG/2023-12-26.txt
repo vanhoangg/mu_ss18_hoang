@@ -1,0 +1,1 @@
+22:29:52 [CommandMake][kudoshjn][IKBiv] - (Section: 13, Type: 80, Level: 0, Skill: 0, Luck: 0, Option: 0, Exc: 0, Set: 0,count:1)

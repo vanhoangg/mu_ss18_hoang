@@ -1,0 +1,6 @@
+18:03:02 [General][test][ElfBuff] - (Message: /money 0)
+18:03:07 [General][test][ElfBuff] - (Message: /money 99999999999)
+19:03:02 [General][test][ElfBuff] - (Message: /money 0)
+19:03:39 [General][kudoshjn][IKBiv] - (Message: /money 0)
+19:03:46 [General][kudoshjn][IKBiv] - (Message: /money 99999999999)
+19:04:03 [General][test][ElfBuff] - (Message: /money 999999999999)

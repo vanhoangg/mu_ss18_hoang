@@ -1,0 +1,5 @@
+22:20:19 [ElementalItemRefinemenJewelMix][Success][test1][SumBiv] - (ElementalItemRefinemenSuccessRate: 65, ElementalItemRefinemenMoney: 100000)
+22:20:23 [ElementalItemRefinemenJewelMix][Success][test1][SumBiv] - (ElementalItemRefinemenSuccessRate: 65, ElementalItemRefinemenMoney: 100000)
+22:20:25 [ElementalItemRefinemenJewelMix][Failure][test1][SumBiv] - (ElementalItemRefinemenSuccessRate: 65, ElementalItemRefinemenMoney: 100000)
+22:20:27 [ElementalItemRefinemenJewelMix][Failure][test1][SumBiv] - (ElementalItemRefinemenSuccessRate: 65, ElementalItemRefinemenMoney: 100000)
+22:20:32 [ElementalItemRefinemenJewelMix][Success][test1][SumBiv] - (ElementalItemRefinemenSuccessRate: 65, ElementalItemRefinemenMoney: 100000)
