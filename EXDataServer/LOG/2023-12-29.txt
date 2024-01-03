@@ -1,0 +1,31 @@
+22:19:00 [SocketManager] Server started at port [55981]
+22:19:00 [PMATCHING][CreatePartyDirectly]Leader:ElfBuff TotalPartyCnt:1 - Success
+22:19:00 [PMATCHING][CreatePartyDirectly]Leader:TEST TotalPartyCnt:2 - Success
+22:19:00 [PMATCHING][CreatePartyDirectly]Leader:IKBiv TotalPartyCnt:3 - Success
+22:19:07 [ServerManager][0] AddServer (127.0.0.1)
+22:19:07 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)(0)
+22:19:12 [ServerManager][1] AddServer (127.0.0.1)
+22:19:12 [ServerManager][1] ServerInfo (GameServerCS) (55919) (19)(0)
+22:28:00 [PMATCHING][ConnectMember]LeaderName:ElfBuff, ConnectMemberName:ElfBuff
+22:28:30 [PMATCHING][DisConnectMember]LeaderName:ElfBuff, ConnectMemberName:ElfBuff
+22:30:01 [PMATCHING][ConnectMember]LeaderName:ElfBuff, ConnectMemberName:ElfBuff
+22:30:27 [PMATCHING][ConnectMember]LeaderName:IKBiv, ConnectMemberName:IKBiv
+22:31:45 [PMATCHING][CreateParty]Leader:SumBiv TotalPartyCnt:4 - Success
+22:43:09 [PMATCHING][DisConnectMember]LeaderName:ElfBuff, ConnectMemberName:ElfBuff
+22:43:58 [PMATCHING][ConnectMember]LeaderName:ElfBuff, ConnectMemberName:ElfBuff
+23:41:39 [PMATCHING][DisConnectMember]LeaderName:IKBiv, ConnectMemberName:IKBiv
+23:42:26 [PMATCHING][ConnectMember]LeaderName:IKBiv, ConnectMemberName:IKBiv
+23:55:22 [PMATCHING][DisConnectMember]LeaderName:ElfBuff, ConnectMemberName:ElfBuff
+23:55:22 [PMATCHING][ConnectMember]LeaderName:ElfBuff, ConnectMemberName:ElfBuff
+23:55:33 [PMATCHING][DisConnectMember]LeaderName:ElfBuff, ConnectMemberName:ElfBuff
+23:55:34 [PMATCHING][ConnectMember]LeaderName:ElfBuff, ConnectMemberName:ElfBuff
+23:57:04 [PMATCHING][DisConnectMember]LeaderName:SumBiv, ConnectMemberName:SumBiv
+23:57:04 [PMATCHING][ConnectMember]LeaderName:SumBiv, ConnectMemberName:SumBiv
+23:57:17 [PMATCHING][DisConnectMember]LeaderName:IKBiv, ConnectMemberName:IKBiv
+23:57:17 [PMATCHING][ConnectMember]LeaderName:IKBiv, ConnectMemberName:IKBiv
+23:57:22 [PMATCHING][DelParty]Leader:IKBiv, TotalPartyCnt:3
+23:57:27 [PMATCHING][AddPartyMember]Leader:ElfBuff, Member:IKBiv, MemberCnt:2
+23:57:31 [PMATCHING][DelParty]Leader:SumBiv, TotalPartyCnt:2
+23:57:36 [PMATCHING][AddPartyMember]Leader:ElfBuff, Member:SumBiv, MemberCnt:3
+23:57:45 [PMATCHING][DisConnectMember]LeaderName:ElfBuff, ConnectMemberName:ElfBuff
+23:57:45 [PMATCHING][ConnectMember]LeaderName:ElfBuff, ConnectMemberName:ElfBuff

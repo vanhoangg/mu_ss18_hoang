@@ -96,34 +96,40 @@ end
 7520      6	  	  *         *         *         *         *         *         *         0			 *           5000         //Ruud Box(1000)
 6593      6	  	  *         *         *         *         *         *         *         0			 *           4000         //300 Article Earring
 6601      6	  	  *         *         *         *         *         *         *         0			 *           4000         //700 Article Earring
-7199      6	  	  *         *         *         *         *         *         *         10			 *           7000         //Guardian Jewel
+7199      6	  	  *         *         *         *         *         *         *         1			 *           7000         //Guardian Jewel
 7166      6	      *         *         *         *         *         *         *         10			 *           8000         //Lapidary Stone
-7124      6	      *         *         *         *         *         *         *         50			 *           2000         //Golden Crest
 6709      7	  	  *         *         *         *         *         *         *         0			 *           2000         //Condor Feather
+6708      7	  	  *         *         *         *         *         *         *         0			 *           2000         //Condor Flame
 7520      7	  	  *         *         *         *         *         *         *         0			 *           5000         //Ruud Box(1000)
 6593      7	  	  *         *         *         *         *         *         *         0			 *           4000         //300 Article Earring
 6601      7	  	  *         *         *         *         *         *         *         0			 *           4000         //700 Article Earring
-7199      7	  	  *         *         *         *         *         *         *         10			 *           7000         //Guardian Jewel
+7199      7	  	  *         *         *         *         *         *         *         1			 *           7000         //Guardian Jewel
 7166      7	      *         *         *         *         *         *         *         10			 *           8000         //Lapidary Stone
 7166      8	      *         *         *         *         *         *         *         10			 *           8000         //Lapidary Stone
 6593      8	  	  *         *         *         *         *         *         *         0			 *           4000         //300 Article Earring
 6601      8	  	  *         *         *         *         *         *         *         0			 *           4000         //700 Article Earring
 7520      8	  	  *         *         *         *         *         *         *         0			 *           5000         //Ruud Box(1000)
-7199      8	  	  *         *         *         *         *         *         *         10			 *           7000         //Guardian Jewel
-7210      8	  	  *         *         *         *         *         *         *         10			 *           7000         //Jewel of Harmony
-7124      8	      *         *         *         *         *         *         *         50			 *           2000         //Golden Crest
+7199      8	  	  *         *         *         *         *         *         *         1			 *           7000         //Guardian Jewel
+7210      8	  	  *         *         *         *         *         *         *         1			 *           7000         //Jewel of Harmony
+7124      8	      *         *         *         *         *         *         *         10			 *           2000         //Golden Crest
+7122      8	      *         *         *         *         *         *         *         0			 *           500         //Garuda's Flame
+7123      8	      *         *         *         *         *         *         *         0			 *           500         //Garuda's Feather
 7645      9	  	  *         *         *         *         *         *         *         1			 *           500         //Seal of the Phantasmal Steed
 7634      9	  	  *         *         *         *         *         *         *         10			 *           3000         //Fragment of Resurrection
 7635      9	  	  *         *         *         *         *         *         *         50			 *           9000         //Guardian Upgrade Stone
 7636      9	  	  *         *         *         *         *         *         *         10			 *           4000         //Guardian Upgrade Stone
 7520      9	  	  *         *         *         *         *         *         *         0			 *           5000         //Ruud Box(1000)
-7124      9	      *         *         *         *         *         *         *         50			 *           2000         //Golden Crest
+7124      9	      *         *         *         *         *         *         *         10			 *           2000         //Golden Crest
 7166      9	      *         *         *         *         *         *         *         10			 *           8000         //Lapidary Stone
+7122      9	      *         *         *         *         *         *         *         0			 *           500         //Garuda's Flame
+7123      9	      *         *         *         *         *         *         *         0			 *           500         //Garuda's Feather
+
 
 
 
 6932      10	  *         *         *         *         *         *         *         0			 *           500         //Conqueror
 7123      10	  *         *         *         *         *         *         *         0			 *           500         //Garuda's Feather
+7122      10	  *         *         *         *         *         *         *         0			 *           500         //Garuda's Flame
 7567      10	  *         *         *         *         *         *         *         0			 *           2000         //(Hero) Bloodangel Soul
 7166      10	  *         *         *         *         *         *         *         0			 *           8000         //Lapidary Stone
 7124      10	  *         *         *         *         *         *         *         50			 *           5000         //Golden Crest

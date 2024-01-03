@@ -1,0 +1,1 @@
+00:13:04 [ExchangeTradeItem][kudoshjn][IKBiv] - (Account: test, Name: ElfBuff, Index: 7567, Level: 00, Serial: 00038AA7, Option1: 0, Option2: 0, Option3: 0, NewOption: 000, JewelOfHarmonyOption: 000, ItemOptionEx: 000, SocketOption: 255, 255, 255, 255, 255)

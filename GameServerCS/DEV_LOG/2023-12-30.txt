@@ -1,0 +1,19 @@
+00:02:36 [Blood Castle 5 reward - winners] AddRuudBox Account:test1 | Name:SumBiv | PartyWinner:1
+00:02:36 [Blood Castle 5 reward - winners] AddRuudBox Account:kudoshjn | Name:IKBiv | PartyWinner:1
+00:02:36 [Blood Castle 5 reward - winners] AddRuudBox Account:test | Name:ElfBuff | PartyWinner:1
+00:43:46 [ObjectManager][0] DelClient [DelType:181]
+00:43:46 [ObjectManager][1] DelClient [DelType:181]
+00:43:46 [ObjectManager][2] DelClient [DelType:181]
+00:43:46 [ObjectManager][3] DelClient [DelType:181]
+00:43:46 [ObjectManager][4] DelClient [DelType:181]
+00:43:46 [ObjectManager][5] DelClient [DelType:181]
+00:43:46 [ObjectManager][6] DelClient [DelType:181]
+00:43:46 [ObjectManager][546] DelClient [DelType:181]
+00:43:56 [ObjectManager][0] DelClient [DelType:181]
+00:43:56 [ObjectManager][1] DelClient [DelType:181]
+00:43:56 [ObjectManager][2] DelClient [DelType:181]
+00:43:56 [ObjectManager][3] DelClient [DelType:181]
+00:43:56 [ObjectManager][4] DelClient [DelType:181]
+00:43:56 [ObjectManager][5] DelClient [DelType:181]
+00:43:56 [ObjectManager][6] DelClient [DelType:181]
+00:43:56 [ObjectManager][546] DelClient [DelType:181]

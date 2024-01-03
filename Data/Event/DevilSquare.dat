@@ -5,7 +5,7 @@ end
 
 1
 //Year   Month   Day   DoW   Hour   Minute   Second
-*        *       *     *     0      30       0
+*        *       *     *     0      45       0
 *        *       *     *     1      30       0
 *        *       *     *     2      30       0
 *        *       *     *     3     30       0

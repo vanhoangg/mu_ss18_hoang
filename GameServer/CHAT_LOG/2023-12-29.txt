@@ -1,0 +1,5 @@
+22:29:21 [General][test][GiuDo] - (Message: /money 0)
+22:30:13 [General][test][ElfBuff] - (Message: /money 0)
+22:42:48 [General][test][ElfBuff] - (Message: /money 999999)
+22:42:51 [General][test][ElfBuff] - (Message: /money 999999999)
+23:11:41 [General][test1][SumBiv] - (Message: /money 0)

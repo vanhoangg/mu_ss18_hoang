@@ -1,0 +1,3 @@
+20:59:30 [Offattack LOG][Disconnect Character] Name:SumBiv | type:4
+21:01:09 [Offattack LOG][Disconnect Character] Name:ElfBuff | type:4
+21:02:00 [Offattack LOG][Disconnect Character] Name:IKBiv | type:4

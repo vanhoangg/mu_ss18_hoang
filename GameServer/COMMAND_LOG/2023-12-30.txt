@@ -1,0 +1,6 @@
+00:04:34 [CommandMake][test][ElfBuff] - (Section: 20, Type: 109, Level: 0, Skill: 0, Luck: 0, Option: 0, Exc: 0, Set: 0,count:1)
+00:04:56 [CommandMake][test1][SumBiv] - (Section: 20, Type: 109, Level: 0, Skill: 0, Luck: 0, Option: 0, Exc: 0, Set: 0,count:1)
+00:11:39 [CommandClearExtInvent][SumBiv] - (ClearExtInvent)
+00:16:28 [CommandMake][test][ElfBuff] - (Section: 14, Type: 399, Level: 0, Skill: 0, Luck: 0, Option: 0, Exc: 0, Set: 0,count:1)
+00:17:43 [CommandMake][test][ElfBuff] - (Section: 14, Type: 399, Level: 0, Skill: 0, Luck: 0, Option: 0, Exc: 0, Set: 0,count:1)
+00:17:58 [CommandMake][test][ElfBuff] - (Section: 13, Type: 363, Level: 0, Skill: 0, Luck: 0, Option: 0, Exc: 0, Set: 0,count:1)

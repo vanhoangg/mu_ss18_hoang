@@ -1,0 +1,6 @@
+00:04:34 [General][test][ElfBuff] - (Message: /make 20 109 0)
+00:04:56 [General][test1][SumBiv] - (Message: /make 20 109 0 )
+00:11:39 [General][test1][SumBiv] - (Message: /clearextinv)
+00:16:28 [General][test][ElfBuff] - (Message: /make 14 399 0)
+00:17:43 [General][test][ElfBuff] - (Message: /make 14 399 0)
+00:17:58 [General][test][ElfBuff] - (Message: /make 13 363 0)
